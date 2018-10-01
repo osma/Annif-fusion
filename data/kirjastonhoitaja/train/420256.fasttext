@@ -1,0 +1,1000 @@
+<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.028846487402915955
+<http://www.yso.fi/onto/yso/p24267>	verkkoaineisto	0.02757231518626213
+<http://www.yso.fi/onto/yso/p7417>	opiskelutekniikka	0.010778391733765602
+<http://www.yso.fi/onto/yso/p15747>	etunimet	0.008284390904009342
+<http://www.yso.fi/onto/yso/p14869>	mielekkyys	0.007664779666811228
+<http://www.yso.fi/onto/yso/p17661>	tilastointi	0.005758549552410841
+<http://www.yso.fi/onto/yso/p7401>	lukio	0.004999632481485605
+<http://www.yso.fi/onto/yso/p8131>	oppilaat	0.004862341098487377
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.004821231588721275
+<http://www.yso.fi/onto/yso/p11844>	ilmaisukasvatus	0.004797269590198994
+<http://www.yso.fi/onto/yso/p10746>	opettajankoulutus	0.00464856019243598
+<http://www.yso.fi/onto/yso/p24266>	perusopetuslaki	0.00454634940251708
+<http://www.yso.fi/onto/yso/p20192>	kasvatussosiologia	0.004455099813640118
+<http://www.yso.fi/onto/yso/p3156>	tilastot	0.004411322996020317
+<http://www.yso.fi/onto/yso/p21535>	kouluvaikeudet	0.004246638622134924
+<http://www.yso.fi/onto/yso/p3462>	bibliografiat (luettelot)	0.0039590029045939445
+<http://www.yso.fi/onto/yso/p26412>	harjoittelu	0.0038685689214617014
+<http://www.yso.fi/onto/yso/p9232>	koulutussuunnittelu	0.003843586426228285
+<http://www.yso.fi/onto/yso/p22092>	ammattikoululaiset	0.003812406212091446
+<http://www.yso.fi/onto/yso/p3388>	perusasteen koulutus	0.0037144371308386326
+<http://www.yso.fi/onto/yso/p1780>	historia	0.0035126791335642338
+<http://www.yso.fi/onto/yso/p9365>	ammattitaito	0.0033430014736950397
+<http://www.yso.fi/onto/yso/p9700>	ammatillinen koulutus	0.0033372549805790186
+<http://www.yso.fi/onto/yso/p10480>	tieteellinen julkaisutoiminta	0.003323779907077551
+<http://www.yso.fi/onto/yso/p3127>	tilastomenetelmät	0.003316150978207588
+<http://www.yso.fi/onto/yso/p261>	tieto	0.003133566351607442
+<http://www.yso.fi/onto/yso/p5140>	opetussuunnitelmat	0.003125153249129653
+<http://www.yso.fi/onto/yso/p7213>	keskikoulu	0.003001017030328512
+<http://www.yso.fi/onto/yso/p1356>	puhekieli	0.002891925163567066
+<http://www.yso.fi/onto/yso/p3890>	yliopistoalueet	0.0028618050273507833
+<http://www.yso.fi/onto/yso/p6739>	hajautus	0.0028406325727701187
+<http://www.yso.fi/onto/yso/p9226>	tietämyksenhallinta	0.0027677793987095356
+<http://www.yso.fi/onto/yso/p3599>	kelpoisuus	0.002764716511592269
+<http://www.yso.fi/onto/yso/p10794>	bibliografia (erikoisalat)	0.002710876287892461
+<http://www.yso.fi/onto/yso/p334>	kuvailu	0.0027066487818956375
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.002666699467226863
+<http://www.yso.fi/onto/yso/p249>	koulutuspolitiikka	0.0025815658736974
+<http://www.yso.fi/onto/yso/p13121>	musiikkiluokat	0.00250228145159781
+<http://www.yso.fi/onto/yso/p11408>	kirjoitustaito	0.002489883918315172
+<http://www.yso.fi/onto/yso/p386>	koulut (oppilaitokset)	0.0024812794290483
+<http://www.yso.fi/onto/yso/p1584>	pedagogiikka	0.0024669806007295847
+<http://www.yso.fi/onto/yso/p18649>	tietojenkäsittelyoppi	0.0024483848828822374
+<http://www.yso.fi/onto/yso/p13046>	harjaantumisopetus	0.002411315916106105
+<http://www.yso.fi/onto/yso/p13761>	Montessori-pedagogiikka	0.0023425042163580656
+<http://www.yso.fi/onto/yso/p4972>	oppikoulu	0.0023335996083915234
+<http://www.yso.fi/onto/yso/p11712>	oppimäärät	0.0023214812390506268
+<http://www.yso.fi/onto/yso/p18920>	yksityiskirjastot	0.0022935294546186924
+<http://www.yso.fi/onto/yso/p12623>	erityisoppilaat	0.00226794951595366
+<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.0022201777901500463
+<http://www.yso.fi/onto/yso/p13183>	työssäkäynti	0.0021893642842769623
+<http://www.yso.fi/onto/yso/p9484>	oikeinkirjoitus	0.0021620113402605057
+<http://www.yso.fi/onto/yso/p335>	ymmärtäminen	0.0021509642247110605
+<http://www.yso.fi/onto/yso/p1550>	radiopuhelimet	0.002063451102003455
+<http://www.yso.fi/onto/yso/p6624>	verkkopalvelut	0.002035360084846616
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.0020165483001619577
+<http://www.yso.fi/onto/yso/p12668>	luokitus (toiminta)	0.0020101391710340977
+<http://www.yso.fi/onto/yso/p9486>	kouluympäristö	0.0019595252815634012
+<http://www.yso.fi/onto/yso/p819>	elämänodotukset	0.0019585425034165382
+<http://www.yso.fi/onto/yso/p26584>	opetuskokeilut	0.0019573960453271866
+<http://www.yso.fi/onto/yso/p16981>	tiedonkäsitys	0.00193346559535712
+<http://www.yso.fi/onto/yso/p5817>	levikki	0.0018992188852280378
+<http://www.yso.fi/onto/yso/p385>	Steiner-koulut	0.0018763226689770818
+<http://www.yso.fi/onto/yso/p14839>	koulukasvatus	0.0018710389267653227
+<http://www.yso.fi/onto/yso/p4417>	opetusvälineet	0.0018582798074930906
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.0018494778778403997
+<http://www.yso.fi/onto/yso/p2630>	opetus	0.0018466851906850934
+<http://www.yso.fi/onto/yso/p12860>	koulutusmenot	0.0018399120308458805
+<http://www.yso.fi/onto/yso/p11216>	koulu (ilmiöt)	0.0018260611686855555
+<http://www.yso.fi/onto/yso/p6445>	viestintäkasvatus	0.0018128816736862063
+<http://www.yso.fi/onto/yso/p8585>	alisuoriutuminen	0.0018123561749234796
+<http://www.yso.fi/onto/yso/p17640>	koulutulokkaat	0.0017951792106032372
+<http://www.yso.fi/onto/yso/p15595>	tasokurssit	0.0017653201939538121
+<http://www.yso.fi/onto/yso/p15589>	oppisisällöt	0.0017603137530386448
+<http://www.yso.fi/onto/yso/p14750>	ambulanssit	0.0017487449804320931
+<http://www.yso.fi/onto/yso/p10957>	äidinkieli (kieli)	0.0017396628390997648
+<http://www.yso.fi/onto/yso/p1866>	kilpailu (toiminta)	0.00173580227419734
+<http://www.yso.fi/onto/yso/p10060>	kehitysvammaiset	0.0017163854790851474
+<http://www.yso.fi/onto/yso/p22228>	työelämälähtöisyys	0.0016532872105017304
+<http://www.yso.fi/onto/yso/p17682>	ammattikoulutus	0.0016507585532963276
+<http://www.yso.fi/onto/yso/p376>	ylioppilaskirjoitukset	0.001594538101926446
+<http://www.yso.fi/onto/yso/p1246>	korkeakouluopetus	0.0015747059369459748
+<http://www.yso.fi/onto/yso/p7974>	yleisopetus	0.001554836519062519
+<http://www.yso.fi/onto/yso/p5170>	ympäristönsuojeluhallinto	0.0015528633957728744
+<http://www.yso.fi/onto/yso/p11284>	opetustaito	0.0015475536929443479
+<http://www.yso.fi/onto/yso/p12585>	spatiaalinen havaitseminen	0.0015225937822833657
+<http://www.yso.fi/onto/yso/p7379>	kirjakieli	0.0015118301380425692
+<http://www.yso.fi/onto/yso/p15001>	opintoneuvonta	0.00150873267557472
+<http://www.yso.fi/onto/yso/p9740>	vertaisarviointi	0.0015085722552612424
+<http://www.yso.fi/onto/yso/p23129>	kouluviihtyvyys	0.001485261251218617
+<http://www.yso.fi/onto/yso/p28372>	työrauha (työyhteisöt)	0.0014739129692316055
+<http://www.yso.fi/onto/yso/p9889>	kirjapainotaito	0.001453738077543676
+<http://www.yso.fi/onto/yso/p8619>	elinkeinoelämä	0.0014376143226400018
+<http://www.yso.fi/onto/yso/p14580>	sairaanhoito-oppilaitokset	0.0014340034686028957
+<http://www.yso.fi/onto/yso/p12154>	maatalousoppilaitokset	0.0014085390139371157
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.001404532347805798
+<http://www.yso.fi/onto/yso/p11553>	maatalousalan oppilaitokset	0.0014033428160473704
+<http://www.yso.fi/onto/yso/p13704>	ymmärrettävyys	0.0013981623342260718
+<http://www.yso.fi/onto/yso/p13401>	kansainvälisyyskasvatus	0.0013969488209113479
+<http://www.yso.fi/onto/yso/p6279>	ympäristöterveys	0.0013677923707291484
+<http://www.yso.fi/onto/yso/p12763>	taso	0.0013569616712629795
+<http://www.yso.fi/onto/yso/p11748>	kouluhallinto	0.0013448887038975954
+<http://www.yso.fi/onto/yso/p8130>	tukioppilaat	0.0013423170894384384
+<http://www.yso.fi/onto/yso/p25875>	aikuisopiskelijat	0.0013405177742242813
+<http://www.yso.fi/onto/yso/p14718>	tapakasvatus	0.0013338349526748061
+<http://www.yso.fi/onto/yso/p23312>	huoltajat	0.001308138482272625
+<http://www.yso.fi/onto/yso/p2573>	englannin kieli	0.0013079538475722075
+<http://www.yso.fi/onto/yso/p17307>	oppisopimuskoulutus	0.0013017120072618127
+<http://www.yso.fi/onto/yso/p795>	vaikutukset	0.0012999367900192738
+<http://www.yso.fi/onto/yso/p21761>	liiketoimintamallit	0.0012994986027479172
+<http://www.yso.fi/onto/yso/p20199>	kirjastovirkailijat	0.0012957545695826411
+<http://www.yso.fi/onto/yso/p17451>	historianopettajat	0.0012891240185126662
+<http://www.yso.fi/onto/yso/p13615>	laitoskirjastot (yliopistot)	0.0012847173493355513
+<http://www.yso.fi/onto/yso/p9964>	delfoimenetelmä	0.0012789553729817271
+<http://www.yso.fi/onto/yso/p12728>	kiertokoulu	0.0012745080748572946
+<http://www.yso.fi/onto/yso/p9233>	koulutustarve	0.001259421231225133
+<http://www.yso.fi/onto/yso/p11733>	koulutyö	0.001241990365087986
+<http://www.yso.fi/onto/yso/p19327>	perusopetus	0.0012352325720712543
+<http://www.yso.fi/onto/yso/p15356>	selkokieli	0.0012336868094280362
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.001226335996761918
+<http://www.yso.fi/onto/yso/p300>	aikuiskoulutus	0.0012254486791789532
+<http://www.yso.fi/onto/yso/p1546>	kulttuurit (kulttuurimuodot)	0.0012136478908360004
+<http://www.yso.fi/onto/yso/p9280>	terveystarkastukset	0.0012035195250064135
+<http://www.yso.fi/onto/yso/p22795>	Moodle	0.0011941877892240882
+<http://www.yso.fi/onto/yso/p21260>	päihdekasvatus	0.0011906585423275828
+<http://www.yso.fi/onto/yso/p9675>	koulutusohjelmat	0.0011811483418568969
+<http://www.yso.fi/onto/yso/p7482>	kokemusoppiminen	0.0011415343033149838
+<http://www.yso.fi/onto/yso/p5103>	oppimisprosessi	0.0011337812757119536
+<http://www.yso.fi/onto/yso/p9706>	oppimisvalmiudet	0.0011336234165355563
+<http://www.yso.fi/onto/yso/p10148>	laboratoriohoitajat	0.0011238616425544024
+<http://www.yso.fi/onto/yso/p8584>	koulusaavutukset	0.001121986540965736
+<http://www.yso.fi/onto/yso/p3390>	korkea-asteen koulutus	0.0011195127153769135
+<http://www.yso.fi/onto/yso/p11515>	tutkijakoulutus	0.0011171562364324927
+<http://www.yso.fi/onto/yso/p14048>	medialukutaito	0.0011066340375691652
+<http://www.yso.fi/onto/yso/p12067>	koulurakennukset	0.0011028170119971037
+<http://www.yso.fi/onto/yso/p12993>	maalaiskunnat	0.0011023764964193106
+<http://www.yso.fi/onto/yso/p15765>	koululiikunta	0.0010935020400211215
+<http://www.yso.fi/onto/yso/p331>	sosiologia	0.001089510042220354
+<http://www.yso.fi/onto/yso/p8397>	aluetutkimus	0.0010894648730754852
+<http://www.yso.fi/onto/yso/p29172>	datatiede	0.0010859125759452581
+<http://www.yso.fi/onto/yso/p4845>	tupakka	0.001084613730199635
+<http://www.yso.fi/onto/yso/p1401>	luokitukset (tieto)	0.0010783629259094596
+<http://www.yso.fi/onto/yso/p7967>	terveydenhoitajat	0.0010754949180409312
+<http://www.yso.fi/onto/yso/p21995>	vesienhoitoalueet	0.0010691005736589432
+<http://www.yso.fi/onto/yso/p5938>	ylikoulutus	0.0010653032222762704
+<http://www.yso.fi/onto/yso/p21773>	puumarkkinat	0.0010621012188494205
+<http://www.yso.fi/onto/yso/p298>	mentorointi	0.001056408858858049
+<http://www.yso.fi/onto/yso/p1810>	työ	0.0010524021927267313
+<http://www.yso.fi/onto/yso/p10773>	hinnoittelu	0.001048394711688161
+<http://www.yso.fi/onto/yso/p21183>	taideala	0.0010333223035559058
+<http://www.yso.fi/onto/yso/p15998>	avoin korkeakoulu	0.0010329168289899826
+<http://www.yso.fi/onto/yso/p13228>	arvofilosofia	0.0010196176590397954
+<http://www.yso.fi/onto/yso/p21589>	tekninen viestintä	0.0010176135692745447
+<http://www.yso.fi/onto/yso/p25376>	pelikulttuuri	0.001015914254821837
+<http://www.yso.fi/onto/yso/p5397>	päämäärät	0.0010087598348036408
+<http://www.yso.fi/onto/yso/p5301>	lukihäiriöt	0.0009997324086725712
+<http://www.yso.fi/onto/yso/p9749>	lahdet	0.0009995789732784033
+<http://www.yso.fi/onto/yso/p7111>	oppilasarviointi	0.0009971125982701778
+<http://www.yso.fi/onto/yso/p4470>	kurssimuotoinen opetus	0.0009863877203315496
+<http://www.yso.fi/onto/yso/p5395>	taitoaineet	0.0009832089999690652
+<http://www.yso.fi/onto/yso/p1182>	yrittäjyys	0.0009831622010096908
+<http://www.yso.fi/onto/yso/p6203>	ehkäisevä päihdetyö	0.0009658582857809961
+<http://www.yso.fi/onto/yso/p296>	henkilöstökoulutus	0.0009647558908909559
+<http://www.yso.fi/onto/yso/p3193>	muutoksenhaku	0.0009609588887542486
+<http://www.yso.fi/onto/yso/p3995>	lisänimet	0.0009603304206393659
+<http://www.yso.fi/onto/yso/p8174>	pojat (ikäryhmät)	0.0009572124690748751
+<http://www.yso.fi/onto/yso/p4394>	tarkoitusperäisyys	0.0009438882698304951
+<http://www.yso.fi/onto/yso/p11304>	kansalaiskasvatus	0.000940222293138504
+<http://www.yso.fi/onto/yso/p13848>	puulajit	0.0009329134481959045
+<http://www.yso.fi/onto/yso/p4537>	kasvatustiede	0.0009308618609793484
+<http://www.yso.fi/onto/yso/p2470>	lääkintävoimistelijat	0.0009301386307924986
+<http://www.yso.fi/onto/yso/p1118>	kouluttajat	0.0009258869686163962
+<http://www.yso.fi/onto/yso/p5983>	hiusala	0.0009217778570018709
+<http://www.yso.fi/onto/yso/p22622>	liikuntakyky	0.0009174392907880247
+<http://www.yso.fi/onto/yso/p5946>	metsäoppilaitokset	0.000915414304472506
+<http://www.yso.fi/onto/yso/p2069>	televisiokasvatus	0.000903979642316699
+<http://www.yso.fi/onto/yso/p3090>	sosiaalivakuutus	0.0009031730587594211
+<http://www.yso.fi/onto/yso/p12360>	keskusjärjestöt	0.0008956037345342338
+<http://www.yso.fi/onto/yso/p1310>	energia	0.0008894446073099971
+<http://www.yso.fi/onto/yso/p17813>	esteettinen kasvatus	0.0008762819925323129
+<http://www.yso.fi/onto/yso/p4217>	monialaisuus	0.0008729244000278413
+<http://www.yso.fi/onto/yso/p5558>	tekninen työ	0.0008712764247320592
+<http://www.yso.fi/onto/yso/p5141>	opetusohjelmat	0.0008648919174447656
+<http://www.yso.fi/onto/yso/p5739>	etniset vähemmistöt	0.0008630059310235083
+<http://www.yso.fi/onto/yso/p16028>	liikeoppi	0.0008508307510055602
+<http://www.yso.fi/onto/yso/p10144>	lukumäärä	0.0008495743968524039
+<http://www.yso.fi/onto/yso/p8357>	potilaat	0.0008471548790112138
+<http://www.yso.fi/onto/yso/p4079>	ryhmätyö	0.0008468960295431316
+<http://www.yso.fi/onto/yso/p7043>	kehitysstrategiat	0.0008330869022756815
+<http://www.yso.fi/onto/yso/p6178>	aluetalous	0.0008204914629459381
+<http://www.yso.fi/onto/yso/p3091>	toimeentuloturva	0.000817381136585027
+<http://www.yso.fi/onto/yso/p12051>	ammatillinen opettajankoulutus	0.0008164820610545576
+<http://www.yso.fi/onto/yso/p567>	oppitunnit	0.0008112143841572106
+<http://www.yso.fi/onto/yso/p5290>	sukupuolierot	0.0008064397261478007
+<http://www.yso.fi/onto/yso/p18951>	asennekasvatus	0.0008036156068556011
+<http://www.yso.fi/onto/yso/p19421>	ammatinvalinnanohjaus	0.0007995743071660399
+<http://www.yso.fi/onto/yso/p21187>	pelitutkimus	0.0007953325402922928
+<http://www.yso.fi/onto/yso/p636>	työasemat	0.000791474012658
+<http://www.yso.fi/onto/yso/p12678>	ennakkoluulot	0.0007914245943538845
+<http://www.yso.fi/onto/yso/p11429>	atk-ala	0.0007841584738343954
+<http://www.yso.fi/onto/yso/p3578>	terveystieteet	0.0007724777096882463
+<http://www.yso.fi/onto/yso/p12928>	työhönsijoittuminen	0.0007710303761996329
+<http://www.yso.fi/onto/yso/p4780>	opinnot	0.0007697101682424545
+<http://www.yso.fi/onto/yso/p11768>	opiskelijahuolto	0.0007695853710174561
+<http://www.yso.fi/onto/yso/p9006>	tiedonlähteet	0.0007670329650864005
+<http://www.yso.fi/onto/yso/p10581>	CSS	0.0007668482721783221
+<http://www.yso.fi/onto/yso/p28850>	monilukutaito	0.0007662937860004604
+<http://www.yso.fi/onto/yso/p6987>	matkailun edistäminen	0.0007652045460417867
+<http://www.yso.fi/onto/yso/p22051>	kokoelmatietokannat	0.0007641489501111209
+<http://www.yso.fi/onto/yso/p5023>	alioikeudet	0.0007641252595931292
+<http://www.yso.fi/onto/yso/p1334>	henkilönnimet	0.0007637311355210841
+<http://www.yso.fi/onto/yso/p1179>	ammatit	0.0007616353104822338
+<http://www.yso.fi/onto/yso/p8558>	kouluyhteisö	0.0007530100410804152
+<http://www.yso.fi/onto/yso/p15212>	selvitys	0.0007499094936065376
+<http://www.yso.fi/onto/yso/p5075>	soveltavat tieteet	0.0007494397577829659
+<http://www.yso.fi/onto/yso/p8458>	seksuaalikasvatus	0.0007465240196324885
+<http://www.yso.fi/onto/yso/p11571>	työttömyys	0.0007464478258043528
+<http://www.yso.fi/onto/yso/p25853>	musiikkipedagogiikka	0.0007444135844707489
+<http://www.yso.fi/onto/yso/p6627>	telepalvelut	0.0007414979627355933
+<http://www.yso.fi/onto/yso/p15568>	maanhinta	0.0007414417341351509
+<http://www.yso.fi/onto/yso/p5594>	työikäiset	0.0007371462997980416
+<http://www.yso.fi/onto/yso/p8692>	digitalisaatio	0.0007343364995904267
+<http://www.yso.fi/onto/yso/p10482>	moraalikehitys	0.0007338306750170887
+<http://www.yso.fi/onto/yso/p20297>	erityiskoulut	0.0007326457998715341
+<http://www.yso.fi/onto/yso/p13984>	kokeilu	0.0007297400734387338
+<http://www.yso.fi/onto/yso/p3481>	ansiotaso	0.0007158051012083888
+<http://www.yso.fi/onto/yso/p15515>	aikuisuus	0.0007152963662520051
+<http://www.yso.fi/onto/yso/p19235>	yhteisluettelot	0.0007149778539314866
+<http://www.yso.fi/onto/yso/p17851>	mehiläishoito	0.0007134153856895864
+<http://www.yso.fi/onto/yso/p1346>	terminologia	0.0007120162481442094
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.0007067283149808645
+<http://www.yso.fi/onto/yso/p16179>	ammattirakenne	0.0007044448284432292
+<http://www.yso.fi/onto/yso/p5706>	hälytykset	0.000704406586010009
+<http://www.yso.fi/onto/yso/p17168>	kyvykkyys	0.0006899837753735483
+<http://www.yso.fi/onto/yso/p21059>	laboratoriotyöt	0.0006864553433842957
+<http://www.yso.fi/onto/yso/p17817>	diskurssi	0.000684522558003664
+<http://www.yso.fi/onto/yso/p26342>	kaupunkipientalot	0.000681895820889622
+<http://www.yso.fi/onto/yso/p12893>	ammattikuva	0.0006769364699721336
+<http://www.yso.fi/onto/yso/p1236>	palaute	0.0006731668254360557
+<http://www.yso.fi/onto/yso/p5125>	tuotos	0.0006686582928523421
+<http://www.yso.fi/onto/yso/p15779>	palomuurit (tietoturva)	0.0006652239826507866
+<http://www.yso.fi/onto/yso/p16942>	tekniset tieteet	0.0006648427806794643
+<http://www.yso.fi/onto/yso/p15077>	kantakirja	0.0006615097518078983
+<http://www.yso.fi/onto/yso/p9264>	tuntijako	0.0006604325026273727
+<http://www.yso.fi/onto/yso/p16485>	koululaiset	0.0006592906429432333
+<http://www.yso.fi/onto/yso/p22481>	liikenneala	0.0006560618057847023
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.0006502660107798874
+<http://www.yso.fi/onto/yso/p19992>	koululehdet	0.0006475165137089789
+<http://www.yso.fi/onto/yso/p3014>	tasapainotettu mittaristo	0.0006459927535615861
+<http://www.yso.fi/onto/yso/p27624>	opetussairaalat	0.0006431209039874375
+<http://www.yso.fi/onto/yso/p14991>	vapaakappaleet	0.0006419792771339417
+<http://www.yso.fi/onto/yso/p26660>	ympäristötaloustiede	0.0006402462022379041
+<http://www.yso.fi/onto/yso/p12256>	edunvalvojat	0.0006399318808689713
+<http://www.yso.fi/onto/yso/p19527>	valmistuminen	0.000638421974144876
+<http://www.yso.fi/onto/yso/p4987>	kartat	0.0006366787711158395
+<http://www.yso.fi/onto/yso/p8368>	video	0.0006339774117805064
+<http://www.yso.fi/onto/yso/p20988>	laskemisen erityisvaikeus	0.00063186208717525
+<http://www.yso.fi/onto/yso/p9209>	yhdyssanat	0.0006284681148827076
+<http://www.yso.fi/onto/yso/p9606>	käsityönopettajat	0.0006282281246967614
+<http://www.yso.fi/onto/yso/p12521>	työvoima- ja elinkeinokeskukset	0.0006279576336964965
+<http://www.yso.fi/onto/yso/p4976>	tyttökoulut	0.0006277073989622295
+<http://www.yso.fi/onto/yso/p11024>	kirjoituskilpailut	0.000626494234893471
+<http://www.yso.fi/onto/yso/p10684>	hoitotyö	0.0006227960693649948
+<http://www.yso.fi/onto/yso/p2279>	tuoteluettelot	0.0006224410026334226
+<http://www.yso.fi/onto/yso/p2094>	nuorisovaihto	0.0006211912259459496
+<http://www.yso.fi/onto/yso/p16369>	työpaikkaohjaajat	0.0006207820260897279
+<http://www.yso.fi/onto/yso/p8587>	oppimistulokset	0.0006205079844221473
+<http://www.yso.fi/onto/yso/p10175>	kvalitatiivinen analyysi	0.000620167818851769
+<http://www.yso.fi/onto/yso/p3616>	tunnettuus	0.0006183541845530272
+<http://www.yso.fi/onto/yso/p18641>	tulostavoitteet	0.0006167789688333869
+<http://www.yso.fi/onto/yso/p4735>	kannustus	0.0006154883303679526
+<http://www.yso.fi/onto/yso/p7493>	kulttuurintutkimus	0.0006118933670222759
+<http://www.yso.fi/onto/yso/p17544>	äänilevyt	0.0006097630830481648
+<http://www.yso.fi/onto/yso/p21393>	kasvatusala	0.0006095110438764095
+<http://www.yso.fi/onto/yso/p24514>	terveysviestintä	0.0006087578949518502
+<http://www.yso.fi/onto/yso/p6576>	varastointi	0.0006085236673243344
+<http://www.yso.fi/onto/yso/p2114>	ravitsemisala	0.0006067950162105262
+<http://www.yso.fi/onto/yso/p21679>	terveyserot	0.0006017362466081977
+<http://www.yso.fi/onto/yso/p11137>	vähemmistökielet	0.0005989145720377564
+<http://www.yso.fi/onto/yso/p4727>	antioksidantit	0.00059887720271945
+<http://www.yso.fi/onto/yso/p5370>	tekniset alat	0.0005983927403576672
+<http://www.yso.fi/onto/yso/p3369>	nimenanto	0.0005975000676698983
+<http://www.yso.fi/onto/yso/p3473>	tuloerot	0.0005970794009044766
+<http://www.yso.fi/onto/yso/p3006>	projektit	0.0005927284364588559
+<http://www.yso.fi/onto/yso/p12736>	lukiolaiset	0.0005921261617913842
+<http://www.yso.fi/onto/yso/p14966>	jatkuva koulutus	0.0005904007120989263
+<http://www.yso.fi/onto/yso/p14157>	hallinnonuudistus	0.0005848563741892576
+<http://www.yso.fi/onto/yso/p651>	toksikologia	0.0005839217337779701
+<http://www.yso.fi/onto/yso/p6585>	lastenkirjastot	0.0005812898161821067
+<http://www.yso.fi/onto/yso/p6275>	oikeudenmukaisuus	0.0005805928376503289
+<http://www.yso.fi/onto/yso/p6817>	läänit	0.0005800150684081018
+<http://www.yso.fi/onto/yso/p15006>	nuorisolautakunnat	0.0005772049771621823
+<http://www.yso.fi/onto/yso/p7072>	osoitehakemistot	0.0005739579210057855
+<http://www.yso.fi/onto/yso/p27616>	valmentava johtaminen	0.0005719441105611622
+<http://www.yso.fi/onto/yso/p23735>	tutkimusrahoitus	0.0005708069074898958
+<http://www.yso.fi/onto/yso/p3249>	informaatikot	0.0005688687087967992
+<http://www.yso.fi/onto/yso/p4366>	mittayksiköt	0.0005684933857992291
+<http://www.yso.fi/onto/yso/p25840>	luokkaopetus	0.0005672253901138902
+<http://www.yso.fi/onto/yso/p1743>	soittaminen	0.0005624876357614994
+<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.0005609306390397251
+<http://www.yso.fi/onto/yso/p13142>	maatalousala	0.0005605349433608353
+<http://www.yso.fi/onto/yso/p10632>	haastattelututkimus	0.000559703737962991
+<http://www.yso.fi/onto/yso/p14561>	tietorekisterit	0.0005594097310677171
+<http://www.yso.fi/onto/yso/p14948>	energiakustannukset	0.0005593716050498188
+<http://www.yso.fi/onto/yso/p7381>	murteet	0.0005575676914304495
+<http://www.yso.fi/onto/yso/p13590>	peruskoulutus	0.0005561693687923253
+<http://www.yso.fi/onto/yso/p15563>	kyläkoulut	0.0005559108685702085
+<http://www.yso.fi/onto/yso/p9871>	intuitio	0.0005550309433601797
+<http://www.yso.fi/onto/yso/p1117>	opettajat	0.0005535376258194447
+<http://www.yso.fi/onto/yso/p6720>	monikielisyys	0.0005530901835300028
+<http://www.yso.fi/onto/yso/p10645>	kulttuurienvälisyys	0.0005520228296518326
+<http://www.yso.fi/onto/yso/p15676>	rakennushistoria	0.000551471661310643
+<http://www.yso.fi/onto/yso/p28336>	eläinten koulutus	0.0005504365544766188
+<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.000546448165550828
+<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.0005435023340396583
+<http://www.yso.fi/onto/yso/p5748>	ravitsemus	0.0005415829946286976
+<http://www.yso.fi/onto/yso/p12386>	vanha kirjasuomi	0.000537930871360004
+<http://www.yso.fi/onto/yso/p15202>	oppimispsykologia	0.0005372866289690137
+<http://www.yso.fi/onto/yso/p2430>	puusepänteollisuus	0.0005361531511880457
+<http://www.yso.fi/onto/yso/p13908>	oppivelvollisuus	0.0005303951911628246
+<http://www.yso.fi/onto/yso/p14818>	välinevoimistelu	0.0005301804631017148
+<http://www.yso.fi/onto/yso/p2096>	työharjoittelu	0.0005276604206301272
+<http://www.yso.fi/onto/yso/p7836>	tieteellinen ajattelu	0.0005266090156510472
+<http://www.yso.fi/onto/yso/p824>	hoito	0.0005259850877337158
+<http://www.yso.fi/onto/yso/p858>	saavutettavuus	0.0005250356625765562
+<http://www.yso.fi/onto/yso/p3077>	käyttötutkimus	0.0005239819292910397
+<http://www.yso.fi/onto/yso/p12104>	asiantuntijat	0.0005239467136561871
+<http://www.yso.fi/onto/yso/p14131>	kasvatuslaitokset	0.0005214667180553079
+<http://www.yso.fi/onto/yso/p1998>	sähköiset julkaisut	0.0005212633986957371
+<http://www.yso.fi/onto/yso/p267>	minäkuva	0.0005191492382436991
+<http://www.yso.fi/onto/yso/p6652>	tieteellinen kirjoittaminen	0.0005156109691597521
+<http://www.yso.fi/onto/yso/p4070>	äidinkielenopettajat	0.0005138822598382831
+<http://www.yso.fi/onto/yso/p20272>	esiopetus	0.00051333341980353
+<http://www.yso.fi/onto/yso/p4585>	varsat	0.0005123904556967318
+<http://www.yso.fi/onto/yso/p28726>	oppaat (ammatit)	0.000511101505253464
+<http://www.yso.fi/onto/yso/p2168>	opetustilat	0.0005109348567202687
+<http://www.yso.fi/onto/yso/p6963>	hevosurheilu	0.000507512828335166
+<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.0005073245847597718
+<http://www.yso.fi/onto/yso/p987>	eriyttäminen	0.0005058969254605472
+<http://www.yso.fi/onto/yso/p5291>	sukupuoli	0.0005025024292990565
+<http://www.yso.fi/onto/yso/p794>	hoitovaste	0.0005011681350879371
+<http://www.yso.fi/onto/yso/p11066>	eettinen kasvatus	0.0005011064931750298
+<http://www.yso.fi/onto/yso/p12570>	tulkkipalvelut	0.0005007400759495795
+<http://www.yso.fi/onto/yso/p15342>	mobiilipelit	0.000500049558468163
+<http://www.yso.fi/onto/yso/p10685>	energiayhtiöt	0.0004980755620636046
+<http://www.yso.fi/onto/yso/p15898>	uranvalinta	0.0004959338693879545
+<http://www.yso.fi/onto/yso/p2236>	perheoikeus	0.0004945042892359197
+<http://www.yso.fi/onto/yso/p21292>	yläkoulu	0.0004944024840369821
+<http://www.yso.fi/onto/yso/p12690>	yleissivistävä koulutus	0.0004942291998304427
+<http://www.yso.fi/onto/yso/p20632>	moniosaaminen	0.0004913577577099204
+<http://www.yso.fi/onto/yso/p20274>	talonpoikaissääty	0.0004907744587399065
+<http://www.yso.fi/onto/yso/p5812>	pronominit	0.000490063801407814
+<http://www.yso.fi/onto/yso/p11699>	yhdistyminen	0.0004899735795333982
+<http://www.yso.fi/onto/yso/p9701>	ennustettavuus	0.0004899438936263323
+<http://www.yso.fi/onto/yso/p10087>	siirto (viestintä)	0.000489520316477865
+<http://www.yso.fi/onto/yso/p19059>	tupakkateollisuus	0.0004874886362813413
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.00048412091564387083
+<http://www.yso.fi/onto/yso/p178>	ohjaus (neuvominen)	0.0004823800118174404
+<http://www.yso.fi/onto/yso/p19904>	henkilöbibliografiat	0.000482061761431396
+<http://www.yso.fi/onto/yso/p17441>	humanistiset tieteet	0.00048163693281821907
+<http://www.yso.fi/onto/yso/p4953>	energiahuolto	0.0004793142434209585
+<http://www.yso.fi/onto/yso/p15268>	jälleenmyynti	0.000478984322398901
+<http://www.yso.fi/onto/yso/p11514>	kahvilat	0.00047898158663883805
+<http://www.yso.fi/onto/yso/p16462>	golfkentät	0.00047755782725289464
+<http://www.yso.fi/onto/yso/p19755>	koulutusalat	0.00047708916827104986
+<http://www.yso.fi/onto/yso/p25378>	omalääkärit	0.0004769492952618748
+<http://www.yso.fi/onto/yso/p9865>	virheanalyysi	0.0004758572904393077
+<http://www.yso.fi/onto/yso/p18555>	työkoulu	0.00047502212692052126
+<http://www.yso.fi/onto/yso/p1050>	opettaja-oppilassuhde	0.0004750021907966584
+<http://www.yso.fi/onto/yso/p3762>	nuorten asema	0.0004749133950099349
+<http://www.yso.fi/onto/yso/p10232>	kattilalaitteistot	0.000474696746096015
+<http://www.yso.fi/onto/yso/p17971>	kansainvälinen ylioppilastutkinto	0.00047104372060857713
+<http://www.yso.fi/onto/yso/p10475>	hammasproteesit	0.0004706196195911616
+<http://www.yso.fi/onto/yso/p3240>	maksullisuus	0.0004689191991928965
+<http://www.yso.fi/onto/yso/p8674>	tanssikasvatus	0.0004685743188019842
+<http://www.yso.fi/onto/yso/p8265>	tunnistaminen	0.00046721313265152276
+<http://www.yso.fi/onto/yso/p21828>	alakoulu	0.00046717614168301225
+<http://www.yso.fi/onto/yso/p159>	oppikirjat	0.00046332398778758943
+<http://www.yso.fi/onto/yso/p2191>	kulttuurisokki	0.0004626892623491585
+<http://www.yso.fi/onto/yso/p16746>	nuorisotyöttömyys	0.0004622433625627309
+<http://www.yso.fi/onto/yso/p27831>	opetuskieli	0.00046184853999875486
+<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.0004617668455466628
+<http://www.yso.fi/onto/yso/p21169>	ammatillinen erityisopetus	0.0004609115712810308
+<http://www.yso.fi/onto/yso/p475>	ammattikasvatus	0.0004609080497175455
+<http://www.yso.fi/onto/yso/p11770>	kouluterveydenhuolto	0.00045997032430022955
+<http://www.yso.fi/onto/yso/p16495>	lisenssit	0.00045952442451380193
+<http://www.yso.fi/onto/yso/p12301>	liikunta-alueet	0.00045867657172493637
+<http://www.yso.fi/onto/yso/p11349>	estimointi	0.0004585151909850538
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.00045831690658815205
+<http://www.yso.fi/onto/yso/p24629>	hakukonemarkkinointi	0.0004578907391987741
+<http://www.yso.fi/onto/yso/p14105>	atk-järjestelmät	0.00045774271711707115
+<http://www.yso.fi/onto/yso/p29457>	ryhmäkoko	0.00045773945748806
+<http://www.yso.fi/onto/yso/p7926>	riista	0.0004523548705037683
+<http://www.yso.fi/onto/yso/p14446>	koulukokeilu	0.0004503511299844831
+<http://www.yso.fi/onto/yso/p10922>	käyttökustannukset	0.00045026096631772816
+<http://www.yso.fi/onto/yso/p20000>	verkostoituminen	0.00044995255302637815
+<http://www.yso.fi/onto/yso/p8081>	konepajatekniikka	0.00044720564619638026
+<http://www.yso.fi/onto/yso/p24613>	suomi toisena kielenä	0.00044679513666778803
+<http://www.yso.fi/onto/yso/p22522>	sosiaalifarmasia	0.0004452173307072371
+<http://www.yso.fi/onto/yso/p19515>	vertaileva kasvatustiede	0.00044308716314844787
+<http://www.yso.fi/onto/yso/p23730>	Suomi-koulut	0.0004428377142176032
+<http://www.yso.fi/onto/yso/p18811>	sosiaalialan oppilaitokset	0.0004427944077178836
+<http://www.yso.fi/onto/yso/p29165>	nuorisopalvelut	0.0004415388684719801
+<http://www.yso.fi/onto/yso/p17073>	indeksointi	0.00044132312177680433
+<http://www.yso.fi/onto/yso/p14419>	alkuopetus	0.0004411003028508276
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0004398612945806235
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.0004386866348795593
+<http://www.yso.fi/onto/yso/p18255>	kustannuspolitiikka	0.00043842606828548014
+<http://www.yso.fi/onto/yso/p16358>	kuva-arvoitukset	0.0004383439081721008
+<http://www.yso.fi/onto/yso/p3141>	oppilasasuntolat	0.00043833701056428254
+<http://www.yso.fi/onto/yso/p6334>	yhteistyö	0.00043783526052720845
+<http://www.yso.fi/onto/yso/p24862>	kriittinen ajattelu	0.0004367684596218169
+<http://www.yso.fi/onto/yso/p9568>	säveltapailu	0.0004358472360763699
+<http://www.yso.fi/onto/yso/p21419>	lauseet	0.0004341473977547139
+<http://www.yso.fi/onto/yso/p7107>	projektorit	0.0004309175710659474
+<http://www.yso.fi/onto/yso/p8675>	keskusvirastot	0.00043063348857685924
+<http://www.yso.fi/onto/yso/p3159>	aritmetiikka	0.0004306310147512704
+<http://www.yso.fi/onto/yso/p16665>	roskaposti	0.0004299365100450814
+<http://www.yso.fi/onto/yso/p22036>	hyvinvointi (terveydellinen)	0.0004283945308998227
+<http://www.yso.fi/onto/yso/p86>	liikuntatilat	0.0004278753767721355
+<http://www.yso.fi/onto/yso/p5276>	Ethernet	0.00042601360473781824
+<http://www.yso.fi/onto/yso/p18532>	ympäristöoppi	0.00042568729259073734
+<http://www.yso.fi/onto/yso/p15963>	nimistöntutkimus	0.0004256322863511741
+<http://www.yso.fi/onto/yso/p14929>	valtionapulaitokset	0.00042497279355302453
+<http://www.yso.fi/onto/yso/p20279>	tutkimustyö	0.00042495393427088857
+<http://www.yso.fi/onto/yso/p6621>	verkko-opetus	0.0004249002377036959
+<http://www.yso.fi/onto/yso/p11604>	pojat (perheenjäsenet)	0.00042472744826227427
+<http://www.yso.fi/onto/yso/p20743>	tieto- ja viestintätekniikka	0.0004243051807861775
+<http://www.yso.fi/onto/yso/p8851>	lukusalit	0.00042377685895189643
+<http://www.yso.fi/onto/yso/p19033>	kalastusmatkailu	0.00042359926737844944
+<http://www.yso.fi/onto/yso/p862>	ammattietiikka	0.00042118955752812326
+<http://www.yso.fi/onto/yso/p1032>	kohdentaminen	0.00041860868805088103
+<http://www.yso.fi/onto/yso/p13644>	järjestäminen	0.00041522193350829184
+<http://www.yso.fi/onto/yso/p2743>	koulutusluokitukset	0.00041506931302137673
+<http://www.yso.fi/onto/yso/p12518>	käsityökasvatus	0.00041446174145676196
+<http://www.yso.fi/onto/yso/p18466>	lukusanat	0.00041420056368224323
+<http://www.yso.fi/onto/yso/p4092>	kuvatoimittajat	0.00041352762491442263
+<http://www.yso.fi/onto/yso/p4458>	asiakassuhde	0.0004126211570110172
+<http://www.yso.fi/onto/yso/p6695>	kansainväliset koulut	0.00041128284647129476
+<http://www.yso.fi/onto/yso/p23002>	matemaattiset taidot	0.00040735394577495754
+<http://www.yso.fi/onto/yso/p1912>	ohjaus (taide)	0.00040656261262483895
+<http://www.yso.fi/onto/yso/p6914>	kouluikäiset	0.00040652614552527666
+<http://www.yso.fi/onto/yso/p25543>	liikuntajärjestöt	0.0004064455279149115
+<http://www.yso.fi/onto/yso/p10345>	osaamisen siirto	0.00040521612390875816
+<http://www.yso.fi/onto/yso/p10158>	lääkintähuolto	0.0004043716471642256
+<http://www.yso.fi/onto/yso/p18008>	valtavirtaistaminen	0.0004042268847115338
+<http://www.yso.fi/onto/yso/p19826>	keksijät	0.00040396538679488003
+<http://www.yso.fi/onto/yso/p14749>	sairaankuljetus	0.0004038217302877456
+<http://www.yso.fi/onto/yso/p18861>	Eduskuntatalo	0.00040332041680812836
+<http://www.yso.fi/onto/yso/p21130>	siirtymävaihe	0.00040300091495737433
+<http://www.yso.fi/onto/yso/p18670>	reaaliaineet	0.00040285990689881146
+<http://www.yso.fi/onto/yso/p26442>	opiskelijaravintolat	0.0004026918322779238
+<http://www.yso.fi/onto/yso/p8790>	opettajuus	0.00040054888813756406
+<http://www.yso.fi/onto/yso/p18822>	kohderyhmät	0.00040054810233414173
+<http://www.yso.fi/onto/yso/p16144>	Java	0.0003997297608293593
+<http://www.yso.fi/onto/yso/p11388>	koulupelko	0.00039827125146985054
+<http://www.yso.fi/onto/yso/p15764>	liikuntakasvatus	0.0003970232210122049
+<http://www.yso.fi/onto/yso/p16790>	tiedonsosiologia	0.0003968047967646271
+<http://www.yso.fi/onto/yso/p1801>	kemia	0.0003958234447054565
+<http://www.yso.fi/onto/yso/p3801>	toimikunnat	0.00039573211688548326
+<http://www.yso.fi/onto/yso/p12276>	seutukaavoitus	0.0003941862960346043
+<http://www.yso.fi/onto/yso/p2036>	toimintakulttuuri	0.0003935396671295166
+<http://www.yso.fi/onto/yso/p18053>	kaihi	0.0003926371573470533
+<http://www.yso.fi/onto/yso/p4532>	fonetiikka	0.0003919803421013057
+<http://www.yso.fi/onto/yso/p5498>	luonnonvara-ala	0.00039121400914154947
+<http://www.yso.fi/onto/yso/p11872>	autenttisuus	0.00039099191781133413
+<http://www.yso.fi/onto/yso/p15596>	sosiaaliekologia	0.0003909352235496044
+<http://www.yso.fi/onto/yso/p6471>	tukiasunnot	0.0003907790523953736
+<http://www.yso.fi/onto/yso/p14829>	alennus	0.00039042014395818114
+<http://www.yso.fi/onto/yso/p25470>	työeläkelaitokset	0.00038968492299318314
+<http://www.yso.fi/onto/yso/p20145>	ohjaava koulutus	0.0003886016202159226
+<http://www.yso.fi/onto/yso/p6096>	virkasuhde	0.0003884593606926501
+<http://www.yso.fi/onto/yso/p13091>	havainnollistaminen	0.00038832842255942523
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.0003882541786879301
+<http://www.yso.fi/onto/yso/p9309>	kielelliset vähemmistöt	0.00038616539677605033
+<http://www.yso.fi/onto/yso/p14035>	tiedeyhteisöt	0.00038570089964196086
+<http://www.yso.fi/onto/yso/p5368>	esittely	0.0003848418709821999
+<http://www.yso.fi/onto/yso/p13166>	matemaattiset tieteet	0.0003843907034024596
+<http://www.yso.fi/onto/yso/p2414>	oireet	0.0003816695243585855
+<http://www.yso.fi/onto/yso/p3697>	eduskunnan oikeusasiamiehet	0.00038098637014627457
+<http://www.yso.fi/onto/yso/p16740>	kielivirheet	0.00037917273584753275
+<http://www.yso.fi/onto/yso/p24319>	motivaatioilmasto	0.00037883769255131483
+<http://www.yso.fi/onto/yso/p11058>	viherala	0.00037744155270047486
+<http://www.yso.fi/onto/yso/p23969>	ylätyyli	0.0003773540956899524
+<http://www.yso.fi/onto/yso/p6724>	väestötilastot	0.00037636590423062444
+<http://www.yso.fi/onto/yso/p9588>	kääntäjät	0.00037537870230153203
+<http://www.yso.fi/onto/yso/p21544>	kouluttajakoulutus	0.0003751736367121339
+<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.0003750960167963058
+<http://www.yso.fi/onto/yso/p1579>	objekti	0.00037474685814231634
+<http://www.yso.fi/onto/yso/p11573>	teknilliset oppilaitokset	0.0003744135610759258
+<http://www.yso.fi/onto/yso/p13380>	sisällönkuvailu	0.0003743003762792796
+<http://www.yso.fi/onto/yso/p1833>	työn sisältö	0.0003735073551069945
+<http://www.yso.fi/onto/yso/p5581>	perustutkimus	0.0003733712946996093
+<http://www.yso.fi/onto/yso/p1891>	pyhäpäivät	0.00037322784191928804
+<http://www.yso.fi/onto/yso/p7229>	hallintoedustus	0.0003703355323523283
+<http://www.yso.fi/onto/yso/p4192>	työvoima	0.00036716123577207327
+<http://www.yso.fi/onto/yso/p16590>	kouludemokratia	0.0003659161156974733
+<http://www.yso.fi/onto/yso/p2750>	opetusryhmät	0.0003656183835119009
+<http://www.yso.fi/onto/yso/p13049>	monikkoperheet	0.0003656163171399385
+<http://www.yso.fi/onto/yso/p16546>	lääninhallinto	0.00036487350007519126
+<http://www.yso.fi/onto/yso/p5300>	todistukset	0.00036372005706653
+<http://www.yso.fi/onto/yso/p12054>	hallintojohtajat	0.0003631414147093892
+<http://www.yso.fi/onto/yso/p237>	raportit	0.00036301417276263237
+<http://www.yso.fi/onto/yso/p2050>	navigointi	0.000362951512215659
+<http://www.yso.fi/onto/yso/p5995>	likinäköisyys	0.0003625690587796271
+<http://www.yso.fi/onto/yso/p4640>	kielenhuolto	0.0003622493823058903
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.0003613334847614169
+<http://www.yso.fi/onto/yso/p10367>	laakerit	0.0003605661913752556
+<http://www.yso.fi/onto/yso/p190>	kirjastonkäyttö	0.0003603479126468301
+<http://www.yso.fi/onto/yso/p12733>	terveyskasvatus	0.0003596559399738908
+<http://www.yso.fi/onto/yso/p26655>	avoin tieto	0.0003593084984458983
+<http://www.yso.fi/onto/yso/p6267>	ammatillinen tieto	0.0003592555585782975
+<http://www.yso.fi/onto/yso/p7797>	e-kirjat	0.0003589231928344816
+<http://www.yso.fi/onto/yso/p2804>	tataarin kieli	0.0003566238738130778
+<http://www.yso.fi/onto/yso/p28389>	harjoittelutilat	0.00035635376116260886
+<http://www.yso.fi/onto/yso/p17367>	valinnaisaineet	0.0003557176096364856
+<http://www.yso.fi/onto/yso/p10631>	kyselytutkimus	0.00035567014128901064
+<http://www.yso.fi/onto/yso/p13673>	pihat	0.000355346011929214
+<http://www.yso.fi/onto/yso/p26643>	valintaoppaat	0.0003550497640389949
+<http://www.yso.fi/onto/yso/p20747>	tiimiopetus	0.00035504266270436347
+<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.0003543468483258039
+<http://www.yso.fi/onto/yso/p7837>	tieteellinen tieto	0.00035430851858109236
+<http://www.yso.fi/onto/yso/p24858>	kansalliskielet	0.00035400132765062153
+<http://www.yso.fi/onto/yso/p4834>	mobiililaitteet	0.00035294401459395885
+<http://www.yso.fi/onto/yso/p14831>	yhdysluokat	0.0003528169763740152
+<http://www.yso.fi/onto/yso/p1911>	ohjaus (suuntaaminen)	0.0003525885986164212
+<http://www.yso.fi/onto/yso/p10273>	asianosaiset	0.0003521861508488655
+<http://www.yso.fi/onto/yso/p4508>	varainhankinta	0.0003515174030326307
+<http://www.yso.fi/onto/yso/p7562>	tiedeinstituutit	0.00035124027635902166
+<http://www.yso.fi/onto/yso/p20955>	elintarviketurvallisuus	0.0003504850610624999
+<http://www.yso.fi/onto/yso/p9699>	kotiseutututkimus	0.0003502069157548249
+<http://www.yso.fi/onto/yso/p24994>	älytaulut	0.0003483502077870071
+<http://www.yso.fi/onto/yso/p18615>	yksityiskoulut	0.0003468758368398994
+<http://www.yso.fi/onto/yso/p11343>	rytmioppi	0.0003460440202616155
+<http://www.yso.fi/onto/yso/p22070>	tutkimushaastattelut	0.00034575670724734664
+<http://www.yso.fi/onto/yso/p5104>	oppimispäiväkirjat	0.0003452407254371792
+<http://www.yso.fi/onto/yso/p18579>	herbisidit	0.0003447024791967124
+<http://www.yso.fi/onto/yso/p7806>	työnohjaajat	0.0003425752802286297
+<http://www.yso.fi/onto/yso/p11406>	lukeminen (toiminta)	0.0003424104943405837
+<http://www.yso.fi/onto/yso/p14584>	sähköinen tunnistaminen	0.00034236328792758286
+<http://www.yso.fi/onto/yso/p2212>	pilkkeet	0.0003421827859710902
+<http://www.yso.fi/onto/yso/p1947>	hyvinvointi (taloudellinen)	0.00034154916647821665
+<http://www.yso.fi/onto/yso/p18464>	ainedidaktiikka	0.00034141450305469334
+<http://www.yso.fi/onto/yso/p15269>	myynti	0.00034139901981689036
+<http://www.yso.fi/onto/yso/p25180>	lääkesuunnittelu	0.00034047936787828803
+<http://www.yso.fi/onto/yso/p5295>	taloustieto	0.00033912446815520525
+<http://www.yso.fi/onto/yso/p14469>	keraamiset materiaalit	0.00033764709951356053
+<http://www.yso.fi/onto/yso/p1535>	äidinkieli (oppiaineet)	0.0003371555940248072
+<http://www.yso.fi/onto/yso/p18401>	puhesyntetisaattorit	0.0003370694466866553
+<http://www.yso.fi/onto/yso/p10716>	ryhmäkuntoutus	0.00033624767092987895
+<http://www.yso.fi/onto/yso/p10410>	paikannimet	0.00033618914312683046
+<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.00033581937896087766
+<http://www.yso.fi/onto/yso/p10824>	dialogisuus	0.0003353551437612623
+<http://www.yso.fi/onto/yso/p11828>	telelaitokset	0.00033486905158497393
+<http://www.yso.fi/onto/yso/p15857>	kaupunkitaloustiede	0.00033434477518312633
+<http://www.yso.fi/onto/yso/p3860>	suurtaloudet	0.000330594542901963
+<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.0003305863356217742
+<http://www.yso.fi/onto/yso/p556>	kielet	0.0003303203557152301
+<http://www.yso.fi/onto/yso/p21754>	koulutusmahdollisuudet	0.0003296566428616643
+<http://www.yso.fi/onto/yso/p12605>	pientaloalueet	0.00032940649543888867
+<http://www.yso.fi/onto/yso/p10139>	ammattiryhmät	0.0003287091967649758
+<http://www.yso.fi/onto/yso/p20010>	virtuaaliyliopistot	0.00032664454192854464
+<http://www.yso.fi/onto/yso/p1044>	arvot	0.00032535556238144636
+<http://www.yso.fi/onto/yso/p634>	ekologia	0.0003246541309636086
+<http://www.yso.fi/onto/yso/p19053>	maatalousjärjestöt	0.00032245961483567953
+<http://www.yso.fi/onto/yso/p2190>	kulttuurierot	0.00032197931432165205
+<http://www.yso.fi/onto/yso/p2883>	realismi (taide)	0.0003219476784579456
+<http://www.yso.fi/onto/yso/p21603>	työvoimantarve	0.00032142706913873553
+<http://www.yso.fi/onto/yso/p6727>	älykkyys	0.00032141481642611325
+<http://www.yso.fi/onto/yso/p11970>	monikäyttö	0.00032020601793192327
+<http://www.yso.fi/onto/yso/p7607>	kriteerit	0.000320081744575873
+<http://www.yso.fi/onto/yso/p26418>	QR-koodit	0.00031896616565063596
+<http://www.yso.fi/onto/yso/p3858>	laitostaloudet	0.0003180194180458784
+<http://www.yso.fi/onto/yso/p14362>	itseopiskelu	0.00031774656963534653
+<http://www.yso.fi/onto/yso/p8544>	työympäristö	0.0003173444129060954
+<http://www.yso.fi/onto/yso/p3205>	henkilövaihto	0.00031705794390290976
+<http://www.yso.fi/onto/yso/p12217>	komiteanmietinnöt	0.0003166850365232676
+<http://www.yso.fi/onto/yso/p476>	kasvatus	0.0003156679740641266
+<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.00031520018819719553
+<http://www.yso.fi/onto/yso/p18662>	voiteluaineet	0.0003148693940602243
+<http://www.yso.fi/onto/yso/p5369>	työeläkkeet	0.0003141264896839857
+<http://www.yso.fi/onto/yso/p1863>	metsäsuunnittelu	0.00031391685479320586
+<http://www.yso.fi/onto/yso/p17502>	virikkeet	0.0003132917918264866
+<http://www.yso.fi/onto/yso/p3637>	yksilönsuoja	0.000313256517983973
+<http://www.yso.fi/onto/yso/p18390>	kulttuuritarjonta	0.0003131678095087409
+<http://www.yso.fi/onto/yso/p1424>	määrä	0.000312286225380376
+<http://www.yso.fi/onto/yso/p971>	painomenetelmät	0.0003121007466688752
+<http://www.yso.fi/onto/yso/p19410>	heterogeenisuus	0.0003110583347734064
+<http://www.yso.fi/onto/yso/p15360>	käyttäjäkoulutus	0.0003108599630650133
+<http://www.yso.fi/onto/yso/p21555>	maisemapalvelut	0.00031026138458400965
+<http://www.yso.fi/onto/yso/p6375>	pienryhmät	0.0003100516623817384
+<http://www.yso.fi/onto/yso/p22168>	ajanhallinta	0.00030986839556135237
+<http://www.yso.fi/onto/yso/p20482>	yrityspalvelut	0.00030918387346901
+<http://www.yso.fi/onto/yso/p5586>	keinotekoiset kielet	0.00030866768793202937
+<http://www.yso.fi/onto/yso/p11769>	koulukuraattorit	0.0003067052166443318
+<http://www.yso.fi/onto/yso/p24600>	palveluliiketoiminta	0.00030668795807287097
+<http://www.yso.fi/onto/yso/p27629>	teollisuuskaupungit	0.00030650608823634684
+<http://www.yso.fi/onto/yso/p4734>	motivaatio	0.00030641930061392486
+<http://www.yso.fi/onto/yso/p9363>	pätevyys	0.0003060279705096036
+<http://www.yso.fi/onto/yso/p23332>	liikunta-ala	0.00030601659091189504
+<http://www.yso.fi/onto/yso/p21944>	evoluutiobiologia	0.0003059520968236029
+<http://www.yso.fi/onto/yso/p18633>	maantieto	0.0003042684984393418
+<http://www.yso.fi/onto/yso/p1738>	farmakologia	0.00030411939951591194
+<http://www.yso.fi/onto/yso/p17836>	informaatiotutkimus	0.00030351124587468803
+<http://www.yso.fi/onto/yso/p4782>	opintojen keskeyttäminen	0.0003029892104677856
+<http://www.yso.fi/onto/yso/p15899>	urasuunnittelu	0.00030164740746840835
+<http://www.yso.fi/onto/yso/p9840>	kaupallisuus	0.0003016310220118612
+<http://www.yso.fi/onto/yso/p11286>	heuristiikka	0.0003015973779838532
+<http://www.yso.fi/onto/yso/p6984>	erityisopetus	0.0003012814268004149
+<http://www.yso.fi/onto/yso/p1910>	ohjauskeinot	0.00030126734054647386
+<http://www.yso.fi/onto/yso/p942>	julkinen talous	0.00030107577913440764
+<http://www.yso.fi/onto/yso/p18125>	tutkimusohjelmat	0.000300807150779292
+<http://www.yso.fi/onto/yso/p5061>	yksityistäminen	0.00030035394593141973
+<http://www.yso.fi/onto/yso/p13803>	hallintopalvelut	0.00030032501672394574
+<http://www.yso.fi/onto/yso/p8076>	kasvitaudit	0.00029991744668222964
+<http://www.yso.fi/onto/yso/p2163>	CD-levyt	0.0002997918927576393
+<http://www.yso.fi/onto/yso/p282>	päiväkodit	0.0002995758259203285
+<http://www.yso.fi/onto/yso/p793>	ehkäisy	0.00029869802528992295
+<http://www.yso.fi/onto/yso/p2444>	viestimet	0.00029736076248809695
+<http://www.yso.fi/onto/yso/p4813>	esteet (elottomat objektit)	0.0002973312803078443
+<http://www.yso.fi/onto/yso/p12148>	saksan kieli	0.0002969158813357353
+<http://www.yso.fi/onto/yso/p252>	liikkuvuus	0.000296451267786324
+<http://www.yso.fi/onto/yso/p2915>	tiivistyminen	0.00029629215714521706
+<http://www.yso.fi/onto/yso/p13237>	kirjapainotekniikka	0.00029543356504291296
+<http://www.yso.fi/onto/yso/p15828>	langat	0.00029500474920496345
+<http://www.yso.fi/onto/yso/p4238>	tiedekeskukset	0.000294725236017257
+<http://www.yso.fi/onto/yso/p1974>	palaminen	0.0002946982567664236
+<http://www.yso.fi/onto/yso/p6702>	luotot	0.00029440640355460346
+<http://www.yso.fi/onto/yso/p3199>	varhaiseläkkeet	0.00029414286836981773
+<http://www.yso.fi/onto/yso/p12049>	opetusaineisto	0.0002940971462521702
+<http://www.yso.fi/onto/yso/p14130>	kotikasvatus	0.0002939802361652255
+<http://www.yso.fi/onto/yso/p15164>	valtion talousarviot	0.00029389443807303905
+<http://www.yso.fi/onto/yso/p12675>	kuvakokoelmat	0.00029363419162109494
+<http://www.yso.fi/onto/yso/p4748>	yhdyskuntajätteet	0.00029314705170691013
+<http://www.yso.fi/onto/yso/p2386>	energiansäästö	0.0002930196060333401
+<http://www.yso.fi/onto/yso/p2736>	kansalaisuus	0.00029294751584529877
+<http://www.yso.fi/onto/yso/p16063>	ammattikoulut	0.00029277909197844565
+<http://www.yso.fi/onto/yso/p1929>	mailapelit	0.00029207213083282113
+<http://www.yso.fi/onto/yso/p9730>	ympäristölääketiede	0.00029065419221296906
+<http://www.yso.fi/onto/yso/p1031>	korkeakoululaitos	0.00028996646869927645
+<http://www.yso.fi/onto/yso/p1107>	uhanalaiset kasvit	0.0002891110198106617
+<http://www.yso.fi/onto/yso/p7186>	tunnusluvut	0.000288253155304119
+<http://www.yso.fi/onto/yso/p8029>	kielivalinnat	0.00028606478008441627
+<http://www.yso.fi/onto/yso/p277>	muutos	0.0002843723923433572
+<http://www.yso.fi/onto/yso/p5513>	kotihoito	0.00028343775193206966
+<http://www.yso.fi/onto/yso/p9885>	verkko-opiskelu	0.000282968336250633
+<http://www.yso.fi/onto/yso/p16209>	piilo-opetussuunnitelmat	0.00028277383535169065
+<http://www.yso.fi/onto/yso/p6712>	kiinteistöt	0.00028264414868317544
+<http://www.yso.fi/onto/yso/p15623>	opetusala	0.0002823577669914812
+<http://www.yso.fi/onto/yso/p19630>	taidetoimikunnat	0.00028129128622822464
+<http://www.yso.fi/onto/yso/p13164>	korkeakouluopiskelu	0.0002812250459101051
+<http://www.yso.fi/onto/yso/p8576>	kuluttajakäyttäytyminen	0.0002809371508192271
+<http://www.yso.fi/onto/yso/p8026>	tulosohjaus	0.00028029753593727946
+<http://www.yso.fi/onto/yso/p8831>	työmarkkinat	0.0002801804803311825
+<http://www.yso.fi/onto/yso/p19769>	kokeelliset elokuvat	0.0002785733377095312
+<http://www.yso.fi/onto/yso/p8338>	audiovisuaalinen oppimateriaali	0.000278379739029333
+<http://www.yso.fi/onto/yso/p12415>	sosiaalinen havaitseminen	0.0002780743525363505
+<http://www.yso.fi/onto/yso/p17906>	erityisnuorisotyö	0.00027805526042357087
+<http://www.yso.fi/onto/yso/p9123>	graafinen ala	0.00027759370277635753
+<http://www.yso.fi/onto/yso/p16097>	sosiaaliturvamaksut	0.0002758550981525332
+<http://www.yso.fi/onto/yso/p12456>	arvopaperimarkkinat	0.0002757301554083824
+<http://www.yso.fi/onto/yso/p5011>	alueellinen terveydenhuolto	0.0002752472646534443
+<http://www.yso.fi/onto/yso/p18369>	hallintohistoria	0.00027490098727867007
+<http://www.yso.fi/onto/yso/p11749>	opetushallinto	0.0002747701946645975
+<http://www.yso.fi/onto/yso/p803>	setlementtiliike	0.0002746025566011667
+<http://www.yso.fi/onto/yso/p19594>	laboratoriotekniikka	0.0002735622401814908
+<http://www.yso.fi/onto/yso/p22648>	kuraattorit	0.0002733129367697984
+<http://www.yso.fi/onto/yso/p14690>	tieteelliset nimet	0.0002731456479523331
+<http://www.yso.fi/onto/yso/p25838>	ydinosaaminen	0.00027276144828647375
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.0002726337406784296
+<http://www.yso.fi/onto/yso/p2972>	hintapolitiikka	0.000272372824838385
+<http://www.yso.fi/onto/yso/p11685>	tanssioppilaitokset	0.0002714077418204397
+<http://www.yso.fi/onto/yso/p15453>	etymologia	0.00027131015667691827
+<http://www.yso.fi/onto/yso/p15532>	kognitiivinen kehitys	0.00027082726592198014
+<http://www.yso.fi/onto/yso/p6253>	itsearviointi	0.0002706052327994257
+<http://www.yso.fi/onto/yso/p1269>	opetusohjelmat -- televisio	0.0002705879451241344
+<http://www.yso.fi/onto/yso/p10630>	mielipidetutkimus	0.00027041434077546
+<http://www.yso.fi/onto/yso/p19946>	systematiikka	0.0002698949247132987
+<http://www.yso.fi/onto/yso/p7831>	kielellinen vuorovaikutus	0.000269324635155499
+<http://www.yso.fi/onto/yso/p20194>	tiehallinto	0.00026906278799287975
+<http://www.yso.fi/onto/yso/p266>	itsetunto	0.0002688642416615039
+<http://www.yso.fi/onto/yso/p10880>	maaseudun suunnittelu	0.0002688358072191477
+<http://www.yso.fi/onto/yso/p25597>	kansanlingvistiikka	0.00026881476514972746
+<http://www.yso.fi/onto/yso/p3899>	pennut	0.00026680424343794584
+<http://www.yso.fi/onto/yso/p5462>	tietotekniikka	0.0002666533982846886
+<http://www.yso.fi/onto/yso/p24386>	tupakoimattomuus	0.00026664830511435866
+<http://www.yso.fi/onto/yso/p3387>	toisen asteen koulutus	0.00026643581804819405
+<http://www.yso.fi/onto/yso/p783>	maataloustuotanto	0.00026616203831508756
+<http://www.yso.fi/onto/yso/p12090>	noki	0.0002655811549630016
+<http://www.yso.fi/onto/yso/p6818>	hallintoalueet	0.00026550592156127095
+<http://www.yso.fi/onto/yso/p639>	nitriitit	0.0002654813870321959
+<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.000265469221631065
+<http://www.yso.fi/onto/yso/p25103>	palvelutarpeet	0.00026501237880438566
+<http://www.yso.fi/onto/yso/p5548>	perusturvallisuus	0.00026496840291656554
+<http://www.yso.fi/onto/yso/p5034>	antikvariaatit	0.00026466307463124394
+<http://www.yso.fi/onto/yso/p27104>	mikroyritykset	0.00026449101278558373
+<http://www.yso.fi/onto/yso/p8274>	geotieteet	0.0002638853038661182
+<http://www.yso.fi/onto/yso/p16925>	erikoiskuljetus	0.0002638173755258322
+<http://www.yso.fi/onto/yso/p4567>	verisuonet	0.000263370166067034
+<http://www.yso.fi/onto/yso/p14998>	yleinen mielipide	0.0002630421076901257
+<http://www.yso.fi/onto/yso/p12881>	tekstiilityö	0.00026284498744644225
+<http://www.yso.fi/onto/yso/p6704>	biopsia	0.0002614803961478174
+<http://www.yso.fi/onto/yso/p2002>	lähiverkot	0.00026111010811291635
+<http://www.yso.fi/onto/yso/p6505>	kirjastotoimi	0.00026087588048540056
+<http://www.yso.fi/onto/yso/p11168>	ruumiinkuva	0.00026074578636325896
+<http://www.yso.fi/onto/yso/p23368>	luokkateoriat	0.0002602417371235788
+<http://www.yso.fi/onto/yso/p5408>	hankkeet	0.000259986991295591
+<http://www.yso.fi/onto/yso/p7089>	yhteiskuntaoppi	0.00025934091536328197
+<http://www.yso.fi/onto/yso/p12328>	kenttätutkimus	0.00025896448642015457
+<http://www.yso.fi/onto/yso/p19868>	kuvantallennus	0.000258705549640581
+<http://www.yso.fi/onto/yso/p21542>	koristepuut	0.0002587021153885871
+<http://www.yso.fi/onto/yso/p25639>	nettiriippuvuus	0.00025819730944931507
+<http://www.yso.fi/onto/yso/p18111>	asiakirjaoppaat	0.00025787396589294076
+<http://www.yso.fi/onto/yso/p3713>	kirjastotiede	0.0002576551923993975
+<http://www.yso.fi/onto/yso/p14483>	pelaaminen	0.0002576119441073388
+<http://www.yso.fi/onto/yso/p7185>	jakaumat	0.0002572706725914031
+<http://www.yso.fi/onto/yso/p17648>	infinitiivit	0.00025677334633655846
+<http://www.yso.fi/onto/yso/p1321>	hakemistot	0.0002566986659076065
+<http://www.yso.fi/onto/yso/p10616>	numerot	0.0002564578899182379
+<http://www.yso.fi/onto/yso/p10795>	kasviekologia	0.0002563564048614353
+<http://www.yso.fi/onto/yso/p23303>	edut	0.00025584010290913284
+<http://www.yso.fi/onto/yso/p7532>	terveystieto	0.0002549189957790077
+<http://www.yso.fi/onto/yso/p10590>	sosiaalinen vuorovaikutus	0.0002547024632804096
+<http://www.yso.fi/onto/yso/p3889>	julkiset menot	0.0002540494024287909
+<http://www.yso.fi/onto/yso/p2834>	humppa (tanssimusiikki)	0.0002535118837840855
+<http://www.yso.fi/onto/yso/p27312>	yksityisen hoidon tuki	0.00025273143546655774
+<http://www.yso.fi/onto/yso/p20613>	eläinanatomia	0.0002519822446629405
+<http://www.yso.fi/onto/yso/p916>	liikunta	0.00025148194981738925
+<http://www.yso.fi/onto/yso/p20412>	Logo (ohjelmointikielet)	0.00025015321443788707
+<http://www.yso.fi/onto/yso/p23204>	rahoitusala	0.00024895157548598945
+<http://www.yso.fi/onto/yso/p26461>	opintotoimistot	0.0002488461905159056
+<http://www.yso.fi/onto/yso/p3279>	ilmailu	0.0002487546007614583
+<http://www.yso.fi/onto/yso/p25098>	optikkoliikkeet	0.0002482460404280573
+<http://www.yso.fi/onto/yso/p6016>	fonologia	0.00024765345733612776
+<http://www.yso.fi/onto/yso/p7135>	sosiaaliset normit	0.000247137708356604
+<http://www.yso.fi/onto/yso/p11405>	lukutaito	0.00024681337526999414
+<http://www.yso.fi/onto/yso/p1861>	metsätalous	0.00024646855308674276
+<http://www.yso.fi/onto/yso/p19163>	opiskelumotivaatio	0.0002464678545948118
+<http://www.yso.fi/onto/yso/p15279>	häiriösuojaus	0.00024644951918162405
+<http://www.yso.fi/onto/yso/p17048>	oppimaan oppiminen	0.0002461077820044011
+<http://www.yso.fi/onto/yso/p9641>	teoria (abstraktit objektit)	0.00024595361901447177
+<http://www.yso.fi/onto/yso/p9967>	vedenhankinta	0.00024587108055129647
+<http://www.yso.fi/onto/yso/p14236>	tuntikehys	0.00024565448984503746
+<http://www.yso.fi/onto/yso/p7875>	nautaeläimet	0.0002453990455251187
+<http://www.yso.fi/onto/yso/p3218>	sivistyneistö	0.00024539692094549537
+<http://www.yso.fi/onto/yso/p4443>	toiminnan teoria	0.0002451218606438488
+<http://www.yso.fi/onto/yso/p2366>	terveydenhuoltohenkilöstö	0.00024422723799943924
+<http://www.yso.fi/onto/yso/p7413>	arviointi	0.0002441743854433298
+<http://www.yso.fi/onto/yso/p5439>	keskeyttäminen	0.00024404168652836233
+<http://www.yso.fi/onto/yso/p1212>	vesivoima	0.0002435950154904276
+<http://www.yso.fi/onto/yso/p6874>	oppilashuolto	0.00024356086214538664
+<http://www.yso.fi/onto/yso/p18052>	joukko-oppi	0.00024348724400624633
+<http://www.yso.fi/onto/yso/p19878>	metakognitio	0.0002433718618704006
+<http://www.yso.fi/onto/yso/p2913>	kuluttajaekonomia	0.00024308585852850229
+<http://www.yso.fi/onto/yso/p6619>	hoitoisuus	0.00024304320686496794
+<http://www.yso.fi/onto/yso/p5775>	erikoistuomioistuimet	0.00024277054762933403
+<http://www.yso.fi/onto/yso/p18667>	kunnallisoikeus	0.00024255370954051614
+<http://www.yso.fi/onto/yso/p4259>	tuottavuus	0.00024248755653388798
+<http://www.yso.fi/onto/yso/p9009>	vesioikeus	0.00024219589249696583
+<http://www.yso.fi/onto/yso/p5633>	lääkepolitiikka	0.00024195601872634143
+<http://www.yso.fi/onto/yso/p10011>	sanktiot	0.00024193456920329481
+<http://www.yso.fi/onto/yso/p11616>	murrosikäiset	0.00024141230096574873
+<http://www.yso.fi/onto/yso/p16539>	virtapiirit	0.00024116746499203146
+<http://www.yso.fi/onto/yso/p3880>	kulttuuriekologia	0.00024055691028479487
+<http://www.yso.fi/onto/yso/p352>	tieteet (erikoisalat)	0.00024028222833294421
+<http://www.yso.fi/onto/yso/p19778>	tiedotuskeskukset	0.00024013836809899658
+<http://www.yso.fi/onto/yso/p6756>	laboratoriokokeet	0.0002401198144070804
+<http://www.yso.fi/onto/yso/p25944>	lääkevaihto	0.00023995271476451308
+<http://www.yso.fi/onto/yso/p12741>	kirjallinen ilmaisu	0.000239742046687752
+<http://www.yso.fi/onto/yso/p18777>	tuntiopettajat	0.00023974136274773628
+<http://www.yso.fi/onto/yso/p3194>	oikeusvoima	0.00023897095525171608
+<http://www.yso.fi/onto/yso/p10754>	aikuiskasvatus	0.0002388353896094486
+<http://www.yso.fi/onto/yso/p9061>	huoltosuhde	0.00023834528110455722
+<http://www.yso.fi/onto/yso/p13469>	yhteiskuntatieteilijät	0.0002376355550950393
+<http://www.yso.fi/onto/yso/p1153>	oppiarvot	0.00023688524379394948
+<http://www.yso.fi/onto/yso/p6982>	osa-aikatyö	0.000236783831496723
+<http://www.yso.fi/onto/yso/p12542>	kirkkokuri	0.00023661792511120439
+<http://www.yso.fi/onto/yso/p3460>	tutkimusluettelot	0.00023529835743829608
+<http://www.yso.fi/onto/yso/p19899>	Hämeen linna	0.00023471923486795276
+<http://www.yso.fi/onto/yso/p1058>	substanssi	0.00023463262186851352
+<http://www.yso.fi/onto/yso/p25253>	resilienssi	0.00023452882305718958
+<http://www.yso.fi/onto/yso/p7097>	funktiot	0.0002342103107366711
+<http://www.yso.fi/onto/yso/p8340>	yhteissuunnittelu	0.0002341433137189597
+<http://www.yso.fi/onto/yso/p7952>	ympäristöfilosofia	0.00023414264433085918
+<http://www.yso.fi/onto/yso/p21717>	tohtorikoulutus	0.0002338694903301075
+<http://www.yso.fi/onto/yso/p17283>	kokoomateokset	0.00023347193200606853
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.00023346414673142135
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.00023324048379436135
+<http://www.yso.fi/onto/yso/p16298>	jatko-opiskelu	0.00023324003268498927
+<http://www.yso.fi/onto/yso/p6070>	tietokoneavusteinen kääntäminen	0.00023317732848227024
+<http://www.yso.fi/onto/yso/p299>	työpaikkakoulutus	0.00023260207672137767
+<http://www.yso.fi/onto/yso/p7887>	pää	0.00023177989351097494
+<http://www.yso.fi/onto/yso/p23151>	ympäristöturvallisuus	0.00023043478722684085
+<http://www.yso.fi/onto/yso/p19651>	variksenmarja	0.00023028517898637801
+<http://www.yso.fi/onto/yso/p24052>	sosiaalinen työllistäminen	0.00022992507729213685
+<http://www.yso.fi/onto/yso/p12582>	sähköala	0.0002298150211572647
+<http://www.yso.fi/onto/yso/p24012>	liikkumattomuus	0.0002297569444635883
+<http://www.yso.fi/onto/yso/p332>	selittäminen	0.00022923473443370312
+<http://www.yso.fi/onto/yso/p19511>	kulttuuriala	0.00022821455786470324
+<http://www.yso.fi/onto/yso/p3024>	linssit (optiikka)	0.00022813295072410256
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.00022749746858607978
+<http://www.yso.fi/onto/yso/p2901>	harrastukset	0.0002271009871037677
+<http://www.yso.fi/onto/yso/p8557>	luokkayhteisö	0.00022696025553159416
+<http://www.yso.fi/onto/yso/p21856>	nimeäminen	0.00022692736820317805
+<http://www.yso.fi/onto/yso/p3927>	tietojärjestelmät	0.00022643058036919683
+<http://www.yso.fi/onto/yso/p12454>	lakimetsät	0.00022633645858149976
+<http://www.yso.fi/onto/yso/p2828>	tentit	0.0002257541927974671
+<http://www.yso.fi/onto/yso/p7408>	kansainvälinen diakonia	0.00022539084602613002
+<http://www.yso.fi/onto/yso/p3048>	kehitysvammatyö	0.00022501220519188792
+<http://www.yso.fi/onto/yso/p3764>	lapsen asema	0.00022484961664304137
+<http://www.yso.fi/onto/yso/p5446>	tietoliikenne	0.00022483052453026175
+<http://www.yso.fi/onto/yso/p14842>	väestökirjat	0.0002244057395728305
+<http://www.yso.fi/onto/yso/p1293>	tietokonevirukset	0.000224126415560022
+<http://www.yso.fi/onto/yso/p2744>	koulutusasteet	0.000223698269110173
+<http://www.yso.fi/onto/yso/p16011>	tekstinkäsittely	0.00022285888553597033
+<http://www.yso.fi/onto/yso/p3711>	vapaat ohjelmistot	0.00022241173428483307
+<http://www.yso.fi/onto/yso/p291>	persoonallisuuden piirteet	0.0002218084700871259
+<http://www.yso.fi/onto/yso/p12924>	poliisikorkeakoulut	0.00022180465748533607
+<http://www.yso.fi/onto/yso/p11298>	pyhäkoulu	0.00022168095165397972
+<http://www.yso.fi/onto/yso/p10138>	suuntaukset	0.00022156491468194872
+<http://www.yso.fi/onto/yso/p8934>	tieliikenne	0.00022115327010396868
+<http://www.yso.fi/onto/yso/p24598>	liikuntataidot	0.0002201430033892393
+<http://www.yso.fi/onto/yso/p13929>	alkoholi (nautintoaineet)	0.00021979644952807575
+<http://www.yso.fi/onto/yso/p11997>	sosiaalitoimistot	0.00021924229804426432
+<http://www.yso.fi/onto/yso/p6456>	ulkomaalaiset	0.00021687349362764508
+<http://www.yso.fi/onto/yso/p13344>	arvostelijat	0.00021674427262041718
+<http://www.yso.fi/onto/yso/p7653>	optometristit	0.00021614442812278867
+<http://www.yso.fi/onto/yso/p2786>	koulukirjastot	0.00021590173128060997
+<http://www.yso.fi/onto/yso/p127>	teoriat (tuotokset)	0.00021514904801733792
+<http://www.yso.fi/onto/yso/p21170>	turvallisuusselvitykset	0.00021482120791915804
+<http://www.yso.fi/onto/yso/p20445>	niveltulehdus	0.0002140337019227445
+<http://www.yso.fi/onto/yso/p1106>	kasviston suojelu	0.00021396737429313362
+<http://www.yso.fi/onto/yso/p16923>	paikkatietojärjestelmät	0.00021391983318608254
+<http://www.yso.fi/onto/yso/p22384>	jyvä	0.00021381948317866772
+<http://www.yso.fi/onto/yso/p5302>	oppimisvaikeudet	0.00021377280063461512
+<http://www.yso.fi/onto/yso/p3319>	ammatillinen kuntoutus	0.00021369921159930527
+<http://www.yso.fi/onto/yso/p26376>	kampukset	0.00021369921159930527
+<http://www.yso.fi/onto/yso/p372>	kulttuuri (toimintatavat)	0.0002135413233190775
+<http://www.yso.fi/onto/yso/p4363>	perheet (ryhmät)	0.00021347901201806962
+<http://www.yso.fi/onto/yso/p11255>	keskustapuolueet	0.00021324583212845027
+<http://www.yso.fi/onto/yso/p11463>	nanotekniikka	0.00021275586914271116
+<http://www.yso.fi/onto/yso/p12713>	ympäristökeskukset	0.00021251881844364107
+<http://www.yso.fi/onto/yso/p13718>	asuntomarkkinat	0.00021243411174509674
+<http://www.yso.fi/onto/yso/p18677>	kansalaistaito	0.00021230288257356733
+<http://www.yso.fi/onto/yso/p6049>	karjanhoito	0.00021205803204793483
+<http://www.yso.fi/onto/yso/p9448>	sähköoppi	0.00021088027278892696
+<http://www.yso.fi/onto/yso/p11215>	koululaitos	0.00021081672457512468
+<http://www.yso.fi/onto/yso/p2579>	sisältö	0.00021068708156235516
+<http://www.yso.fi/onto/yso/p23559>	prosessifilosofia	0.00021036223915871233
+<http://www.yso.fi/onto/yso/p6527>	inkunaabelit	0.000209804653422907
+<http://www.yso.fi/onto/yso/p20536>	harkot	0.00020974203653167933
+<http://www.yso.fi/onto/yso/p16262>	työelämä	0.00020963605493307114
+<http://www.yso.fi/onto/yso/p15085>	asiantuntijuus	0.00020898511866107583
+<http://www.yso.fi/onto/yso/p20531>	dialoginen filosofia	0.00020897753711324185
+<http://www.yso.fi/onto/yso/p3229>	kellot	0.0002089267218252644
+<http://www.yso.fi/onto/yso/p27132>	opetusoppaat	0.00020874787878710777
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.00020857495837844908
+<http://www.yso.fi/onto/yso/p15452>	musiikinopettajat	0.00020835625764448196
+<http://www.yso.fi/onto/yso/p9355>	kehittävä työntutkimus	0.0002083387807942927
+<http://www.yso.fi/onto/yso/p7291>	neuraalilaskenta	0.00020817235053982586
+<http://www.yso.fi/onto/yso/p28339>	nykyteatteri	0.00020810644491575658
+<http://www.yso.fi/onto/yso/p10368>	täydennysrakentaminen	0.00020793979638256133
+<http://www.yso.fi/onto/yso/p21580>	johtamiskoulutus	0.00020779231272172183
+<http://www.yso.fi/onto/yso/p13679>	liiketaloustiede	0.00020774811855517328
+<http://www.yso.fi/onto/yso/p285>	toiminimet	0.00020762532949447632
+<http://www.yso.fi/onto/yso/p9890>	kirjapainoala	0.00020749231043737382
+<http://www.yso.fi/onto/yso/p13283>	aikuisopetus	0.0002072899806080386
+<http://www.yso.fi/onto/yso/p7214>	peruskoulun yläaste	0.00020723443594761193
+<http://www.yso.fi/onto/yso/p3534>	tilapalvelut	0.00020661261805798858
+<http://www.yso.fi/onto/yso/p3580>	haku	0.00020651175873354077
+<http://www.yso.fi/onto/yso/p20092>	kuvataidekorkeakoulut	0.00020598382980097085
+<http://www.yso.fi/onto/yso/p7852>	metsätilat	0.00020577355462592095
+<http://www.yso.fi/onto/yso/p5829>	pyhät (pyhimykset)	0.00020568723266478628
+<http://www.yso.fi/onto/yso/p21613>	sosiaalivirastot	0.00020558014512062073
+<http://www.yso.fi/onto/yso/p8455>	soveltaminen	0.00020549900364130735
+<http://www.yso.fi/onto/yso/p9705>	koulukypsyys	0.0002050960756605491
+<http://www.yso.fi/onto/yso/p19149>	Oulun linna	0.00020491756731644273
+<http://www.yso.fi/onto/yso/p12353>	kansantanssi (taidelajit)	0.00020476187637541443
+<http://www.yso.fi/onto/yso/p24485>	jäsenhankinta	0.00020450388547033072
+<http://www.yso.fi/onto/yso/p6552>	suorat investoinnit	0.00020444675465114415
+<http://www.yso.fi/onto/yso/p8423>	maataloustieteet	0.00020401747315190732
+<http://www.yso.fi/onto/yso/p14739>	korporativismi	0.00020359725749585778
+<http://www.yso.fi/onto/yso/p2598>	kasviot	0.00020258680160623044
+<http://www.yso.fi/onto/yso/p16700>	päättöarviointi	0.0002020072570303455
+<http://www.yso.fi/onto/yso/p943>	moniammatillisuus	0.00020168733317404985
+<http://www.yso.fi/onto/yso/p594>	viljanviljely	0.00020157657854724675
+<http://www.yso.fi/onto/yso/p565>	esiintymistaito	0.0002014722122112289
+<http://www.yso.fi/onto/yso/p5758>	tekstitelevisio	0.00020145434245932847
+<http://www.yso.fi/onto/yso/p12752>	pappiskoulutus	0.0002008525625569746
+<http://www.yso.fi/onto/yso/p3715>	harkintavalta	0.00020006473641842604
+<http://www.yso.fi/onto/yso/p13075>	Markovin ketjut	0.00019996326591353863
+<http://www.yso.fi/onto/yso/p10344>	työkierto	0.00019965684623457491
+<http://www.yso.fi/onto/yso/p28312>	yksityisopettajat	0.0001995805068872869
+<http://www.yso.fi/onto/yso/p800>	työkeskukset	0.00019925796368625015
+<http://www.yso.fi/onto/yso/p4833>	kannettavat tietokoneet	0.00019914018048439175
+<http://www.yso.fi/onto/yso/p10575>	ongelmalapset	0.00019854171841870993
+<http://www.yso.fi/onto/yso/p6200>	suojelualueet	0.0001979928056243807
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.00019766113837249577
+<http://www.yso.fi/onto/yso/p17214>	poikkeuskoulutus	0.0001976047788048163
+<http://www.yso.fi/onto/yso/p7199>	persoona	0.000197540910448879
+<http://www.yso.fi/onto/yso/p8842>	kriminologia	0.0001970710582099855
+<http://www.yso.fi/onto/yso/p20224>	JSP	0.00019680886180140078
+<http://www.yso.fi/onto/yso/p15139>	arvottaminen	0.0001967934804270044
+<http://www.yso.fi/onto/yso/p15671>	kotitalousoppilaitokset	0.0001966953423107043
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00019636191427707672
+<http://www.yso.fi/onto/yso/p10596>	formalismi (aatteet)	0.00019610067829489708
+<http://www.yso.fi/onto/yso/p17388>	paine	0.000195681830518879
+<http://www.yso.fi/onto/yso/p10449>	viherrakentaminen	0.0001956484338734299
+<http://www.yso.fi/onto/yso/p22125>	tasa-arvosuunnitelmat	0.0001954106701305136
+<http://www.yso.fi/onto/yso/p23022>	haastattelumenetelmät	0.00019494998559821397
+<http://www.yso.fi/onto/yso/p5619>	asenteet	0.00019492878345772624
+<http://www.yso.fi/onto/yso/p6664>	postivirkamiehet	0.0001949038851307705
+<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.0001947671262314543
+<http://www.yso.fi/onto/yso/p14988>	näyttöön perustuva hoitotyö	0.00019450076797511429
+<http://www.yso.fi/onto/yso/p13505>	rationalisointi	0.00019437393348198384
+<http://www.yso.fi/onto/yso/p14562>	tietovarastot	0.00019421977049205452
+<http://www.yso.fi/onto/yso/p15254>	iltalukiot	0.00019419605087023228
+<http://www.yso.fi/onto/yso/p14676>	korkeakoulututkinnot	0.00019390440138522536
+<http://www.yso.fi/onto/yso/p5616>	manipulaatio	0.00019356167467776686
+<http://www.yso.fi/onto/yso/p11176>	SPSS	0.00019332609372213483
+<http://www.yso.fi/onto/yso/p2043>	liikuntaseurat	0.00019323208834975958
+<http://www.yso.fi/onto/yso/p2928>	julkinen rahoitus	0.00019267507013864815
+<http://www.yso.fi/onto/yso/p21931>	voimistelunopettajat	0.0001923392846947536
+<http://www.yso.fi/onto/yso/p17974>	öljynjalostamot	0.00019215099746361375
+<http://www.yso.fi/onto/yso/p14723>	Qumranin kirjoitukset	0.0001920180075103417
+<http://www.yso.fi/onto/yso/p10225>	työssäoppiminen	0.00019177643116563559
+<http://www.yso.fi/onto/yso/p21753>	kouluttautuminen	0.0001917265180964023
+<http://www.yso.fi/onto/yso/p1655>	vaikuttavuus	0.0001916694745887071
+<http://www.yso.fi/onto/yso/p16107>	resistenssi	0.00019132759189233184
+<http://www.yso.fi/onto/yso/p7440>	maanhankinta	0.00019129220163449645
+<http://www.yso.fi/onto/yso/p8118>	ilmakuvakartat	0.00019122744561173022
+<http://www.yso.fi/onto/yso/p5482>	rautatiekalusto	0.0001911074941745028
+<http://www.yso.fi/onto/yso/p23911>	ostosmatkailu	0.00019094880553893745
+<http://www.yso.fi/onto/yso/p14206>	mehut	0.00019084394443780184
+<http://www.yso.fi/onto/yso/p11344>	rytmi	0.00019037695892620832
+<http://www.yso.fi/onto/yso/p456>	logiikka	0.00019005133071914315
+<http://www.yso.fi/onto/yso/p1489>	merkkitavarat	0.00018978744628839195
+<http://www.yso.fi/onto/yso/p27416>	lukuvuosi	0.00018978238222189248
+<http://www.yso.fi/onto/yso/p24568>	arkistorakennukset	0.00018905474280472845
+<http://www.yso.fi/onto/yso/p27888>	terveydenhuollon sosiaalityö	0.0001887769321911037
+<http://www.yso.fi/onto/yso/p10886>	päihteet	0.0001887072721729055
+<http://www.yso.fi/onto/yso/p7606>	valintakriteerit	0.00018865922174882144
+<http://www.yso.fi/onto/yso/p11491>	uskonnonvapaus	0.00018767028814181685
+<http://www.yso.fi/onto/yso/p10555>	jumalakäsitykset	0.00018691403965931386
+<http://www.yso.fi/onto/yso/p2765>	lajit	0.00018680462380871177
+<http://www.yso.fi/onto/yso/p8657>	yskä	0.00018658561748452485
+<http://www.yso.fi/onto/yso/p16779>	vertailuasteet	0.0001864319492597133
+<http://www.yso.fi/onto/yso/p5980>	laitokset	0.00018582788470666856
+<http://www.yso.fi/onto/yso/p2105>	kirjasintyylit	0.00018562171317171305
+<http://www.yso.fi/onto/yso/p12522>	työvoimahallinto	0.0001855013833846897
+<http://www.yso.fi/onto/yso/p1067>	kritiikki	0.00018538271251600236
+<http://www.yso.fi/onto/yso/p3656>	kemialliset ilmiöt	0.00018508329230826348
+<http://www.yso.fi/onto/yso/p16047>	matkustajat	0.00018387235468253493
+<http://www.yso.fi/onto/yso/p5284>	havainnot	0.00018385148723609746
+<http://www.yso.fi/onto/yso/p16348>	käännöskirjallisuus	0.00018335998174734414
+<http://www.yso.fi/onto/yso/p20498>	sarjajulkaisut	0.00018321210518479347
+<http://www.yso.fi/onto/yso/p900>	fysiikka	0.0001829409593483433
+<http://www.yso.fi/onto/yso/p17294>	yleissivistys	0.0001828947279136628
+<http://www.yso.fi/onto/yso/p24332>	opiskelupaikat	0.00018287869170308113
+<http://www.yso.fi/onto/yso/p24326>	muotoilukasvatus	0.0001826414663810283
+<http://www.yso.fi/onto/yso/p7002>	painovapaus	0.0001826158695621416
+<http://www.yso.fi/onto/yso/p27744>	taidelähtöiset menetelmät	0.00018258104682900012
+<http://www.yso.fi/onto/yso/p12593>	kivilajit	0.0001824214414227754
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.00018206462846137583
+<http://www.yso.fi/onto/yso/p9525>	liikesalaisuus	0.00018190981063526124
+<http://www.yso.fi/onto/yso/p21929>	metsäntutkijat	0.000181776107638143
+<http://www.yso.fi/onto/yso/p6971>	sosiaalinen kasvatus	0.00018165445362683386
+<http://www.yso.fi/onto/yso/p27645>	taskut	0.00018152646953240037
+<http://www.yso.fi/onto/yso/p6266>	täydennyskoulutus	0.00018150015966966748
+<http://www.yso.fi/onto/yso/p9729>	organisaatio (ilmiöt)	0.00018139391613658518
+<http://www.yso.fi/onto/yso/p14993>	improvisointi	0.0001812317204894498
+<http://www.yso.fi/onto/yso/p7094>	terveysneuvonta	0.00018101443129125983
+<http://www.yso.fi/onto/yso/p151>	valitusoikeus	0.00018076307605952024
+<http://www.yso.fi/onto/yso/p16953>	dokumentointikeskukset	0.0001804175990400836
+<http://www.yso.fi/onto/yso/p12774>	levysoittimet	0.00018028654449153692
+<http://www.yso.fi/onto/yso/p8643>	antirasismi	0.00017991331696975976
+<http://www.yso.fi/onto/yso/p4513>	standardit	0.00017983783618547022
+<http://www.yso.fi/onto/yso/p15775>	rengastus	0.0001797797012841329
+<http://www.yso.fi/onto/yso/p4412>	työttömyysturva	0.000179687820491381
+<http://www.yso.fi/onto/yso/p13763>	Reggio Emilia -pedagogiikka	0.0001796213473426178
+<http://www.yso.fi/onto/yso/p13157>	työkokemus	0.00017842266242951155
+<http://www.yso.fi/onto/yso/p15208>	hotellit	0.00017834253958426416
+<http://www.yso.fi/onto/yso/p11447>	maatalouslomittajat	0.00017811937141232193
+<http://www.yso.fi/onto/yso/p16191>	paineastiat	0.00017743407806847245
+<http://www.yso.fi/onto/yso/p17865>	tietokoneavusteinen suunnittelu	0.00017742544878274202
+<http://www.yso.fi/onto/yso/p23105>	vinkkaus	0.0001774230768205598
+<http://www.yso.fi/onto/yso/p13068>	erikoislahjakkuus	0.0001773496624082327
+<http://www.yso.fi/onto/yso/p9560>	ASP	0.0001772446557879448
+<http://www.yso.fi/onto/yso/p15983>	rehuvilja	0.00017693913832772523
+<http://www.yso.fi/onto/yso/p8431>	lainaustoiminta	0.00017663011385593563
+<http://www.yso.fi/onto/yso/p25467>	kohoaminen	0.00017637896235100925
+<http://www.yso.fi/onto/yso/p1349>	erikoiskielet	0.00017635895346757025
+<http://www.yso.fi/onto/yso/p18964>	anniskelu	0.00017633961397223175
+<http://www.yso.fi/onto/yso/p9676>	opintosuunnat	0.00017629236390348524
+<http://www.yso.fi/onto/yso/p16624>	elintarvikepolitiikka	0.000176084169652313
+<http://www.yso.fi/onto/yso/p12771>	työtapaturmat	0.00017603195738047361
+<http://www.yso.fi/onto/yso/p26437>	yhteiskirjastot	0.0001759888109518215
+<http://www.yso.fi/onto/yso/p6548>	ammatinvalinta	0.00017585829482413828
+<http://www.yso.fi/onto/yso/p8452>	sairaanhoitajat	0.0001758272701408714
+<http://www.yso.fi/onto/yso/p20400>	kuluttajakasvatus	0.0001757157879183069
+<http://www.yso.fi/onto/yso/p3176>	laulukirjat	0.0001755509729264304

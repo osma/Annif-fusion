@@ -1,0 +1,1000 @@
+<http://www.yso.fi/onto/yso/p4327>	taloushallinto	0.2026830480203849
+<http://www.yso.fi/onto/yso/p21281>	tietotalous	0.16170862260368282
+<http://www.yso.fi/onto/yso/p23224>	sähköinen taloushallinto	0.1461592149963333
+<http://www.yso.fi/onto/yso/p5295>	taloustieto	0.11451881581876486
+<http://www.yso.fi/onto/yso/p4773>	talousjärjestelmät	0.10929984296135095
+<http://www.yso.fi/onto/yso/p16975>	hallintajärjestelmät	0.09552147289237409
+<http://www.yso.fi/onto/yso/p21197>	sähköinen hallinto	0.09537554878384093
+<http://www.yso.fi/onto/yso/p668>	raportointi	0.09492693384900881
+<http://www.yso.fi/onto/yso/p14261>	pankkitarkastus	0.08984739704706284
+<http://www.yso.fi/onto/yso/p10117>	ohjelmatoimistot	0.08830184469810454
+<http://www.yso.fi/onto/yso/p23923>	reskontrat	0.07774967246197872
+<http://www.yso.fi/onto/yso/p1987>	laskutus	0.0777388276002894
+<http://www.yso.fi/onto/yso/p19523>	viitetietokannat	0.076162288584497
+<http://www.yso.fi/onto/yso/p13803>	hallintopalvelut	0.07562564878672601
+<http://www.yso.fi/onto/yso/p18706>	sisäinen laskentatoimi	0.07455714235559545
+<http://www.yso.fi/onto/yso/p3882>	hallintotoimi	0.07311989617415163
+<http://www.yso.fi/onto/yso/p1986>	sähköinen laskutus	0.07287920728935238
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.07236308078203937
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.07158325687529975
+<http://www.yso.fi/onto/yso/p1922>	pankkitilit	0.07065682836269087
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.06925114083235186
+<http://www.yso.fi/onto/yso/p57>	kirjastotyö	0.06788714400168365
+<http://www.yso.fi/onto/yso/p2692>	kirjanpito	0.06737522399452855
+<http://www.yso.fi/onto/yso/p11176>	SPSS	0.06655732269140609
+<http://www.yso.fi/onto/yso/p11162>	kirjastoaineistot	0.06553017879940651
+<http://www.yso.fi/onto/yso/p5521>	tiedonhallinta	0.06488388965869066
+<http://www.yso.fi/onto/yso/p26375>	kirjastohistoria	0.06480591351786119
+<http://www.yso.fi/onto/yso/p1582>	opasteet	0.06479757550714091
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.06389052628787842
+<http://www.yso.fi/onto/yso/p26328>	mikrotalous	0.06377735141648302
+<http://www.yso.fi/onto/yso/p190>	kirjastonkäyttö	0.06336550576050529
+<http://www.yso.fi/onto/yso/p28507>	kirjastotietokannat	0.06310746662241704
+<http://www.yso.fi/onto/yso/p17650>	aatteelliset järjestöt	0.06307793914289352
+<http://www.yso.fi/onto/yso/p10055>	kirjanpitolaki	0.06224005451116436
+<http://www.yso.fi/onto/yso/p2867>	hallintopäätökset	0.06223978396955085
+<http://www.yso.fi/onto/yso/p16255>	korkeakoulukirjastot	0.06193867031621368
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.061477101294542
+<http://www.yso.fi/onto/yso/p7747>	erikoiskirjastot	0.059792297975234825
+<http://www.yso.fi/onto/yso/p18689>	aineistonvalinta	0.05931012634234232
+<http://www.yso.fi/onto/yso/p23828>	kirjastolaitos	0.05912659363790938
+<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.05888126482036807
+<http://www.yso.fi/onto/yso/p26437>	yhteiskirjastot	0.058333484227577836
+<http://www.yso.fi/onto/yso/p11291>	ohjelmistot	0.05785293417466231
+<http://www.yso.fi/onto/yso/p21516>	kirjastojärjestelmät	0.05765447840840032
+<http://www.yso.fi/onto/yso/p11429>	atk-ala	0.057248770287137526
+<http://www.yso.fi/onto/yso/p16254>	ammattikorkeakoulukirjastot	0.056713785318088565
+<http://www.yso.fi/onto/yso/p17979>	yleinen historia	0.055858017024074925
+<http://www.yso.fi/onto/yso/p19003>	pitopalvelut	0.05543264999327086
+<http://www.yso.fi/onto/yso/p8431>	lainaustoiminta	0.055188473791491055
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.05491404749627881
+<http://www.yso.fi/onto/yso/p16595>	New Age -liike	0.05453508703984694
+<http://www.yso.fi/onto/yso/p3011>	maksuliikenne	0.05432699362381481
+<http://www.yso.fi/onto/yso/p10331>	tilikirjat	0.05423362362840431
+<http://www.yso.fi/onto/yso/p22524>	sivukirjastot	0.053927529902132385
+<http://www.yso.fi/onto/yso/p5853>	hakkuut	0.053745763788295355
+<http://www.yso.fi/onto/yso/p12124>	keskisuuret yritykset	0.053513270791196325
+<http://www.yso.fi/onto/yso/p6693>	kirjastopolitiikka	0.053314656841614655
+<http://www.yso.fi/onto/yso/p27104>	mikroyritykset	0.05310912466010794
+<http://www.yso.fi/onto/yso/p1311>	liikennemaksut	0.05248958498566135
+<http://www.yso.fi/onto/yso/p18161>	tiedonhallintajärjestelmät	0.052330328003327396
+<http://www.yso.fi/onto/yso/p4860>	kirjastorakennukset	0.051727830602772085
+<http://www.yso.fi/onto/yso/p26592>	tietokoneohjelmat	0.05160708784345724
+<http://www.yso.fi/onto/yso/p29489>	yrityksen perustaminen	0.05158921691079033
+<http://www.yso.fi/onto/yso/p14503>	kirjanpitäjät	0.05157535503805061
+<http://www.yso.fi/onto/yso/p55>	kokoelmatyö	0.05121377243837077
+<http://www.yso.fi/onto/yso/p10183>	tiedekuntakirjastot	0.05094911257813614
+<http://www.yso.fi/onto/yso/p3043>	yrityspolitiikka	0.050924456069215626
+<http://www.yso.fi/onto/yso/p16382>	kirjastonjohtajat	0.050610686037856
+<http://www.yso.fi/onto/yso/p8246>	pienet ja keskisuuret yritykset	0.05029556082914302
+<http://www.yso.fi/onto/yso/p3247>	kirjastonhoito	0.05000679628871571
+<http://www.yso.fi/onto/yso/p11851>	sosiaaliset yritykset	0.04904919123107524
+<http://www.yso.fi/onto/yso/p24129>	laskut	0.048938286096182435
+<http://www.yso.fi/onto/yso/p3711>	vapaat ohjelmistot	0.04854426232756842
+<http://www.yso.fi/onto/yso/p4509>	hankinta	0.048354854669771345
+<http://www.yso.fi/onto/yso/p24563>	tarvekartoitus	0.048109005224104245
+<http://www.yso.fi/onto/yso/p13817>	laskentajärjestelmät	0.048056931382227504
+<http://www.yso.fi/onto/yso/p2369>	ilmatorjuntajoukot	0.047863868479680896
+<http://www.yso.fi/onto/yso/p7746>	yrityskirjastot	0.04784346402530088
+<http://www.yso.fi/onto/yso/p11748>	kouluhallinto	0.047799233063370826
+<http://www.yso.fi/onto/yso/p3077>	käyttötutkimus	0.04758724868312887
+<http://www.yso.fi/onto/yso/p18332>	hallintosopimukset	0.04750444992016807
+<http://www.yso.fi/onto/yso/p17631>	toiminnanohjaus (organisaatiot)	0.047428148487181895
+<http://www.yso.fi/onto/yso/p18121>	korkeakouluhallinto	0.047399917818609465
+<http://www.yso.fi/onto/yso/p6585>	lastenkirjastot	0.04735533283607193
+<http://www.yso.fi/onto/yso/p9170>	HTML	0.046873311147441483
+<http://www.yso.fi/onto/yso/p2906>	konfigurointi	0.04655248845223654
+<http://www.yso.fi/onto/yso/p11241>	virastokirjastot	0.046443699430854
+<http://www.yso.fi/onto/yso/p27066>	ohjelmistosuunnittelu	0.046311459397791827
+<http://www.yso.fi/onto/yso/p3953>	liikennehallinto	0.04585476590535827
+<http://www.yso.fi/onto/yso/p11436>	virtuaalikirjastot	0.04555489353969173
+<http://www.yso.fi/onto/yso/p15360>	käyttäjäkoulutus	0.045552331824027875
+<http://www.yso.fi/onto/yso/p23839>	digitointi	0.04535410907710158
+<http://www.yso.fi/onto/yso/p17885>	kassavirta	0.045343760821142824
+<http://www.yso.fi/onto/yso/p17475>	parlamenttikirjastot	0.04520509685471494
+<http://www.yso.fi/onto/yso/p19554>	tomismi	0.0448649699704293
+<http://www.yso.fi/onto/yso/p23105>	vinkkaus	0.044846455312497466
+<http://www.yso.fi/onto/yso/p9998>	ulkoistaminen	0.044101651131007884
+<http://www.yso.fi/onto/yso/p1258>	sähköinen arkistointi	0.044072122947541384
+<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.04384743019429852
+<http://www.yso.fi/onto/yso/p13643>	muutosvastarinta	0.0437723199929175
+<http://www.yso.fi/onto/yso/p8939>	tietokantaohjelmat	0.043014214426016675
+<http://www.yso.fi/onto/yso/p21294>	toiminnot	0.04292501244920846
+<http://www.yso.fi/onto/yso/p20199>	kirjastovirkailijat	0.0428688705122918
+<http://www.yso.fi/onto/yso/p10456>	televisioyhtiöt	0.04260572103201623
+<http://www.yso.fi/onto/yso/p2111>	prosessit	0.04252816569545993
+<http://www.yso.fi/onto/yso/p17832>	käyttöönotto	0.04250132529036166
+<http://www.yso.fi/onto/yso/p26963>	osakekirjat	0.042384477548903246
+<http://www.yso.fi/onto/yso/p4385>	kuvaus (luonti)	0.042105836980323386
+<http://www.yso.fi/onto/yso/p25650>	yritysmyynti	0.042040923665709225
+<http://www.yso.fi/onto/yso/p20073>	kirjavinkkaus	0.042037021423165524
+<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.04188703053083524
+<http://www.yso.fi/onto/yso/p3295>	visiot	0.041803155171164626
+<http://www.yso.fi/onto/yso/p14562>	tietovarastot	0.041794493843776946
+<http://www.yso.fi/onto/yso/p2555>	talous	0.041617480397349284
+<http://www.yso.fi/onto/yso/p7223>	valokuvausliikkeet	0.041447403395593024
+<http://www.yso.fi/onto/yso/p16798>	rojaltit	0.041434041156770435
+<http://www.yso.fi/onto/yso/p589>	puhelinmyynti	0.04142259832290382
+<http://www.yso.fi/onto/yso/p2786>	koulukirjastot	0.04132947460458879
+<http://www.yso.fi/onto/yso/p21336>	tavarantoimittajat	0.041256500670101455
+<http://www.yso.fi/onto/yso/p1753>	laskelmat	0.04110066600804735
+<http://www.yso.fi/onto/yso/p2439>	liiketoiminta	0.04102415274139283
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.04092368572079819
+<http://www.yso.fi/onto/yso/p9477>	myynninedistäminen	0.04072847057723473
+<http://www.yso.fi/onto/yso/p7621>	laskentatoimi	0.04055607889964426
+<http://www.yso.fi/onto/yso/p10092>	SWOT-analyysi	0.0404145750031371
+<http://www.yso.fi/onto/yso/p2691>	tuloslaskelmat	0.04040688518984268
+<http://www.yso.fi/onto/yso/p25749>	kassavirta-analyysi	0.040282113490033494
+<http://www.yso.fi/onto/yso/p19075>	LVI-ala	0.04028001747051692
+<http://www.yso.fi/onto/yso/p22838>	verkko-ohjelmointi	0.04014043607348345
+<http://www.yso.fi/onto/yso/p19607>	tilitoimistot	0.03997361889401226
+<http://www.yso.fi/onto/yso/p21530>	ohjelmistokehitys	0.03989299677948241
+<http://www.yso.fi/onto/yso/p28114>	startup-yritykset	0.039749934969470796
+<http://www.yso.fi/onto/yso/p28266>	yritystuet	0.03965289679857883
+<http://www.yso.fi/onto/yso/p18424>	relaatiotietokannat	0.0395265137333557
+<http://www.yso.fi/onto/yso/p17097>	ohjelmistotuotanto	0.03939769021628065
+<http://www.yso.fi/onto/yso/p11886>	yritysverotus	0.03933480028978812
+<http://www.yso.fi/onto/yso/p14535>	katetuotto	0.03929334280787598
+<http://www.yso.fi/onto/yso/p6104>	liiketoimintaympäristö	0.03918915889384683
+<http://www.yso.fi/onto/yso/p19730>	katetuottolaskenta	0.039188949945783196
+<http://www.yso.fi/onto/yso/p15513>	verkonhallinta	0.038947884632499805
+<http://www.yso.fi/onto/yso/p1998>	sähköiset julkaisut	0.038807796333273324
+<http://www.yso.fi/onto/yso/p19969>	audiovisuaalinen ala	0.038638863755546385
+<http://www.yso.fi/onto/yso/p16954>	tietopalvelukeskukset	0.03845381477636617
+<http://www.yso.fi/onto/yso/p1009>	palveluammatit	0.038343690133897976
+<http://www.yso.fi/onto/yso/p8880>	hyöty	0.03827691644557983
+<http://www.yso.fi/onto/yso/p20223>	palkanlaskenta	0.03814275288527831
+<http://www.yso.fi/onto/yso/p9343>	lähdekoodit	0.038063366404654436
+<http://www.yso.fi/onto/yso/p24952>	liikeanalyysi	0.03800436804159542
+<http://www.yso.fi/onto/yso/p21131>	kasvuyritykset	0.038000088332950654
+<http://www.yso.fi/onto/yso/p26122>	yritysviestintä	0.03794793840873265
+<http://www.yso.fi/onto/yso/p15951>	suunnitelmatalous	0.03783672850225715
+<http://www.yso.fi/onto/yso/p27377>	tilinpäätösanalyysi	0.037791581924240814
+<http://www.yso.fi/onto/yso/p22137>	hakkuukoneet	0.03776003185242012
+<http://www.yso.fi/onto/yso/p7606>	valintakriteerit	0.03772798212519608
+<http://www.yso.fi/onto/yso/p22931>	tehostaminen	0.037677973193049004
+<http://www.yso.fi/onto/yso/p20776>	asiakastiedot	0.03767028182929826
+<http://www.yso.fi/onto/yso/p8663>	erikoisliikkeet	0.037542214829218726
+<http://www.yso.fi/onto/yso/p4652>	palvelukeskukset	0.03733570580728821
+<http://www.yso.fi/onto/yso/p9908>	prosessijohtaminen	0.037305972656848534
+<http://www.yso.fi/onto/yso/p25117>	taiteilijuus	0.03718546802047282
+<http://www.yso.fi/onto/yso/p3926>	tiedonhakujärjestelmät	0.037183738626522994
+<http://www.yso.fi/onto/yso/p9080>	vertailu	0.03705659107113924
+<http://www.yso.fi/onto/yso/p6035>	taloussuunnittelu	0.03693225983724584
+<http://www.yso.fi/onto/yso/p20426>	Derive	0.036886677489669985
+<http://www.yso.fi/onto/yso/p19047>	yritysasiakkaat	0.03669017580111134
+<http://www.yso.fi/onto/yso/p20654>	kokonaisarkkitehtuuri	0.0366766293692992
+<http://www.yso.fi/onto/yso/p12913>	muutosjohtaminen	0.03664709448938195
+<http://www.yso.fi/onto/yso/p14047>	suhdemarkkinointi	0.0365886347362866
+<http://www.yso.fi/onto/yso/p16876>	pidot	0.036470906407453735
+<http://www.yso.fi/onto/yso/p12621>	talouselämä	0.03644240566646865
+<http://www.yso.fi/onto/yso/p20423>	turva-ala	0.0363742745326708
+<http://www.yso.fi/onto/yso/p15152>	verkkomainonta	0.03633123481731046
+<http://www.yso.fi/onto/yso/p9225>	business intelligence	0.036221185304466684
+<http://www.yso.fi/onto/yso/p2815>	työhallinto	0.036212356124975593
+<http://www.yso.fi/onto/yso/p11350>	yhteisötalous	0.036186574947814514
+<http://www.yso.fi/onto/yso/p20944>	ympäristöliiketoiminta	0.036157571337299126
+<http://www.yso.fi/onto/yso/p18813>	Keltainen kirjasto	0.03610915013564409
+<http://www.yso.fi/onto/yso/p29404>	toiminnanohjausjärjestelmät	0.036105031414138004
+<http://www.yso.fi/onto/yso/p6851>	analyysi	0.03598861299730407
+<http://www.yso.fi/onto/yso/p13380>	sisällönkuvailu	0.03597426994773689
+<http://www.yso.fi/onto/yso/p17166>	rikoksen yritys	0.03584803680208013
+<http://www.yso.fi/onto/yso/p17138>	vieras pääoma	0.035760055325264016
+<http://www.yso.fi/onto/yso/p25681>	kylkiäiset	0.035533988165355045
+<http://www.yso.fi/onto/yso/p29384>	sairaalakirjastot	0.03549025802014758
+<http://www.yso.fi/onto/yso/p5156>	yritysstrategiat	0.03541125017331356
+<http://www.yso.fi/onto/yso/p22794>	itse	0.03526031175079959
+<http://www.yso.fi/onto/yso/p6998>	hakupalvelut	0.03514189240661379
+<http://www.yso.fi/onto/yso/p8530>	asiakkuudenhallinta	0.03509110221563497
+<http://www.yso.fi/onto/yso/p5157>	yrityssuunnittelu	0.035081633442969676
+<http://www.yso.fi/onto/yso/p12743>	yritysmarkkinointi	0.03504552017766028
+<http://www.yso.fi/onto/yso/p6505>	kirjastotoimi	0.035041780573345664
+<http://www.yso.fi/onto/yso/p3580>	haku	0.03488965197198533
+<http://www.yso.fi/onto/yso/p28539>	vaatimusmäärittelyt	0.03488067850527742
+<http://www.yso.fi/onto/yso/p14710>	satutunnit	0.034867025829266304
+<http://www.yso.fi/onto/yso/p22059>	määrittely	0.03470640000556887
+<http://www.yso.fi/onto/yso/p18920>	yksityiskirjastot	0.034654257877438845
+<http://www.yso.fi/onto/yso/p25270>	jälkimarkkinointi	0.03459957988193382
+<http://www.yso.fi/onto/yso/p25757>	moonilaisuus	0.03446966402170263
+<http://www.yso.fi/onto/yso/p590>	suoramarkkinointi	0.03445909534933311
+<http://www.yso.fi/onto/yso/p1431>	osto- ja myyntiliikkeet	0.03443930461476502
+<http://www.yso.fi/onto/yso/p17269>	työpaikkakirjastot	0.034348370130415765
+<http://www.yso.fi/onto/yso/p15670>	talouskoulut	0.034332383321715856
+<http://www.yso.fi/onto/yso/p22180>	laskentamenetelmät	0.03425898698736664
+<http://www.yso.fi/onto/yso/p26739>	3D-mallinnus	0.03420825955637249
+<http://www.yso.fi/onto/yso/p9560>	ASP	0.03418658903866145
+<http://www.yso.fi/onto/yso/p6839>	Villa Oivala	0.034136420183032215
+<http://www.yso.fi/onto/yso/p9725>	henkilöstösuunnittelu	0.03411720338922806
+<http://www.yso.fi/onto/yso/p22176>	päätösanalyysi	0.03408814068696964
+<http://www.yso.fi/onto/yso/p12294>	osuuskuntalaki	0.03405869069996806
+<http://www.yso.fi/onto/yso/p2669>	SQL	0.03401146153518189
+<http://www.yso.fi/onto/yso/p20165>	arvojohtaminen	0.0339818152334403
+<http://www.yso.fi/onto/yso/p18834>	kvantitatiivinen tutkimus	0.033975443727940036
+<http://www.yso.fi/onto/yso/p27940>	itsensä johtaminen	0.033907401894994006
+<http://www.yso.fi/onto/yso/p16829>	taidekirjastot	0.033901085040322375
+<http://www.yso.fi/onto/yso/p13573>	varastonvalvonta	0.033755212604361394
+<http://www.yso.fi/onto/yso/p24600>	palveluliiketoiminta	0.033566292277768014
+<http://www.yso.fi/onto/yso/p20098>	toiminnalliset menetelmät	0.03349990720583668
+<http://www.yso.fi/onto/yso/p19660>	kansainvälinen vertailu	0.03348991259200447
+<http://www.yso.fi/onto/yso/p15>	sosiaaliset liikkeet	0.03341872989731812
+<http://www.yso.fi/onto/yso/p10832>	kassanhallinta	0.03327122046633897
+<http://www.yso.fi/onto/yso/p20955>	elintarviketurvallisuus	0.03317965048323335
+<http://www.yso.fi/onto/yso/p15971>	myyntityö	0.0331052921185148
+<http://www.yso.fi/onto/yso/p11235>	tietotekniikkayritykset	0.033090067427924474
+<http://www.yso.fi/onto/yso/p17095>	yhdistyslaki	0.03297018017922276
+<http://www.yso.fi/onto/yso/p17744>	asiaohjelmat	0.03294007503035062
+<http://www.yso.fi/onto/yso/p25236>	tarjouslaskenta	0.0329042267175436
+<http://www.yso.fi/onto/yso/p383>	lähikaupat	0.03286019415111487
+<http://www.yso.fi/onto/yso/p20557>	etäkäyttö	0.0328137874735655
+<http://www.yso.fi/onto/yso/p5489>	kantakieli	0.032811558929716225
+<http://www.yso.fi/onto/yso/p29255>	vientiyritykset	0.03273114035272732
+<http://www.yso.fi/onto/yso/p1281>	näytteleminen	0.032628278494908174
+<http://www.yso.fi/onto/yso/p26026>	varastokirjanpito	0.03262441086134323
+<http://www.yso.fi/onto/yso/p5100>	SolidWorks	0.032589552906016714
+<http://www.yso.fi/onto/yso/p3055>	faktatietokannat	0.032575301241969876
+<http://www.yso.fi/onto/yso/p17679>	hallinnointi	0.03242830428249137
+<http://www.yso.fi/onto/yso/p13354>	veturit	0.032350162160941526
+<http://www.yso.fi/onto/yso/p17563>	kauppalaki	0.03231019443927472
+<http://www.yso.fi/onto/yso/p13504>	työprosessit	0.032277244700412634
+<http://www.yso.fi/onto/yso/p20483>	yritysneuvonta	0.03213866798089779
+<http://www.yso.fi/onto/yso/p21307>	ohjelmistoliiketoiminta	0.032078488485034196
+<http://www.yso.fi/onto/yso/p3358>	järjestelmät	0.03207366932266362
+<http://www.yso.fi/onto/yso/p7186>	tunnusluvut	0.03205004803621929
+<http://www.yso.fi/onto/yso/p9123>	graafinen ala	0.03204474357876389
+<http://www.yso.fi/onto/yso/p16664>	uususkonnollisuus	0.031958407703779515
+<http://www.yso.fi/onto/yso/p11236>	tietoyritykset	0.03185587483269534
+<http://www.yso.fi/onto/yso/p25653>	sähköinen aineisto	0.031849739354473904
+<http://www.yso.fi/onto/yso/p12544>	mielihyvä	0.03183016270962261
+<http://www.yso.fi/onto/yso/p20351>	liikeviestintä	0.03179537133009276
+<http://www.yso.fi/onto/yso/p477>	henkilöstöhankinta	0.0317629674202716
+<http://www.yso.fi/onto/yso/p20970>	perintätoimistot	0.031575219249051774
+<http://www.yso.fi/onto/yso/p28946>	tiedontuotanto	0.03155130920681367
+<http://www.yso.fi/onto/yso/p3713>	kirjastotiede	0.03150152214772577
+<http://www.yso.fi/onto/yso/p403>	palveluyritykset	0.03143281610982546
+<http://www.yso.fi/onto/yso/p23197>	finanssiala	0.03143056285469124
+<http://www.yso.fi/onto/yso/p13331>	tukkukauppa	0.031373392826935485
+<http://www.yso.fi/onto/yso/p27360>	asiakasrekisterit	0.031142267627577613
+<http://www.yso.fi/onto/yso/p26597>	verkkoympäristö	0.03113274761417772
+<http://www.yso.fi/onto/yso/p163>	kyselykielet	0.03106225527721085
+<http://www.yso.fi/onto/yso/p8440>	selaimet	0.03105963507360349
+<http://www.yso.fi/onto/yso/p3948>	joukko-osastot	0.03099934486161801
+<http://www.yso.fi/onto/yso/p21018>	arvoketjut	0.030976860244366793
+<http://www.yso.fi/onto/yso/p12991>	pitäjät	0.03097320978331245
+<http://www.yso.fi/onto/yso/p25658>	asiakassegmentointi	0.030966581231510443
+<http://www.yso.fi/onto/yso/p17964>	seutuyhteistyö	0.030962313424869593
+<http://www.yso.fi/onto/yso/p13599>	tytäryhtiöt	0.030956207261941066
+<http://www.yso.fi/onto/yso/p13738>	prosessinohjaus	0.03095451698006537
+<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.030921881261389065
+<http://www.yso.fi/onto/yso/p15619>	kustannussopimukset	0.030903559328655045
+<http://www.yso.fi/onto/yso/p26007>	kilpailija-analyysi	0.03089441252592254
+<http://www.yso.fi/onto/yso/p14764>	ohjelmistoteollisuus	0.03085874289689986
+<http://www.yso.fi/onto/yso/p25981>	brändäys	0.030835430016731634
+<http://www.yso.fi/onto/yso/p8851>	lukusalit	0.030790976835819682
+<http://www.yso.fi/onto/yso/p8295>	koulutusyritykset	0.030772001121955415
+<http://www.yso.fi/onto/yso/p4559>	maahantuojat	0.03067277967715043
+<http://www.yso.fi/onto/yso/p27028>	toimintaohjeet	0.030636805278378403
+<http://www.yso.fi/onto/yso/p12213>	sympatia	0.03063662441037149
+<http://www.yso.fi/onto/yso/p24415>	flow-tila	0.030609644214459743
+<http://www.yso.fi/onto/yso/p2694>	taseanalyysi	0.030588017794336383
+<http://www.yso.fi/onto/yso/p11227>	kunnan talousarviot	0.03058587281546941
+<http://www.yso.fi/onto/yso/p9458>	suoramyynti	0.030582396455000646
+<http://www.yso.fi/onto/yso/p3009>	maksupalvelut	0.03055363967082239
+<http://www.yso.fi/onto/yso/p14294>	suhdetoiminta	0.030502906284017937
+<http://www.yso.fi/onto/yso/p13023>	hallintalaitteet	0.030499368551406895
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.030482167078249165
+<http://www.yso.fi/onto/yso/p6105>	toimintaympäristö	0.03041674558469663
+<http://www.yso.fi/onto/yso/p14458>	etätunnistus	0.030411564690653873
+<http://www.yso.fi/onto/yso/p16273>	projektinhallinta	0.03036896060161987
+<http://www.yso.fi/onto/yso/p9922>	menekki	0.030361903312687337
+<http://www.yso.fi/onto/yso/p12546>	palkkahallinto	0.030292911543113928
+<http://www.yso.fi/onto/yso/p24629>	hakukonemarkkinointi	0.03009992215736224
+<http://www.yso.fi/onto/yso/p24301>	strategiatyö	0.030078354546872924
+<http://www.yso.fi/onto/yso/p22427>	mallitoimistot	0.03005881722549208
+<http://www.yso.fi/onto/yso/p24836>	tullaus	0.030045208826303103
+<http://www.yso.fi/onto/yso/p1865>	markkinat (taloustiede)	0.03004355759427765
+<http://www.yso.fi/onto/yso/p16959>	räätälöinti	0.03003841170896166
+<http://www.yso.fi/onto/yso/p14851>	yritystutkimus	0.030021704973636647
+<http://www.yso.fi/onto/yso/p13330>	tukkuliikkeet	0.03000648195116437
+<http://www.yso.fi/onto/yso/p506>	hallinta	0.029994322661880585
+<http://www.yso.fi/onto/yso/p10581>	CSS	0.029947225896876158
+<http://www.yso.fi/onto/yso/p3774>	yritysmuodot	0.029855745698280495
+<http://www.yso.fi/onto/yso/p26955>	rahoitustase	0.029848010032414503
+<http://www.yso.fi/onto/yso/p16>	kansainväliset liikkeet	0.02984597935055341
+<http://www.yso.fi/onto/yso/p18427>	kustannus-hyötyanalyysi	0.02983120487889067
+<http://www.yso.fi/onto/yso/p25655>	USB-muistit	0.029756396997172734
+<http://www.yso.fi/onto/yso/p18187>	sosiaaliset erikoiskirjastot	0.029751534993129547
+<http://www.yso.fi/onto/yso/p16268>	PHP	0.02971938746296905
+<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.029688074569677106
+<http://www.yso.fi/onto/yso/p11430>	tietotekniikka-ala	0.029626981726403795
+<http://www.yso.fi/onto/yso/p13982>	ympäristöraportointi	0.029475487498412823
+<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.029473492369830434
+<http://www.yso.fi/onto/yso/p8692>	digitalisaatio	0.02946399860763103
+<http://www.yso.fi/onto/yso/p840>	JavaScript	0.02938328571726307
+<http://www.yso.fi/onto/yso/p1181>	yritystoiminta	0.02938032413533315
+<http://www.yso.fi/onto/yso/p13615>	laitoskirjastot (yliopistot)	0.029319421171846216
+<http://www.yso.fi/onto/yso/p3573>	valuutta	0.029310625475177866
+<http://www.yso.fi/onto/yso/p19420>	sitouttaminen	0.029265468046912498
+<http://www.yso.fi/onto/yso/p1006>	lisäarvo	0.029218324748285122
+<http://www.yso.fi/onto/yso/p22670>	siivouspalvelut	0.02921252555808445
+<http://www.yso.fi/onto/yso/p2961>	tiedonhankinta	0.02920706145885007
+<http://www.yso.fi/onto/yso/p19351>	henkilöstöresurssit	0.029194255130561036
+<http://www.yso.fi/onto/yso/p17293>	budjetointi	0.029143190552393575
+<http://www.yso.fi/onto/yso/p23490>	Visual Studio	0.029108016309263452
+<http://www.yso.fi/onto/yso/p25146>	verkkonäkyvyys	0.029081969097821424
+<http://www.yso.fi/onto/yso/p18521>	laskentamallit	0.029069545799005773
+<http://www.yso.fi/onto/yso/p19912>	pääomanliikkeet	0.029064950555104833
+<http://www.yso.fi/onto/yso/p12324>	kenttätyö	0.029031303750316657
+<http://www.yso.fi/onto/yso/p548>	henkilöstötilat	0.029019938966551702
+<http://www.yso.fi/onto/yso/p24254>	viraalimarkkinointi	0.029011707670290016
+<http://www.yso.fi/onto/yso/p4458>	asiakassuhde	0.02898576815445355
+<http://www.yso.fi/onto/yso/p23265>	atk-tuki	0.028870967346976507
+<http://www.yso.fi/onto/yso/p5362>	materiaalitalous	0.028851040100018103
+<http://www.yso.fi/onto/yso/p23081>	yritysetiikka	0.02881560214556167
+<http://www.yso.fi/onto/yso/p8550>	kohdeviestintä	0.028776178480140843
+<http://www.yso.fi/onto/yso/p6715>	päivitys	0.028742695194412745
+<http://www.yso.fi/onto/yso/p2695>	taseet	0.028724928758305998
+<http://www.yso.fi/onto/yso/p1701>	digitaalinen painatus	0.02867240627018688
+<http://www.yso.fi/onto/yso/p24272>	liiketoimintaprosessit	0.02865060073849438
+<http://www.yso.fi/onto/yso/p15999>	avoin ammattikorkeakoulu	0.028604889094005388
+<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.02857105442482903
+<http://www.yso.fi/onto/yso/p8474>	videoneuvottelut	0.02856287929793773
+<http://www.yso.fi/onto/yso/p24769>	lean-ajattelu	0.02853432015455879
+<http://www.yso.fi/onto/yso/p14171>	kotimaiset tuotteet	0.02851190265523833
+<http://www.yso.fi/onto/yso/p21651>	tuotantojärjestelmät	0.028485908935316627
+<http://www.yso.fi/onto/yso/p23463>	Ajax-ohjelmointi	0.028445527472524476
+<http://www.yso.fi/onto/yso/p19415>	toimitusketjut	0.02844195857708206
+<http://www.yso.fi/onto/yso/p17162>	sertifikaatit	0.028415839974043882
+<http://www.yso.fi/onto/yso/p18349>	VTLS	0.02837008769003277
+<http://www.yso.fi/onto/yso/p25644>	ympäristöviestintä	0.028368000134114203
+<http://www.yso.fi/onto/yso/p25337>	käyttäjäkokemus	0.028252864397033197
+<http://www.yso.fi/onto/yso/p13922>	kokonaisvaltaisuus	0.028243601274298247
+<http://www.yso.fi/onto/yso/p22573>	säätiölaki	0.028157829431606163
+<http://www.yso.fi/onto/yso/p19050>	tuotantotekniikka	0.028073266838398787
+<http://www.yso.fi/onto/yso/p237>	raportit	0.028051911649853115
+<http://www.yso.fi/onto/yso/p4641>	oppaat (teokset)	0.02801446998654181
+<http://www.yso.fi/onto/yso/p14340>	rykmentit	0.027997711176061677
+<http://www.yso.fi/onto/yso/p25647>	välivarastot	0.027887524292382275
+<http://www.yso.fi/onto/yso/p8021>	ohjelmat (suunnitelmat)	0.027871508237318255
+<http://www.yso.fi/onto/yso/p8245>	pienyritykset	0.02781713444698682
+<http://www.yso.fi/onto/yso/p18622>	hankesuunnittelu	0.027787911359581734
+<http://www.yso.fi/onto/yso/p15268>	jälleenmyynti	0.027754209984618715
+<http://www.yso.fi/onto/yso/p14700>	kirjastoala	0.02774210134860512
+<http://www.yso.fi/onto/yso/p27042>	teollisuustuotanto	0.02769753270780964
+<http://www.yso.fi/onto/yso/p16725>	World Trade Center (New York)	0.027691383557397413
+<http://www.yso.fi/onto/yso/p27414>	mobiilisovellukset	0.02766192573965813
+<http://www.yso.fi/onto/yso/p23818>	ideat	0.02763449276624234
+<http://www.yso.fi/onto/yso/p23428>	terveydenhuollon maisterit	0.02763352980645445
+<http://www.yso.fi/onto/yso/p14348>	naisvaltaisuus	0.02762905247663944
+<http://www.yso.fi/onto/yso/p22304>	wikit	0.02761366590271723
+<http://www.yso.fi/onto/yso/p15212>	selvitys	0.02757646481660297
+<http://www.yso.fi/onto/yso/p18609>	kiuru (laji)	0.027576402152433253
+<http://www.yso.fi/onto/yso/p10628>	näkyvyys	0.027566480173024883
+<http://www.yso.fi/onto/yso/p25935>	palvelukulttuuri	0.027539671198630662
+<http://www.yso.fi/onto/yso/p23309>	infrarakentaminen	0.027522198559636318
+<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.027520583834575615
+<http://www.yso.fi/onto/yso/p13502>	huonekaluliikkeet	0.02749657835466937
+<http://www.yso.fi/onto/yso/p104>	ohjelmat (radio- tai tv-ohjelmat)	0.027488883619757546
+<http://www.yso.fi/onto/yso/p28119>	potilastietojärjestelmät	0.02748312441043759
+<http://www.yso.fi/onto/yso/p18344>	määritelmät	0.027477578980665152
+<http://www.yso.fi/onto/yso/p9877>	arvonmääritys	0.02745365356036378
+<http://www.yso.fi/onto/yso/p18106>	verotusarvo	0.027403949295492242
+<http://www.yso.fi/onto/yso/p25986>	ISO-standardit	0.027389985929769996
+<http://www.yso.fi/onto/yso/p402>	konsulttitoimistot	0.027373148346968336
+<http://www.yso.fi/onto/yso/p24458>	muutoksenhallinta	0.0273728965813992
+<http://www.yso.fi/onto/yso/p591>	etämyynti	0.027371659798362463
+<http://www.yso.fi/onto/yso/p6385>	prosessiteollisuus	0.02736543119716113
+<http://www.yso.fi/onto/yso/p23185>	pikaviestiohjelmat	0.027340273936990102
+<http://www.yso.fi/onto/yso/p12234>	videokasetit	0.027312737404958216
+<http://www.yso.fi/onto/yso/p17218>	itsetuntemus	0.02727710197924745
+<http://www.yso.fi/onto/yso/p19402>	Excel	0.027248084673722663
+<http://www.yso.fi/onto/yso/p27494>	verkkotallennus	0.027238570888076328
+<http://www.yso.fi/onto/yso/p18246>	segmentointi	0.027236781252295898
+<http://www.yso.fi/onto/yso/p10941>	SAP R/3	0.027185353343957223
+<http://www.yso.fi/onto/yso/p2408>	atk	0.027181437342782774
+<http://www.yso.fi/onto/yso/p13618>	keskitys	0.027180459318769532
+<http://www.yso.fi/onto/yso/p13591>	C#	0.02714773239117699
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.0271280747718928
+<http://www.yso.fi/onto/yso/p4674>	reitit	0.02712359217303573
+<http://www.yso.fi/onto/yso/p11267>	maksuvalmius	0.02707867222058068
+<http://www.yso.fi/onto/yso/p9191>	kilpailuetu	0.027046038829798922
+<http://www.yso.fi/onto/yso/p11171>	yrityskuva	0.027041342516071737
+<http://www.yso.fi/onto/yso/p11513>	käyttäjätutkimus	0.027006274531210624
+<http://www.yso.fi/onto/yso/p5437>	lopetus	0.027006083723504586
+<http://www.yso.fi/onto/yso/p14953>	kansainväliset yritykset	0.026909450112194415
+<http://www.yso.fi/onto/yso/p16872>	eettinen sijoittaminen	0.02685522940009174
+<http://www.yso.fi/onto/yso/p20999>	Unescon yleisten kirjastojen julistus	0.026849449294393434
+<http://www.yso.fi/onto/yso/p23615>	toteutus	0.02684365975767524
+<http://www.yso.fi/onto/yso/p15146>	ketjut (elottomat objektit)	0.026727347553948826
+<http://www.yso.fi/onto/yso/p15135>	ketjut (järjestelmät)	0.026715379370431027
+<http://www.yso.fi/onto/yso/p7941>	kuvallinen viestintä	0.02671402293383093
+<http://www.yso.fi/onto/yso/p3927>	tietojärjestelmät	0.026687741707481893
+<http://www.yso.fi/onto/yso/p14112>	verkkoviestintä	0.026678912263146577
+<http://www.yso.fi/onto/yso/p2825>	talousyhteisöt	0.026669732228730668
+<http://www.yso.fi/onto/yso/p12698>	tuotetiedot	0.026632826920735857
+<http://www.yso.fi/onto/yso/p7057>	baarit	0.026610733253692443
+<http://www.yso.fi/onto/yso/p26196>	liikearvo	0.026592361183401244
+<http://www.yso.fi/onto/yso/p2653>	lataus	0.02658750910121754
+<http://www.yso.fi/onto/yso/p11373>	pienyrittäjät	0.026581689806455432
+<http://www.yso.fi/onto/yso/p12668>	luokitus (toiminta)	0.02657204482661039
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026468088890359984
+<http://www.yso.fi/onto/yso/p1406>	rahoitus	0.02646591851546263
+<http://www.yso.fi/onto/yso/p15768>	arviointimenetelmät	0.026452472566326057
+<http://www.yso.fi/onto/yso/p5760>	ympäristöjohtaminen	0.026452053216825942
+<http://www.yso.fi/onto/yso/p23942>	digitaalinen markkinointi	0.02644822755092997
+<http://www.yso.fi/onto/yso/p12672>	tarjoukset	0.026430242231102376
+<http://www.yso.fi/onto/yso/p561>	suullinen ilmaisu	0.02642584732710801
+<http://www.yso.fi/onto/yso/p24014>	logistiikka-ala	0.026419679111220343
+<http://www.yso.fi/onto/yso/p2563>	ulkomaat	0.026414717645147377
+<http://www.yso.fi/onto/yso/p19767>	taloudellinen vastuu	0.026399897795473415
+<http://www.yso.fi/onto/yso/p26334>	yritysvastuu	0.026386355694251528
+<http://www.yso.fi/onto/yso/p3616>	tunnettuus	0.026349063303265315
+<http://www.yso.fi/onto/yso/p6682>	työliikkeet	0.026334823803189373
+<http://www.yso.fi/onto/yso/p22009>	virtualisointi	0.02630966150152566
+<http://www.yso.fi/onto/yso/p2693>	rahoituslaskelmat	0.026309250753269363
+<http://www.yso.fi/onto/yso/p10483>	maavero	0.026294700520102653
+<http://www.yso.fi/onto/yso/p13048>	työkoneet	0.02626130459636257
+<http://www.yso.fi/onto/yso/p5141>	opetusohjelmat	0.026228980828489755
+<http://www.yso.fi/onto/yso/p25738>	taidepedagogiikka	0.02621653787364195
+<http://www.yso.fi/onto/yso/p18610>	kiurut (suku)	0.026213821419500447
+<http://www.yso.fi/onto/yso/p24630>	hakukoneoptimointi	0.02620291039112173
+<http://www.yso.fi/onto/yso/p7615>	itsepalvelu	0.026172034987002362
+<http://www.yso.fi/onto/yso/p24267>	verkkoaineisto	0.026154472537179303
+<http://www.yso.fi/onto/yso/p1135>	elinkeinoilmoitukset	0.026144910932271233
+<http://www.yso.fi/onto/yso/p24097>	Twitter	0.02611901766899476
+<http://www.yso.fi/onto/yso/p875>	liikematkat	0.02611226042586706
+<http://www.yso.fi/onto/yso/p1257>	arkistointi	0.026111166531570407
+<http://www.yso.fi/onto/yso/p22952>	Google	0.026111135770560342
+<http://www.yso.fi/onto/yso/p17848>	tutkimustekniikka	0.02609701966496622
+<http://www.yso.fi/onto/yso/p17379>	siivousala	0.026067072875866987
+<http://www.yso.fi/onto/yso/p15858>	jakeluliikenne	0.026037058790653794
+<http://www.yso.fi/onto/yso/p4763>	kehittämisprojektit	0.026003826902907937
+<http://www.yso.fi/onto/yso/p9344>	koodit	0.02598977051674708
+<http://www.yso.fi/onto/yso/p13430>	toimintamuodot	0.02593872806583837
+<http://www.yso.fi/onto/yso/p23569>	toimintajärjestelmät	0.025936884697038524
+<http://www.yso.fi/onto/yso/p26666>	varastotyö	0.025929359839356996
+<http://www.yso.fi/onto/yso/p23089>	ohjelmajohtaminen	0.025921774989399987
+<http://www.yso.fi/onto/yso/p5361>	kuljetustalous	0.025896074465930174
+<http://www.yso.fi/onto/yso/p4628>	liikevaihto	0.025887241534091658
+<http://www.yso.fi/onto/yso/p17470>	tulospalkka	0.025869460481036638
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.02586258576266311
+<http://www.yso.fi/onto/yso/p8929>	vammaispolitiikka	0.025854434741721635
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.025822914582046573
+<http://www.yso.fi/onto/yso/p12902>	hyvinvointiteknologia	0.025792243527913462
+<http://www.yso.fi/onto/yso/p17374>	kansainvälinen maksuliikenne	0.02576183290263005
+<http://www.yso.fi/onto/yso/p16042>	hoitohenkilöstö	0.025754663257359332
+<http://www.yso.fi/onto/yso/p6857>	jäteautot	0.025741703592427754
+<http://www.yso.fi/onto/yso/p16269>	määrärahat	0.02571195230325676
+<http://www.yso.fi/onto/yso/p1140>	tiedontallennus	0.02569504171142954
+<http://www.yso.fi/onto/yso/p10632>	haastattelututkimus	0.02569114110419473
+<http://www.yso.fi/onto/yso/p21210>	mittarit (mittaus)	0.025597919811398865
+<http://www.yso.fi/onto/yso/p21965>	erikoistavarat	0.025587788827911635
+<http://www.yso.fi/onto/yso/p23270>	laki julkisista hankinnoista	0.02557281413187573
+<http://www.yso.fi/onto/yso/p23230>	järjestelmänhallinta	0.025559255452253155
+<http://www.yso.fi/onto/yso/p1733>	taulukointi	0.02554723995331617
+<http://www.yso.fi/onto/yso/p2268>	keskisuuri teollisuus	0.025543388358405406
+<http://www.yso.fi/onto/yso/p23851>	brändit	0.02551374254015353
+<http://www.yso.fi/onto/yso/p21846>	koneoppiminen	0.025508997318711795
+<http://www.yso.fi/onto/yso/p20871>	kokemuksellisuus	0.0254965519351099
+<http://www.yso.fi/onto/yso/p23191>	urheiluliikkeet	0.025477066172053132
+<http://www.yso.fi/onto/yso/p334>	kuvailu	0.025455675117935478
+<http://www.yso.fi/onto/yso/p16550>	käyttäjät	0.025452388758131838
+<http://www.yso.fi/onto/yso/p4736>	motivointi	0.025442097469124316
+<http://www.yso.fi/onto/yso/p14482>	urakoitsijat	0.025431881689711958
+<http://www.yso.fi/onto/yso/p29448>	etäpalvelut	0.02543082041296501
+<http://www.yso.fi/onto/yso/p27081>	esitystaide	0.025429581210976684
+<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.025409629216693378
+<http://www.yso.fi/onto/yso/p2929>	EU-tuet	0.02537070501794007
+<http://www.yso.fi/onto/yso/p15584>	tiekuljetus	0.02533027618712767
+<http://www.yso.fi/onto/yso/p17622>	henkilöstöravintolat	0.025322952241161288
+<http://www.yso.fi/onto/yso/p13933>	freelance-työntekijät	0.025306816094018688
+<http://www.yso.fi/onto/yso/p4833>	kannettavat tietokoneet	0.025304401719300734
+<http://www.yso.fi/onto/yso/p11885>	yhtiöverotus	0.025302886259462837
+<http://www.yso.fi/onto/yso/p21311>	varastot	0.025272131609518026
+<http://www.yso.fi/onto/yso/p26250>	ohjelmistoala	0.02527002159073958
+<http://www.yso.fi/onto/yso/p22023>	projektijohtaminen	0.025252773402363194
+<http://www.yso.fi/onto/yso/p3736>	liikemerkit	0.02523418934691188
+<http://www.yso.fi/onto/yso/p20656>	järjestelmäarkkitehtuuri	0.025213720205745794
+<http://www.yso.fi/onto/yso/p15986>	levytyö	0.02520491819018074
+<http://www.yso.fi/onto/yso/p6326>	varaosat	0.02518752381495145
+<http://www.yso.fi/onto/yso/p14155>	autoala	0.025082785722569056
+<http://www.yso.fi/onto/yso/p1467>	sijainti	0.025054353182182604
+<http://www.yso.fi/onto/yso/p21062>	YouTube	0.02502429848429076
+<http://www.yso.fi/onto/yso/p269>	C++	0.025022288346621114
+<http://www.yso.fi/onto/yso/p18909>	C-kieli	0.02501665229230709
+<http://www.yso.fi/onto/yso/p13554>	aikapalkka	0.025009329876642665
+<http://www.yso.fi/onto/yso/p1145>	laserit	0.025000985391652086
+<http://www.yso.fi/onto/yso/p13653>	strateginen suunnittelu	0.024974674280340805
+<http://www.yso.fi/onto/yso/p20417>	laivamatkailu	0.024972541995008177
+<http://www.yso.fi/onto/yso/p8531>	asiakkuus	0.024964530730346053
+<http://www.yso.fi/onto/yso/p14105>	atk-järjestelmät	0.024963806984128815
+<http://www.yso.fi/onto/yso/p25031>	strateginen ohjaus	0.024936155753987752
+<http://www.yso.fi/onto/yso/p10366>	ostaminen	0.024934287893860478
+<http://www.yso.fi/onto/yso/p6707>	kuljetusliikkeet	0.02492646023473875
+<http://www.yso.fi/onto/yso/p23542>	sähköiset palvelut	0.024857068016677593
+<http://www.yso.fi/onto/yso/p560>	viestintätaidot	0.02481404063937233
+<http://www.yso.fi/onto/yso/p839>	ohjelmatarjonta	0.02481082421964915
+<http://www.yso.fi/onto/yso/p28347>	järjestelmäsuunnittelu	0.024742700073843132
+<http://www.yso.fi/onto/yso/p638>	palvelimet	0.024713799788454338
+<http://www.yso.fi/onto/yso/p7462>	atk-laitteet	0.024707286908576476
+<http://www.yso.fi/onto/yso/p4044>	myyntiedustajat	0.02470644374912335
+<http://www.yso.fi/onto/yso/p8690>	tunnusmerkit	0.024673860621610203
+<http://www.yso.fi/onto/yso/p6999>	hakuohjelmat	0.024662273892403382
+<http://www.yso.fi/onto/yso/p10087>	siirto (viestintä)	0.024662117565406264
+<http://www.yso.fi/onto/yso/p5700>	siirto (liikuttaminen)	0.024659325973199277
+<http://www.yso.fi/onto/yso/p3866>	kansainvälistyminen	0.02462147899222604
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.024620680179322077
+<http://www.yso.fi/onto/yso/p22041>	autovuokraamot	0.024610124878596852
+<http://www.yso.fi/onto/yso/p4257>	kannattavuus	0.02460409940547731
+<http://www.yso.fi/onto/yso/p11799>	varustamot	0.024599302134842134
+<http://www.yso.fi/onto/yso/p27762>	palvelusuunnitelmat	0.024589266837117447
+<http://www.yso.fi/onto/yso/p8660>	ympäristöala	0.02451055879060002
+<http://www.yso.fi/onto/yso/p5149>	jakelu	0.024479342668097117
+<http://www.yso.fi/onto/yso/p17083>	kirjallisuustapahtumat	0.024475323264137375
+<http://www.yso.fi/onto/yso/p15344>	jakelutiet	0.024463927603014544
+<http://www.yso.fi/onto/yso/p6792>	rahti	0.024434610779492424
+<http://www.yso.fi/onto/yso/p16909>	mediatoimistot	0.024406751202578517
+<http://www.yso.fi/onto/yso/p2886>	skolastiikka	0.02439880263357767
+<http://www.yso.fi/onto/yso/p13992>	äänikirjat (lukemisesteisille)	0.024397496629148738
+<http://www.yso.fi/onto/yso/p7620>	kustannuslaskenta	0.0243955366430446
+<http://www.yso.fi/onto/yso/p25393>	laatukäsikirjat	0.02436725859758882
+<http://www.yso.fi/onto/yso/p28628>	ohjelma-arkistot	0.024348720035214814
+<http://www.yso.fi/onto/yso/p14784>	liikeideat	0.024348525825007197
+<http://www.yso.fi/onto/yso/p14214>	ympäristövastuu	0.02433505922807045
+<http://www.yso.fi/onto/yso/p26902>	perfektionismi	0.024313515232418374
+<http://www.yso.fi/onto/yso/p14465>	tuotantokustannukset	0.02428270507241929
+<http://www.yso.fi/onto/yso/p3654>	höyry	0.024273158399417842
+<http://www.yso.fi/onto/yso/p14774>	tekijyys	0.024253104381842784
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.02425052784312106
+<http://www.yso.fi/onto/yso/p23069>	ainespuu	0.024236253713104845
+<http://www.yso.fi/onto/yso/p23470>	riittävyys	0.024209451812020555
+<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.024201579116761057
+<http://www.yso.fi/onto/yso/p17497>	seuranta	0.02417729733097026
+<http://www.yso.fi/onto/yso/p25071>	äänikirjat (muille kuin lukemisesteisille)	0.02413272629819927
+<http://www.yso.fi/onto/yso/p27780>	devising	0.024123310930631085
+<http://www.yso.fi/onto/yso/p21123>	arvonluonti	0.024086681937845814
+<http://www.yso.fi/onto/yso/p301>	henkilöstöhallinto	0.02407964438699556
+<http://www.yso.fi/onto/yso/p25532>	ajoreitit	0.024079067538789658
+<http://www.yso.fi/onto/yso/p21029>	tietojenkäsittelytieteet	0.024055966400028477
+<http://www.yso.fi/onto/yso/p20168>	ekstranet	0.024039572564727718
+<http://www.yso.fi/onto/yso/p4576>	tarvikkeet	0.024001951041405158
+<http://www.yso.fi/onto/yso/p25850>	itsehavainnointi	0.023987414344336447
+<http://www.yso.fi/onto/yso/p14518>	sisäinen valvonta	0.02397233833368669
+<http://www.yso.fi/onto/yso/p5279>	kampanjat	0.02396017130109178
+<http://www.yso.fi/onto/yso/p18174>	ilmatorjunta	0.023957641194170227
+<http://www.yso.fi/onto/yso/p1007>	arvo	0.02395471619568814
+<http://www.yso.fi/onto/yso/p9748>	laatujohtaminen	0.02395245093190423
+<http://www.yso.fi/onto/yso/p21905>	kiinteistöpalvelut	0.02392941943048239
+<http://www.yso.fi/onto/yso/p25099>	organisaatiomuutokset	0.023926488289199882
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.02391593833213093
+<http://www.yso.fi/onto/yso/p1041>	esikuvat	0.023908593786067328
+<http://www.yso.fi/onto/yso/p14081>	säteilyturvallisuus	0.023892815154908577
+<http://www.yso.fi/onto/yso/p13858>	muistelu	0.02389074424885521
+<http://www.yso.fi/onto/yso/p9454>	taiteellinen työ	0.023888509733059695
+<http://www.yso.fi/onto/yso/p17413>	kirjallisuuspiirit	0.02387488282239165
+<http://www.yso.fi/onto/yso/p3694>	säteilysuojelu	0.023855590593114432
+<http://www.yso.fi/onto/yso/p15125>	henkilörekisterit	0.023847781457189587
+<http://www.yso.fi/onto/yso/p24513>	tekninen suunnittelu	0.0238358783527458
+<http://www.yso.fi/onto/yso/p9161>	tutkimusryhmät	0.02382675206918447
+<http://www.yso.fi/onto/yso/p10646>	erottautuminen	0.02382583117790746
+<http://www.yso.fi/onto/yso/p14844>	omistajanvaihdos	0.02381274737503616
+<http://www.yso.fi/onto/yso/p24167>	pilvipalvelut	0.023800682185649985
+<http://www.yso.fi/onto/yso/p4735>	kannustus	0.02379866258684561
+<http://www.yso.fi/onto/yso/p5601>	sosiaalinen vastuu	0.02378293552057492
+<http://www.yso.fi/onto/yso/p26917>	MySQL	0.02377459370791695
+<http://www.yso.fi/onto/yso/p29507>	musiikinjohtaminen	0.02376582980559142
+<http://www.yso.fi/onto/yso/p22817>	teemahaastattelut	0.023765268279553126
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.02371627651641534
+<http://www.yso.fi/onto/yso/p25167>	tietomallit	0.02371237697810505
+<http://www.yso.fi/onto/yso/p5816>	karuna	0.023706725938682057
+<http://www.yso.fi/onto/yso/p12315>	sijoittajaviestintä	0.02369315166250246
+<http://www.yso.fi/onto/yso/p17704>	rakennusliikkeet	0.023677673020594016
+<http://www.yso.fi/onto/yso/p22459>	valmistautuminen	0.023674420264573986
+<http://www.yso.fi/onto/yso/p17108>	loppukäyttäjät	0.023670034538268526
+<http://www.yso.fi/onto/yso/p12127>	sähköiset lomakkeet	0.023664338327193245
+<http://www.yso.fi/onto/yso/p715>	luopuminen	0.02365753370808884
+<http://www.yso.fi/onto/yso/p13225>	markkina-alueet	0.023657287476979958
+<http://www.yso.fi/onto/yso/p10655>	systeemityö	0.023646313945095844
+<http://www.yso.fi/onto/yso/p6988>	markkinointiviestintä	0.023620966231684862
+<http://www.yso.fi/onto/yso/p23472>	verkkoyhteisöt	0.02360984022129653
+<http://www.yso.fi/onto/yso/p27961>	turvallisuusviestintä	0.02360709160944853
+<http://www.yso.fi/onto/yso/p9341>	matkailuyritykset	0.023606343535850335
+<http://www.yso.fi/onto/yso/p9319>	metadata	0.02360378507576792
+<http://www.yso.fi/onto/yso/p25996>	kirjahyllyt	0.0235856011895585
+<http://www.yso.fi/onto/yso/p20655>	tietotekniikka-arkkitehtuuri	0.023580602392240756
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023539155474298
+<http://www.yso.fi/onto/yso/p3685>	tekstiiliala	0.02353274059026278
+<http://www.yso.fi/onto/yso/p10612>	elokuvatuottajat	0.02352783363633922
+<http://www.yso.fi/onto/yso/p12633>	luokitusjärjestelmät	0.023484452999888897
+<http://www.yso.fi/onto/yso/p28424>	palveluvienti	0.023478422154009845
+<http://www.yso.fi/onto/yso/p9221>	ympäristöjärjestelmät	0.02347698979206168
+<http://www.yso.fi/onto/yso/p1992>	kuljetuspalvelut	0.023473372366314013
+<http://www.yso.fi/onto/yso/p17340>	kustannusala	0.02347174225241516
+<http://www.yso.fi/onto/yso/p23217>	kevyet nelipyörät	0.02346926607279061
+<http://www.yso.fi/onto/yso/p12926>	tietotyö	0.023455469706116915
+<http://www.yso.fi/onto/yso/p9459>	verkkoliiketoiminta	0.023450871304335267
+<http://www.yso.fi/onto/yso/p2149>	opastus	0.023416160052282572
+<http://www.yso.fi/onto/yso/p12>	ympäristöliikkeet	0.023410343893753925
+<http://www.yso.fi/onto/yso/p20482>	yrityspalvelut	0.02338486946787788
+<http://www.yso.fi/onto/yso/p20425>	kestävä johtaminen	0.023384576017856158
+<http://www.yso.fi/onto/yso/p15550>	osallistuva havainnointi	0.02338294064509141
+<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.023352126851058433
+<http://www.yso.fi/onto/yso/p20801>	prikaatit	0.023333095018202195
+<http://www.yso.fi/onto/yso/p9987>	asennus	0.023302687880877082
+<http://www.yso.fi/onto/yso/p18676>	puolueohjelmat	0.023282708730914824
+<http://www.yso.fi/onto/yso/p1904>	viennin edistäminen	0.023280659651241466
+<http://www.yso.fi/onto/yso/p24913>	valokuvauslehdet	0.023270843898063494
+<http://www.yso.fi/onto/yso/p20743>	tieto- ja viestintätekniikka	0.023269319911723842
+<http://www.yso.fi/onto/yso/p24236>	terveysvakuutus	0.023268815878595195
+<http://www.yso.fi/onto/yso/p24201>	harvesterit	0.023264133295542992
+<http://www.yso.fi/onto/yso/p7458>	kannustimet	0.023254338254612688
+<http://www.yso.fi/onto/yso/p23966>	palvelumarkkinointi	0.023242963778622595
+<http://www.yso.fi/onto/yso/p17089>	avoin lähdekoodi	0.023207908561015806
+<http://www.yso.fi/onto/yso/p11593>	leipomot	0.023186175852397163
+<http://www.yso.fi/onto/yso/p12703>	ympäristösertifiointi	0.023184734296816716
+<http://www.yso.fi/onto/yso/p20376>	ympäristöohjelmat	0.02316401850849018
+<http://www.yso.fi/onto/yso/p18966>	mainoskuvaus	0.023150996867487197
+<http://www.yso.fi/onto/yso/p24888>	työyhteisötaidot	0.023139277783378702
+<http://www.yso.fi/onto/yso/p1778>	historiikit	0.023125161302421357
+<http://www.yso.fi/onto/yso/p17155>	kauppakirjat	0.023118193179899896
+<http://www.yso.fi/onto/yso/p23562>	ravintolatyöntekijät	0.02309368387296786
+<http://www.yso.fi/onto/yso/p15269>	myynti	0.02309221432623158
+<http://www.yso.fi/onto/yso/p19374>	satelliittipaikannus	0.023086688654247685
+<http://www.yso.fi/onto/yso/p24137>	ongelmakäyttö	0.0230852575660691
+<http://www.yso.fi/onto/yso/p6128>	teleneuvottelut	0.023067507431648555
+<http://www.yso.fi/onto/yso/p15070>	sisältötuotanto	0.023066018324301822
+<http://www.yso.fi/onto/yso/p18383>	henkilöverotus	0.023063265286136333
+<http://www.yso.fi/onto/yso/p3755>	työmenetelmät	0.02305931273955629
+<http://www.yso.fi/onto/yso/p22227>	työelämäyhteydet	0.023057081060228607
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.02303622864860305
+<http://www.yso.fi/onto/yso/p2175>	kopiointi	0.023025744734712222
+<http://www.yso.fi/onto/yso/p21082>	hajautetut järjestelmät	0.023020773917679545
+<http://www.yso.fi/onto/yso/p7802>	muotoilujohtaminen	0.02298118835927394
+<http://www.yso.fi/onto/yso/p11252>	ohjelmointiympäristö	0.02295812342805418
+<http://www.yso.fi/onto/yso/p21087>	henkilöstöstrategiat	0.02295620428553919
+<http://www.yso.fi/onto/yso/p1133>	elinkeinoluvat	0.022954269192655127
+<http://www.yso.fi/onto/yso/p14260>	projektityö	0.02291774811976398
+<http://www.yso.fi/onto/yso/p21088>	viestintästrategiat	0.022909882807796503
+<http://www.yso.fi/onto/yso/p21066>	tukipolitiikka	0.022908736118938736
+<http://www.yso.fi/onto/yso/p6576>	varastointi	0.0229058097184227
+<http://www.yso.fi/onto/yso/p28144>	seurakuntakirjastot	0.022871989744393636
+<http://www.yso.fi/onto/yso/p9827>	euroalue	0.02282200317305368
+<http://www.yso.fi/onto/yso/p4619>	meriteollisuus	0.022819231250693923
+<http://www.yso.fi/onto/yso/p25000>	sovelluskehykset	0.022797926624390688
+<http://www.yso.fi/onto/yso/p27467>	RFID	0.022782401752883163
+<http://www.yso.fi/onto/yso/p24737>	laskentataulukot	0.022779572040174716
+<http://www.yso.fi/onto/yso/p285>	toiminimet	0.022779023916828487
+<http://www.yso.fi/onto/yso/p7440>	maanhankinta	0.02277125556517263
+<http://www.yso.fi/onto/yso/p20138>	prosessitaide	0.022766289864578536
+<http://www.yso.fi/onto/yso/p17135>	kuva-arkistot	0.022764024442469485
+<http://www.yso.fi/onto/yso/p11174>	integroitu tuotanto	0.022754277442954073
+<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.0227471185777539
+<http://www.yso.fi/onto/yso/p22884>	Autodesk Inventor	0.022746062321512432
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.022737643135129316
+<http://www.yso.fi/onto/yso/p17219>	itsehallinta	0.0227152150749772
+<http://www.yso.fi/onto/yso/p2072>	luvat	0.022708509388454326
+<http://www.yso.fi/onto/yso/p15834>	kannustematkailu	0.022700371418747197
+<http://www.yso.fi/onto/yso/p23110>	DAP-mittaus	0.02269930378305642
+<http://www.yso.fi/onto/yso/p27600>	mielikuvamarkkinointi	0.022699213396045186
+<http://www.yso.fi/onto/yso/p4482>	blues	0.022697656175328023
+<http://www.yso.fi/onto/yso/p2535>	OLE	0.022689938809837124
+<http://www.yso.fi/onto/yso/p6432>	uutuudet	0.02268257760209689
+<http://www.yso.fi/onto/yso/p14763>	tietoteollisuus	0.022675256202869695
+<http://www.yso.fi/onto/yso/p17081>	tarjouskilpailu	0.02266694390309039
+<http://www.yso.fi/onto/yso/p5767>	strateginen johtaminen	0.022635496277488704
+<http://www.yso.fi/onto/yso/p29337>	luostarikirjastot	0.02263515323083926
+<http://www.yso.fi/onto/yso/p13938>	jääkärit	0.022597556984675173
+<http://www.yso.fi/onto/yso/p3131>	riskianalyysi	0.022592628188091747
+<http://www.yso.fi/onto/yso/p7222>	tietokoneavusteisuus	0.022561989596825496
+<http://www.yso.fi/onto/yso/p16301>	vuokratyö	0.02254492444394129
+<http://www.yso.fi/onto/yso/p27227>	kuljetuskustannukset	0.022523393611468778
+<http://www.yso.fi/onto/yso/p16628>	kuvatoimistot	0.02251738388219793
+<http://www.yso.fi/onto/yso/p3905>	vakavaraisuus	0.022510768925432707
+<http://www.yso.fi/onto/yso/p1153>	oppiarvot	0.0224924456172114
+<http://www.yso.fi/onto/yso/p16118>	kauneushoitolat	0.022489864854836516
+<http://www.yso.fi/onto/yso/p15940>	rakennusteollisuus	0.022479740815612197
+<http://www.yso.fi/onto/yso/p1144>	laserlaitteet	0.02246236943958127
+<http://www.yso.fi/onto/yso/p24904>	taulutietokoneet	0.022447473168678577
+<http://www.yso.fi/onto/yso/p6500>	työpaikkaliikunta	0.022440856809355716
+<http://www.yso.fi/onto/yso/p17073>	indeksointi	0.022420423180002622
+<http://www.yso.fi/onto/yso/p14952>	laajennettu kirjastotoiminta	0.022417524119669928
+<http://www.yso.fi/onto/yso/p13004>	turvajärjestelmät	0.02241382674356485
+<http://www.yso.fi/onto/yso/p4616>	telakkateollisuus	0.022412656866148677
+<http://www.yso.fi/onto/yso/p20935>	puuhuolto	0.02240305875016704
+<http://www.yso.fi/onto/yso/p1845>	viestintäoikeus	0.022396592474256613
+<http://www.yso.fi/onto/yso/p8435>	EU-politiikka	0.022390851385918085
+<http://www.yso.fi/onto/yso/p23881>	Windows 7	0.022379800502976683
+<http://www.yso.fi/onto/yso/p5138>	tietoliikennejärjestelmät	0.022363416694613534
+<http://www.yso.fi/onto/yso/p11455>	profilointi	0.02234313096646921
+<http://www.yso.fi/onto/yso/p22012>	valmistustekniikka	0.022341854736696656
+<http://www.yso.fi/onto/yso/p13600>	etabloituminen	0.022328999836283624
+<http://www.yso.fi/onto/yso/p23579>	ketjuviestit	0.022328123956593074
+<http://www.yso.fi/onto/yso/p12891>	draamapedagogiikka	0.022307835544480216
+<http://www.yso.fi/onto/yso/p3757>	työtavat	0.022301194603978825
+<http://www.yso.fi/onto/yso/p10888>	jäljet	0.02230026500461618
+<http://www.yso.fi/onto/yso/p1297>	röntgensäteily	0.022293739942892996
+<http://www.yso.fi/onto/yso/p7521>	kunnallistalous	0.022278496263305983
+<http://www.yso.fi/onto/yso/p22168>	ajanhallinta	0.022249420028872906
+<http://www.yso.fi/onto/yso/p14995>	ragtime	0.022241526967058115
+<http://www.yso.fi/onto/yso/p21316>	tuloverolaki	0.022234241156098775
+<http://www.yso.fi/onto/yso/p10922>	käyttökustannukset	0.022229510163621527
+<http://www.yso.fi/onto/yso/p13379>	laki kauppaedustajista ja myyntimiehistä	0.022213057797528246
+<http://www.yso.fi/onto/yso/p7238>	studiot	0.02221044693387059
+<http://www.yso.fi/onto/yso/p14399>	konvertointi	0.022187122113711308
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.022183137627176008
+<http://www.yso.fi/onto/yso/p14041>	suorituskyky	0.022181765114364517
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.02217983691520577
+<http://www.yso.fi/onto/yso/p26496>	kumppanuusmarkkinointi	0.02217910413476666
+<http://www.yso.fi/onto/yso/p22351>	ekologisuus	0.022176188213106934
+<http://www.yso.fi/onto/yso/p24822>	integrointi	0.022173309015885698
+<http://www.yso.fi/onto/yso/p19495>	pakkausteollisuus	0.022172132745663372
+<http://www.yso.fi/onto/yso/p5709>	viestintäala	0.022162311344454358
+<http://www.yso.fi/onto/yso/p9864>	haitat	0.02214616159286225
+<http://www.yso.fi/onto/yso/p17842>	graafinen viestintä	0.02214428295807866
+<http://www.yso.fi/onto/yso/p24936>	robottikirurgia	0.02210876410667292
+<http://www.yso.fi/onto/yso/p7599>	suorakäyttö	0.02208913203871378
+<http://www.yso.fi/onto/yso/p2928>	julkinen rahoitus	0.022077676559477847
+<http://www.yso.fi/onto/yso/p3705>	factoring	0.022056371817432353
+<http://www.yso.fi/onto/yso/p106>	ohjelmatuotanto	0.022042100162991296
+<http://www.yso.fi/onto/yso/p7444>	typografia	0.022016526317813985
+<http://www.yso.fi/onto/yso/p3985>	henkilöapu	0.02200640300540316
+<http://www.yso.fi/onto/yso/p7528>	painotuotteet	0.02199116050833863
+<http://www.yso.fi/onto/yso/p13167>	puutteet	0.021987393285630832
+<http://www.yso.fi/onto/yso/p29190>	Itätalo	0.021971605646679476
+<http://www.yso.fi/onto/yso/p7564>	rahoituspalvelut	0.021960121913846834
+<http://www.yso.fi/onto/yso/p9815>	tietohuolto	0.02195613221351381
+<http://www.yso.fi/onto/yso/p165>	kuvauskielet	0.02192258048947758
+<http://www.yso.fi/onto/yso/p6047>	palkanlisät	0.021919226647168843
+<http://www.yso.fi/onto/yso/p26189>	kyberturvallisuus	0.021914662096780398
+<http://www.yso.fi/onto/yso/p4771>	hälyttimet	0.021899855460186253
+<http://www.yso.fi/onto/yso/p23259>	Euro Disneyland	0.021890470479567443
+<http://www.yso.fi/onto/yso/p19418>	tekstijulkaisut	0.02188655484772057
+<http://www.yso.fi/onto/yso/p19022>	Microsoft Server+	0.021859296654699732
+<http://www.yso.fi/onto/yso/p22840>	vaihtuvuus	0.021855070959220086
+<http://www.yso.fi/onto/yso/p22454>	indefiniittipronominit	0.02183622912050006
+<http://www.yso.fi/onto/yso/p18248>	teollisuusyritykset	0.021825872346820218
+<http://www.yso.fi/onto/yso/p14400>	tiepalvelu	0.021817853847820787
+<http://www.yso.fi/onto/yso/p25316>	mikro-ohjaimet	0.021815813704830007
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02179757671772583
+<http://www.yso.fi/onto/yso/p3780>	konepajat	0.021785092820172824
+<http://www.yso.fi/onto/yso/p13580>	kirjastoluettelot	0.02178390642806562
+<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.021762042725020667
+<http://www.yso.fi/onto/yso/p5966>	maksukyky	0.02176018793063374
+<http://www.yso.fi/onto/yso/p16427>	urheiluhallinto	0.021759466278432924
+<http://www.yso.fi/onto/yso/p14913>	taulukkolaskenta	0.02175627469331012
+<http://www.yso.fi/onto/yso/p21127>	tyytymättömyys	0.02174831742481363
+<http://www.yso.fi/onto/yso/p14626>	muotoiluala	0.021724409422183854
+<http://www.yso.fi/onto/yso/p10872>	viestintätekniikka	0.021697033606167673
+<http://www.yso.fi/onto/yso/p3134>	riskienhallinta	0.021644196524703087
+<http://www.yso.fi/onto/yso/p28832>	esitystilanne	0.021639184641179907
+<http://www.yso.fi/onto/yso/p24882>	asiakaskokemus	0.02163230680364904
+<http://www.yso.fi/onto/yso/p8918>	maansiirto	0.021630984276058637
+<http://www.yso.fi/onto/yso/p2440>	tutkimuslaitteet	0.021605256513415935
+<http://www.yso.fi/onto/yso/p11982>	rakentamistalous	0.021600685968632276
+<http://www.yso.fi/onto/yso/p7079>	määritys	0.021583108339005858
+<http://www.yso.fi/onto/yso/p25964>	tietorakenteet	0.021581472090774628
+<http://www.yso.fi/onto/yso/p4583>	taloudellinen tila	0.021580984576610333
+<http://www.yso.fi/onto/yso/p18471>	uteliaisuus	0.02155278131903577
+<http://www.yso.fi/onto/yso/p23825>	ympäristöystävällisyys	0.021532675359611536
+<http://www.yso.fi/onto/yso/p5949>	paikallarakentaminen	0.02151939371061138
+<http://www.yso.fi/onto/yso/p17866>	tietokoneavusteinen valmistus	0.02150944173652079
+<http://www.yso.fi/onto/yso/p9536>	automaatit	0.02150811110623317
+<http://www.yso.fi/onto/yso/p19314>	atk-keskukset	0.021500174778717872
+<http://www.yso.fi/onto/yso/p20744>	Inventor	0.021498431415407013
+<http://www.yso.fi/onto/yso/p5479>	tietoturva	0.021490766357217903
+<http://www.yso.fi/onto/yso/p26363>	taulut	0.021478280905390116
+<http://www.yso.fi/onto/yso/p7584>	maksujärjestelmät	0.021475663703571023
+<http://www.yso.fi/onto/yso/p22813>	strippisarjakuvat	0.02147055572082091
+<http://www.yso.fi/onto/yso/p10778>	tuotevalikoimat	0.02146538190739351
+<http://www.yso.fi/onto/yso/p8850>	käsikirjastot	0.021464070444435768
+<http://www.yso.fi/onto/yso/p5493>	henkilöstöpolitiikka	0.02145572153370847
+<http://www.yso.fi/onto/yso/p24224>	laajentaminen	0.021449212344884318
+<http://www.yso.fi/onto/yso/p17058>	yhdistäminen	0.021447167333065703
+<http://www.yso.fi/onto/yso/p20662>	fysiikanopettajat	0.02144046281639021
+<http://www.yso.fi/onto/yso/p23921>	pilotointi	0.02143615784629869
+<http://www.yso.fi/onto/yso/p27314>	hotellinjohtajat	0.021413341285522754
+<http://www.yso.fi/onto/yso/p2382>	energiankulutus	0.021410145893191016
+<http://www.yso.fi/onto/yso/p2009>	suorituspalkka	0.021398969387274452
+<http://www.yso.fi/onto/yso/p16016>	asiantuntijapalvelut	0.02139063839940568
+<http://www.yso.fi/onto/yso/p18440>	verkkojulkaiseminen	0.021375353870335047
+<http://www.yso.fi/onto/yso/p10576>	luotonanto	0.02136773579836248
+<http://www.yso.fi/onto/yso/p7334>	puuntyöstö	0.021365616457861048
+<http://www.yso.fi/onto/yso/p12210>	runko	0.021362414477195463
+<http://www.yso.fi/onto/yso/p7797>	e-kirjat	0.021360427332936742
+<http://www.yso.fi/onto/yso/p1576>	Access	0.02133996002668765
+<http://www.yso.fi/onto/yso/p23550>	reklamaatio	0.021325191731826513
+<http://www.yso.fi/onto/yso/p2313>	turvallisuustekniikka	0.0213208632035767
+<http://www.yso.fi/onto/yso/p9057>	tapahtumamarkkinointi	0.021309548571103613
+<http://www.yso.fi/onto/yso/p21159>	muistiorganisaatiot	0.021289277699632923
+<http://www.yso.fi/onto/yso/p11949>	tislaus	0.021288855352743004
+<http://www.yso.fi/onto/yso/p20678>	haasteet (oikeustiede)	0.021288104805703492
+<http://www.yso.fi/onto/yso/p12871>	henkilöstöjohtaminen	0.021276739840964707
+<http://www.yso.fi/onto/yso/p22868>	liikennemyymälät	0.021271548078900627
+<http://www.yso.fi/onto/yso/p27085>	ilmaiset tietokoneohjelmat	0.02126638674353387
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.021263846485451758
+<http://www.yso.fi/onto/yso/p3615>	maine	0.0212477971430323
+<http://www.yso.fi/onto/yso/p18439>	esisopimukset	0.021238339275934087
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.021233182200219247
+<http://www.yso.fi/onto/yso/p2675>	kauppaoikeus	0.02123007675476217
+<http://www.yso.fi/onto/yso/p9247>	vihannesvalmisteet	0.021220012910258074
+<http://www.yso.fi/onto/yso/p16502>	siirtokokoelmat	0.021215709637614474
+<http://www.yso.fi/onto/yso/p17009>	verkkopankit	0.021188804611435973
+<http://www.yso.fi/onto/yso/p4905>	Designer	0.021137290174421685
+<http://www.yso.fi/onto/yso/p24607>	tulostus	0.021133164948134244
+<http://www.yso.fi/onto/yso/p13774>	kunnalliset keskusjärjestöt	0.021126226984601138
+<http://www.yso.fi/onto/yso/p3602>	tilat	0.021098286617513666
+<http://www.yso.fi/onto/yso/p4150>	säteily	0.02109501387799609
+<http://www.yso.fi/onto/yso/p5950>	elementtirakentaminen	0.021089636834530887
+<http://www.yso.fi/onto/yso/p4737>	palkitseminen	0.021086351621050565
+<http://www.yso.fi/onto/yso/p26651>	dioraamat	0.021085737237947204
+<http://www.yso.fi/onto/yso/p23821>	älypuhelimet	0.021070814452082944
+<http://www.yso.fi/onto/yso/p24518>	vastuuvapaus	0.021039102378805314
+<http://www.yso.fi/onto/yso/p1772>	vertaileva tutkimus	0.02103873850893891
+<http://www.yso.fi/onto/yso/p23204>	rahoitusala	0.021032434360265334
+<http://www.yso.fi/onto/yso/p2014>	tunnukset	0.021027781290919367
+<http://www.yso.fi/onto/yso/p6473>	Photoshop	0.02102509007968066
+<http://www.yso.fi/onto/yso/p1866>	kilpailu (toiminta)	0.021021823459654965
+<http://www.yso.fi/onto/yso/p7821>	työväenliike	0.021020930782285653
+<http://www.yso.fi/onto/yso/p10569>	avoimuus	0.021011384400822883
+<http://www.yso.fi/onto/yso/p4221>	valvontalaitteet	0.02100562010897699
+<http://www.yso.fi/onto/yso/p12547>	liiketoimintasuunnitelmat	0.02100023273551206
+<http://www.yso.fi/onto/yso/p15923>	toimenpiteet	0.020993574172010074
+<http://www.yso.fi/onto/yso/p478>	rekrytointi	0.020980876193657752
+<http://www.yso.fi/onto/yso/p10537>	videotekniikka	0.020958562936088176
+<http://www.yso.fi/onto/yso/p13156>	vuokraamot	0.020957276737410383
+<http://www.yso.fi/onto/yso/p20723>	isännöinti	0.020951874845797545
+<http://www.yso.fi/onto/yso/p3010>	pankkipalvelut	0.02093955026009185
+<http://www.yso.fi/onto/yso/p1835>	työhyvinvointi	0.020929414221483728
+<http://www.yso.fi/onto/yso/p24633>	elintoiminnot	0.020927741597400566
+<http://www.yso.fi/onto/yso/p858>	saavutettavuus	0.020925800676631755
+<http://www.yso.fi/onto/yso/p4408>	palkkiot	0.02092362877085572
+<http://www.yso.fi/onto/yso/p9139>	huolinta	0.02091885928993665
+<http://www.yso.fi/onto/yso/p4267>	organisointi	0.020912496160826806
+<http://www.yso.fi/onto/yso/p8845>	avohakkuut	0.020908222721203438
+<http://www.yso.fi/onto/yso/p11008>	asiointi	0.020899087295227384
+<http://www.yso.fi/onto/yso/p8156>	rakennuskoneet	0.020899020918395888
+<http://www.yso.fi/onto/yso/p8739>	MathCAD	0.02087605411376129
+<http://www.yso.fi/onto/yso/p5825>	tekstintunnistus	0.02087438919472219
+<http://www.yso.fi/onto/yso/p25457>	esitystekniikka	0.02087046369618079
+<http://www.yso.fi/onto/yso/p6624>	verkkopalvelut	0.02086869286455454
+<http://www.yso.fi/onto/yso/p18822>	kohderyhmät	0.02086594972879269
+<http://www.yso.fi/onto/yso/p15122>	olio-ohjelmointi	0.020861963132815596
+<http://www.yso.fi/onto/yso/p21299>	ajonvakautusjärjestelmät	0.020853125142686852
+<http://www.yso.fi/onto/yso/p3835>	yhteisöt	0.02084196591563804
+<http://www.yso.fi/onto/yso/p22928>	IFRS-standardit	0.02083259885100938
+<http://www.yso.fi/onto/yso/p18279>	portaalit (tietotekniikka)	0.02082208827675945
+<http://www.yso.fi/onto/yso/p20637>	politiikkaohjelmat	0.02082010396647193
+<http://www.yso.fi/onto/yso/p18607>	viihde-elektroniikka	0.02081399382822816
+<http://www.yso.fi/onto/yso/p302>	työnopetus	0.02080407964790552
+<http://www.yso.fi/onto/yso/p20007>	tietopalveluyksiköt	0.02077833066059138
+<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.020768933797636287
+<http://www.yso.fi/onto/yso/p26168>	polyamoria	0.020766196081745444
+<http://www.yso.fi/onto/yso/p510>	mallit (tuotokset)	0.020762990959845077
+<http://www.yso.fi/onto/yso/p26417>	avosuot	0.020745750345680925
+<http://www.yso.fi/onto/yso/p20906>	avainasiakkuus	0.020734836102194246
+<http://www.yso.fi/onto/yso/p2139>	yhteiskunnallinen asema	0.020718526481029773
+<http://www.yso.fi/onto/yso/p3785>	käytettävyys	0.020717891071118613
+<http://www.yso.fi/onto/yso/p10360>	sisäinen turvallisuus	0.02070283776024865
+<http://www.yso.fi/onto/yso/p22610>	verkkopelit	0.020689674910842976
+<http://www.yso.fi/onto/yso/p8329>	tehokkuus	0.02068719621060913
+<http://www.yso.fi/onto/yso/p12707>	kenkäkaupat	0.02066429632485146
+<http://www.yso.fi/onto/yso/p9789>	poistot (taloudelliset tuotokset)	0.020657782824635647
+<http://www.yso.fi/onto/yso/p21800>	kauneudenhoitoala	0.02065425474862853
+<http://www.yso.fi/onto/yso/p24055>	sopimusehdot	0.02063976114295329
+<http://www.yso.fi/onto/yso/p11782>	kvalitatiivinen tutkimus	0.020629548790928237
+<http://www.yso.fi/onto/yso/p7063>	armo	0.02061370308274743
+<http://www.yso.fi/onto/yso/p21751>	leipomoala	0.020603171673038684
+<http://www.yso.fi/onto/yso/p14213>	hiilimonoksidi	0.020590014620243378
+<http://www.yso.fi/onto/yso/p24514>	terveysviestintä	0.020587525783514995
+<http://www.yso.fi/onto/yso/p2725>	laadunvarmistus	0.020569921710323947
+<http://www.yso.fi/onto/yso/p23085>	eettisyys	0.020568451615848513
+<http://www.yso.fi/onto/yso/p24153>	matkanjärjestäjät	0.020564234989259897
+<http://www.yso.fi/onto/yso/p10>	ympäristötietoisuus	0.02055806413516115
+<http://www.yso.fi/onto/yso/p13150>	prototyypit	0.02054511320903854
+<http://www.yso.fi/onto/yso/p1944>	katarsis	0.020537113964490813
+<http://www.yso.fi/onto/yso/p11281>	ympäristöarvot	0.020521595390681085
+<http://www.yso.fi/onto/yso/p23622>	karnevalismi	0.02051395358003646
+<http://www.yso.fi/onto/yso/p9189>	kilpailukyky	0.020503137236944437
+<http://www.yso.fi/onto/yso/p15933>	lapsipolitiikka	0.02050116394026797
+<http://www.yso.fi/onto/yso/p18458>	tehosteet	0.020498439039475572
+<http://www.yso.fi/onto/yso/p18032>	hallintolaki	0.020470026155403907
+<http://www.yso.fi/onto/yso/p26409>	muutosviestintä	0.020469879424593874
+<http://www.yso.fi/onto/yso/p10580>	työnantajat	0.020465088924234154
+<http://www.yso.fi/onto/yso/p16922>	elinkaari	0.020456974743451595
+<http://www.yso.fi/onto/yso/p4088>	leipomotuotteet	0.020449629067944154
+<http://www.yso.fi/onto/yso/p7498>	tieto- ja viestintätekniikka-ala	0.020444259892679468
+<http://www.yso.fi/onto/yso/p10372>	toiminnallisuus	0.020422563097309054
+<http://www.yso.fi/onto/yso/p13287>	verotoimistot	0.02042058843514665
+<http://www.yso.fi/onto/yso/p14470>	dramaturgit	0.020405951769843902
+<http://www.yso.fi/onto/yso/p22583>	osaamistarve	0.02039700716388407
+<http://www.yso.fi/onto/yso/p11179>	toiminta-ajatukset	0.020391162921736688
+<http://www.yso.fi/onto/yso/p3332>	luonnonsuojelujärjestöt	0.020383680830544378
+<http://www.yso.fi/onto/yso/p27052>	sähkökäytöt	0.020379587551697532
+<http://www.yso.fi/onto/yso/p13097>	biolääketiede	0.020371214452030717
+<http://www.yso.fi/onto/yso/p16339>	lounaat	0.020367526373750788
+<http://www.yso.fi/onto/yso/p26747>	poliittinen teatteri	0.020357965991943873
+<http://www.yso.fi/onto/yso/p18922>	kotiteatterit	0.020352024321602293
+<http://www.yso.fi/onto/yso/p8256>	koulujuhlat	0.02034856605815552
+<http://www.yso.fi/onto/yso/p11421>	hoitosuositukset	0.020343764138263526
+<http://www.yso.fi/onto/yso/p26123>	yhteisöviestintä	0.020340131753097283
+<http://www.yso.fi/onto/yso/p17643>	ympäristömerkit	0.02032866591011864
+<http://www.yso.fi/onto/yso/p13542>	suunnittelumenetelmät	0.02031847572583458
+<http://www.yso.fi/onto/yso/p27396>	yritysturvallisuus	0.020314632126047467
+<http://www.yso.fi/onto/yso/p723>	Linux	0.0203106502652519
+<http://www.yso.fi/onto/yso/p13481>	lainausjärjestelmät	0.020286230788310284
+<http://www.yso.fi/onto/yso/p27756>	runonäytelmät	0.020284031106372974
+<http://www.yso.fi/onto/yso/p5604>	yhteiskuntavastuu	0.020281293217673916
+<http://www.yso.fi/onto/yso/p4233>	siivousliikkeet	0.020273150500632803
+<http://www.yso.fi/onto/yso/p17947>	asuntokauppalaki	0.02025837469626939
+<http://www.yso.fi/onto/yso/p29198>	trilogiat	0.020249803866328825
+<http://www.yso.fi/onto/yso/p182>	toimintatutkimus	0.020241077820394027
+<http://www.yso.fi/onto/yso/p13221>	palvelutuotanto	0.020235569951416454
+<http://www.yso.fi/onto/yso/p3014>	tasapainotettu mittaristo	0.02023436970475679
+<http://www.yso.fi/onto/yso/p5985>	parturi-kampaamot	0.02023173005615611
+<http://www.yso.fi/onto/yso/p20401>	teatteriohjaus	0.02021726189647126
+<http://www.yso.fi/onto/yso/p26636>	konditoriat	0.020212869570943936
+<http://www.yso.fi/onto/yso/p22129>	toimintaryhmät	0.020212633532691596
+<http://www.yso.fi/onto/yso/p5429>	tiedonsiirto	0.0201968882070933
+<http://www.yso.fi/onto/yso/p22520>	käsikirurgia	0.020183908499157435
+<http://www.yso.fi/onto/yso/p25853>	musiikkipedagogiikka	0.020176665560856726
+<http://www.yso.fi/onto/yso/p18455>	turvallisuusohjeet	0.020175646115165702
+<http://www.yso.fi/onto/yso/p6402>	radiologia	0.020175121943650863
+<http://www.yso.fi/onto/yso/p1542>	työstö	0.02017276847686187
+<http://www.yso.fi/onto/yso/p25183>	rengasliikkeet	0.020167904574264886
+<http://www.yso.fi/onto/yso/p14434>	historiantutkijat	0.020165089057276
+<http://www.yso.fi/onto/yso/p20063>	vankilakirjastot	0.020157358474707503
+<http://www.yso.fi/onto/yso/p7091>	puhelinlaitteet	0.02014603639371859
+<http://www.yso.fi/onto/yso/p2561>	ympäristöteknologia	0.020143406547651628
+<http://www.yso.fi/onto/yso/p4483>	rhythm and blues	0.02013524266659451
+<http://www.yso.fi/onto/yso/p2637>	kuljetuskalusto	0.020115645153596297
+<http://www.yso.fi/onto/yso/p26413>	pääomasijoittajat	0.02010740395043663
+<http://www.yso.fi/onto/yso/p12031>	positiivisuus	0.02010702907733265
+<http://www.yso.fi/onto/yso/p18202>	työnmittaus	0.020093130852075772
+<http://www.yso.fi/onto/yso/p9713>	menestystekijät	0.020086273558575896
+<http://www.yso.fi/onto/yso/p16279>	televisioteatterit	0.020083339977195754
+<http://www.yso.fi/onto/yso/p19019>	kunnioitus	0.020071732836773926
+<http://www.yso.fi/onto/yso/p837>	ohjelmapalvelut	0.020065868872007266
+<http://www.yso.fi/onto/yso/p13611>	elinkaarianalyysi	0.020060134156929012
+<http://www.yso.fi/onto/yso/p1236>	palaute	0.020047987263643253
+<http://www.yso.fi/onto/yso/p22070>	tutkimushaastattelut	0.020044467837632172
+<http://www.yso.fi/onto/yso/p12539>	perheohjelmat	0.02002762488196374
+<http://www.yso.fi/onto/yso/p23547>	agenttiteoria	0.020015669397843383
+<http://www.yso.fi/onto/yso/p16224>	rahoituslaitokset	0.020005612360391098
+<http://www.yso.fi/onto/yso/p4560>	vienti	0.020003725091972693
+<http://www.yso.fi/onto/yso/p20412>	Logo (ohjelmointikielet)	0.020000709138249913
+<http://www.yso.fi/onto/yso/p24778>	virtuaaliympäristö	0.01998635742386707
+<http://www.yso.fi/onto/yso/p7058>	yökerhot	0.019973499439174636
+<http://www.yso.fi/onto/yso/p1293>	tietokonevirukset	0.019970662232430818
+<http://www.yso.fi/onto/yso/p5276>	Ethernet	0.019968937467229386
+<http://www.yso.fi/onto/yso/p14490>	hoivayritykset	0.019965301418959955
+<http://www.yso.fi/onto/yso/p23735>	tutkimusrahoitus	0.01996469039163896
+<http://www.yso.fi/onto/yso/p27069>	tuoreus	0.019950506529871175
+<http://www.yso.fi/onto/yso/p19873>	editointi	0.019949682823725574
+<http://www.yso.fi/onto/yso/p14790>	talotekniikka	0.01994825391353009
+<http://www.yso.fi/onto/yso/p5367>	maatilahallinto	0.019918092274110365
+<http://www.yso.fi/onto/yso/p25729>	maarakennuskoneet	0.019895862212534633
+<http://www.yso.fi/onto/yso/p26442>	opiskelijaravintolat	0.01986128845382209
+<http://www.yso.fi/onto/yso/p16361>	dokumentointi	0.019856870143540272
+<http://www.yso.fi/onto/yso/p8982>	äänielimet	0.019850280700400687
+<http://www.yso.fi/onto/yso/p10046>	opetuselokuvat	0.019845250588799077
+<http://www.yso.fi/onto/yso/p15534>	Visual Basic	0.019840633582906577
+<http://www.yso.fi/onto/yso/p14991>	vapaakappaleet	0.019835560327495408
+<http://www.yso.fi/onto/yso/p13139>	ohjelmapolitiikka	0.019827282130591473
+<http://www.yso.fi/onto/yso/p12834>	sovittaminen	0.01982542396888896
+<http://www.yso.fi/onto/yso/p8368>	video	0.019816368203497692
+<http://www.yso.fi/onto/yso/p4832>	taskutietokoneet	0.019816104058565456
+<http://www.yso.fi/onto/yso/p20874>	avuntarve	0.01978700252550273
+<http://www.yso.fi/onto/yso/p14500>	kokoonpano	0.0197564704565489
+<http://www.yso.fi/onto/yso/p3054>	vaarat	0.01975211648075386
+<http://www.yso.fi/onto/yso/p9786>	pilvet	0.019747803320464642
+<http://www.yso.fi/onto/yso/p118>	valmistalot	0.01974046563164196
+<http://www.yso.fi/onto/yso/p8216>	korvikkeet	0.019730613125409205
+<http://www.yso.fi/onto/yso/p18990>	kauppaketjut	0.019726327242376007
+<http://www.yso.fi/onto/yso/p8691>	ominaisuudet	0.019723912589832634
+<http://www.yso.fi/onto/yso/p706>	liike	0.019721300534773507
+<http://www.yso.fi/onto/yso/p2163>	CD-levyt	0.01972125151041344
+<http://www.yso.fi/onto/yso/p11134>	toimintolaskenta	0.019711586041996732
+<http://www.yso.fi/onto/yso/p4047>	WWW-sivustot	0.01969230993957792
+<http://www.yso.fi/onto/yso/p1917>	risteilyt	0.019674371835937763
+<http://www.yso.fi/onto/yso/p22481>	liikenneala	0.019667974184907976
+<http://www.yso.fi/onto/yso/p27278>	logistiikkapalvelut	0.019666244700232403
+<http://www.yso.fi/onto/yso/p10982>	tapaustutkimus	0.01964955595344732
