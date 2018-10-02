@@ -1,9 +1,13 @@
 # "Kysy kirjastonhoitajalta" (Ask a librarian) question/answer corpus
 
-This corpus contains 3150 Finnish language relatively short documents from
-the service [Kysy kirjastonhoitajalta](https://www.kirjastot.fi/kysy) (Ask a
-librarian). Each document is a question from the general public with an
-answer from a librarian.
+This corpus contains the subject annotations for 3150 Finnish language
+relatively short documents from the service [Kysy
+kirjastonhoitajalta](https://www.kirjastot.fi/kysy) (Ask a librarian).  Each
+document is a question from the general public with an answer from a
+librarian.  The documents themselves are not included, but they can be found
+in the
+[Annif-corpora](https://github.com/NatLibFi/Annif-corpora/tree/master/fulltext/kirjastonhoitaja)
+repository.
 
 The corpus was extracted from the collection of over 25000 question/answer
 pairs with the requirement that the document must have a minimum of 4
