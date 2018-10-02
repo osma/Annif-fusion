@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.47765555555555544
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.47765555555555544
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.4676555555555555
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.4223864694247984
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.4223864694247984
-<http://www.yso.fi/onto/yso/p7110>	soittimet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p18434>	taidemusiikki	0.1459471117947863
-<http://www.yso.fi/onto/yso/p23171>	vanha musiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7134>	kansansoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3065>	maailmanmusiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1514>	soitinmusiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6319>	flaamit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2841>	kansanmusiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2371>	laulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10305>	nokkahuilu	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1591>	perinnemusiikki	0.108351758070098
-<http://www.yso.fi/onto/yso/p9204>	melodiat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20210>	akatemiat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3580>	haku	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p7037>	perinne	0.020674481861071816
-<http://www.yso.fi/onto/yso/p8477>	traditio	0.020674481861071816
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.01468041649685237
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1591>	perinnemusiikki	0.9434818442427139
+<http://www.yso.fi/onto/yso/p10305>	nokkahuilu	0.7722319632981398
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.6863186191284664
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.6124297302395774
+<http://www.yso.fi/onto/yso/p2841>	kansanmusiikki	0.5116839916839917
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.3867555095781017
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.3650030812070412
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.3603174603174603
+<http://www.yso.fi/onto/yso/p2371>	laulut	0.17639185619888895
+<http://www.yso.fi/onto/yso/p7134>	kansansoittimet	0.12864823522313557
+<http://www.yso.fi/onto/yso/p6319>	flaamit	0.0988491179934656
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.0960421006863753
+<http://www.yso.fi/onto/yso/p7110>	soittimet	0.08799150898287535
+<http://www.yso.fi/onto/yso/p3065>	maailmanmusiikki	0.0609209624958628
+<http://www.yso.fi/onto/yso/p1514>	soitinmusiikki	0.0609209624958628
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.04969800449116772
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.03973808077753539
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.0363623573192612
+<http://www.yso.fi/onto/yso/p8477>	traditio	0.034764983532023105
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.03469155287688712
+<http://www.yso.fi/onto/yso/p23171>	vanha musiikki	0.02937637019040093
+<http://www.yso.fi/onto/yso/p18434>	taidemusiikki	0.027596626226075626
+<http://www.yso.fi/onto/yso/p9204>	melodiat	0.026574462428995405
+<http://www.yso.fi/onto/yso/p7037>	perinne	0.023379004622877335
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p20210>	akatemiat	0.016331751329080713
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.015316052216815465
+<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.010439057995912788
+<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344

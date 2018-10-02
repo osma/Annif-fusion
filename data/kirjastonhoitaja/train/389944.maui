@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.538743829270145
-<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.4510459336591908
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.25884338841005505
-<http://www.yso.fi/onto/yso/p9620>	sijoitusrahastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20420>	arvopaperimarkkinalaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19912>	pääomanliikkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12969>	ulkomaiset investoinnit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p974>	osakkaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2496>	juristit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18430>	sijoittajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2685>	verot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1082>	verotus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4319>	sijoitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18106>	verotusarvo	0.10867438452205902
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.04760000435676974
-<http://www.yso.fi/onto/yso/p13854>	lainsäädäntö	0.04760000435676974
-<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6567>	sijoitus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.020900544995290878
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.015429864862007283
-<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1082>	verotus	0.7451863822452058
+<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.5993161917800405
+<http://www.yso.fi/onto/yso/p4319>	sijoitukset	0.44573236566501223
+<http://www.yso.fi/onto/yso/p13854>	lainsäädäntö	0.277254660326001
+<http://www.yso.fi/onto/yso/p6567>	sijoitus	0.1826064889717537
+<http://www.yso.fi/onto/yso/p18106>	verotusarvo	0.17049063721929067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.12258553725066852
+<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.11415740090770692
+<http://www.yso.fi/onto/yso/p20420>	arvopaperimarkkinalaki	0.0988491179934656
+<http://www.yso.fi/onto/yso/p12969>	ulkomaiset investoinnit	0.08331221587119762
+<http://www.yso.fi/onto/yso/p9620>	sijoitusrahastot	0.08331221587119762
+<http://www.yso.fi/onto/yso/p19912>	pääomanliikkeet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p974>	osakkaat	0.07093262155293044
+<http://www.yso.fi/onto/yso/p18430>	sijoittajat	0.06053734295530303
+<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.05526693149092171
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04703840603141428
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.030526031655179586
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02972248144219483
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.027851156045699505
+<http://www.yso.fi/onto/yso/p2685>	verot	0.02655125396255385
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.023610097100620644
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.021651129979441946
+<http://www.yso.fi/onto/yso/p2496>	juristit	0.01888909680646984
+<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.017671761362131014
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015001329380678963
+<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.00850547109674319
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344

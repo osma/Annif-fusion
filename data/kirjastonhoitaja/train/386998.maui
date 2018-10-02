@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p67>	väkivalta	0.2824282828282828
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p5473>	koti	0.21576161616161618
-<http://www.yso.fi/onto/yso/p23385>	jokilaaksot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6020>	matrikkelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p199>	sankarivainajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15809>	lukumuistit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25071>	äänikirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10970>	kansalaissota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p919>	Suomen sota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12167>	työväenopistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4097>	toimintakertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19524>	sotarintama	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4440>	kauhu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19010>	keskisuomalaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1797>	asuminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4731>	pukineet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.06828309918843545
-<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2902>	keräys	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p19450>	päivä	0.015429864862007283
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011752510641896115
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.7615628815628815
+<http://www.yso.fi/onto/yso/p6020>	matrikkelit	0.5449570675667673
+<http://www.yso.fi/onto/yso/p19524>	sotarintama	0.5084106294016904
+<http://www.yso.fi/onto/yso/p25071>	äänikirjat	0.48753552433118996
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.40040236008387026
+<http://www.yso.fi/onto/yso/p67>	väkivalta	0.21756129495919171
+<http://www.yso.fi/onto/yso/p199>	sankarivainajat	0.20001080670652432
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.18426525279058367
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.13052603165517956
+<http://www.yso.fi/onto/yso/p10970>	kansalaissota	0.1056143523005439
+<http://www.yso.fi/onto/yso/p4440>	kauhu	0.10010097749887428
+<http://www.yso.fi/onto/yso/p919>	Suomen sota	0.07919947898414083
+<http://www.yso.fi/onto/yso/p19010>	keskisuomalaiset	0.06053734295530303
+<http://www.yso.fi/onto/yso/p1797>	asuminen	0.050506160719410685
+<http://www.yso.fi/onto/yso/p4097>	toimintakertomukset	0.047158118139613237
+<http://www.yso.fi/onto/yso/p23385>	jokilaaksot	0.04662515448178278
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.030715504433953867
+<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.02909964732985601
+<http://www.yso.fi/onto/yso/p4731>	pukineet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p12167>	työväenopistot	0.022852579080064377
+<http://www.yso.fi/onto/yso/p15809>	lukumuistit	0.02125845765440571
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.018827349900001962
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.015265068990559186
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.01344219306841872
+<http://www.yso.fi/onto/yso/p5473>	koti	0.010710826357126913
+<http://www.yso.fi/onto/yso/p2902>	keräys	0.009622109459713039
+<http://www.yso.fi/onto/yso/p19450>	päivä	0.008661113120089494
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344

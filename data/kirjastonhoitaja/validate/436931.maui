@@ -1,61 +1,61 @@
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.5814011695906434
-<http://www.yso.fi/onto/yso/p6316>	säädyt	0.3328641154773727
-<http://www.yso.fi/onto/yso/p4015>	observatoriot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19215>	tähtitieteilijät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16119>	kivirakennukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5716>	rakennuskanta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2559>	keskiaika	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1797>	asuminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4731>	pukineet	0.09424283744586774
-<http://www.yso.fi/onto/yso/p3825>	maaherrat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18562>	hirret	0.05771181767713922
-<http://www.yso.fi/onto/yso/p17033>	tiilet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3650>	puurakennukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1361>	kansanrunous	0.05771181767713922
-<http://www.yso.fi/onto/yso/p25471>	tuomiokirkot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5954>	aateli	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6343>	papisto	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1541>	käsityöläiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9048>	kunnostus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2074>	asuinrakennukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4657>	talonpojat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18186>	sammuttimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2225>	puutarhat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8640>	tuhoutuminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1741>	rakennusaineet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p5614>	kauppiaat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p6795>	uudistukset	0.031932770969134605
-<http://www.yso.fi/onto/yso/p1780>	historia	0.031932770969134605
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.029687945087945082
-<http://www.yso.fi/onto/yso/p30162>	uudistaminen	0.027576170779201083
-<http://www.yso.fi/onto/yso/p5241>	eteistilat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p775>	julkinen hallinto	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4467>	kivi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4175>	vietit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9278>	katot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19814>	yö	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p237>	raportit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p15366>	hyvä hallinto	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4328>	hallinto	0.020674481861071816
-<http://www.yso.fi/onto/yso/p28134>	yleistyminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2871>	synty	0.016542457256587376
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.011447811013486497
-<http://www.yso.fi/onto/yso/p21034>	aika	0.011447811013486497
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.01137211804984151
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.009885311013486497
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009885311013486497
-<http://www.yso.fi/onto/yso/p12763>	taso	0.009885311013486497
-<http://www.yso.fi/onto/yso/p5789>	kasvu	0.009885311013486497
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009885311013486497
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009885311013486497
-<http://www.yso.fi/onto/yso/p3482>	erot	0.009885311013486497
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00987683280929386
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.00987683280929386
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.810174170913945
+<http://www.yso.fi/onto/yso/p6316>	säädyt	0.5944617694617694
+<http://www.yso.fi/onto/yso/p16119>	kivirakennukset	0.5045045045045045
+<http://www.yso.fi/onto/yso/p2559>	keskiaika	0.4455166451660081
+<http://www.yso.fi/onto/yso/p5716>	rakennuskanta	0.4081814965031185
+<http://www.yso.fi/onto/yso/p2074>	asuinrakennukset	0.19482928258065346
+<http://www.yso.fi/onto/yso/p5954>	aateli	0.168767878773684
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.15898054827489688
+<http://www.yso.fi/onto/yso/p775>	julkinen hallinto	0.14991114087868687
+<http://www.yso.fi/onto/yso/p1361>	kansanrunous	0.14211363171168095
+<http://www.yso.fi/onto/yso/p1797>	asuminen	0.10375813415869128
+<http://www.yso.fi/onto/yso/p3650>	puurakennukset	0.0937532065045774
+<http://www.yso.fi/onto/yso/p9048>	kunnostus	0.06934207625835098
+<http://www.yso.fi/onto/yso/p30162>	uudistaminen	0.06429638071994777
+<http://www.yso.fi/onto/yso/p6795>	uudistukset	0.06216872114547968
+<http://www.yso.fi/onto/yso/p6343>	papisto	0.060626537326173846
+<http://www.yso.fi/onto/yso/p1741>	rakennusaineet	0.05804637718914594
+<http://www.yso.fi/onto/yso/p19215>	tähtitieteilijät	0.05804637718914594
+<http://www.yso.fi/onto/yso/p8640>	tuhoutuminen	0.04891265167081606
+<http://www.yso.fi/onto/yso/p3825>	maaherrat	0.0464622324830692
+<http://www.yso.fi/onto/yso/p18562>	hirret	0.0464622324830692
+<http://www.yso.fi/onto/yso/p1780>	historia	0.04436887869717785
+<http://www.yso.fi/onto/yso/p25471>	tuomiokirkot	0.04220422009416535
+<http://www.yso.fi/onto/yso/p4015>	observatoriot	0.04220422009416535
+<http://www.yso.fi/onto/yso/p18186>	sammuttimet	0.04220422009416535
+<http://www.yso.fi/onto/yso/p4328>	hallinto	0.03858423555759514
+<http://www.yso.fi/onto/yso/p17033>	tiilet	0.03807127211728673
+<http://www.yso.fi/onto/yso/p4175>	vietit	0.03807127211728673
+<http://www.yso.fi/onto/yso/p2225>	puutarhat	0.03617647839162057
+<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.034122021094772026
+<http://www.yso.fi/onto/yso/p4657>	talonpojat	0.03165854388941032
+<http://www.yso.fi/onto/yso/p1541>	käsityöläiset	0.031656177777664087
+<http://www.yso.fi/onto/yso/p4731>	pukineet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3482>	erot	0.022351943743884044
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.021100927717152416
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p5241>	eteistilat	0.020295233602675242
+<http://www.yso.fi/onto/yso/p5614>	kauppiaat	0.020295233602675242
+<http://www.yso.fi/onto/yso/p9278>	katot	0.020295233602675242
+<http://www.yso.fi/onto/yso/p15366>	hyvä hallinto	0.019167055021587998
+<http://www.yso.fi/onto/yso/p28134>	yleistyminen	0.016331751329080713
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p4467>	kivi	0.012870409171982348
+<http://www.yso.fi/onto/yso/p19814>	yö	0.011242464661296334
+<http://www.yso.fi/onto/yso/p12763>	taso	0.010439057995912788
+<http://www.yso.fi/onto/yso/p5789>	kasvu	0.008821926792945722
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.008661113120089494
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.00849138712788076
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.008196410288790465
+<http://www.yso.fi/onto/yso/p237>	raportit	0.006734605671498535
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21034>	aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.25884338841005505
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p8850>	käsikirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3077>	käyttötutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11513>	käyttäjätutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p10631>	kyselytutkimus	0.09859943763580127
-<http://www.yso.fi/onto/yso/p9649>	lukijat	0.09424283744586774
-<http://www.yso.fi/onto/yso/p7217>	asiakastyytyväisyys	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3618>	suosikit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p25337>	käyttäjäkokemus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p23050>	mäet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.03715996499778461
-<http://www.yso.fi/onto/yso/p7125>	tuuli	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02135670516361598
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3602>	tilat	0.013609942855237487
-<http://www.yso.fi/onto/yso/p7432>	tila	0.013562839699326045
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.011410743001560319
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.011388586428443629
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.010846134817405319
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.551488875094531
+<http://www.yso.fi/onto/yso/p11513>	käyttäjätutkimus	0.32311457672427646
+<http://www.yso.fi/onto/yso/p10631>	kyselytutkimus	0.169342076258351
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.16181080267516573
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.15718331198179786
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.1342850675407349
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.11389136196755319
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.10286565112036809
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.09283644580662678
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.08743287222668515
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.06666666666666667
+<http://www.yso.fi/onto/yso/p7432>	tila	0.05849503579362303
+<http://www.yso.fi/onto/yso/p3602>	tilat	0.052381249769048524
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.0430394971514369
+<http://www.yso.fi/onto/yso/p3077>	käyttötutkimus	0.0397548164210842
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.03558114010367328
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.03469155287688712
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.034083722937999175
+<http://www.yso.fi/onto/yso/p25337>	käyttäjäkokemus	0.03333972208146156
+<http://www.yso.fi/onto/yso/p7217>	asiakastyytyväisyys	0.031077242296139347
+<http://www.yso.fi/onto/yso/p7125>	tuuli	0.026574462428995405
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02588960286682617
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.01986886979681643
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.0193141873884096
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.01835064274894435
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.01804783166248724
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p3618>	suosikit	0.016187084434953862
+<http://www.yso.fi/onto/yso/p8850>	käsikirjastot	0.015834812139206116
+<http://www.yso.fi/onto/yso/p23050>	mäet	0.013098663637288534
+<http://www.yso.fi/onto/yso/p9649>	lukijat	0.011027282053329444
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.006328091168992595
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846

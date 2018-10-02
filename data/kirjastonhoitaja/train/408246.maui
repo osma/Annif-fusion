@@ -1,22 +1,22 @@
-<http://www.yso.fi/onto/yso/p5617>	propaganda	0.3296363777636505
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p1813>	japanilaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p29484>	antautuminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23152>	viholliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2504>	sotilaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1346>	terminologia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p25848>	loppuminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.015429864862007283
-<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.015369013882039786
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.01468041649685237
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1346>	terminologia	0.5828360109969171
+<http://www.yso.fi/onto/yso/p29484>	antautuminen	0.4732345257793451
+<http://www.yso.fi/onto/yso/p1813>	japanilaiset	0.38918101169381014
+<http://www.yso.fi/onto/yso/p2504>	sotilaat	0.2777342141890135
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.2077523392339454
+<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.18395183076932436
+<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.18395183076932436
+<http://www.yso.fi/onto/yso/p5617>	propaganda	0.07140943232321259
+<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.07105619276454406
+<http://www.yso.fi/onto/yso/p25848>	loppuminen	0.07033492802211858
+<http://www.yso.fi/onto/yso/p23152>	viholliset	0.0651192947085337
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.04599856707760316
+<http://www.yso.fi/onto/yso/p1780>	historia	0.04436887869717785
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.028625733839946953
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.019814623599358136
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.01456889527041543
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0032143653651324315

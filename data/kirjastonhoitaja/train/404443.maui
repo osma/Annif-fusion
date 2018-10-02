@@ -1,25 +1,24 @@
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.3574282828282828
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p26917>	MySQL	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16268>	PHP	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6068>	Apache	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26198>	alusten kannet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22952>	Google	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p237>	raportit	0.025713305353549494
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.013609942855237487
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.010201941561365137
-<http://www.yso.fi/onto/yso/p15063>	tee	0.010201941561365137
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.6425740714216214
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.21259565946178527
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.21172857242624685
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.1991814785558387
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.1491236097129009
+<http://www.yso.fi/onto/yso/p16268>	PHP	0.13045579552615266
+<http://www.yso.fi/onto/yso/p6068>	Apache	0.13045579552615266
+<http://www.yso.fi/onto/yso/p26198>	alusten kannet	0.08353311449327985
+<http://www.yso.fi/onto/yso/p26917>	MySQL	0.08331221587119762
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.050998567077603155
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04990866502060477
+<http://www.yso.fi/onto/yso/p237>	raportit	0.027165040358911395
+<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.026758536293870743
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.02481462359935813
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.016046941463640454
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.003220167974595556
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p15063>	tee	0.003006254758466846
+<http://www.yso.fi/onto/yso/p22952>	Google	0.0025128844610014882

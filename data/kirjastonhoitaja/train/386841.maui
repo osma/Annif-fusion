@@ -1,43 +1,43 @@
-<http://www.yso.fi/onto/yso/p12891>	draamapedagogiikka	0.4510459336591908
-<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.29795593699230066
-<http://www.yso.fi/onto/yso/p2587>	psykoterapia	0.231289270325634
-<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.19157066113732776
-<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2850>	esittävät taiteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7482>	kokemusoppiminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2851>	taide	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p413>	kokeet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2739>	kuvataide	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3203>	teatterit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2625>	teatteri	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p27578>	koit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6875>	psykologit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1632>	psykologia	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2452>	monistus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02503108205100534
-<http://www.yso.fi/onto/yso/p27493>	neljä elementtiä	0.022236981861071817
-<http://www.yso.fi/onto/yso/p15071>	rakennuselementit	0.022236981861071817
-<http://www.yso.fi/onto/yso/p28352>	viisi elementtiä	0.022236981861071817
-<http://www.yso.fi/onto/yso/p11699>	yhdistyminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p5902>	päättely	0.016171337988124073
-<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.015693235394769273
-<http://www.yso.fi/onto/yso/p3210>	kokeminen	0.013867364862007283
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.010190010641896115
-<http://www.yso.fi/onto/yso/p335>	ymmärtäminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.0097688848522855
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.0014031955403157762
+<http://www.yso.fi/onto/yso/p12891>	draamapedagogiikka	0.740112205801861
+<http://www.yso.fi/onto/yso/p3210>	kokeminen	0.40345631929828646
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.39818503403895844
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.2822318007662835
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1975655223329642
+<http://www.yso.fi/onto/yso/p27578>	koit	0.1796592478346679
+<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.17842282376430907
+<http://www.yso.fi/onto/yso/p3203>	teatterit	0.1756535344061967
+<http://www.yso.fi/onto/yso/p7482>	kokemusoppiminen	0.1536071281659517
+<http://www.yso.fi/onto/yso/p2625>	teatteri	0.14606144687720712
+<http://www.yso.fi/onto/yso/p2739>	kuvataide	0.1361130021149196
+<http://www.yso.fi/onto/yso/p413>	kokeet	0.12792411786324231
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.10387445839100973
+<http://www.yso.fi/onto/yso/p2850>	esittävät taiteet	0.0789798877750457
+<http://www.yso.fi/onto/yso/p28352>	viisi elementtiä	0.0687931833157165
+<http://www.yso.fi/onto/yso/p2587>	psykoterapia	0.05917795698090282
+<http://www.yso.fi/onto/yso/p2851>	taide	0.05706380245252661
+<http://www.yso.fi/onto/yso/p6875>	psykologit	0.047778372391337184
+<http://www.yso.fi/onto/yso/p1632>	psykologia	0.047778372391337184
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04503132220614863
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.03973808077753539
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.03646756350459036
+<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.030435231538667756
+<http://www.yso.fi/onto/yso/p11699>	yhdistyminen	0.02769506161581578
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.021039791593948955
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.02031748147412766
+<http://www.yso.fi/onto/yso/p27493>	neljä elementtiä	0.020295233602675242
+<http://www.yso.fi/onto/yso/p15071>	rakennuselementit	0.020295233602675242
+<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.017713044406794467
+<http://www.yso.fi/onto/yso/p5902>	päättely	0.017686663991057963
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.015316052216815465
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.015001329380678963
+<http://www.yso.fi/onto/yso/p2452>	monistus	0.0146591960317902
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.0090120433692199
+<http://www.yso.fi/onto/yso/p335>	ymmärtäminen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.006880053557626067
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.003220167974595556
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0013900913900913902

@@ -1,38 +1,38 @@
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.35682222222222226
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p1248>	myytit	0.22234987638624001
-<http://www.yso.fi/onto/yso/p29405>	slaavilainen kirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7747>	erikoiskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15284>	kroaatit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15348>	jugoslavialaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16348>	käännöskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5489>	kantakieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15630>	aforismit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5041>	kielialueet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9588>	kääntäjät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18114>	listat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7969>	sanataide	0.10867438452205902
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1365>	lyriikka	0.05710575707107861
-<http://www.yso.fi/onto/yso/p944>	tuotanto	0.037488326524690155
-<http://www.yso.fi/onto/yso/p22833>	karit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24904>	taulutietokoneet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19141>	seurat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p556>	kielet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p941>	tulot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1047>	säilytys	0.016931513882039787
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p16348>	käännöskirjallisuus	0.7007575757575757
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.40062087035771243
+<http://www.yso.fi/onto/yso/p9588>	kääntäjät	0.17290991005898576
+<http://www.yso.fi/onto/yso/p15630>	aforismit	0.16293705378100212
+<http://www.yso.fi/onto/yso/p1248>	myytit	0.16293705378100212
+<http://www.yso.fi/onto/yso/p18114>	listat	0.14476081205489735
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.08263395397967135
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.06666666666666667
+<http://www.yso.fi/onto/yso/p5489>	kantakieli	0.0613357725005651
+<http://www.yso.fi/onto/yso/p15348>	jugoslavialaiset	0.06070417380077551
+<http://www.yso.fi/onto/yso/p1365>	lyriikka	0.04747970429519794
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.04325556474194673
+<http://www.yso.fi/onto/yso/p15284>	kroaatit	0.042398766751961345
+<http://www.yso.fi/onto/yso/p7747>	erikoiskirjastot	0.036736573415815335
+<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.03532906937794715
+<http://www.yso.fi/onto/yso/p29405>	slaavilainen kirjallisuus	0.026243538110200422
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.023610097100620644
+<http://www.yso.fi/onto/yso/p5041>	kielialueet	0.022652930634656634
+<http://www.yso.fi/onto/yso/p24904>	taulutietokoneet	0.022652930634656634
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01857313604208111
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01857313604208111
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.01796798313163511
+<http://www.yso.fi/onto/yso/p556>	kielet	0.017898201866368025
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.017018660833226743
+<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.012154744270422593
+<http://www.yso.fi/onto/yso/p7969>	sanataide	0.011605112931740925
+<http://www.yso.fi/onto/yso/p1047>	säilytys	0.011027282053329444
+<http://www.yso.fi/onto/yso/p944>	tuotanto	0.008821926792945722
+<http://www.yso.fi/onto/yso/p941>	tulot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p19141>	seurat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22833>	karit	0.002919388526042139

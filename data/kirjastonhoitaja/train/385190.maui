@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p1117>	opettajat	0.6831815114709852
-<http://www.yso.fi/onto/yso/p8790>	opettajuus	0.3574282828282828
-<http://www.yso.fi/onto/yso/p6332>	oppimiskäsitykset	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8131>	oppilaat	0.29076161616161617
-<http://www.yso.fi/onto/yso/p2630>	opetus	0.17551005507672174
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.15884338841005508
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15518>	ammattiyhdistykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15588>	vuosituhannen vaihde	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27523>	ISSN	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p988>	opetusmenetelmät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11166>	ihmiskuva	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21453>	työnkuva	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3975>	vaihteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p434>	muu rooli	0.03908100043095394
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p17473>	moderni	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21022>	sulkeminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5271>	sulkimet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1179>	ammatit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p25710>	luokat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p5028>	ilmanlaatu	0.016931513882039787
-<http://www.yso.fi/onto/yso/p5029>	laatu	0.016931513882039787
-<http://www.yso.fi/onto/yso/p817>	tulevaisuus	0.016542457256587376
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.014411063956561285
-<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.011906344487262218
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p1117>	opettajat	0.698818108974359
+<http://www.yso.fi/onto/yso/p434>	muu rooli	0.39206818349536077
+<http://www.yso.fi/onto/yso/p6332>	oppimiskäsitykset	0.2992274614451341
+<http://www.yso.fi/onto/yso/p8131>	oppilaat	0.21693992135871992
+<http://www.yso.fi/onto/yso/p1179>	ammatit	0.2131434130356064
+<http://www.yso.fi/onto/yso/p8790>	opettajuus	0.18545777878476608
+<http://www.yso.fi/onto/yso/p11166>	ihmiskuva	0.16114519948705278
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.13398983699820805
+<http://www.yso.fi/onto/yso/p988>	opetusmenetelmät	0.12696850978368726
+<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.12485637675662184
+<http://www.yso.fi/onto/yso/p15588>	vuosituhannen vaihde	0.06007521786049173
+<http://www.yso.fi/onto/yso/p5028>	ilmanlaatu	0.04836197290478941
+<http://www.yso.fi/onto/yso/p5029>	laatu	0.04836197290478941
+<http://www.yso.fi/onto/yso/p1810>	työ	0.04550440602296447
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.0417100546166834
+<http://www.yso.fi/onto/yso/p15518>	ammattiyhdistykset	0.04088360833569167
+<http://www.yso.fi/onto/yso/p21022>	sulkeminen	0.03996903421079901
+<http://www.yso.fi/onto/yso/p5271>	sulkimet	0.03996903421079901
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.03978587732007262
+<http://www.yso.fi/onto/yso/p2630>	opetus	0.031080703364875267
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.030093859578725617
+<http://www.yso.fi/onto/yso/p817>	tulevaisuus	0.0245799823984141
+<http://www.yso.fi/onto/yso/p21453>	työnkuva	0.022287050609925484
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p17473>	moderni	0.015456360669269928
+<http://www.yso.fi/onto/yso/p3975>	vaihteet	0.01522810620396374
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.012501778188803889
+<http://www.yso.fi/onto/yso/p27523>	ISSN	0.009092302703479927
+<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.0033700073884787344

@@ -1,21 +1,21 @@
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.19874958778595145
-<http://www.yso.fi/onto/yso/p3788>	kirjastoautot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16608>	liikuntaesteiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7085>	kotipalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4674>	reitit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18331>	toimitustyö	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19873>	editointi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p25394>	laajuus	0.04760000435676974
-<http://www.yso.fi/onto/yso/p15328>	toiveet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.022236981861071817
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.022236981861071817
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.01468041649685237
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p7085>	kotipalvelut	0.6601593808490359
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.40835449857048767
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.3091522322225023
+<http://www.yso.fi/onto/yso/p16608>	liikuntaesteiset	0.2847726392372282
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.24390550452986465
+<http://www.yso.fi/onto/yso/p3788>	kirjastoautot	0.1884834422210004
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1295785369621965
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.09951229498304084
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.0931638785927142
+<http://www.yso.fi/onto/yso/p25394>	laajuus	0.06820607481333137
+<http://www.yso.fi/onto/yso/p4674>	reitit	0.05510123005106634
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.04550440602296447
+<http://www.yso.fi/onto/yso/p15328>	toiveet	0.028644957090151767
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.017339299278823776
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.015082851935793973
+<http://www.yso.fi/onto/yso/p19873>	editointi	0.011315567700328082
+<http://www.yso.fi/onto/yso/p18331>	toimitustyö	0.008219431126787916
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.002919388526042139

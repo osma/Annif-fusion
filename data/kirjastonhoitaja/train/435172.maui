@@ -1,31 +1,31 @@
-<http://www.yso.fi/onto/yso/p374>	tutkinnot	0.5094236399823087
-<http://www.yso.fi/onto/yso/p8553>	tutkinnon suorittaneet	0.3021166135034556
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.2963030444303172
-<http://www.yso.fi/onto/yso/p3249>	informaatikot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5711>	informaatioala	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23828>	kirjastolaitos	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22253>	ammatilliset tutkinnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4203>	ammattitutkinnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14676>	korkeakoulututkinnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4780>	opinnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4469>	insinöörit	0.05710575707107861
-<http://www.yso.fi/onto/yso/p11966>	virat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p23894>	johtajat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1247>	riitit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p5798>	taidot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.015369013882039786
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.011410743001560319
-<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p4780>	opinnot	0.5316520054201711
+<http://www.yso.fi/onto/yso/p374>	tutkinnot	0.48157458483545434
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.3869312092215321
+<http://www.yso.fi/onto/yso/p14676>	korkeakoulututkinnot	0.32139937208902725
+<http://www.yso.fi/onto/yso/p5711>	informaatioala	0.25774059190850795
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.21893711016634523
+<http://www.yso.fi/onto/yso/p23828>	kirjastolaitos	0.1767764196063593
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.1609460184771681
+<http://www.yso.fi/onto/yso/p22253>	ammatilliset tutkinnot	0.11195782382448616
+<http://www.yso.fi/onto/yso/p4203>	ammattitutkinnot	0.06709334825814085
+<http://www.yso.fi/onto/yso/p3249>	informaatikot	0.05475757021641873
+<http://www.yso.fi/onto/yso/p11966>	virat	0.04921701564058269
+<http://www.yso.fi/onto/yso/p8553>	tutkinnon suorittaneet	0.0435817996193736
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04242424242424242
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.033721409216881694
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.03105474255021502
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.023672825244311482
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4469>	insinöörit	0.023366252400609987
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.022351943743884044
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.01986886979681643
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.01481434991179834
+<http://www.yso.fi/onto/yso/p23894>	johtajat	0.011027282053329444
+<http://www.yso.fi/onto/yso/p1247>	riitit	0.008783788903913714
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.003593899828539421

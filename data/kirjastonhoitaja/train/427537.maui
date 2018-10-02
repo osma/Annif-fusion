@@ -1,48 +1,48 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p14928>	thaimaalaiset	0.3538237114369686
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.27913543532490903
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.2580717834717835
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.17913543532490897
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.15807178347178347
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.15807178347178347
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.15807178347178347
-<http://www.yso.fi/onto/yso/p11274>	keittokirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p29480>	koniini	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16502>	siirtokokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1379>	asiakaspalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2851>	taide	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.10898132902529185
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.10898132902529185
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p23017>	painostus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2005>	koneet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10144>	lukumäärä	0.022236981861071817
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.020900544995290878
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.020431639617679742
-<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.016542457256587376
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.015429864862007283
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.015256256150081023
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.01468041649685237
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.011447811013486497
-<http://www.yso.fi/onto/yso/p19450>	päivä	0.011447811013486497
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011447811013486497
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.009885311013486497
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00984824300156032
+<http://www.yso.fi/onto/yso/p1379>	asiakaspalvelu	0.5060119517163187
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.4320090214863514
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.4269434733334812
+<http://www.yso.fi/onto/yso/p16502>	siirtokokoelmat	0.35055713608345185
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.269940238380694
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.2393600499844101
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.20688884644767
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.17217438478187147
+<http://www.yso.fi/onto/yso/p2851>	taide	0.1579069946484585
+<http://www.yso.fi/onto/yso/p14928>	thaimaalaiset	0.12756752846748778
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.11792378539273045
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.1085139318885449
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.07862300862179963
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.0553277460104387
+<http://www.yso.fi/onto/yso/p29480>	koniini	0.0464622324830692
+<http://www.yso.fi/onto/yso/p23017>	painostus	0.04220422009416535
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.037058332439923986
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p11274>	keittokirjat	0.034869353498802894
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.03469155287688712
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.03469155287688712
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.033721409216881694
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.030832395301340364
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.030832395301340364
+<http://www.yso.fi/onto/yso/p10144>	lukumäärä	0.029016573857014363
+<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.02729328996984458
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.023970825337160037
+<http://www.yso.fi/onto/yso/p556>	kielet	0.023844094573973
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.017494941302170077
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.013098663637288534
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.012870409171982348
+<http://www.yso.fi/onto/yso/p2005>	koneet	0.011242464661296334
+<http://www.yso.fi/onto/yso/p19450>	päivä	0.008661113120089494
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.00758153446175701
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0013900913900913902

@@ -1,42 +1,42 @@
-<http://www.yso.fi/onto/yso/p2211>	omaiset	0.22130304443031718
-<http://www.yso.fi/onto/yso/p2504>	sotilaat	0.20092613731297942
-<http://www.yso.fi/onto/yso/p2551>	valta	0.163627339027339
-<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.1459471117947863
-<http://www.yso.fi/onto/yso/p16973>	ruodut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13055>	eläkekassat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13161>	aliupseerit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11014>	torpat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9668>	keisarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3846>	hyväntekeväisyys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24124>	elinaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p789>	upseerit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9255>	palkkatyö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19942>	päivämäärät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p426>	virkatalot	0.10867438452205902
-<http://www.yso.fi/onto/yso/p12764>	toimeentulo	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1263>	eläkkeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p22477>	lupaukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p19662>	kantaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p11264>	maksa	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21206>	uhat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3901>	varallisuus	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3902>	omaisuus	0.022236981861071817
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p17691>	tuli	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.010360553103558302
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.010360553103558302
-<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p6881>	lisäys	0.009856721205752953
-<http://www.yso.fi/onto/yso/p7258>	hyvä	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p789>	upseerit	0.5572395472395473
+<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.3535599640418209
+<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.1872949511335259
+<http://www.yso.fi/onto/yso/p2551>	valta	0.14634206229243893
+<http://www.yso.fi/onto/yso/p2504>	sotilaat	0.12752178659044766
+<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.11624038979699498
+<http://www.yso.fi/onto/yso/p9255>	palkkatyö	0.1132839269269049
+<http://www.yso.fi/onto/yso/p11014>	torpat	0.10185926787448692
+<http://www.yso.fi/onto/yso/p426>	virkatalot	0.0896747667298013
+<http://www.yso.fi/onto/yso/p13161>	aliupseerit	0.07086338681024754
+<http://www.yso.fi/onto/yso/p16973>	ruodut	0.06724473944104764
+<http://www.yso.fi/onto/yso/p13055>	eläkekassat	0.06724473944104764
+<http://www.yso.fi/onto/yso/p2211>	omaiset	0.05166797409965803
+<http://www.yso.fi/onto/yso/p3846>	hyväntekeväisyys	0.04003868191765611
+<http://www.yso.fi/onto/yso/p12764>	toimeentulo	0.03689722654801525
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.033688630679592595
+<http://www.yso.fi/onto/yso/p24124>	elinaika	0.03218184573727876
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.027851156045699505
+<http://www.yso.fi/onto/yso/p9668>	keisarit	0.02436025145976157
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.022907842454228597
+<http://www.yso.fi/onto/yso/p19942>	päivämäärät	0.022852579080064377
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02048826016496129
+<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1263>	eläkkeet	0.01888909680646984
+<http://www.yso.fi/onto/yso/p22477>	lupaukset	0.017671761362131014
+<http://www.yso.fi/onto/yso/p19662>	kantaminen	0.017671761362131014
+<http://www.yso.fi/onto/yso/p21206>	uhat	0.017671761362131014
+<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.009092302703479927
+<http://www.yso.fi/onto/yso/p3901>	varallisuus	0.008964245977246838
+<http://www.yso.fi/onto/yso/p3902>	omaisuus	0.008964245977246838
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00758153446175701
+<http://www.yso.fi/onto/yso/p6881>	lisäys	0.00758153446175701
+<http://www.yso.fi/onto/yso/p11264>	maksa	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p17691>	tuli	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

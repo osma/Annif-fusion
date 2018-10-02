@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.19142100192549108
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15992>	poni	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7362>	myrskyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13297>	myllyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14567>	petoeläimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10230>	salanimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p501>	hevonen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17016>	saaret	0.1092804451281196
-<http://www.yso.fi/onto/yso/p261>	tieto	0.06839305675543447
-<http://www.yso.fi/onto/yso/p20303>	kadonneet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8639>	katoaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.02365661378379742
-<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.022236981861071817
-<http://www.yso.fi/onto/yso/p18324>	silmät	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.016171337988124073
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p501>	hevonen	0.58253552433119
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.47730490743858606
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.4424225294027092
+<http://www.yso.fi/onto/yso/p15992>	poni	0.35482417151552836
+<http://www.yso.fi/onto/yso/p10230>	salanimet	0.1685259345411536
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.13556024362815638
+<http://www.yso.fi/onto/yso/p17016>	saaret	0.12121612150296138
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.0667380483140047
+<http://www.yso.fi/onto/yso/p261>	tieto	0.04619020505225717
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04379755390949366
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p14567>	petoeläimet	0.031159189317233278
+<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.025834095012657078
+<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.024918525289177852
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p13297>	myllyt	0.022287050609925484
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8639>	katoaminen	0.019715543087461575
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.019297239092890005
+<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.019297239092890005
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p7362>	myrskyt	0.016239924658156733
+<http://www.yso.fi/onto/yso/p18324>	silmät	0.01279675502789418
+<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009232743824015916
+<http://www.yso.fi/onto/yso/p20303>	kadonneet	0.009092302703479927
+<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344

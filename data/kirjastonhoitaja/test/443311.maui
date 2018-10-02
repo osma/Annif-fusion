@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p1644>	muusikot	0.39630304443031716
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.29076161616161617
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.29076161616161617
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.29076161616161617
-<http://www.yso.fi/onto/yso/p23171>	vanha musiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p29983>	historialliset äänitykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11910>	lähioikeudet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2353>	säveltäjät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21768>	Euroopan talousalue	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5981>	talousalueet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2497>	kaistat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5070>	orkesterit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1139>	äänentallennus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6602>	suojaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p30003>	äänitykset	0.108351758070098
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8823>	tuottajat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p28749>	vavat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.7337676390106057
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.7001344086021505
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.6262455197132616
+<http://www.yso.fi/onto/yso/p30003>	äänitykset	0.5459673959673961
+<http://www.yso.fi/onto/yso/p1139>	äänentallennus	0.36846434267486894
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.3587949832623122
+<http://www.yso.fi/onto/yso/p1644>	muusikot	0.29523674654084325
+<http://www.yso.fi/onto/yso/p21768>	Euroopan talousalue	0.2277353437269034
+<http://www.yso.fi/onto/yso/p6602>	suojaimet	0.20678287963538292
+<http://www.yso.fi/onto/yso/p2497>	kaistat	0.16946146847945084
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1045124642298884
+<http://www.yso.fi/onto/yso/p23171>	vanha musiikki	0.09058813616447588
+<http://www.yso.fi/onto/yso/p29983>	historialliset äänitykset	0.06715176715176716
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.06389882193723594
+<http://www.yso.fi/onto/yso/p5981>	talousalueet	0.0456659887752839
+<http://www.yso.fi/onto/yso/p2353>	säveltäjät	0.044470543864755706
+<http://www.yso.fi/onto/yso/p11910>	lähioikeudet	0.043171736351936815
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.033688630679592595
+<http://www.yso.fi/onto/yso/p5070>	orkesterit	0.03218184573727876
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.026978110830406694
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.022336211750302173
+<http://www.yso.fi/onto/yso/p8823>	tuottajat	0.019715543087461575
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p28749>	vavat	0.01522810620396374
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.008661113120089494
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.002919388526042139

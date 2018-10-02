@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p16458>	psykiatrit	0.39630304443031716
-<http://www.yso.fi/onto/yso/p4372>	psykiatria	0.39630304443031716
-<http://www.yso.fi/onto/yso/p7995>	masennus	0.35682222222222226
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.3296363777636505
-<http://www.yso.fi/onto/yso/p7642>	kerhot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p5056>	ikääntyminen	0.2824282828282828
-<http://www.yso.fi/onto/yso/p5704>	käävät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21784>	vapaa-ajan asunnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10572>	kompassit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25504>	hatut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10458>	päähineet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1263>	eläkkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17397>	vaihdevuodet	0.10867438452205902
-<http://www.yso.fi/onto/yso/p12279>	äidit	0.10415499319135683
-<http://www.yso.fi/onto/yso/p1797>	asuminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4731>	pukineet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4289>	vuoret	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1191>	aallot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.025510055076721737
-<http://www.yso.fi/onto/yso/p18324>	silmät	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p21034>	aika	0.01577079092724847
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01577079092724847
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.7217891759723882
+<http://www.yso.fi/onto/yso/p7995>	masennus	0.682938055360516
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.4908907660244446
+<http://www.yso.fi/onto/yso/p1263>	eläkkeet	0.4530012997754933
+<http://www.yso.fi/onto/yso/p17397>	vaihdevuodet	0.27228228175249913
+<http://www.yso.fi/onto/yso/p16458>	psykiatrit	0.2202351339465356
+<http://www.yso.fi/onto/yso/p4372>	psykiatria	0.2202351339465356
+<http://www.yso.fi/onto/yso/p21784>	vapaa-ajan asunnot	0.20669936728865848
+<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.19964512154510244
+<http://www.yso.fi/onto/yso/p10458>	päähineet	0.13420164612709073
+<http://www.yso.fi/onto/yso/p5704>	käävät	0.11390560108271516
+<http://www.yso.fi/onto/yso/p5056>	ikääntyminen	0.08600369487605677
+<http://www.yso.fi/onto/yso/p7642>	kerhot	0.06963734695181559
+<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.06854620525673158
+<http://www.yso.fi/onto/yso/p25504>	hatut	0.0632453897260552
+<http://www.yso.fi/onto/yso/p12279>	äidit	0.058814413085229986
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.05439786848884513
+<http://www.yso.fi/onto/yso/p1797>	asuminen	0.050506160719410685
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.033072058567531044
+<http://www.yso.fi/onto/yso/p10572>	kompassit	0.02655125396255385
+<http://www.yso.fi/onto/yso/p4731>	pukineet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p4289>	vuoret	0.020098299935903514
+<http://www.yso.fi/onto/yso/p1191>	aallot	0.01557433527124088
+<http://www.yso.fi/onto/yso/p18324>	silmät	0.012095274123763239
+<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.011816729374888885
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21034>	aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344

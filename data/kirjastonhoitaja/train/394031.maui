@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.3569256474519632
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.3569256474519632
-<http://www.yso.fi/onto/yso/p5088>	rikoskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5085>	vakoilukirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5087>	jännityskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15527>	tieteiskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14484>	pelaajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3463>	aseet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.013117916496852369
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p5085>	vakoilukirjallisuus	0.7473809523809524
+<http://www.yso.fi/onto/yso/p5087>	jännityskirjallisuus	0.630909090909091
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.48737256931804396
+<http://www.yso.fi/onto/yso/p5088>	rikoskirjallisuus	0.4766666666666667
+<http://www.yso.fi/onto/yso/p15527>	tieteiskirjallisuus	0.34596556392004774
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.31324679104972863
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.2750672750672751
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.23245694304623427
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.22707065214008057
+<http://www.yso.fi/onto/yso/p3463>	aseet	0.12697664747973178
+<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.0918858673882324
+<http://www.yso.fi/onto/yso/p14484>	pelaajat	0.0651192947085337
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.054554425401785164
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04990866502060477
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.04022743715755873
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.031206589959724203
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.030950949966060952
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.017634276117914068
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.014720950289126128
+<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.006027364904611476
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344

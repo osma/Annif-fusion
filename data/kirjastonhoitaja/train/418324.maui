@@ -1,40 +1,40 @@
-<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.2580717834717835
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.19140511680511677
-<http://www.yso.fi/onto/yso/p2573>	englannin kieli	0.1459471117947863
-<http://www.yso.fi/onto/yso/p13028>	kirjastokortit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15465>	kielikurssit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9386>	ajokortit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16594>	passit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21231>	salasanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12469>	ruotsin kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9403>	varaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9106>	kuunteleminen	0.09424283744586774
-<http://www.yso.fi/onto/yso/p9589>	tulkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19110>	kelat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2699>	valokuvat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13029>	kortit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6656>	marjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p22833>	karit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.021192667585202166
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.020900544995290878
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.020674481861071816
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.020674481861071816
-<http://www.yso.fi/onto/yso/p562>	esittäminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.010846134817405319
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p15465>	kielikurssit	0.28902520392575604
+<http://www.yso.fi/onto/yso/p2573>	englannin kieli	0.21130670953473035
+<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.19871184117464163
+<http://www.yso.fi/onto/yso/p12469>	ruotsin kieli	0.18848177075559092
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.12259261156352955
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.12012031027335815
+<http://www.yso.fi/onto/yso/p13028>	kirjastokortit	0.10570699833665169
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.09193682513215305
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.07862300862179963
+<http://www.yso.fi/onto/yso/p21231>	salasanat	0.05823975818959448
+<http://www.yso.fi/onto/yso/p16594>	passit	0.050812709229126785
+<http://www.yso.fi/onto/yso/p2699>	valokuvat	0.03763624266957967
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.03042350862600136
+<http://www.yso.fi/onto/yso/p9386>	ajokortit	0.030098202059104535
+<http://www.yso.fi/onto/yso/p13029>	kortit	0.029492901183780874
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.023392338389950407
+<http://www.yso.fi/onto/yso/p556>	kielet	0.023392338389950407
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.022692346784982536
+<http://www.yso.fi/onto/yso/p9589>	tulkit	0.020203406931751267
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02012468818917141
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.01986886979681643
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.01804783166248724
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.017799515634884546
+<http://www.yso.fi/onto/yso/p19110>	kelat	0.016138011629698818
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p9106>	kuunteleminen	0.01522810620396374
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.014327546672239214
+<http://www.yso.fi/onto/yso/p6656>	marjat	0.008821926792945722
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p22833>	karit	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p562>	esittäminen	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846

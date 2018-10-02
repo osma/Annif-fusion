@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.19874958778595145
-<http://www.yso.fi/onto/yso/p7401>	lukio	0.19874958778595145
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.19217672174338843
-<http://www.yso.fi/onto/yso/p556>	kielet	0.15710575707107866
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15465>	kielikurssit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7643>	venäjän kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12167>	työväenopistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2415>	onni	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p159>	oppikirjat	0.05710575707107861
-<http://www.yso.fi/onto/yso/p21103>	itä	0.04760000435676974
-<http://www.yso.fi/onto/yso/p4780>	opinnot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9270>	kurssit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p22310>	vaihtoehdot	0.024425021444944735
-<http://www.yso.fi/onto/yso/p26771>	painokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.016171337988124073
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.016171337988124073
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1372>	suhteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00984824300156032
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.4694096601073346
+<http://www.yso.fi/onto/yso/p15465>	kielikurssit	0.2963505104309823
+<http://www.yso.fi/onto/yso/p159>	oppikirjat	0.2710354606109252
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.26160458262659037
+<http://www.yso.fi/onto/yso/p556>	kielet	0.2522972321903243
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.12672564960943727
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.10387445839100973
+<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.05878433576920181
+<http://www.yso.fi/onto/yso/p7643>	venäjän kieli	0.054899248339833985
+<http://www.yso.fi/onto/yso/p4780>	opinnot	0.038760463942493543
+<http://www.yso.fi/onto/yso/p22310>	vaihtoehdot	0.0370340325864543
+<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.0341591943266928
+<http://www.yso.fi/onto/yso/p7401>	lukio	0.0341591943266928
+<http://www.yso.fi/onto/yso/p12167>	työväenopistot	0.02357711233259819
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2415>	onni	0.019613630059003656
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.01847277999235943
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017898201866368025
+<http://www.yso.fi/onto/yso/p9270>	kurssit	0.01752945635957615
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.01614528748856063
+<http://www.yso.fi/onto/yso/p1372>	suhteet	0.00954918349252259
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.00849138712788076
+<http://www.yso.fi/onto/yso/p21103>	itä	0.008450291946008338
+<http://www.yso.fi/onto/yso/p26771>	painokset	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0025128844610014882
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0025128844610014882

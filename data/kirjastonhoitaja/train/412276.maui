@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p6640>	videolaitteet	0.3956969838242565
-<http://www.yso.fi/onto/yso/p5696>	kuvanauhurit	0.3956969838242565
-<http://www.yso.fi/onto/yso/p8393>	alkoholinkäyttö	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8368>	video	0.2956969838242566
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.25884338841005505
-<http://www.yso.fi/onto/yso/p10886>	päihteet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p824>	hoito	0.22963637776365053
-<http://www.yso.fi/onto/yso/p26126>	terveysala	0.22130304443031718
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.15884338841005508
-<http://www.yso.fi/onto/yso/p18450>	turvakodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6511>	äitiysneuvolat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20513>	vauvaperheet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16509>	sikiön alkoholioireyhtymä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4475>	narkomaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8749>	raskaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11099>	riskit	0.09424283744586774
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9778>	yhteiskunta	0.027576170779201083
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11461>	tunnistimet	0.016171337988124073
-<http://www.yso.fi/onto/yso/p8265>	tunnistaminen	0.015256256150081023
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.011419221205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00984824300156032
+<http://www.yso.fi/onto/yso/p10886>	päihteet	0.7051098425736912
+<http://www.yso.fi/onto/yso/p8749>	raskaus	0.5191266311260747
+<http://www.yso.fi/onto/yso/p16509>	sikiön alkoholioireyhtymä	0.32462283110147394
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.2987373620425505
+<http://www.yso.fi/onto/yso/p6640>	videolaitteet	0.188871429569104
+<http://www.yso.fi/onto/yso/p5696>	kuvanauhurit	0.188871429569104
+<http://www.yso.fi/onto/yso/p8393>	alkoholinkäyttö	0.17854381861417573
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.16610112702933172
+<http://www.yso.fi/onto/yso/p8368>	video	0.14687811904209766
+<http://www.yso.fi/onto/yso/p824>	hoito	0.12774063815900777
+<http://www.yso.fi/onto/yso/p20513>	vauvaperheet	0.1110113510817082
+<http://www.yso.fi/onto/yso/p6511>	äitiysneuvolat	0.10907025335747796
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.09491977913996011
+<http://www.yso.fi/onto/yso/p18450>	turvakodit	0.08840238233671034
+<http://www.yso.fi/onto/yso/p26126>	terveysala	0.08458885794356172
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.06936553306414214
+<http://www.yso.fi/onto/yso/p4475>	narkomaanit	0.06779497449188729
+<http://www.yso.fi/onto/yso/p11099>	riskit	0.032991466038282014
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02139857353948988
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.019748585805515338
+<http://www.yso.fi/onto/yso/p9778>	yhteiskunta	0.014720950289126128
+<http://www.yso.fi/onto/yso/p11461>	tunnistimet	0.009583867739164118
+<http://www.yso.fi/onto/yso/p8265>	tunnistaminen	0.009583867739164118
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0032143653651324315

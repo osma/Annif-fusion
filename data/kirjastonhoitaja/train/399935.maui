@@ -1,26 +1,25 @@
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.39015555555555553
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.12551005507672172
-<http://www.yso.fi/onto/yso/p13243>	työväenlaulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7821>	työväenliike	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2170>	kuorot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9796>	äänioikeus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15367>	kalliot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2371>	laulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.026633879961357028
-<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3405>	teemat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2871>	synty	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p20099>	yleistäminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011752510641896115
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p9796>	äänioikeus	0.9097838558500323
+<http://www.yso.fi/onto/yso/p2371>	laulut	0.5197758733751943
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.49184371011512906
+<http://www.yso.fi/onto/yso/p2170>	kuorot	0.24658854049401496
+<http://www.yso.fi/onto/yso/p3405>	teemat	0.12938908317575448
+<http://www.yso.fi/onto/yso/p13243>	työväenlaulut	0.08331221587119762
+<http://www.yso.fi/onto/yso/p7821>	työväenliike	0.0651192947085337
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.033512940681808726
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.030526031655179586
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.02031748147412766
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.019082997408973085
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.01353894962673402
+<http://www.yso.fi/onto/yso/p15367>	kalliot	0.009583867739164118
+<http://www.yso.fi/onto/yso/p20099>	yleistäminen	0.00939385499440685
+<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.005879415414749867
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0025128844610014882

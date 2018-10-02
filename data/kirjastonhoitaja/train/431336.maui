@@ -1,42 +1,42 @@
-<http://www.yso.fi/onto/yso/p3245>	sortovuodet	0.4510459336591908
-<http://www.yso.fi/onto/yso/p742>	demokratia	0.2824282828282828
-<http://www.yso.fi/onto/yso/p2015>	symbolit	0.13208292111928477
-<http://www.yso.fi/onto/yso/p4546>	psykohistoria	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1502>	passiivinen vastarinta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8987>	adressit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8986>	suuri adressi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16533>	suurlakko	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9745>	tikat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16534>	lakot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13939>	aktivistit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9668>	keisarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7005>	sensuuri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6557>	posti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4897>	saarnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.09859943763580127
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9664>	kuninkaat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3463>	aseet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2645>	vastarinta	0.05771181767713922
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8511>	mielikuvitus	0.04760000435676974
-<http://www.yso.fi/onto/yso/p19621>	varjot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18114>	listat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5448>	ilmaukset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19141>	seurat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p9418>	tammi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.020674481861071816
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.011419221205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.010360553103558302
-<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.009834564632636262
+<http://www.yso.fi/onto/yso/p3245>	sortovuodet	0.7423960353372118
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.24745026698870923
+<http://www.yso.fi/onto/yso/p1780>	historia	0.23299995755878106
+<http://www.yso.fi/onto/yso/p16533>	suurlakko	0.21778374058110792
+<http://www.yso.fi/onto/yso/p16534>	lakot	0.1701628370550748
+<http://www.yso.fi/onto/yso/p2645>	vastarinta	0.1484955761846676
+<http://www.yso.fi/onto/yso/p1502>	passiivinen vastarinta	0.11844527902161879
+<http://www.yso.fi/onto/yso/p7005>	sensuuri	0.1136515051741154
+<http://www.yso.fi/onto/yso/p5448>	ilmaukset	0.10570866151189343
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.1043533948734231
+<http://www.yso.fi/onto/yso/p2015>	symbolit	0.09142294722617914
+<http://www.yso.fi/onto/yso/p8987>	adressit	0.08880511111755263
+<http://www.yso.fi/onto/yso/p8986>	suuri adressi	0.08880511111755263
+<http://www.yso.fi/onto/yso/p4546>	psykohistoria	0.07269663824437386
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.04014342756550554
+<http://www.yso.fi/onto/yso/p3463>	aseet	0.03651374463800334
+<http://www.yso.fi/onto/yso/p8511>	mielikuvitus	0.033861777162717564
+<http://www.yso.fi/onto/yso/p742>	demokratia	0.033861777162717564
+<http://www.yso.fi/onto/yso/p13939>	aktivistit	0.03250397162460807
+<http://www.yso.fi/onto/yso/p9745>	tikat	0.03250397162460807
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p6557>	posti	0.02846848715401943
+<http://www.yso.fi/onto/yso/p4897>	saarnat	0.02846848715401943
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.025357612209131027
+<http://www.yso.fi/onto/yso/p9664>	kuninkaat	0.024557299004267775
+<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.022351943743884044
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p18114>	listat	0.019297239092890005
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p9668>	keisarit	0.01701689306377159
+<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.014290565048611741
+<http://www.yso.fi/onto/yso/p19621>	varjot	0.008450291946008338
+<http://www.yso.fi/onto/yso/p19141>	seurat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.003220167974595556
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.002919388526042139
+<http://www.yso.fi/onto/yso/p9418>	tammi	0.0025128844610014882

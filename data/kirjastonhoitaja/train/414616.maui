@@ -1,18 +1,18 @@
-<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p7401>	lukio	0.2963030444303172
-<http://www.yso.fi/onto/yso/p9261>	väestönlaskenta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12276>	seutukaavoitus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7213>	keskikoulu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p373>	ylioppilastutkinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2182>	kansakoulu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6817>	läänit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p374>	tutkinnot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14311>	suuret ikäluokat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.027576170779201083
-<http://www.yso.fi/onto/yso/p21034>	aika	0.016931513882039787
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p7213>	keskikoulu	0.8786727447389212
+<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.34664224452571435
+<http://www.yso.fi/onto/yso/p7401>	lukio	0.34664224452571435
+<http://www.yso.fi/onto/yso/p2182>	kansakoulu	0.319867013347813
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.3018438238603521
+<http://www.yso.fi/onto/yso/p374>	tutkinnot	0.26842586092586096
+<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.24175984275222687
+<http://www.yso.fi/onto/yso/p373>	ylioppilastutkinto	0.2028744678744679
+<http://www.yso.fi/onto/yso/p9261>	väestönlaskenta	0.14226608567995
+<http://www.yso.fi/onto/yso/p12276>	seutukaavoitus	0.08331221587119762
+<http://www.yso.fi/onto/yso/p5197>	osat	0.08074082223395726
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.08074082223395726
+<http://www.yso.fi/onto/yso/p14311>	suuret ikäluokat	0.06825782284706182
+<http://www.yso.fi/onto/yso/p6817>	läänit	0.05510123005106634
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.00429519226706251
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21034>	aika	0.003220167974595556
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0025128844610014882

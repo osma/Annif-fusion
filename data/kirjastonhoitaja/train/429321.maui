@@ -1,31 +1,31 @@
-<http://www.yso.fi/onto/yso/p1115>	kodintekstiilit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16930>	kultaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1420>	keramiikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18319>	entistäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9426>	sisustus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7409>	hopea	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9048>	kunnostus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10029>	puukot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16484>	lasi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23963>	paketit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3684>	huonekalut	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1027>	peilit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6656>	marjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7717>	ilmeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2851>	taide	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.026268860909105053
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2683>	korjaus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p9610>	luominen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23615>	toteutus	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.011003195540315773
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.011003195540315773
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010846134817405319
+<http://www.yso.fi/onto/yso/p9048>	kunnostus	0.8654725274725275
+<http://www.yso.fi/onto/yso/p3684>	huonekalut	0.8405860805860806
+<http://www.yso.fi/onto/yso/p18319>	entistäminen	0.3367663695010062
+<http://www.yso.fi/onto/yso/p9426>	sisustus	0.15912680388777473
+<http://www.yso.fi/onto/yso/p2683>	korjaus	0.14411822756750625
+<http://www.yso.fi/onto/yso/p16930>	kultaus	0.1132839269269049
+<http://www.yso.fi/onto/yso/p1420>	keramiikka	0.09161435230054388
+<http://www.yso.fi/onto/yso/p1115>	kodintekstiilit	0.06724473944104764
+<http://www.yso.fi/onto/yso/p2851>	taide	0.05750722354274632
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.05750722354274632
+<http://www.yso.fi/onto/yso/p10029>	puukot	0.0517274980617373
+<http://www.yso.fi/onto/yso/p7409>	hopea	0.04088360833569167
+<http://www.yso.fi/onto/yso/p16484>	lasi	0.04088360833569167
+<http://www.yso.fi/onto/yso/p1027>	peilit	0.031166543210348324
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02972248144219483
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.028412442050494147
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.02705155311849265
+<http://www.yso.fi/onto/yso/p261>	tieto	0.02621317364744895
+<http://www.yso.fi/onto/yso/p7717>	ilmeet	0.022852579080064377
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p23963>	paketit	0.020098299935903514
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.01737749302379358
+<http://www.yso.fi/onto/yso/p23615>	toteutus	0.012095274123763239
+<http://www.yso.fi/onto/yso/p9610>	luominen	0.011831370195302247
+<http://www.yso.fi/onto/yso/p6656>	marjat	0.008821926792945722
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.003006254758466846
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.003006254758466846
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

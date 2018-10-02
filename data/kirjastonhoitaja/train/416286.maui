@@ -1,18 +1,17 @@
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.2963030444303172
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.2963030444303172
-<http://www.yso.fi/onto/yso/p11657>	kansalliskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1949>	mielenterveys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10616>	numerot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.013609942855237487
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.7705645336037582
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.3956100499844101
+<http://www.yso.fi/onto/yso/p11657>	kansalliskirjastot	0.3527215189873418
+<http://www.yso.fi/onto/yso/p1949>	mielenterveys	0.23476604303537646
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.16425459248703372
+<http://www.yso.fi/onto/yso/p10616>	numerot	0.15939391561790583
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.1422679853441766
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.059400886592643434
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.030526031655179586
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.004272799553542924
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

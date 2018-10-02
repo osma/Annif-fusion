@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p7196>	tytöt	0.2963030444303172
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.2824282828282828
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.2824282828282828
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.2824282828282828
-<http://www.yso.fi/onto/yso/p19188>	esseet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.13208292111928477
-<http://www.yso.fi/onto/yso/p16603>	karaoke	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11024>	kirjoituskilpailut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3618>	suosikit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2966>	nuottijulkaisut	0.10867438452205902
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.09696067236067234
-<http://www.yso.fi/onto/yso/p8374>	palkinnot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p627>	ihmeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.026268860909105053
-<http://www.yso.fi/onto/yso/p2627>	kirjoitusjärjestelmät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.010846134817405319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p19188>	esseet	0.5855352901780689
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.5044311826624212
+<http://www.yso.fi/onto/yso/p2966>	nuottijulkaisut	0.4845916305229626
+<http://www.yso.fi/onto/yso/p11024>	kirjoituskilpailut	0.2967962643183203
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.2660140469537642
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.2660140469537642
+<http://www.yso.fi/onto/yso/p16603>	karaoke	0.250250357173374
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.24685172992307053
+<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.15779625231213595
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.11474468849990138
+<http://www.yso.fi/onto/yso/p8374>	palkinnot	0.07841520493462566
+<http://www.yso.fi/onto/yso/p2627>	kirjoitusjärjestelmät	0.04483305077103056
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04046422057616032
+<http://www.yso.fi/onto/yso/p3618>	suosikit	0.03761361386886396
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.02621317364744895
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.01989954926878964
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.018827349900001962
+<http://www.yso.fi/onto/yso/p627>	ihmeet	0.01557433527124088
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.01344219306841872
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

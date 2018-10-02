@@ -1,34 +1,34 @@
-<http://www.yso.fi/onto/yso/p36>	viestintä	0.35682222222222226
-<http://www.yso.fi/onto/yso/p5443>	langaton viestintä	0.3311570175438597
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.29076161616161617
-<http://www.yso.fi/onto/yso/p18467>	GSM	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24221>	langattomat verkot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6505>	kirjastotoimi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12090>	noki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5446>	tietoliikenne	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2092>	harjoittelupaikat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16096>	teknilliset yliopistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2721>	tuotekehitys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.09859943763580127
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5462>	tietotekniikka	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2442>	laitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.031932770969134605
-<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.010190010641896115
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p5443>	langaton viestintä	0.6033333333333334
+<http://www.yso.fi/onto/yso/p36>	viestintä	0.5167266322858428
+<http://www.yso.fi/onto/yso/p2092>	harjoittelupaikat	0.5076495251133738
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.4450107549448073
+<http://www.yso.fi/onto/yso/p5462>	tietotekniikka	0.3793379936593343
+<http://www.yso.fi/onto/yso/p5446>	tietoliikenne	0.31416561161921897
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.2586390357415639
+<http://www.yso.fi/onto/yso/p12090>	noki	0.13045579552615266
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.08446052129834301
+<http://www.yso.fi/onto/yso/p24221>	langattomat verkot	0.06759003512457443
+<http://www.yso.fi/onto/yso/p16096>	teknilliset yliopistot	0.06578984252617694
+<http://www.yso.fi/onto/yso/p6505>	kirjastotoimi	0.05160631769618832
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.04773988693554522
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04703840603141428
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04046422057616032
+<http://www.yso.fi/onto/yso/p18467>	GSM	0.03644604908990711
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02726976069686229
+<http://www.yso.fi/onto/yso/p2721>	tuotekehitys	0.02655125396255385
+<http://www.yso.fi/onto/yso/p2442>	laitteet	0.02449814318348003
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.018827349900001962
+<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.017306823670386107
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.006623068008082889
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

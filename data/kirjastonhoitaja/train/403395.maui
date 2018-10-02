@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p9860>	työnhaku	0.3173157749290321
-<http://www.yso.fi/onto/yso/p13028>	kirjastokortit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18290>	henkilötodistukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13052>	ansioluettelot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9607>	työnhakijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21231>	salasanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22952>	Google	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.06434426240586122
-<http://www.yso.fi/onto/yso/p2699>	valokuvat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.025713305353549494
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3721>	liittäminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.015256256150081023
-<http://www.yso.fi/onto/yso/p261>	tieto	0.013468844487262219
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.011003195540315773
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p9860>	työnhaku	0.8061035061681613
+<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.602145172834828
+<http://www.yso.fi/onto/yso/p13052>	ansioluettelot	0.4776463029104262
+<http://www.yso.fi/onto/yso/p9607>	työnhakijat	0.2204821688211685
+<http://www.yso.fi/onto/yso/p13028>	kirjastokortit	0.17033051579200997
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.16211752187804357
+<http://www.yso.fi/onto/yso/p2699>	valokuvat	0.09600100523923324
+<http://www.yso.fi/onto/yso/p3721>	liittäminen	0.07851882599841373
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.077496467850779
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05905593119680959
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.04724148796802395
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.046251015188129734
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.04325556474194673
+<http://www.yso.fi/onto/yso/p18290>	henkilötodistukset	0.042343462350290205
+<http://www.yso.fi/onto/yso/p21231>	salasanat	0.027851156045699505
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p261>	tieto	0.010651908076239464
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.00758153446175701
+<http://www.yso.fi/onto/yso/p22952>	Google	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.003006254758466846

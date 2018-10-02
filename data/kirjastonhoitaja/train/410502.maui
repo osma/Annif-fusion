@@ -1,29 +1,29 @@
-<http://www.yso.fi/onto/yso/p1780>	historia	0.22963637776365053
-<http://www.yso.fi/onto/yso/p1008>	lentoemännät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26841>	ilmailumuseot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9601>	stuertit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5978>	matkakirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3573>	valuutta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18452>	kulttuurihistoria	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16230>	lentäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3917>	matkailu	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3211>	elämys	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.03025697350301134
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p2627>	kirjoitusjärjestelmät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.016171337988124073
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.016171337988124073
-<http://www.yso.fi/onto/yso/p277>	muutos	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010837656613212683
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p3917>	matkailu	0.9292143793706293
+<http://www.yso.fi/onto/yso/p1780>	historia	0.590034965034965
+<http://www.yso.fi/onto/yso/p18452>	kulttuurihistoria	0.3439431310407304
+<http://www.yso.fi/onto/yso/p1008>	lentoemännät	0.31818180648699496
+<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.30073535960586506
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.24685172992307053
+<http://www.yso.fi/onto/yso/p3573>	valuutta	0.23186340332282201
+<http://www.yso.fi/onto/yso/p5978>	matkakirjallisuus	0.22853912857008832
+<http://www.yso.fi/onto/yso/p9601>	stuertit	0.19828707304176235
+<http://www.yso.fi/onto/yso/p277>	muutos	0.181894270573575
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.1560734821756525
+<http://www.yso.fi/onto/yso/p16230>	lentäminen	0.10010097749887428
+<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.09043914175008204
+<http://www.yso.fi/onto/yso/p26841>	ilmailumuseot	0.08331221587119762
+<http://www.yso.fi/onto/yso/p1810>	työ	0.05564101567396178
+<http://www.yso.fi/onto/yso/p2627>	kirjoitusjärjestelmät	0.04704107323720722
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.04677723855553599
+<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.03646756350459036
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p3211>	elämys	0.02655125396255385
+<http://www.yso.fi/onto/yso/p261>	tieto	0.026070033416934018
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02048826016496129
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.01989954926878964
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010048262140642318
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344

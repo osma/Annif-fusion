@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p12898>	vankeinhoito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4061>	verovapaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13961>	ansiotulot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20832>	anteeksipyyntö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13641>	säätö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14136>	hallituksen esitykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10946>	syytteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16269>	määrärahat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4223>	korvaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.09424283744586774
-<http://www.yso.fi/onto/yso/p2868>	päätökset	0.09317719357292001
-<http://www.yso.fi/onto/yso/p21022>	sulkeminen	0.0760493057681912
-<http://www.yso.fi/onto/yso/p5271>	sulkimet	0.0760493057681912
-<http://www.yso.fi/onto/yso/p5511>	vangit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11055>	vankilat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p401>	esitykset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11264>	maksa	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1780>	historia	0.027576170779201083
-<http://www.yso.fi/onto/yso/p27806>	kohtelu	0.02558663760656089
-<http://www.yso.fi/onto/yso/p14651>	euro	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20322>	perustelut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6752>	syyt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009856721205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p19918>	toteaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4223>	korvaukset	0.8607984203296704
+<http://www.yso.fi/onto/yso/p4061>	verovapaus	0.3672012526902094
+<http://www.yso.fi/onto/yso/p14136>	hallituksen esitykset	0.36709146633445766
+<http://www.yso.fi/onto/yso/p10946>	syytteet	0.36166781075615334
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.32066313102444327
+<http://www.yso.fi/onto/yso/p13961>	ansiotulot	0.27833447742282
+<http://www.yso.fi/onto/yso/p16269>	määrärahat	0.22337595538657679
+<http://www.yso.fi/onto/yso/p6752>	syyt	0.12805058001697095
+<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.1182096262648857
+<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.1182096262648857
+<http://www.yso.fi/onto/yso/p401>	esitykset	0.11294356159984802
+<http://www.yso.fi/onto/yso/p21022>	sulkeminen	0.10766904164840448
+<http://www.yso.fi/onto/yso/p5271>	sulkimet	0.10766904164840448
+<http://www.yso.fi/onto/yso/p12898>	vankeinhoito	0.07334178083769996
+<http://www.yso.fi/onto/yso/p20832>	anteeksipyyntö	0.05080937867342224
+<http://www.yso.fi/onto/yso/p11055>	vankilat	0.047906424630668444
+<http://www.yso.fi/onto/yso/p27806>	kohtelu	0.04358563001420679
+<http://www.yso.fi/onto/yso/p13641>	säätö	0.03369083488685353
+<http://www.yso.fi/onto/yso/p1780>	historia	0.0309159978986821
+<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.024331748045370905
+<http://www.yso.fi/onto/yso/p20322>	perustelut	0.022652930634656634
+<http://www.yso.fi/onto/yso/p14651>	euro	0.022351943743884044
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.022309005693018396
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p5511>	vangit	0.018544781466935254
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p2868>	päätökset	0.01458609544649215
+<http://www.yso.fi/onto/yso/p19918>	toteaminen	0.008450291946008338
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11264>	maksa	0.003220167974595556

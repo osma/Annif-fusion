@@ -1,37 +1,36 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p16029>	J2EE	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p162>	ohjelmointikielet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16144>	Java	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2339>	teknologia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1797>	asuminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4731>	pukineet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4887>	ohjelmointi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p17197>	suurkaupungit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3580>	haku	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.02503108205100534
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020431639617679742
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.011447811013486497
-<http://www.yso.fi/onto/yso/p2579>	sisältö	0.011447811013486497
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011447811013486497
-<http://www.yso.fi/onto/yso/p12763>	taso	0.009885311013486497
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009885311013486497
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009885311013486497
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009885311013486497
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009885311013486497
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p16144>	Java	0.8022857142857143
+<http://www.yso.fi/onto/yso/p16029>	J2EE	0.6740084823976057
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.5864910172064777
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.28943746252675373
+<http://www.yso.fi/onto/yso/p1797>	asuminen	0.0891692275201799
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.07397353669175087
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.0630398437974871
+<http://www.yso.fi/onto/yso/p4731>	pukineet	0.06227316390138986
+<http://www.yso.fi/onto/yso/p162>	ohjelmointikielet	0.062152487379245905
+<http://www.yso.fi/onto/yso/p4887>	ohjelmointi	0.05440420313010945
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.04773988693554522
+<http://www.yso.fi/onto/yso/p2339>	teknologia	0.031656177777664087
+<http://www.yso.fi/onto/yso/p17197>	suurkaupungit	0.031656177777664087
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01732313604208111
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01732313604208111
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p12763>	taso	0.010439057995912788
+<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.0090120433692199
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.007486259332058771
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0036788835709258318
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p2579>	sisältö	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

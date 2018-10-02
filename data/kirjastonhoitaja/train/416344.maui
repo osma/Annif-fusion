@@ -1,26 +1,26 @@
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.29151842010226
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.19874958778595145
-<http://www.yso.fi/onto/yso/p11472>	hammaslääkärit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15424>	kävijät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.05771181767713922
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p750>	hinnat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12104>	asiantuntijat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10700>	ammattilaiset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3405>	teemat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2762>	terveys	0.020674481861071816
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.016931513882039787
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011410743001560319
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.4302460459437203
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.3047009590753192
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.2952583057335299
+<http://www.yso.fi/onto/yso/p11472>	hammaslääkärit	0.27981874145006835
+<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.2792382849359593
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.15939391561790583
+<http://www.yso.fi/onto/yso/p12104>	asiantuntijat	0.10890164384675823
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.057768070295464956
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.0516268550025563
+<http://www.yso.fi/onto/yso/p15424>	kävijät	0.03996903421079901
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.037306141413709186
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.03416478442273945
+<http://www.yso.fi/onto/yso/p750>	hinnat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.024918525289177852
+<http://www.yso.fi/onto/yso/p10700>	ammattilaiset	0.0227997190652599
+<http://www.yso.fi/onto/yso/p3405>	teemat	0.022405605058528066
+<http://www.yso.fi/onto/yso/p2762>	terveys	0.02104475420140039
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.020203902438750924
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.00758153446175701
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

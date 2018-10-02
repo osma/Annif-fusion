@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p5930>	laatikot	0.19142100192549108
-<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.10985672120575295
-<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13287>	verotoimistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3784>	varainsiirtovero	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16978>	myyntivoitot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5874>	luovutusvoitot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19413>	verohallinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14464>	Pal	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17612>	pääomatulot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11398>	osakkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2685>	verot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1082>	verotus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1313>	maksut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15269>	myynti	0.04760000435676974
-<http://www.yso.fi/onto/yso/p24129>	laskut	0.04404872462764211
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.03243525374981797
-<http://www.yso.fi/onto/yso/p1007>	arvo	0.02582651077292427
-<http://www.yso.fi/onto/yso/p1044>	arvot	0.02582651077292427
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5124>	voitot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p18260>	oma pääoma	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6249>	pääoma	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11264>	maksa	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5902>	päättely	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3888>	menot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p8455>	soveltaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p13579>	taulukot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
+<http://www.yso.fi/onto/yso/p11398>	osakkeet	0.9021025641025642
+<http://www.yso.fi/onto/yso/p2685>	verot	0.6557838827838828
+<http://www.yso.fi/onto/yso/p16978>	myyntivoitot	0.6272857142857143
+<http://www.yso.fi/onto/yso/p3784>	varainsiirtovero	0.4864825264825264
+<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.28932376853583486
+<http://www.yso.fi/onto/yso/p13287>	verotoimistot	0.19856131665791835
+<http://www.yso.fi/onto/yso/p14464>	Pal	0.18903750713410883
+<http://www.yso.fi/onto/yso/p17612>	pääomatulot	0.15745321501846987
+<http://www.yso.fi/onto/yso/p24129>	laskut	0.15633561855304273
+<http://www.yso.fi/onto/yso/p1313>	maksut	0.14991053100398594
+<http://www.yso.fi/onto/yso/p18260>	oma pääoma	0.1484955761846676
+<http://www.yso.fi/onto/yso/p6249>	pääoma	0.1484955761846676
+<http://www.yso.fi/onto/yso/p5874>	luovutusvoitot	0.14780245835019398
+<http://www.yso.fi/onto/yso/p5124>	voitot	0.12302610677009876
+<http://www.yso.fi/onto/yso/p5902>	päättely	0.11378774841336134
+<http://www.yso.fi/onto/yso/p1007>	arvo	0.0755983490229818
+<http://www.yso.fi/onto/yso/p1044>	arvot	0.0755983490229818
+<http://www.yso.fi/onto/yso/p19413>	verohallinto	0.06449252265056658
+<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.05989228295810942
+<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.05989228295810942
+<http://www.yso.fi/onto/yso/p15269>	myynti	0.03964332649484531
+<http://www.yso.fi/onto/yso/p1082>	verotus	0.03190270399229407
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p5930>	laatikot	0.019333994336093858
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.018750610442148406
+<http://www.yso.fi/onto/yso/p8455>	soveltaminen	0.0163748823063
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p3888>	menot	0.015456360669269928
+<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.008450291946008338
+<http://www.yso.fi/onto/yso/p13579>	taulukot	0.008450291946008338
+<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.003006254758466846
+<http://www.yso.fi/onto/yso/p11264>	maksa	0.002919388526042139

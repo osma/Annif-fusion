@@ -1,34 +1,34 @@
-<http://www.yso.fi/onto/yso/p17134>	genret	0.2963030444303172
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p5089>	seikkailukirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1635>	mangaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19812>	rakkausromaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14840>	fantasiakirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13956>	mangat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17377>	historialliset romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22042>	klaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9182>	lika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12824>	romantiikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8512>	fantasia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21750>	ihastus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14183>	arinat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18814>	kirjasarjat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p7196>	tytöt	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p9239>	huumori	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20879>	ystävät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7258>	hyvä	0.009856721205752953
+<http://www.yso.fi/onto/yso/p19812>	rakkausromaanit	0.69003234003234
+<http://www.yso.fi/onto/yso/p13956>	mangat	0.4714543171439723
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.457210433244916
+<http://www.yso.fi/onto/yso/p5089>	seikkailukirjallisuus	0.45288718674231543
+<http://www.yso.fi/onto/yso/p9239>	huumori	0.32579347055444136
+<http://www.yso.fi/onto/yso/p1635>	mangaani	0.31424021535549407
+<http://www.yso.fi/onto/yso/p1780>	historia	0.2984126984126984
+<http://www.yso.fi/onto/yso/p17134>	genret	0.295192114349502
+<http://www.yso.fi/onto/yso/p14840>	fantasiakirjallisuus	0.2768022159358793
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.27136762574198586
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.23767282835534628
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23621677728287546
+<http://www.yso.fi/onto/yso/p17377>	historialliset romaanit	0.20182996622983534
+<http://www.yso.fi/onto/yso/p18814>	kirjasarjat	0.11273838517338289
+<http://www.yso.fi/onto/yso/p12824>	romantiikka	0.09579375555065262
+<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.07945780481311382
+<http://www.yso.fi/onto/yso/p8512>	fantasia	0.05542641245916798
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.05173804831400469
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p9182>	lika	0.03895373168386857
+<http://www.yso.fi/onto/yso/p22042>	klaanit	0.03895373168386857
+<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.03481132875435389
+<http://www.yso.fi/onto/yso/p21750>	ihastus	0.034431301707664966
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.033688630679592595
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.027851156045699505
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p14183>	arinat	0.012095274123763239
+<http://www.yso.fi/onto/yso/p20879>	ystävät	0.007079755267018121
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.006891852244464508
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344

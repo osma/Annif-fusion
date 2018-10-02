@@ -1,40 +1,40 @@
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.25884338841005505
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.15710575707107866
-<http://www.yso.fi/onto/yso/p25936>	keskialasaksa	0.1092804451281196
-<http://www.yso.fi/onto/yso/p29480>	koniini	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5490>	kielisukulaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24794>	muinaisruotsi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16732>	teloittajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20728>	Jumalan valtakunta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1361>	kansanrunous	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25060>	kirosanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11834>	paholainen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7381>	murteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7273>	taivas	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10793>	kolmas valtakunta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18426>	alkuperä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7275>	helvetti	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p501>	hevonen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p5184>	sanakirjat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3977>	muunnelmat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19141>	seurat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9418>	tammi	0.020900544995290878
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.020674481861071816
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p21034>	aika	0.019697868972866527
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.016171337988124073
-<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.01468041649685237
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.013609942855237487
-<http://www.yso.fi/onto/yso/p2871>	synty	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009815988008196946
+<http://www.yso.fi/onto/yso/p18426>	alkuperä	0.6649954413110555
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.635303426537982
+<http://www.yso.fi/onto/yso/p25060>	kirosanat	0.5211711711711712
+<http://www.yso.fi/onto/yso/p16732>	teloittajat	0.42838571189129093
+<http://www.yso.fi/onto/yso/p24794>	muinaisruotsi	0.2905015679860151
+<http://www.yso.fi/onto/yso/p20728>	Jumalan valtakunta	0.27128460847493796
+<http://www.yso.fi/onto/yso/p7381>	murteet	0.20383046404081478
+<http://www.yso.fi/onto/yso/p1361>	kansanrunous	0.14665908625713547
+<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.14665908625713547
+<http://www.yso.fi/onto/yso/p7273>	taivas	0.1202794143491818
+<http://www.yso.fi/onto/yso/p11834>	paholainen	0.1176304941542369
+<http://www.yso.fi/onto/yso/p7275>	helvetti	0.05606591058844377
+<http://www.yso.fi/onto/yso/p25936>	keskialasaksa	0.05380559087905917
+<http://www.yso.fi/onto/yso/p29480>	koniini	0.04391079575170591
+<http://www.yso.fi/onto/yso/p556>	kielet	0.03915751081095611
+<http://www.yso.fi/onto/yso/p501>	hevonen	0.03909834646380704
+<http://www.yso.fi/onto/yso/p5490>	kielisukulaisuus	0.03333972208146156
+<http://www.yso.fi/onto/yso/p5184>	sanakirjat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.024181727804547068
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.023759610027220237
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.02258553725066855
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p3977>	muunnelmat	0.016187084434953862
+<http://www.yso.fi/onto/yso/p10793>	kolmas valtakunta	0.00959343871805711
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.0050013133853260856
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19141>	seurat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9418>	tammi	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p21034>	aika	0.003006254758466846

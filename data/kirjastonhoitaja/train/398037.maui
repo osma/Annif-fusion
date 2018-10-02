@@ -1,46 +1,46 @@
-<http://www.yso.fi/onto/yso/p919>	Suomen sota	0.3493388357256778
-<http://www.yso.fi/onto/yso/p19881>	ruotusotilaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22953>	palvelusaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20801>	prikaatit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20884>	savotat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.10415499319135683
-<http://www.yso.fi/onto/yso/p8354>	mieliala	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4797>	kuninkaalliset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16596>	matkailijat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p4880>	suomalaisuus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12991>	pitäjät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p920>	taistelut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p22588>	muistiinpanot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.02503108205100534
-<http://www.yso.fi/onto/yso/p15212>	selvitys	0.020900544995290878
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2871>	synty	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.014566734116091506
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011752510641896115
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.01143933280929386
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.009885311013486497
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.009885311013486497
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009885311013486497
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009885311013486497
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.009815988008196946
+<http://www.yso.fi/onto/yso/p919>	Suomen sota	0.6642278977061584
+<http://www.yso.fi/onto/yso/p20801>	prikaatit	0.5835840101549304
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3908269200172024
+<http://www.yso.fi/onto/yso/p19881>	ruotusotilaat	0.1924357655983165
+<http://www.yso.fi/onto/yso/p1780>	historia	0.1853354874401627
+<http://www.yso.fi/onto/yso/p4880>	suomalaisuus	0.06429638071994777
+<http://www.yso.fi/onto/yso/p8354>	mieliala	0.04891265167081606
+<http://www.yso.fi/onto/yso/p20884>	savotat	0.04415479091069442
+<http://www.yso.fi/onto/yso/p22953>	palvelusaika	0.04220422009416535
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.04220422009416535
+<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.0394660771484685
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p4797>	kuninkaalliset	0.03694551675975523
+<http://www.yso.fi/onto/yso/p22588>	muistiinpanot	0.031656177777664087
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.021651129979441946
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.02104475420140039
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.02066268888379371
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p16596>	matkailijat	0.019534785706249457
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.019534785706249457
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p12991>	pitäjät	0.016187084434953862
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.014931297055462391
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p920>	taistelut	0.0146591960317902
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.008661113120089494
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.00849138712788076
+<http://www.yso.fi/onto/yso/p15212>	selvitys	0.00693952370428542
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0025012025012025015

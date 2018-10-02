@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.3958898212898213
-<http://www.yso.fi/onto/yso/p70>	koulukiusaaminen	0.3907616161616162
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.25823732780399444
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.2580717834717835
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.15884338841005508
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11735>	ruotsinkieliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5398>	nuortenkirjallisuus	0.108351758070098
-<http://www.yso.fi/onto/yso/p4742>	lastenkirjallisuus	0.108351758070098
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10730>	ainut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04374761607908968
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p70>	koulukiusaaminen	0.8440459132370897
+<http://www.yso.fi/onto/yso/p4742>	lastenkirjallisuus	0.7732539682539683
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.7174458874458876
+<http://www.yso.fi/onto/yso/p5398>	nuortenkirjallisuus	0.5567642734623867
+<http://www.yso.fi/onto/yso/p11735>	ruotsinkieliset	0.1933298933824248
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.18685498855777494
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.12096622555601695
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.11882734990000196
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.10674281864704664
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.10659294855644577
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.06620272210449253
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.017807145970339618
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.015295891026549718
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p10730>	ainut	0.006880053557626067
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

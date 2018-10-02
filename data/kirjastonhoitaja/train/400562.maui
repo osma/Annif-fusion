@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.25822193362193363
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18814>	kirjasarjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8041>	ihailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3038>	katteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3613>	suosio	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2072>	luvat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26828>	lähetit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24494>	lähettimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016171337988124073
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.5493750263146815
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.42715409964375367
+<http://www.yso.fi/onto/yso/p18814>	kirjasarjat	0.14363073409613045
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.12606290121708555
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.11389136196755319
+<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.10247233464195675
+<http://www.yso.fi/onto/yso/p2072>	luvat	0.07105619276454406
+<http://www.yso.fi/onto/yso/p8041>	ihailijat	0.06779497449188729
+<http://www.yso.fi/onto/yso/p3613>	suosio	0.0651192947085337
+<http://www.yso.fi/onto/yso/p3038>	katteet	0.0651192947085337
+<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.0651192947085337
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.0589610386760257
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.0589610386760257
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05737307647361058
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.0516268550025563
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04990866502060477
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.04599856707760316
+<http://www.yso.fi/onto/yso/p556>	kielet	0.03915751081095611
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.034738829388180265
+<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.026378540064072344
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.023417921916312843
+<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.01305812702869251
+<http://www.yso.fi/onto/yso/p24494>	lähettimet	0.003220167974595556
+<http://www.yso.fi/onto/yso/p26828>	lähetit	0.003220167974595556
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0032143653651324315

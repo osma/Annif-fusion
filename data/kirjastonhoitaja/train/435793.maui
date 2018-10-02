@@ -1,29 +1,29 @@
-<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4705>	lainat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7090>	puhelimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16666>	sähköposti	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p556>	kielet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.015429864862007283
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.40652043701146556
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.40218458237307014
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3391594222307629
+<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.1936134906512085
+<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.1509908186866837
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.09383948248246043
+<http://www.yso.fi/onto/yso/p556>	kielet	0.06238354323335974
+<http://www.yso.fi/onto/yso/p4705>	lainat	0.06227316390138986
+<http://www.yso.fi/onto/yso/p16666>	sähköposti	0.058814413085229986
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.04833680882147429
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.02314642298042103
+<http://www.yso.fi/onto/yso/p15063>	tee	0.02314642298042103
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.019386092897743505
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.01847277999235943
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.018457333623409983
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017898201866368025
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.01557433527124088
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p7090>	puhelimet	0.014022084635272608
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0011111111111111111

@@ -1,38 +1,38 @@
-<http://www.yso.fi/onto/yso/p5752>	kaupungintalot	0.43286411547737264
-<http://www.yso.fi/onto/yso/p5751>	Helsingin kaupungintalo	0.39782368421052633
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.22130304443031718
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.19140511680511677
-<http://www.yso.fi/onto/yso/p12036>	ovet	0.1255346168007935
-<http://www.yso.fi/onto/yso/p20526>	valtiovierailut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21684>	partiolaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19422>	korttelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7345>	leijona	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15728>	julkisivut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4299>	arkkitehdit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p15208>	hotellit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27523>	ISSN	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6423>	ulkonäkö	0.037488326524690155
-<http://www.yso.fi/onto/yso/p11966>	virat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19527>	valmistuminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p16731>	sydän	0.02503108205100534
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6388>	avanteet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3936>	eroaminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2108>	tapahtumat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2871>	synty	0.01468041649685237
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009856721205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p6752>	syyt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p5752>	kaupungintalot	0.7591538461538462
+<http://www.yso.fi/onto/yso/p5751>	Helsingin kaupungintalo	0.45669950738916254
+<http://www.yso.fi/onto/yso/p12036>	ovet	0.4527478658551047
+<http://www.yso.fi/onto/yso/p7345>	leijona	0.36563177975933664
+<http://www.yso.fi/onto/yso/p15728>	julkisivut	0.3233759553865768
+<http://www.yso.fi/onto/yso/p4299>	arkkitehdit	0.2520803159973667
+<http://www.yso.fi/onto/yso/p1780>	historia	0.19938884644767
+<http://www.yso.fi/onto/yso/p20526>	valtiovierailut	0.15673426077010388
+<http://www.yso.fi/onto/yso/p15208>	hotellit	0.1361764623639247
+<http://www.yso.fi/onto/yso/p19422>	korttelit	0.07822413947079869
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.06643797014199532
+<http://www.yso.fi/onto/yso/p21684>	partiolaiset	0.05080937867342224
+<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.033292404084121
+<http://www.yso.fi/onto/yso/p11966>	virat	0.033292404084121
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p2108>	tapahtumat	0.029492901183780874
+<http://www.yso.fi/onto/yso/p6752>	syyt	0.022254217328724596
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.02031748147412766
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.019297239092890005
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.019297239092890005
+<http://www.yso.fi/onto/yso/p3936>	eroaminen	0.018544781466935254
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p6388>	avanteet	0.01481434991179834
+<http://www.yso.fi/onto/yso/p19527>	valmistuminen	0.01481434991179834
+<http://www.yso.fi/onto/yso/p16731>	sydän	0.012154744270422593
+<http://www.yso.fi/onto/yso/p6423>	ulkonäkö	0.008450291946008338
+<http://www.yso.fi/onto/yso/p27523>	ISSN	0.008450291946008338
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.008196410288790465
+<http://www.yso.fi/onto/yso/p2871>	synty	0.008196410288790465
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.002919388526042139

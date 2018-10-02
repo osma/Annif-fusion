@@ -1,24 +1,24 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.14591661596057878
-<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12483>	moottoripyörät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22371>	yhteishaku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.09696067236067234
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3448>	kanavat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.026268860909105053
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.675234521575985
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.36702846250888954
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.3519297793994617
+<http://www.yso.fi/onto/yso/p12483>	moottoripyörät	0.34998868167523145
+<http://www.yso.fi/onto/yso/p3580>	haku	0.2498265392900365
+<http://www.yso.fi/onto/yso/p22371>	yhteishaku	0.2076099556951745
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.10825015285372508
+<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.09043914175008204
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.059240296390623025
+<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.057839984320649795
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.033512940681808726
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.03332672094251636
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.021022745991044207
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p3448>	kanavat	0.010203504808550248
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

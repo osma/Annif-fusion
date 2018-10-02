@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p3526>	pontikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4110>	lavastus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9626>	keittäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7605>	lähdeaineisto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2325>	asiakirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9482>	juomatavat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p28288>	juominen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8606>	valmistus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p366>	matkat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5046>	työryhmät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12705>	ohjaajat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18849>	ihminen	0.011410743001560319
-<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3526>	pontikka	0.6959377279527217
+<http://www.yso.fi/onto/yso/p2325>	asiakirjat	0.510045464450539
+<http://www.yso.fi/onto/yso/p4110>	lavastus	0.4487230134785925
+<http://www.yso.fi/onto/yso/p12705>	ohjaajat	0.22930083963027864
+<http://www.yso.fi/onto/yso/p7605>	lähdeaineisto	0.22759061508188697
+<http://www.yso.fi/onto/yso/p9626>	keittäminen	0.17785839186105368
+<http://www.yso.fi/onto/yso/p366>	matkat	0.11159340940535907
+<http://www.yso.fi/onto/yso/p8606>	valmistus	0.1019415974494029
+<http://www.yso.fi/onto/yso/p18849>	ihminen	0.09898172862175406
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.09898172862175406
+<http://www.yso.fi/onto/yso/p28288>	juominen	0.06039701094018281
+<http://www.yso.fi/onto/yso/p9482>	juomatavat	0.056887974084979566
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p5046>	työryhmät	0.020243155127475283
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.015001329380678963
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0030750305493884417

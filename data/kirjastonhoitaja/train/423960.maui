@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p9743>	identiteetti	0.3574282828282828
-<http://www.yso.fi/onto/yso/p2015>	symbolit	0.1546363777636505
-<http://www.yso.fi/onto/yso/p7569>	instituutiot	0.13208292111928477
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3351>	kansallinen identiteetti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4880>	suomalaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6257>	arot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1007>	arvo	0.09217672174338841
-<http://www.yso.fi/onto/yso/p1044>	arvot	0.09217672174338841
-<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p401>	esitykset	0.026268860909105053
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p14004>	keskustelu	0.016931513882039787
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.013609942855237487
-<http://www.yso.fi/onto/yso/p17058>	yhdistäminen	0.013609942855237487
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00984824300156032
+<http://www.yso.fi/onto/yso/p4880>	suomalaisuus	0.6676315825603683
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.48119658119658126
+<http://www.yso.fi/onto/yso/p3351>	kansallinen identiteetti	0.40826330532212884
+<http://www.yso.fi/onto/yso/p1007>	arvo	0.3022377622377623
+<http://www.yso.fi/onto/yso/p1044>	arvot	0.3022377622377623
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.24685172992307053
+<http://www.yso.fi/onto/yso/p9743>	identiteetti	0.21962265893414737
+<http://www.yso.fi/onto/yso/p2015>	symbolit	0.18964932548110205
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.14296007045435308
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.09333036675746834
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.06963734695181559
+<http://www.yso.fi/onto/yso/p7569>	instituutiot	0.06039701094018281
+<http://www.yso.fi/onto/yso/p3580>	haku	0.05564101567396178
+<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.03646756350459036
+<http://www.yso.fi/onto/yso/p6257>	arot	0.03211507010663504
+<http://www.yso.fi/onto/yso/p401>	esitykset	0.031011022392347848
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.0193141873884096
+<http://www.yso.fi/onto/yso/p261>	tieto	0.01884128278466498
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.018457333623409983
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0182125654845604
+<http://www.yso.fi/onto/yso/p14004>	keskustelu	0.006880053557626067
+<http://www.yso.fi/onto/yso/p17058>	yhdistäminen	0.006880053557626067
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

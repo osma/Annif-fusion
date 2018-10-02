@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p494>	julkiset tilat	0.3033792397660819
-<http://www.yso.fi/onto/yso/p17322>	aikavyöhykkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13016>	talviaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13017>	kesäaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5051>	aurinko	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7366>	ojat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1329>	tähdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20797>	etelä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6100>	linja-autot	0.10867438452205902
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3229>	kellot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6784>	talvi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10888>	jäljet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p13579>	taulukot	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3602>	tilat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7432>	tila	0.016931513882039787
-<http://www.yso.fi/onto/yso/p19450>	päivä	0.015429864862007283
-<http://www.yso.fi/onto/yso/p335>	ymmärtäminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p13017>	kesäaika	0.8764615384615384
+<http://www.yso.fi/onto/yso/p13016>	talviaika	0.7053991410887963
+<http://www.yso.fi/onto/yso/p5051>	aurinko	0.5532889324568485
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3391594222307629
+<http://www.yso.fi/onto/yso/p6100>	linja-autot	0.297180736183398
+<http://www.yso.fi/onto/yso/p17322>	aikavyöhykkeet	0.24945672113145503
+<http://www.yso.fi/onto/yso/p3602>	tilat	0.1696020005671159
+<http://www.yso.fi/onto/yso/p494>	julkiset tilat	0.12684782608695652
+<http://www.yso.fi/onto/yso/p3229>	kellot	0.10449620873426599
+<http://www.yso.fi/onto/yso/p1329>	tähdet	0.09416050945426711
+<http://www.yso.fi/onto/yso/p7432>	tila	0.0891692275201799
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.07820967942991164
+<http://www.yso.fi/onto/yso/p20797>	etelä	0.07500618582833747
+<http://www.yso.fi/onto/yso/p7366>	ojat	0.06963734695181559
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.05516675010268169
+<http://www.yso.fi/onto/yso/p10888>	jäljet	0.038956136405419506
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p6784>	talvi	0.021930063610052862
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p19450>	päivä	0.008661113120089494
+<http://www.yso.fi/onto/yso/p13579>	taulukot	0.008390821799348986
+<http://www.yso.fi/onto/yso/p335>	ymmärtäminen	0.006623068008082889
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.00429519226706251
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0019503267047542862

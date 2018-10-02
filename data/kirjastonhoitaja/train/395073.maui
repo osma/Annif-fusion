@@ -1,54 +1,53 @@
-<http://www.yso.fi/onto/yso/p19991>	opiskelijalehdet	0.39630304443031716
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p10981>	suot	0.29795593699230066
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.24755836491617225
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.24755836491617225
-<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.15807178347178347
-<http://www.yso.fi/onto/yso/p2551>	valta	0.12582651077292428
-<http://www.yso.fi/onto/yso/p10584>	sarvikuonot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4424>	karsinat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17243>	mielipidelehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3375>	taistolaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16228>	marssit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.09424283744586774
-<http://www.yso.fi/onto/yso/p2187>	ristiriidat	0.09317719357292001
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.06843168170715329
-<http://www.yso.fi/onto/yso/p7276>	paratiisi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15742>	ottelut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9378>	torit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.031932770969134605
-<http://www.yso.fi/onto/yso/p1780>	historia	0.031932770969134605
-<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3975>	vaihteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19621>	varjot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4987>	kartat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24828>	punainen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6062>	pelit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p27521>	ajan henki	0.020674481861071816
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020431639617679742
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.016931513882039787
-<http://www.yso.fi/onto/yso/p25710>	luokat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.016171337988124073
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.013609942855237487
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.011419221205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.00984824300156032
-<http://www.yso.fi/onto/yso/p18849>	ihminen	0.00984824300156032
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.4701070171658407
+<http://www.yso.fi/onto/yso/p3375>	taistolaisuus	0.22171618146873834
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.14973474016831018
+<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.1331033128061386
+<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.12168598355838942
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.11993576653966267
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.11993576653966267
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.0893529433520673
+<http://www.yso.fi/onto/yso/p4987>	kartat	0.06368964390040094
+<http://www.yso.fi/onto/yso/p17243>	mielipidelehdet	0.06296543675167847
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05889882193723593
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.055720284814444784
+<http://www.yso.fi/onto/yso/p18849>	ihminen	0.055720284814444784
+<http://www.yso.fi/onto/yso/p4424>	karsinat	0.05123112279395281
+<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.04861095503452206
+<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.04861095503452206
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04111357122551097
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.03965046484120763
+<http://www.yso.fi/onto/yso/p6062>	pelit	0.03763624266957967
+<http://www.yso.fi/onto/yso/p10584>	sarvikuonot	0.03720337968972091
+<http://www.yso.fi/onto/yso/p19991>	opiskelijalehdet	0.03720337968972091
+<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.03617647839162057
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.03184224741741217
+<http://www.yso.fi/onto/yso/p1780>	historia	0.03026664724933146
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02972248144219483
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.02899007197275618
+<http://www.yso.fi/onto/yso/p9378>	torit	0.027268219882451115
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.024557299004267775
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3975>	vaihteet	0.02265442284624088
+<http://www.yso.fi/onto/yso/p15742>	ottelut	0.022652930634656634
+<http://www.yso.fi/onto/yso/p16228>	marssit	0.022652930634656634
+<http://www.yso.fi/onto/yso/p2187>	ristiriidat	0.022652930634656634
+<http://www.yso.fi/onto/yso/p7276>	paratiisi	0.022508263740529784
+<http://www.yso.fi/onto/yso/p10981>	suot	0.022508263740529784
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02042543357904477
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.019089048468027836
+<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.018649872068703742
+<http://www.yso.fi/onto/yso/p27521>	ajan henki	0.008450291946008338
+<http://www.yso.fi/onto/yso/p19621>	varjot	0.008450291946008338
+<http://www.yso.fi/onto/yso/p2551>	valta	0.008450291946008338
+<http://www.yso.fi/onto/yso/p24828>	punainen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.0042754003807237515
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0030750305493884417

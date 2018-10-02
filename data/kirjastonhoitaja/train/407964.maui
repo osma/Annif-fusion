@@ -1,45 +1,45 @@
-<http://www.yso.fi/onto/yso/p6911>	esikouluikäiset	0.39630304443031716
-<http://www.yso.fi/onto/yso/p2901>	harrastukset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4278>	lukutottumukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5848>	lukemistutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27093>	lukuharrastus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17439>	aapiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11899>	AKU	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.10739402743799027
-<http://www.yso.fi/onto/yso/p6140>	sosialisaatio	0.10415499319135683
-<http://www.yso.fi/onto/yso/p27901>	jauhiaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2739>	kuvataide	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11405>	lukutaito	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27061>	lisensiaatintutkimukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.03785933425186883
-<http://www.yso.fi/onto/yso/p6656>	marjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1467>	sijainti	0.02503108205100534
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p14428>	informaatio	0.022236981861071817
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.020674481861071816
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020431639617679742
-<http://www.yso.fi/onto/yso/p6549>	valinta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.015429864862007283
-<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.011419221205752953
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1149>	kuvat	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00984824300156032
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.009834564632636262
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p5848>	lukemistutkimus	0.9384615384615385
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.3661953966431578
+<http://www.yso.fi/onto/yso/p1149>	kuvat	0.25103359173126616
+<http://www.yso.fi/onto/yso/p4278>	lukutottumukset	0.19779510279510282
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.16131687456508184
+<http://www.yso.fi/onto/yso/p11405>	lukutaito	0.12862820737483552
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.10655188536762772
+<http://www.yso.fi/onto/yso/p2739>	kuvataide	0.08889422775573701
+<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.08136698813023475
+<http://www.yso.fi/onto/yso/p27093>	lukuharrastus	0.0667411779059705
+<http://www.yso.fi/onto/yso/p6911>	esikouluikäiset	0.055547397507858406
+<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.03858423555759514
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.03844255614062681
+<http://www.yso.fi/onto/yso/p6549>	valinta	0.037850169479562615
+<http://www.yso.fi/onto/yso/p6140>	sosialisaatio	0.03720337968972091
+<http://www.yso.fi/onto/yso/p2901>	harrastukset	0.036736573415815335
+<http://www.yso.fi/onto/yso/p14428>	informaatio	0.03480672082070205
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.033721409216881694
+<http://www.yso.fi/onto/yso/p17439>	aapiset	0.033292404084121
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03174967284084336
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.031432343362464935
+<http://www.yso.fi/onto/yso/p27901>	jauhiaiset	0.027268219882451115
+<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.026369638108596143
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p11899>	AKU	0.022652930634656634
+<http://www.yso.fi/onto/yso/p27061>	lisensiaatintutkimukset	0.022652930634656634
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02139857353948988
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.01986886979681643
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.01986886979681643
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.01614528748856063
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.015914419639909833
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.01458609544649215
+<http://www.yso.fi/onto/yso/p1467>	sijainti	0.01458609544649215
+<http://www.yso.fi/onto/yso/p6656>	marjat	0.008821926792945722
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.00849138712788076
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.00693952370428542
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.0025128844610014882

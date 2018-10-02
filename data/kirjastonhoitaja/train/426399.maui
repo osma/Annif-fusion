@@ -1,20 +1,19 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1379>	asiakaspalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4705>	lainat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21311>	varastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.7599049666200713
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.38137337859434306
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.3370193553488674
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.3150327482060103
+<http://www.yso.fi/onto/yso/p1379>	asiakaspalvelu	0.2033109182114703
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p21311>	varastot	0.024918525289177852
+<http://www.yso.fi/onto/yso/p4705>	lainat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9404>	tilaukset	0.01808574165584
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0025128844610014882

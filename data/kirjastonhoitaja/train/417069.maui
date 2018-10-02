@@ -1,27 +1,26 @@
-<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.25822193362193363
-<http://www.yso.fi/onto/yso/p2445>	media	0.25822193362193363
-<http://www.yso.fi/onto/yso/p2439>	liiketoiminta	0.22130304443031718
-<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22469>	mediaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12204>	kauppakorkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2851>	taide	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.026268860909105053
-<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.01468041649685237
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.4188512490397368
+<http://www.yso.fi/onto/yso/p2439>	liiketoiminta	0.19651267050874208
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.15646920072156575
+<http://www.yso.fi/onto/yso/p22469>	mediaanit	0.15359846076808287
+<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.08980253405489906
+<http://www.yso.fi/onto/yso/p2851>	taide	0.08980253405489906
+<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.08042753405489907
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.06041109430693958
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.04871167590293459
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.031347367987385036
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.028625733839946953
+<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.028625733839946953
+<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.024065418204217058
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.021651129979441946
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p12204>	kauppakorkeakoulut	0.018501602060135874
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.010536944697816708
+<http://www.yso.fi/onto/yso/p2445>	media	0.010536944697816708
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.010526091617174074
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.006449589558958728
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344

@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p22239>	pelilehdet	0.6050822972955545
-<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.2963030444303172
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p26233>	urheilupelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5571>	vedonlyönti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12117>	urheilulehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3445>	veikkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1867>	tanskalaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19429>	klassikot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2474>	ranskalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p671>	eurooppalaiset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p14483>	pelaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p7037>	perinne	0.02503108205100534
-<http://www.yso.fi/onto/yso/p8477>	traditio	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.021192667585202166
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.015256256150081023
-<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.013867364862007283
-<http://www.yso.fi/onto/yso/p7392>	keskittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.7414770374552984
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.33884227201553413
+<http://www.yso.fi/onto/yso/p12117>	urheilulehdet	0.32200260221483024
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.2949915266775595
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.2600845080403788
+<http://www.yso.fi/onto/yso/p5571>	vedonlyönti	0.22539872115127807
+<http://www.yso.fi/onto/yso/p22239>	pelilehdet	0.22534454589228145
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.06823940596217588
+<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.06518391316995335
+<http://www.yso.fi/onto/yso/p8477>	traditio	0.0650514501658095
+<http://www.yso.fi/onto/yso/p7037>	perinne	0.06368964390040094
+<http://www.yso.fi/onto/yso/p26233>	urheilupelit	0.05080937867342224
+<http://www.yso.fi/onto/yso/p3445>	veikkaus	0.05080937867342224
+<http://www.yso.fi/onto/yso/p671>	eurooppalaiset	0.045481988138228784
+<http://www.yso.fi/onto/yso/p2474>	ranskalaiset	0.045481988138228784
+<http://www.yso.fi/onto/yso/p1867>	tanskalaiset	0.043074620486877394
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.03973808077753539
+<http://www.yso.fi/onto/yso/p14483>	pelaaminen	0.039128194627155
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.024181727804547068
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.024181727804547068
+<http://www.yso.fi/onto/yso/p19429>	klassikot	0.023350528383865386
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.019297239092890005
+<http://www.yso.fi/onto/yso/p7392>	keskittyminen	0.01458609544649215
+<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.008450291946008338
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.005347823846009878
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0030029582837016546

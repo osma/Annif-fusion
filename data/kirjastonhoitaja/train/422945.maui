@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p308>	nisäkkäät	0.3296363777636505
-<http://www.yso.fi/onto/yso/p5473>	koti	0.29076161616161617
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.12582651077292428
-<http://www.yso.fi/onto/yso/p15848>	kengurut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3571>	jyrsijät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6383>	murmelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3893>	pussieläimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14045>	emätin	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22050>	naaraat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22049>	koiraat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10871>	rap	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5605>	uskonnolliset yhteisöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9749>	lahdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5530>	elintavat	0.10415499319135683
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p409>	suvut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13084>	luonto	0.02558663760656089
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p5683>	lisääntyminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3893>	pussieläimet	0.9611521739130435
+<http://www.yso.fi/onto/yso/p308>	nisäkkäät	0.651793073243598
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.2724927555640962
+<http://www.yso.fi/onto/yso/p5530>	elintavat	0.17431201537811356
+<http://www.yso.fi/onto/yso/p3571>	jyrsijät	0.15019866854052183
+<http://www.yso.fi/onto/yso/p5683>	lisääntyminen	0.12796832768103789
+<http://www.yso.fi/onto/yso/p5473>	koti	0.1238934020582643
+<http://www.yso.fi/onto/yso/p22050>	naaraat	0.11390560108271516
+<http://www.yso.fi/onto/yso/p15848>	kengurut	0.11281306860409754
+<http://www.yso.fi/onto/yso/p14045>	emätin	0.0771395345684009
+<http://www.yso.fi/onto/yso/p6383>	murmelit	0.0771395345684009
+<http://www.yso.fi/onto/yso/p13084>	luonto	0.058814413085229986
+<http://www.yso.fi/onto/yso/p10871>	rap	0.0517274980617373
+<http://www.yso.fi/onto/yso/p22049>	koiraat	0.0410613383377016
+<http://www.yso.fi/onto/yso/p9749>	lahdet	0.037370515491758086
+<http://www.yso.fi/onto/yso/p5605>	uskonnolliset yhteisöt	0.03644604908990711
+<http://www.yso.fi/onto/yso/p261>	tieto	0.03134894696504044
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p409>	suvut	0.02856752550128047
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

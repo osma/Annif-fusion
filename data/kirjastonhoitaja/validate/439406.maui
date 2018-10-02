@@ -1,37 +1,37 @@
-<http://www.yso.fi/onto/yso/p6374>	tiimit	0.22295593699230065
-<http://www.yso.fi/onto/yso/p2023>	eläimet	0.22295593699230065
-<http://www.yso.fi/onto/yso/p6957>	orvot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6551>	sika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5328>	näyttelijät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5319>	koira	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13992>	lukemisesteisten äänikirjat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p25071>	äänikirjat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p19378>	kissa	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3503>	arvoitukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3203>	teatterit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2625>	teatteri	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5693>	erehdys	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1716>	maisema	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p200>	vainajat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9649>	lukijat	0.031932770969134605
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.028841980959289325
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4490>	järki	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.022236981861071817
-<http://www.yso.fi/onto/yso/p20879>	ystävät	0.022236981861071817
-<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3206>	vaihto	0.020900544995290878
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016542457256587376
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3625>	käyttäytyminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.01468041649685237
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.01468041649685237
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01468041649685237
-<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p17691>	tuli	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p5319>	koira	0.8722197358862598
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6220018771355558
+<http://www.yso.fi/onto/yso/p5328>	näyttelijät	0.5582905982905982
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.288034188034188
+<http://www.yso.fi/onto/yso/p25071>	äänikirjat	0.23157322404104308
+<http://www.yso.fi/onto/yso/p13992>	lukemisesteisten äänikirjat	0.22534454589228145
+<http://www.yso.fi/onto/yso/p6957>	orvot	0.19809561043330665
+<http://www.yso.fi/onto/yso/p3203>	teatterit	0.19773419226277733
+<http://www.yso.fi/onto/yso/p2625>	teatteri	0.19773419226277733
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.10387445839100973
+<http://www.yso.fi/onto/yso/p19378>	kissa	0.07624725499388314
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.0667380483140047
+<http://www.yso.fi/onto/yso/p5693>	erehdys	0.0511787052145483
+<http://www.yso.fi/onto/yso/p6374>	tiimit	0.05080937867342224
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.0389427067342161
+<http://www.yso.fi/onto/yso/p1716>	maisema	0.029996289030646616
+<http://www.yso.fi/onto/yso/p2023>	eläimet	0.025357612209131027
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4490>	järki	0.020101493903293344
+<http://www.yso.fi/onto/yso/p3503>	arvoitukset	0.018544781466935254
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0173017602844445
+<http://www.yso.fi/onto/yso/p3625>	käyttäytyminen	0.01701689306377159
+<http://www.yso.fi/onto/yso/p6551>	sika	0.01655817746744132
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.01458609544649215
+<http://www.yso.fi/onto/yso/p9649>	lukijat	0.011027282053329444
+<http://www.yso.fi/onto/yso/p200>	vainajat	0.011027282053329444
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p3206>	vaihto	0.008450291946008338
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.00693952370428542
+<http://www.yso.fi/onto/yso/p20879>	ystävät	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p17691>	tuli	0.0033700073884787344

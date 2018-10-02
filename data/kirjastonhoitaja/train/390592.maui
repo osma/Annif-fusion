@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p924>	muovi	0.5164459336591908
-<http://www.yso.fi/onto/yso/p2683>	korjaus	0.1947074656337814
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.13208292111928477
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.13208292111928477
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.12473845013845013
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.12473845013845013
-<http://www.yso.fi/onto/yso/p1953>	muovitekniikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11275>	muovituotteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16009>	hitsaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7491>	veneet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1191>	aallot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1223>	autot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.022236981861071817
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2683>	korjaus	0.8295713141025642
+<http://www.yso.fi/onto/yso/p924>	muovi	0.7531347410759175
+<http://www.yso.fi/onto/yso/p11275>	muovituotteet	0.5459945587430374
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.24685172992307053
+<http://www.yso.fi/onto/yso/p16009>	hitsaus	0.1979882630586202
+<http://www.yso.fi/onto/yso/p1223>	autot	0.11169206819475141
+<http://www.yso.fi/onto/yso/p1953>	muovitekniikka	0.09549063721929066
+<http://www.yso.fi/onto/yso/p7491>	veneet	0.08600369487605677
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.05550817532345785
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.0394940769161549
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.028625733839946953
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1191>	aallot	0.01557433527124088
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.014351283977509626
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.006623093681917211
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

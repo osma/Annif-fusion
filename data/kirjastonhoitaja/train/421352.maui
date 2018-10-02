@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13047>	merikartat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3270>	sisävedet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11469>	veneily	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4705>	lainat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1313>	maksut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p4987>	kartat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02582651077292427
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p13047>	merikartat	0.47554566123531644
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.2627442228962554
+<http://www.yso.fi/onto/yso/p4987>	kartat	0.23090517191377166
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.21428571428571427
+<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.20867566421142617
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.14899148325233752
+<http://www.yso.fi/onto/yso/p1313>	maksut	0.1312451086558706
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.113247334002051
+<http://www.yso.fi/onto/yso/p3270>	sisävedet	0.09549063721929066
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p11469>	veneily	0.08331221587119762
+<http://www.yso.fi/onto/yso/p4705>	lainat	0.06297519934743118
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.06118249275844915
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.03001020118817683
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.028625733839946953
+<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.02494181413586404
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.016822135262090067
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0032143653651324315

@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p16262>	työelämä	0.2580717834717835
-<http://www.yso.fi/onto/yso/p7227>	yhteistoiminta	0.22963637776365053
-<http://www.yso.fi/onto/yso/p36>	viestintä	0.163627339027339
-<http://www.yso.fi/onto/yso/p23507>	laki yksityisyyden suojasta työelämässä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21410>	laki yhteistoiminnasta yrityksissä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23509>	sähköisen viestinnän tietosuojalaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3823>	valtion virastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13687>	säädöskokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12090>	noki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9544>	hakuteokset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5444>	sähköinen viestintä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14136>	hallituksen esitykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18859>	henkilötietolaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3637>	yksilönsuoja	0.1092804451281196
-<http://www.yso.fi/onto/yso/p401>	esitykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15009>	virastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9006>	tiedonlähteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6602>	suojaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4200>	säädökset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10909>	yksityisyys	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5368>	esittely	0.02503108205100534
-<http://www.yso.fi/onto/yso/p7051>	esittelyt	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2325>	asiakirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p5980>	laitokset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p14136>	hallituksen esitykset	0.6611631846414455
+<http://www.yso.fi/onto/yso/p36>	viestintä	0.4625836403401383
+<http://www.yso.fi/onto/yso/p5444>	sähköinen viestintä	0.3830252100840336
+<http://www.yso.fi/onto/yso/p18859>	henkilötietolaki	0.35924265733194854
+<http://www.yso.fi/onto/yso/p13687>	säädöskokoelmat	0.2968865136219151
+<http://www.yso.fi/onto/yso/p23509>	sähköisen viestinnän tietosuojalaki	0.21041140152050236
+<http://www.yso.fi/onto/yso/p16262>	työelämä	0.1836925709318343
+<http://www.yso.fi/onto/yso/p12090>	noki	0.1704954115207424
+<http://www.yso.fi/onto/yso/p10909>	yksityisyys	0.16289212231756692
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1410927648596682
+<http://www.yso.fi/onto/yso/p3823>	valtion virastot	0.13511194568828544
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.12761974922364533
+<http://www.yso.fi/onto/yso/p401>	esitykset	0.10059950864267178
+<http://www.yso.fi/onto/yso/p3637>	yksilönsuoja	0.09124031007751937
+<http://www.yso.fi/onto/yso/p15009>	virastot	0.08880511111755263
+<http://www.yso.fi/onto/yso/p21410>	laki yhteistoiminnasta yrityksissä	0.06007521786049173
+<http://www.yso.fi/onto/yso/p7227>	yhteistoiminta	0.052512063015435984
+<http://www.yso.fi/onto/yso/p6602>	suojaimet	0.04522259941955077
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.04325556474194673
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04251751473493891
+<http://www.yso.fi/onto/yso/p9544>	hakuteokset	0.038760463942493543
+<http://www.yso.fi/onto/yso/p23507>	laki yksityisyyden suojasta työelämässä	0.03654553590387993
+<http://www.yso.fi/onto/yso/p3580>	haku	0.031797586373024364
+<http://www.yso.fi/onto/yso/p2325>	asiakirjat	0.03072655891769611
+<http://www.yso.fi/onto/yso/p4200>	säädökset	0.03007778529305501
+<http://www.yso.fi/onto/yso/p5368>	esittely	0.024427208940209798
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.024181727804547068
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.024181727804547068
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9006>	tiedonlähteet	0.014290565048611741
+<http://www.yso.fi/onto/yso/p7051>	esittelyt	0.009092302703479927
+<http://www.yso.fi/onto/yso/p18940>	englanninkieliset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.007079755267018121
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.006449589558958728
+<http://www.yso.fi/onto/yso/p5980>	laitokset	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.003220167974595556

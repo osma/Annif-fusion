@@ -1,26 +1,26 @@
-<http://www.yso.fi/onto/yso/p2327>	kulttuuriympäristö	0.4907616161616161
-<http://www.yso.fi/onto/yso/p3363>	linnut	0.4240949494949494
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2015>	symbolit	0.22130304443031718
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.19874958778595145
-<http://www.yso.fi/onto/yso/p28428>	kattohaikara	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14426>	haikarat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15937>	vauvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2415>	onni	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.10415499319135683
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p21102>	länsi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19662>	kantaminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8195>	kesä	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2765>	lajit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.02135670516361598
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011752510641896115
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p18849>	ihminen	0.00984824300156032
-<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.00984824300156032
+<http://www.yso.fi/onto/yso/p14426>	haikarat	0.6280349511599511
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.4699049666200713
+<http://www.yso.fi/onto/yso/p3363>	linnut	0.412173648908502
+<http://www.yso.fi/onto/yso/p28428>	kattohaikara	0.3757715859665421
+<http://www.yso.fi/onto/yso/p15937>	vauvat	0.31159672650883113
+<http://www.yso.fi/onto/yso/p2015>	symbolit	0.289649325481102
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.13275673242698424
+<http://www.yso.fi/onto/yso/p2327>	kulttuuriympäristö	0.08331221587119762
+<http://www.yso.fi/onto/yso/p1780>	historia	0.041377758360442565
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.0394940769161549
+<http://www.yso.fi/onto/yso/p19662>	kantaminen	0.02655125396255385
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p18849>	ihminen	0.02544428742092007
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.02544428742092007
+<http://www.yso.fi/onto/yso/p2765>	lajit	0.02298520420354646
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.01729545711223509
+<http://www.yso.fi/onto/yso/p2415>	onni	0.01673449298974308
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p8195>	kesä	0.011543978443140894
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010343238979732609
+<http://www.yso.fi/onto/yso/p21102>	länsi	0.010203504808550248
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.008661113120089494
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.003006254758466846

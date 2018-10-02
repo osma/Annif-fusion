@@ -1,48 +1,47 @@
-<http://www.yso.fi/onto/yso/p2352>	laulajat	0.39630304443031716
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.25822193362193363
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p2428>	laulaminen	0.22963637776365053
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.163627339027339
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.163627339027339
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.163627339027339
-<http://www.yso.fi/onto/yso/p29571>	kuulevat	0.13652436832031797
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20319>	albumiinit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2965>	partituurit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4301>	laulujuhlat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16616>	tamperelaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p28045>	sodanjälkeinen aika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1025>	kaiku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2371>	laulut	0.10867438452205902
-<http://www.yso.fi/onto/yso/p22952>	Google	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5072>	yhtyeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9431>	kynät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1999>	tallenteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.05771181767713922
-<http://www.yso.fi/onto/yso/p23050>	mäet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p25972>	harmaa	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11291>	ohjelmistot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20514>	eteeni	0.02558663760656089
-<http://www.yso.fi/onto/yso/p28779>	askeleet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.013867364862007283
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p562>	esittäminen	0.01137211804984151
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.010846134817405319
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8505>	sotaveteraanit	0.6558933689466322
+<http://www.yso.fi/onto/yso/p2371>	laulut	0.624288528263907
+<http://www.yso.fi/onto/yso/p5072>	yhtyeet	0.11881434987007758
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.0667380483140047
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.06572939296008892
+<http://www.yso.fi/onto/yso/p1999>	tallenteet	0.061258292724331385
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.053241998353938114
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.052387398963355335
+<http://www.yso.fi/onto/yso/p4301>	laulujuhlat	0.05080937867342224
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04625640742120002
+<http://www.yso.fi/onto/yso/p20319>	albumiinit	0.03933719361451239
+<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.038760463942493543
+<http://www.yso.fi/onto/yso/p2352>	laulajat	0.038301748346163275
+<http://www.yso.fi/onto/yso/p9431>	kynät	0.034611578278441094
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.033721409216881694
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.030832395301340364
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.030832395301340364
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.030526031655179586
+<http://www.yso.fi/onto/yso/p16616>	tamperelaiset	0.029996289030646616
+<http://www.yso.fi/onto/yso/p28045>	sodanjälkeinen aika	0.029996289030646616
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.029492901183780874
+<http://www.yso.fi/onto/yso/p20514>	eteeni	0.02471678315108782
+<http://www.yso.fi/onto/yso/p2965>	partituurit	0.02471678315108782
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1025>	kaiku	0.020101493903293344
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p28779>	askeleet	0.018689448361062108
+<http://www.yso.fi/onto/yso/p25972>	harmaa	0.018689448361062108
+<http://www.yso.fi/onto/yso/p11291>	ohjelmistot	0.018544781466935254
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.01804783166248724
+<http://www.yso.fi/onto/yso/p2428>	laulaminen	0.01752945635957615
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p29571>	kuulevat	0.01589434455498066
+<http://www.yso.fi/onto/yso/p23050>	mäet	0.015456360669269928
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p562>	esittäminen	0.010343238979732609
+<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.008450291946008338
+<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.006328091168992595
+<http://www.yso.fi/onto/yso/p22952>	Google	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

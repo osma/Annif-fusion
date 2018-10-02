@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p3312>	vanhemmuus	0.2824282828282828
-<http://www.yso.fi/onto/yso/p2209>	sukupolvet	0.22963637776365053
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.19249317743959093
-<http://www.yso.fi/onto/yso/p8173>	miehet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p476>	kasvatus	0.15807178347178347
-<http://www.yso.fi/onto/yso/p1385>	viski	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15334>	isyys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10611>	nuorisotutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11063>	isät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1191>	aallot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p14311>	suuret ikäluokat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.031091549062580003
-<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p25800>	suunnat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.011419221205752953
-<http://www.yso.fi/onto/yso/p277>	muutos	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3482>	erot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0014031955403157762
-<http://www.yso.fi/onto/yso/p15063>	tee	0.0014031955403157762
+<http://www.yso.fi/onto/yso/p15334>	isyys	0.9746071428571428
+<http://www.yso.fi/onto/yso/p11063>	isät	0.6839346590909091
+<http://www.yso.fi/onto/yso/p2209>	sukupolvet	0.6016222657901819
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.2140525039446973
+<http://www.yso.fi/onto/yso/p3312>	vanhemmuus	0.20730023860433536
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.15526693149092172
+<http://www.yso.fi/onto/yso/p277>	muutos	0.14178208865064204
+<http://www.yso.fi/onto/yso/p10611>	nuorisotutkimus	0.10185926787448692
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.08481110808565441
+<http://www.yso.fi/onto/yso/p8173>	miehet	0.06176346465355361
+<http://www.yso.fi/onto/yso/p1385>	viski	0.05968887127384507
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.0394940769161549
+<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.037334919947431086
+<http://www.yso.fi/onto/yso/p476>	kasvatus	0.03007778529305501
+<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.029492901183780874
+<http://www.yso.fi/onto/yso/p3482>	erot	0.022351943743884044
+<http://www.yso.fi/onto/yso/p14311>	suuret ikäluokat	0.02093651985944765
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02012468818917141
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.0193141873884096
+<http://www.yso.fi/onto/yso/p1191>	aallot	0.01808574165584
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p25800>	suunnat	0.015456360669269928
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p15063>	tee	0.003006254758466846

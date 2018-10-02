@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.4739550968757788
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.4739550968757788
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.3574282828282828
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.3574282828282828
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.25746572286572283
-<http://www.yso.fi/onto/yso/p17658>	suunnitteluohjeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1869>	palontorjunta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15958>	savukaasut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15959>	savu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12796>	palokunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7240>	julkaisijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p192>	mitoitus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22952>	Google	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8296>	koulutuskeskukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6884>	leviäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p15958>	savukaasut	0.49343837764890397
+<http://www.yso.fi/onto/yso/p1869>	palontorjunta	0.43412363857008696
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.2934438535980379
+<http://www.yso.fi/onto/yso/p15959>	savu	0.2696737109430608
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.2627442228962554
+<http://www.yso.fi/onto/yso/p12796>	palokunnat	0.24998868167523142
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.24807200216065856
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.20107963556229053
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.17854381861417573
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.15725541474950142
+<http://www.yso.fi/onto/yso/p6884>	leviäminen	0.11021641753168612
+<http://www.yso.fi/onto/yso/p17658>	suunnitteluohjeet	0.10881543461720247
+<http://www.yso.fi/onto/yso/p192>	mitoitus	0.09549063721929066
+<http://www.yso.fi/onto/yso/p8296>	koulutuskeskukset	0.06825782284706182
+<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.06530414515851778
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.06297519934743118
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05029590679282271
+<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.048077156563578215
+<http://www.yso.fi/onto/yso/p7240>	julkaisijat	0.04390545446095656
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.030526031655179586
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.007079755267018121
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22952>	Google	0.003220167974595556

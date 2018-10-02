@@ -1,44 +1,44 @@
-<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.29076161616161617
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.15710575707107866
-<http://www.yso.fi/onto/yso/p7413>	arviointi	0.12117522014561392
-<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12127>	sähköiset lomakkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25653>	sähköinen aineisto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11008>	asiointi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1488>	tavaramerkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.09859943763580127
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.09424283744586774
-<http://www.yso.fi/onto/yso/p9191>	kilpailuetu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p23851>	brändit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7616>	konseptit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16175>	laaksot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2209>	sukupolvet	0.031932770969134605
-<http://www.yso.fi/onto/yso/p7717>	ilmeet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2555>	talous	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6455>	muotoilu	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.020900544995290878
-<http://www.yso.fi/onto/yso/p15212>	selvitys	0.020674481861071816
-<http://www.yso.fi/onto/yso/p556>	kielet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.016931513882039787
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p810>	kädet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.016542457256587376
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.015429864862007283
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011752510641896115
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011410743001560319
-<http://www.yso.fi/onto/yso/p4230>	kehittäminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.00984824300156032
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.4187541312723434
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.40908611479069884
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.29526622495764804
+<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.15666839491409762
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.15465231218346182
+<http://www.yso.fi/onto/yso/p12127>	sähköiset lomakkeet	0.11457687144353376
+<http://www.yso.fi/onto/yso/p1488>	tavaramerkit	0.06816219685020927
+<http://www.yso.fi/onto/yso/p23851>	brändit	0.06278129047038186
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05592903811247733
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.04014342756550554
+<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.03964332649484531
+<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.033861777162717564
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.033721409216881694
+<http://www.yso.fi/onto/yso/p11008>	asiointi	0.03369083488685353
+<http://www.yso.fi/onto/yso/p16175>	laaksot	0.033292404084121
+<http://www.yso.fi/onto/yso/p7616>	konseptit	0.03250397162460807
+<http://www.yso.fi/onto/yso/p2209>	sukupolvet	0.03246595780312926
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p25653>	sähköinen aineisto	0.0256182030771971
+<http://www.yso.fi/onto/yso/p6455>	muotoilu	0.02478567556918755
+<http://www.yso.fi/onto/yso/p556>	kielet	0.023844094573973
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.022907842454228597
+<http://www.yso.fi/onto/yso/p9191>	kilpailuetu	0.022508263740529784
+<http://www.yso.fi/onto/yso/p7717>	ilmeet	0.022508263740529784
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.019297239092890005
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.019089048468027836
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.019089048468027836
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p7413>	arviointi	0.01903767037613475
+<http://www.yso.fi/onto/yso/p20218>	taideteolliset korkeakoulut	0.018497300922231088
+<http://www.yso.fi/onto/yso/p2555>	talous	0.017686663991057963
+<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.017686663991057963
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.011027282053329444
+<http://www.yso.fi/onto/yso/p15212>	selvitys	0.00693952370428542
+<http://www.yso.fi/onto/yso/p4230>	kehittäminen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344

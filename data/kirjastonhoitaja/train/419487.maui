@@ -1,40 +1,40 @@
-<http://www.yso.fi/onto/yso/p18173>	tutkiva oppiminen	0.39630304443031716
-<http://www.yso.fi/onto/yso/p14765>	ryhmädynamiikka	0.39630304443031716
-<http://www.yso.fi/onto/yso/p6375>	pienryhmät	0.3208898212898213
-<http://www.yso.fi/onto/yso/p6374>	tiimit	0.3208898212898213
-<http://www.yso.fi/onto/yso/p8311>	luovuus	0.25822193362193363
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.19249317743959093
-<http://www.yso.fi/onto/yso/p6444>	sosiaaliset taidot	0.163627339027339
-<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.163627339027339
-<http://www.yso.fi/onto/yso/p1117>	opettajat	0.15884338841005508
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.15884338841005508
-<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.15807178347178347
-<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.10985672120575295
-<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p636>	työasemat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19035>	sosiaalipsykologia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18765>	sosiaalipsykologit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4521>	jengit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7481>	yhteistoiminnallinen oppiminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22526>	salaisuudet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15085>	asiantuntijuus	0.10415499319135683
-<http://www.yso.fi/onto/yso/p19352>	resurssit	0.09317719357292001
-<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.09276397043242414
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.08016061096932735
-<http://www.yso.fi/onto/yso/p4079>	ryhmätyö	0.056783130619117585
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.04372423975345706
-<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10590>	sosiaalinen vuorovaikutus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5798>	taidot	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4079>	ryhmätyö	0.6191666666666666
+<http://www.yso.fi/onto/yso/p6375>	pienryhmät	0.49371212121212127
+<http://www.yso.fi/onto/yso/p14765>	ryhmädynamiikka	0.40085465331850206
+<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.3546265328874025
+<http://www.yso.fi/onto/yso/p6374>	tiimit	0.3474565091928436
+<http://www.yso.fi/onto/yso/p10590>	sosiaalinen vuorovaikutus	0.2997417840375587
+<http://www.yso.fi/onto/yso/p6444>	sosiaaliset taidot	0.23613909043486508
+<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.22566993473859576
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.16938333083572224
+<http://www.yso.fi/onto/yso/p4521>	jengit	0.08137718300850993
+<http://www.yso.fi/onto/yso/p18173>	tutkiva oppiminen	0.047254802831142556
+<http://www.yso.fi/onto/yso/p636>	työasemat	0.04382941981739003
+<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.043073087741703917
+<http://www.yso.fi/onto/yso/p7481>	yhteistoiminnallinen oppiminen	0.042445360920825764
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.04114454887617572
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p15085>	asiantuntijuus	0.04003868191765611
+<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.03781199600438925
+<http://www.yso.fi/onto/yso/p8311>	luovuus	0.03218184573727876
+<http://www.yso.fi/onto/yso/p19035>	sosiaalipsykologia	0.030074239083445736
+<http://www.yso.fi/onto/yso/p18765>	sosiaalipsykologit	0.030074239083445736
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1117>	opettajat	0.022351943743884044
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.01986886979681643
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.01986886979681643
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p22526>	salaisuudet	0.012904923937906636
+<http://www.yso.fi/onto/yso/p19352>	resurssit	0.012323528589069429
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.011438099084399644
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.008964245977246838
+<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.008821926792945722
+<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

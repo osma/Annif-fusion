@@ -1,20 +1,20 @@
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16456>	henkilötunnukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27360>	asiakasrekisterit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18859>	henkilötietolaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3636>	tietosuoja	0.1092804451281196
-<http://www.yso.fi/onto/yso/p82>	rekisterit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p14493>	luovutus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6118>	valvonta	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2868>	päätökset	0.027576170779201083
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26009>	laadinta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p261>	tieto	0.01577079092724847
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3636>	tietosuoja	0.6172774894616573
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.5905025868440503
+<http://www.yso.fi/onto/yso/p18859>	henkilötietolaki	0.5179650920889152
+<http://www.yso.fi/onto/yso/p27360>	asiakasrekisterit	0.2516995073891626
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.23116798367068095
+<http://www.yso.fi/onto/yso/p82>	rekisterit	0.1268638404806135
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1094475256514857
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.0912631367338826
+<http://www.yso.fi/onto/yso/p16456>	henkilötunnukset	0.08331221587119762
+<http://www.yso.fi/onto/yso/p261>	tieto	0.07862300862179963
+<http://www.yso.fi/onto/yso/p6118>	valvonta	0.07047808820765081
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.06378575093607756
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.058401844571193184
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.03332672094251636
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.03001020118817683
+<http://www.yso.fi/onto/yso/p14493>	luovutus	0.02668336720320345
+<http://www.yso.fi/onto/yso/p2868>	päätökset	0.018273347594829684
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.00939385499440685
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.004178634428269678
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0032143653651324315

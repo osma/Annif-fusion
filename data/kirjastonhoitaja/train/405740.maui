@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.5574282828282828
-<http://www.yso.fi/onto/yso/p10060>	kehitysvammaiset	0.45682222222222224
-<http://www.yso.fi/onto/yso/p14664>	neuropsykologia	0.39630304443031716
-<http://www.yso.fi/onto/yso/p25335>	neuropsykologit	0.39630304443031716
-<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.3574282828282828
-<http://www.yso.fi/onto/yso/p7179>	vammaiset	0.2963030444303172
-<http://www.yso.fi/onto/yso/p266>	itsetunto	0.2963030444303172
-<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.2824282828282828
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.2580717834717835
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.15884338841005508
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.12117522014561392
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.10985672120575295
-<http://www.yso.fi/onto/yso/p11735>	ruotsinkieliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.09424283744586774
-<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p237>	raportit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p4511>	tulkinta	0.015369013882039786
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p266>	itsetunto	0.6260056601735762
+<http://www.yso.fi/onto/yso/p10060>	kehitysvammaiset	0.5873715943112495
+<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.555559200108555
+<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.48326009426146443
+<http://www.yso.fi/onto/yso/p7179>	vammaiset	0.3486872025416916
+<http://www.yso.fi/onto/yso/p237>	raportit	0.08885392574550627
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.07682873226298816
+<http://www.yso.fi/onto/yso/p14664>	neuropsykologia	0.05968887127384507
+<http://www.yso.fi/onto/yso/p25335>	neuropsykologit	0.05968887127384507
+<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.044470543864755706
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.033688630679592595
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.030093859578725617
+<http://www.yso.fi/onto/yso/p11735>	ruotsinkieliset	0.027141284555140737
+<http://www.yso.fi/onto/yso/p1380>	opinnäytteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.01986886979681643
+<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.019297239092890005
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.019297239092890005
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p4511>	tulkinta	0.018782721788694046
+<http://www.yso.fi/onto/yso/p261>	tieto	0.018272679242937913
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.016138011629698818
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009232743824015916
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0035308210613349627

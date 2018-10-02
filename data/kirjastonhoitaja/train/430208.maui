@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.3574282828282828
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9345>	ajoneuvot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14254>	huutokauppa	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11619>	venäjänkieliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3187>	reet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3689>	kansankulttuuri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26176>	kärryt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2701>	vuokrat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14040>	lyhenteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.10415499319135683
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.09423112395000938
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.05884015991134593
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1018>	esineet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p200>	vainajat	0.05710575707107861
-<http://www.yso.fi/onto/yso/p13087>	kaunis	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20797>	etelä	0.04760000435676974
-<http://www.yso.fi/onto/yso/p7978>	nimitykset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9658>	toivo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3721>	liittäminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.01468041649685237
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3187>	reet	0.6833430744092508
+<http://www.yso.fi/onto/yso/p14040>	lyhenteet	0.4536589906436904
+<http://www.yso.fi/onto/yso/p9345>	ajoneuvot	0.3391594222307629
+<http://www.yso.fi/onto/yso/p14254>	huutokauppa	0.14291745753673987
+<http://www.yso.fi/onto/yso/p7978>	nimitykset	0.13126340285581684
+<http://www.yso.fi/onto/yso/p26176>	kärryt	0.09216090623925798
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.06535921480060392
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.0583418136570084
+<http://www.yso.fi/onto/yso/p11619>	venäjänkieliset	0.04088360833569167
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04046422057616032
+<http://www.yso.fi/onto/yso/p1018>	esineet	0.03597795326224354
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.029202565454020297
+<http://www.yso.fi/onto/yso/p2701>	vuokrat	0.027566556489484285
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.02621317364744895
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p200>	vainajat	0.017809772884280154
+<http://www.yso.fi/onto/yso/p3689>	kansankulttuuri	0.01673449298974308
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010343238979732609
+<http://www.yso.fi/onto/yso/p3721>	liittäminen	0.010080825056043312
+<http://www.yso.fi/onto/yso/p20797>	etelä	0.006623068008082889
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.006623068008082889
+<http://www.yso.fi/onto/yso/p13087>	kaunis	0.006623068008082889
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.002919388526042139
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

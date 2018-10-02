@@ -1,16 +1,16 @@
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.29076161616161617
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.29076161616161617
-<http://www.yso.fi/onto/yso/p19960>	palkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4705>	lainat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7186>	tunnusluvut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9403>	varaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7090>	puhelimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.09424283744586774
-<http://www.yso.fi/onto/yso/p2419>	onnistuminen	0.09317719357292001
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.016542457256587376
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011410743001560319
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.4866959064327485
+<http://www.yso.fi/onto/yso/p4705>	lainat	0.4407106210682182
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2428074648662884
+<http://www.yso.fi/onto/yso/p7186>	tunnusluvut	0.23957144340387826
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.09891554716931969
+<http://www.yso.fi/onto/yso/p19960>	palkit	0.0651192947085337
+<http://www.yso.fi/onto/yso/p7090>	puhelimet	0.04542727845118927
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.04466017272093769
+<http://www.yso.fi/onto/yso/p2419>	onnistuminen	0.04102348352828776
+<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.035828678333482564
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.029578536962196533
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.022692346784982536
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.003220167974595556

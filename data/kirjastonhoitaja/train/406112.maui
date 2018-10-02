@@ -1,46 +1,46 @@
-<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.4637742424242425
-<http://www.yso.fi/onto/yso/p282>	päiväkodit	0.45742828282828285
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.29076161616161617
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.2290303171575899
-<http://www.yso.fi/onto/yso/p8290>	kunnalliskodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17316>	hoitokodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p718>	kuntainliitot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4815>	mielisairaalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5887>	psyykkisesti sairaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8289>	vanhainkodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4097>	toimintakertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4299>	arkkitehdit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09928166093834542
-<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.09424283744586774
-<http://www.yso.fi/onto/yso/p21526>	alaiset	0.09424283744586774
-<http://www.yso.fi/onto/yso/p13373>	karjalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19527>	valmistuminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p19016>	kulta	0.020900544995290878
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.020674481861071816
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.015429864862007283
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.01468041649685237
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.013609942855237487
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011764441561365137
-<http://www.yso.fi/onto/yso/p2871>	synty	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p7887>	pää	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.7017857826864147
+<http://www.yso.fi/onto/yso/p8290>	kunnalliskodit	0.5735215985215986
+<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.3970160627137371
+<http://www.yso.fi/onto/yso/p4299>	arkkitehdit	0.2018651604562421
+<http://www.yso.fi/onto/yso/p5887>	psyykkisesti sairaat	0.169342076258351
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.15159275984842724
+<http://www.yso.fi/onto/yso/p8289>	vanhainkodit	0.15123684560586356
+<http://www.yso.fi/onto/yso/p13373>	karjalaiset	0.12656714301997812
+<http://www.yso.fi/onto/yso/p1780>	historia	0.12045712343980766
+<http://www.yso.fi/onto/yso/p4097>	toimintakertomukset	0.08473750867868514
+<http://www.yso.fi/onto/yso/p4815>	mielisairaalat	0.0667411779059705
+<http://www.yso.fi/onto/yso/p282>	päiväkodit	0.06303750571989708
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.0626697750352356
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04596538061473148
+<http://www.yso.fi/onto/yso/p17316>	hoitokodit	0.04391079575170591
+<http://www.yso.fi/onto/yso/p718>	kuntainliitot	0.04388776439796282
+<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.04388776439796282
+<http://www.yso.fi/onto/yso/p3673>	rakentaminen	0.03964332649484531
+<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.03617647839162057
+<http://www.yso.fi/onto/yso/p21526>	alaiset	0.029622480347629744
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.02899007197275618
+<http://www.yso.fi/onto/yso/p261>	tieto	0.02621317364744895
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.025010325013841084
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.024832949035427078
+<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.02478567556918755
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.023610097100620644
+<http://www.yso.fi/onto/yso/p19016>	kulta	0.023061796437881758
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p19527>	valmistuminen	0.013098663637288534
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.008661113120089494
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.00693952370428542
+<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.00693952370428542
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0032143653651324315

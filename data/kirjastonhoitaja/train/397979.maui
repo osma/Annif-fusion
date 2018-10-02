@@ -1,48 +1,48 @@
-<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.2580717834717835
-<http://www.yso.fi/onto/yso/p4835>	oppimisympäristö	0.19874958778595145
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p2630>	opetus	0.163627339027339
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.10985672120575295
-<http://www.yso.fi/onto/yso/p19523>	viitetietokannat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17867>	tietokoneavusteinen opetus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18442>	verkkopedagogiikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15809>	lukumuistit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25002>	aleksia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9476>	suuryritykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.09276397043242414
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.09140511680511679
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7050>	kumppanuus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.05631347901790277
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.026239733913420143
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.025713305353549494
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5103>	oppimisprosessi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p17473>	moderni	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.021192667585202166
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.015429864862007283
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.01468041649685237
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.010201941561365137
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p2123>	kehitys	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5396>	tulokset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.37929614515006954
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.2563773360687592
+<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.1959915613060745
+<http://www.yso.fi/onto/yso/p2630>	opetus	0.19397353669175085
+<http://www.yso.fi/onto/yso/p18442>	verkkopedagogiikka	0.14961629064162155
+<http://www.yso.fi/onto/yso/p5103>	oppimisprosessi	0.10073059103838855
+<http://www.yso.fi/onto/yso/p17867>	tietokoneavusteinen opetus	0.06868337425971399
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.06070417380077551
+<http://www.yso.fi/onto/yso/p7050>	kumppanuus	0.0511787052145483
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04522259941955077
+<http://www.yso.fi/onto/yso/p19523>	viitetietokannat	0.04470873035764248
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04370497068983673
+<http://www.yso.fi/onto/yso/p9476>	suuryritykset	0.031159189317233278
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.029492901183780874
+<http://www.yso.fi/onto/yso/p15809>	lukumuistit	0.02603280675705208
+<http://www.yso.fi/onto/yso/p4835>	oppimisympäristö	0.02357711233259819
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02012468818917141
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.01804783166248724
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.017494941302170077
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.017494941302170077
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0173017602844445
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.016138011629698818
+<http://www.yso.fi/onto/yso/p17473>	moderni	0.015456360669269928
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.012501778188803889
+<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.011027282053329444
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p5396>	tulokset	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p25002>	aleksia	0.003220167974595556
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.003006254758466846
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846

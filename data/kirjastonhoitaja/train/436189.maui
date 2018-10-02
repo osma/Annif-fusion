@@ -1,45 +1,45 @@
-<http://www.yso.fi/onto/yso/p218>	vakaumus	0.22963637776365053
-<http://www.yso.fi/onto/yso/p6173>	kriisit	0.22963637776365053
-<http://www.yso.fi/onto/yso/p3884>	armeijat	0.20867438452205903
-<http://www.yso.fi/onto/yso/p1693>	aseeton palvelus	0.14200771785539237
-<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.10984824300156033
-<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.10984824300156033
-<http://www.yso.fi/onto/yso/p13336>	kertausharjoitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22418>	siviilipalveluslaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6560>	liikekannallepano	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22935>	siviilipalvelusmiehet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1694>	siviilipalvelus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3966>	reserviläiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1698>	asevelvollisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p40>	sotatoimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7457>	puolustusvoimat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10918>	sotilaallinen apu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13915>	uutiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2868>	päätökset	0.08817829223255524
-<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8930>	vapautuminen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24392>	siirrot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1697>	kieltäytyminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2133>	sosiaalinen asema	0.02503108205100534
-<http://www.yso.fi/onto/yso/p29553>	rauhanaika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p7957>	rauha	0.020674481861071816
-<http://www.yso.fi/onto/yso/p14970>	palautus	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1722>	epävarmuus	0.020674481861071816
-<http://www.yso.fi/onto/yso/p18234>	täyttö	0.016931513882039787
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p810>	kädet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3936>	eroaminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.014124651842189464
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p277>	muutos	0.011410743001560319
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p6752>	syyt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3884>	armeijat	0.8975238095238096
+<http://www.yso.fi/onto/yso/p3966>	reserviläiset	0.8375419982316533
+<http://www.yso.fi/onto/yso/p6173>	kriisit	0.6090302118684494
+<http://www.yso.fi/onto/yso/p1694>	siviilipalvelus	0.5034065934065934
+<http://www.yso.fi/onto/yso/p1698>	asevelvollisuus	0.5013402283990519
+<http://www.yso.fi/onto/yso/p22418>	siviilipalveluslaki	0.3672012526902094
+<http://www.yso.fi/onto/yso/p13336>	kertausharjoitukset	0.35055713608345185
+<http://www.yso.fi/onto/yso/p1693>	aseeton palvelus	0.23834770963803226
+<http://www.yso.fi/onto/yso/p6560>	liikekannallepano	0.1588487364762684
+<http://www.yso.fi/onto/yso/p22935>	siviilipalvelusmiehet	0.13809009815962012
+<http://www.yso.fi/onto/yso/p8930>	vapautuminen	0.13478612069241347
+<http://www.yso.fi/onto/yso/p277>	muutos	0.10309409603217283
+<http://www.yso.fi/onto/yso/p40>	sotatoimet	0.09866606053507848
+<http://www.yso.fi/onto/yso/p2133>	sosiaalinen asema	0.08735464871022612
+<http://www.yso.fi/onto/yso/p13915>	uutiset	0.06895263924395664
+<http://www.yso.fi/onto/yso/p7457>	puolustusvoimat	0.05178111820468525
+<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.0499703445352812
+<http://www.yso.fi/onto/yso/p29553>	rauhanaika	0.03858423555759514
+<http://www.yso.fi/onto/yso/p7957>	rauha	0.03858423555759514
+<http://www.yso.fi/onto/yso/p218>	vakaumus	0.03720337968972091
+<http://www.yso.fi/onto/yso/p1697>	kieltäytyminen	0.03505540835597136
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.033292404084121
+<http://www.yso.fi/onto/yso/p14970>	palautus	0.02478567556918755
+<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.0238955299040206
+<http://www.yso.fi/onto/yso/p1722>	epävarmuus	0.022652930634656634
+<http://www.yso.fi/onto/yso/p10918>	sotilaallinen apu	0.022652930634656634
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p24392>	siirrot	0.017902770709463663
+<http://www.yso.fi/onto/yso/p3936>	eroaminen	0.017902770709463663
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p2868>	päätökset	0.01458609544649215
+<http://www.yso.fi/onto/yso/p18234>	täyttö	0.012154744270422593
+<http://www.yso.fi/onto/yso/p6752>	syyt	0.011438099084399644
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.0031873957634987703
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.003006254758466846

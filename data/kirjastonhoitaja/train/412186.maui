@@ -1,24 +1,24 @@
-<http://www.yso.fi/onto/yso/p9664>	kuninkaat	0.3402118515986937
-<http://www.yso.fi/onto/yso/p11251>	asukkaat	0.22130304443031718
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.15884338841005508
-<http://www.yso.fi/onto/yso/p17541>	palatsit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21226>	kielletyt kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11009>	käsikirjoitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24100>	kotiopettajat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020900544995290878
-<http://www.yso.fi/onto/yso/p9418>	tammi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p21034>	aika	0.02029448438923027
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p261>	tieto	0.016542457256587376
-<http://www.yso.fi/onto/yso/p562>	esittäminen	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2579>	sisältö	0.01468041649685237
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p434>	muu rooli	0.011410743001560319
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009815988008196946
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.798460202991453
+<http://www.yso.fi/onto/yso/p9664>	kuninkaat	0.5545527546069342
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.3623136440209611
+<http://www.yso.fi/onto/yso/p24100>	kotiopettajat	0.16057092689207145
+<http://www.yso.fi/onto/yso/p21226>	kielletyt kirjat	0.13732105809897466
+<http://www.yso.fi/onto/yso/p17541>	palatsit	0.12580761785174616
+<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.09043914175008204
+<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.08840266797720903
+<http://www.yso.fi/onto/yso/p434>	muu rooli	0.04585848824306803
+<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.04459644549216799
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.04445699741648651
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04046422057616032
+<http://www.yso.fi/onto/yso/p261>	tieto	0.038066233951319514
+<http://www.yso.fi/onto/yso/p11251>	asukkaat	0.033782662337395034
+<http://www.yso.fi/onto/yso/p11009>	käsikirjoitukset	0.03268162660149794
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p21034>	aika	0.005651396946737669
+<http://www.yso.fi/onto/yso/p2579>	sisältö	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p9418>	tammi	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p562>	esittäminen	0.0032143653651324315

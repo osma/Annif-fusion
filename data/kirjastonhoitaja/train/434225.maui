@@ -1,74 +1,74 @@
-<http://www.yso.fi/onto/yso/p266>	itsetunto	0.3684516746411483
-<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.3484717834717835
-<http://www.yso.fi/onto/yso/p16262>	työelämä	0.29076161616161617
-<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.24924338841005506
-<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.18180511680511677
-<http://www.yso.fi/onto/yso/p12928>	työhönsijoittuminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27523>	ISSN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20297>	erityiskoulut	0.09455499319135682
-<http://www.yso.fi/onto/yso/p10748>	opettajankoulutuslaitokset	0.08464283744586776
-<http://www.yso.fi/onto/yso/p944>	tuotanto	0.08464283744586776
-<http://www.yso.fi/onto/yso/p5140>	opetussuunnitelmat	0.08464283744586776
-<http://www.yso.fi/onto/yso/p19035>	sosiaalipsykologia	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18765>	sosiaalipsykologit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15544>	marit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04372423975345706
-<http://www.yso.fi/onto/yso/p4637>	ikääntyvät työntekijät	0.03800000435676974
-<http://www.yso.fi/onto/yso/p12889>	virtahevot	0.03800000435676974
-<http://www.yso.fi/onto/yso/p1998>	sähköiset julkaisut	0.03800000435676974
-<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.03436520360887875
-<http://www.yso.fi/onto/yso/p1569>	veljet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p22833>	karit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4537>	kasvatustiede	0.02503108205100534
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.022403722357815674
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.021308294803050177
-<http://www.yso.fi/onto/yso/p22292>	sijoittuminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p9658>	toivo	0.020674481861071816
-<http://www.yso.fi/onto/yso/p5594>	työikäiset	0.018919454144028597
-<http://www.yso.fi/onto/yso/p9700>	ammatillinen koulutus	0.018919454144028597
-<http://www.yso.fi/onto/yso/p12734>	abiturientit	0.015986637606560893
-<http://www.yso.fi/onto/yso/p6920>	toimipaikat	0.015431082051005341
-<http://www.yso.fi/onto/yso/p13908>	oppivelvollisuus	0.015431082051005341
-<http://www.yso.fi/onto/yso/p27061>	lisensiaatintutkimukset	0.015431082051005341
-<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.015431082051005341
-<http://www.yso.fi/onto/yso/p13996>	kaaos	0.015431082051005341
-<http://www.yso.fi/onto/yso/p19110>	kelat	0.015431082051005341
-<http://www.yso.fi/onto/yso/p506>	hallinta	0.015369013882039786
-<http://www.yso.fi/onto/yso/p15979>	nuoret aikuiset	0.014562853954095073
-<http://www.yso.fi/onto/yso/p23014>	polut	0.012636981861071818
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6105>	toimintaympäristö	0.011300544995290878
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.011074481861071819
-<http://www.yso.fi/onto/yso/p795>	vaikutukset	0.010846134817405319
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.010193463357172503
-<http://www.yso.fi/onto/yso/p5789>	kasvu	0.009856721205752953
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
-<http://www.yso.fi/onto/yso/p13463>	työpaikat	0.007572477737461472
-<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.007572477737461472
-<http://www.yso.fi/onto/yso/p7383>	kunto	0.006070828717428969
-<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.006009977737461472
-<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.005897220005502709
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.004249917422419042
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.0037588803522740554
-<http://www.yso.fi/onto/yso/p10874>	prosessorit	0.0019386316427437145
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.0019386316427437145
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0019386316427437145
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.0019386316427437145
-<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.001522605977306536
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.001522605977306536
-<http://www.yso.fi/onto/yso/p15063>	tee	0.001522605977306536
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.0008714853363564274
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p5980>	laitokset	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p3482>	erot	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.00036765343855107904
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0003475418350101718
-<http://www.yso.fi/onto/yso/p1007>	arvo	0.0002983304332615279
-<http://www.yso.fi/onto/yso/p1044>	arvot	0.0002983304332615279
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.0002983304332615279
+<http://www.yso.fi/onto/yso/p266>	itsetunto	0.7044976382405567
+<http://www.yso.fi/onto/yso/p1998>	sähköiset julkaisut	0.3564992027500251
+<http://www.yso.fi/onto/yso/p16262>	työelämä	0.3329536833976959
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.3146766265239497
+<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.29450801991598957
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.18984262749339073
+<http://www.yso.fi/onto/yso/p12928>	työhönsijoittuminen	0.17737132798285077
+<http://www.yso.fi/onto/yso/p9700>	ammatillinen koulutus	0.14850269017446152
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.12424678342886245
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.11931294301807535
+<http://www.yso.fi/onto/yso/p506>	hallinta	0.10524276683479945
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.0825810863065765
+<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.08201087939867814
+<http://www.yso.fi/onto/yso/p27523>	ISSN	0.07500618582833747
+<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.06429638071994777
+<http://www.yso.fi/onto/yso/p6920>	toimipaikat	0.062152487379245905
+<http://www.yso.fi/onto/yso/p1007>	arvo	0.0561698512935583
+<http://www.yso.fi/onto/yso/p1044>	arvot	0.0561698512935583
+<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.05606591058844377
+<http://www.yso.fi/onto/yso/p6105>	toimintaympäristö	0.0553277460104387
+<http://www.yso.fi/onto/yso/p1810>	työ	0.05039842188480387
+<http://www.yso.fi/onto/yso/p5594>	työikäiset	0.05024569517833607
+<http://www.yso.fi/onto/yso/p12734>	abiturientit	0.04220422009416535
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.04052817941301353
+<http://www.yso.fi/onto/yso/p12889>	virtahevot	0.03807127211728673
+<http://www.yso.fi/onto/yso/p13908>	oppivelvollisuus	0.03807127211728673
+<http://www.yso.fi/onto/yso/p20297>	erityiskoulut	0.03807127211728673
+<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.036736573415815335
+<http://www.yso.fi/onto/yso/p19035>	sosiaalipsykologia	0.032509354347179234
+<http://www.yso.fi/onto/yso/p18765>	sosiaalipsykologit	0.032509354347179234
+<http://www.yso.fi/onto/yso/p13996>	kaaos	0.031656177777664087
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02972248144219483
+<http://www.yso.fi/onto/yso/p15979>	nuoret aikuiset	0.029463846143088075
+<http://www.yso.fi/onto/yso/p795>	vaikutukset	0.02845041038993489
+<http://www.yso.fi/onto/yso/p4537>	kasvatustiede	0.027952211092581926
+<http://www.yso.fi/onto/yso/p13463>	työpaikat	0.027847621711058996
+<http://www.yso.fi/onto/yso/p4637>	ikääntyvät työntekijät	0.02683602350779483
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.024832949035427078
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.02458239530134037
+<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.024557299004267775
+<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.022377058063958788
+<http://www.yso.fi/onto/yso/p3482>	erot	0.021805315093142447
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p27061>	lisensiaatintutkimukset	0.020295233602675242
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.019891341791586917
+<http://www.yso.fi/onto/yso/p5140>	opetussuunnitelmat	0.019534785706249457
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.019297239092890005
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.017494941302170077
+<http://www.yso.fi/onto/yso/p1569>	veljet	0.01663101609830765
+<http://www.yso.fi/onto/yso/p19110>	kelat	0.016331751329080713
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.016331751329080713
+<http://www.yso.fi/onto/yso/p10748>	opettajankoulutuslaitokset	0.016331751329080713
+<http://www.yso.fi/onto/yso/p23014>	polut	0.013098663637288534
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.011605112931740925
+<http://www.yso.fi/onto/yso/p7383>	kunto	0.011438099084399644
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.011438099084399644
+<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.010439057995912788
+<http://www.yso.fi/onto/yso/p944>	tuotanto	0.00954918349252259
+<http://www.yso.fi/onto/yso/p5789>	kasvu	0.00954918349252259
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p10874>	prosessorit	0.00693952370428542
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p22292>	sijoittuminen	0.006734605671498535
+<http://www.yso.fi/onto/yso/p15544>	marit	0.006734605671498535
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p22833>	karit	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5980>	laitokset	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p15063>	tee	0.003006254758466846

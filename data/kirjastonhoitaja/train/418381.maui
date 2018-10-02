@@ -1,41 +1,41 @@
-<http://www.yso.fi/onto/yso/p19927>	karppi	0.35104593365919085
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.18357719357292002
-<http://www.yso.fi/onto/yso/p18743>	camp	0.12248292111928476
-<http://www.yso.fi/onto/yso/p19474>	vyöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9672>	Kalevala	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8512>	fantasia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.1091598441062576
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.05771181767713922
-<http://www.yso.fi/onto/yso/p556>	kielet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26457>	soljet	0.04811181767713922
-<http://www.yso.fi/onto/yso/p25663>	vedenpaisumus	0.03800000435676974
-<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.03800000435676974
-<http://www.yso.fi/onto/yso/p9418>	tammi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.015986637606560893
-<http://www.yso.fi/onto/yso/p12745>	maurit	0.015986637606560893
-<http://www.yso.fi/onto/yso/p11738>	rauta	0.015986637606560893
-<http://www.yso.fi/onto/yso/p5319>	koira	0.015431082051005341
-<http://www.yso.fi/onto/yso/p25057>	kannot	0.015431082051005341
-<http://www.yso.fi/onto/yso/p18114>	listat	0.012636981861071818
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p5131>	rakkaus	0.011074481861071819
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.010384813821384715
-<http://www.yso.fi/onto/yso/p24639>	kertomukset	0.010059710081147328
-<http://www.yso.fi/onto/yso/p17453>	kevät	0.0071834211120090615
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.005321380352274056
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.005171237126109585
-<http://www.yso.fi/onto/yso/p8173>	miehet	0.004508328717428969
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.0019386316427437145
-<http://www.yso.fi/onto/yso/p21034>	aika	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p5197>	osat	0.0003761316427437147
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0003761316427437147
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.7480608974358975
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.44979797979797975
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.3634791451864623
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.30277777777777776
+<http://www.yso.fi/onto/yso/p556>	kielet	0.30277777777777776
+<http://www.yso.fi/onto/yso/p9672>	Kalevala	0.2520704704633993
+<http://www.yso.fi/onto/yso/p19927>	karppi	0.23626335670450968
+<http://www.yso.fi/onto/yso/p8512>	fantasia	0.22709507820059108
+<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.2119568292898733
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.2088246554285516
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.2088246554285516
+<http://www.yso.fi/onto/yso/p19474>	vyöt	0.18012298763961235
+<http://www.yso.fi/onto/yso/p26457>	soljet	0.04220422009416535
+<http://www.yso.fi/onto/yso/p25663>	vedenpaisumus	0.04220422009416535
+<http://www.yso.fi/onto/yso/p18743>	camp	0.03807127211728673
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.037390146502086254
+<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.03617647839162057
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.03469155287688712
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.033721409216881694
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.03170010443173127
+<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.030832395301340364
+<http://www.yso.fi/onto/yso/p5131>	rakkaus	0.026664801751614686
+<http://www.yso.fi/onto/yso/p8173>	miehet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p5319>	koira	0.025357612209131027
+<http://www.yso.fi/onto/yso/p24639>	kertomukset	0.024832949035427078
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.021840989103965362
+<http://www.yso.fi/onto/yso/p11738>	rauta	0.020295233602675242
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.018750610442148406
+<http://www.yso.fi/onto/yso/p18114>	listat	0.018023353742571534
+<http://www.yso.fi/onto/yso/p25057>	kannot	0.016331751329080713
+<http://www.yso.fi/onto/yso/p12745>	maurit	0.013098663637288534
+<http://www.yso.fi/onto/yso/p17453>	kevät	0.011438099084399644
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.009388369819666361
+<http://www.yso.fi/onto/yso/p7517>	kustannukset	0.008821926792945722
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9418>	tammi	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p21034>	aika	0.0030750305493884417

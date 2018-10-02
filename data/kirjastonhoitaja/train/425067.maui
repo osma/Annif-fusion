@@ -1,37 +1,37 @@
-<http://www.yso.fi/onto/yso/p16255>	korkeakoulukirjastot	0.22717882854208576
-<http://www.yso.fi/onto/yso/p8776>	sidosryhmät	0.22130304443031718
-<http://www.yso.fi/onto/yso/p7413>	arviointi	0.19157066113732776
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.10985672120575295
-<http://www.yso.fi/onto/yso/p25393>	laatukäsikirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9815>	tietohuolto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2728>	laatutyö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2722>	laatujärjestelmät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13866>	ohjekirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.09290640058008681
-<http://www.yso.fi/onto/yso/p3390>	korkea-asteen koulutus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p5028>	ilmanlaatu	0.04404872462764211
-<http://www.yso.fi/onto/yso/p5029>	laatu	0.04404872462764211
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2418>	menestyminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p26009>	laadinta	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4230>	kehittäminen	0.020431639617679742
-<http://www.yso.fi/onto/yso/p6026>	edellytykset	0.020335217586786282
-<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.016542457256587376
-<http://www.yso.fi/onto/yso/p9610>	luominen	0.015429864862007283
-<http://www.yso.fi/onto/yso/p14978>	edistäminen	0.015256256150081023
-<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2728>	laatutyö	0.6027951027951028
+<http://www.yso.fi/onto/yso/p16255>	korkeakoulukirjastot	0.4751046408023152
+<http://www.yso.fi/onto/yso/p7413>	arviointi	0.2953400695232818
+<http://www.yso.fi/onto/yso/p2722>	laatujärjestelmät	0.26665029225220743
+<http://www.yso.fi/onto/yso/p5028>	ilmanlaatu	0.18102287187679628
+<http://www.yso.fi/onto/yso/p5029>	laatu	0.18102287187679628
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1333333333333333
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.13052603165517956
+<http://www.yso.fi/onto/yso/p9610>	luominen	0.12993551940264111
+<http://www.yso.fi/onto/yso/p9815>	tietohuolto	0.058198668513845996
+<http://www.yso.fi/onto/yso/p8776>	sidosryhmät	0.04453819942520522
+<http://www.yso.fi/onto/yso/p3390>	korkea-asteen koulutus	0.041053984444586536
+<http://www.yso.fi/onto/yso/p2418>	menestyminen	0.03246595780312926
+<http://www.yso.fi/onto/yso/p25393>	laatukäsikirjat	0.031159189317233278
+<http://www.yso.fi/onto/yso/p13866>	ohjekirjat	0.031159189317233278
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.029492901183780874
+<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.029492901183780874
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.028625733839946953
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.024557299004267775
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.023384029985485354
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02139857353948988
+<http://www.yso.fi/onto/yso/p6026>	edellytykset	0.018689448361062108
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.018689448361062108
+<http://www.yso.fi/onto/yso/p14536>	vaatimukset	0.015456360669269928
+<http://www.yso.fi/onto/yso/p14978>	edistäminen	0.015456360669269928
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.01458609544649215
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.00693952370428542
+<http://www.yso.fi/onto/yso/p7563>	tutkimuslaitokset	0.00693952370428542
+<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.00693952370428542
+<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p4230>	kehittäminen	0.003410180719352827
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344

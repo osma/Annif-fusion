@@ -1,39 +1,39 @@
-<http://www.yso.fi/onto/yso/p10225>	työssäoppiminen	0.45742828282828285
-<http://www.yso.fi/onto/yso/p18173>	tutkiva oppiminen	0.39630304443031716
-<http://www.yso.fi/onto/yso/p2194>	hieroglyfit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3000>	faaraot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2193>	muumiot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18328>	egyptiläiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1321>	hakemistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18046>	kuvaamataito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18569>	pyramidit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14260>	projektityö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2851>	taide	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.08784188681228058
-<http://www.yso.fi/onto/yso/p7943>	jumalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13849>	Jumala	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1780>	historia	0.037488326524690155
-<http://www.yso.fi/onto/yso/p8571>	aloitus	0.03128476021961006
-<http://www.yso.fi/onto/yso/p626>	kuolema	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p15331>	totuus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p25710>	luokat	0.02135670516361598
-<http://www.yso.fi/onto/yso/p23303>	edut	0.020900544995290878
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.017255735394769274
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.013609942855237487
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p20691>	itsensä toteuttaminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23615>	toteutus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009807509804004308
+<http://www.yso.fi/onto/yso/p18569>	pyramidit	0.7361630299776851
+<http://www.yso.fi/onto/yso/p2193>	muumiot	0.6613682844932844
+<http://www.yso.fi/onto/yso/p18328>	egyptiläiset	0.3574759913484895
+<http://www.yso.fi/onto/yso/p3000>	faaraot	0.3449419846105079
+<http://www.yso.fi/onto/yso/p14260>	projektityö	0.3184298525611795
+<http://www.yso.fi/onto/yso/p1810>	työ	0.2687334896987644
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.2097198400426194
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.18516914836447632
+<http://www.yso.fi/onto/yso/p2851>	taide	0.15498046911919328
+<http://www.yso.fi/onto/yso/p18173>	tutkiva oppiminen	0.13273099330733307
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.11881434987007758
+<http://www.yso.fi/onto/yso/p1780>	historia	0.0661574052483819
+<http://www.yso.fi/onto/yso/p626>	kuolema	0.06317063915026194
+<http://www.yso.fi/onto/yso/p18046>	kuvaamataito	0.06070417380077551
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.05745321501846987
+<http://www.yso.fi/onto/yso/p10225>	työssäoppiminen	0.05580611067822505
+<http://www.yso.fi/onto/yso/p2194>	hieroglyfit	0.041053984444586536
+<http://www.yso.fi/onto/yso/p1321>	hakemistot	0.03964332649484531
+<http://www.yso.fi/onto/yso/p7943>	jumalat	0.03532906937794715
+<http://www.yso.fi/onto/yso/p13849>	Jumala	0.03532906937794715
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.016915386541612187
+<http://www.yso.fi/onto/yso/p23303>	edut	0.015456360669269928
+<http://www.yso.fi/onto/yso/p15331>	totuus	0.015456360669269928
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p8571>	aloitus	0.014221789257690146
+<http://www.yso.fi/onto/yso/p20691>	itsensä toteuttaminen	0.012730032654110079
+<http://www.yso.fi/onto/yso/p23615>	toteutus	0.012501778188803889
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.0036266720396362063
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.003220167974595556
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.20867438452205903
-<http://www.yso.fi/onto/yso/p10123>	antologiat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1637>	lukukirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7213>	keskikoulu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27418>	hyvästely	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14644>	isoäidit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6095>	koivu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26198>	alusten kannet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2182>	kansakoulu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12065>	mantereet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15544>	marit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1329>	tähdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26771>	painokset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.031932770969134605
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.026268860909105053
-<http://www.yso.fi/onto/yso/p18331>	toimitustyö	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19873>	editointi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.022236981861071817
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020900544995290878
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.013562839699326045
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1637>	lukukirjat	0.6997333628733566
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.6506870244215799
+<http://www.yso.fi/onto/yso/p6095>	koivu	0.4190825832504993
+<http://www.yso.fi/onto/yso/p2182>	kansakoulu	0.2724927555640962
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23622228525063121
+<http://www.yso.fi/onto/yso/p7213>	keskikoulu	0.18050324118943278
+<http://www.yso.fi/onto/yso/p1329>	tähdet	0.10775233923394542
+<http://www.yso.fi/onto/yso/p15544>	marit	0.05969285281762522
+<http://www.yso.fi/onto/yso/p26198>	alusten kannet	0.057675708271728646
+<http://www.yso.fi/onto/yso/p10123>	antologiat	0.05416316346886126
+<http://www.yso.fi/onto/yso/p27418>	hyvästely	0.04884852681122184
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.04642714107649195
+<http://www.yso.fi/onto/yso/p26771>	painokset	0.044341286810031584
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04046422057616032
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.029199506134458552
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.02544428742092007
+<http://www.yso.fi/onto/yso/p14644>	isoäidit	0.022852579080064377
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.01884128278466498
+<http://www.yso.fi/onto/yso/p12065>	mantereet	0.017671761362131014
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01420384765338491
+<http://www.yso.fi/onto/yso/p19873>	editointi	0.012850696391257414
+<http://www.yso.fi/onto/yso/p18331>	toimitustyö	0.010816097829098687
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344

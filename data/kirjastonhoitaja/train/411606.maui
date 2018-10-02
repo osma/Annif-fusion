@@ -1,24 +1,23 @@
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.4739550968757788
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.4739550968757788
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.2963030444303172
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.2963030444303172
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.25884338841005505
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.25822193362193363
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.25822193362193363
-<http://www.yso.fi/onto/yso/p5319>	koira	0.1255346168007935
-<http://www.yso.fi/onto/yso/p20858>	käsityölehdet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26274>	villapaidat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p214>	neuletyöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10616>	numerot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1047>	säilytys	0.020674481861071816
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7887>	pää	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p5319>	koira	0.6491936205727139
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.2934438535980379
+<http://www.yso.fi/onto/yso/p214>	neuletyöt	0.26086603395532515
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.22085087739235593
+<http://www.yso.fi/onto/yso/p20858>	käsityölehdet	0.17262459679251285
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.13719615365714516
+<http://www.yso.fi/onto/yso/p26274>	villapaidat	0.08814495610797461
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.083279772242596
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.069097648327023
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.06830571362043084
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.06746118707131805
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.0516268550025563
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.050998567077603155
+<http://www.yso.fi/onto/yso/p1047>	säilytys	0.04363148185821684
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.028625733839946953
+<http://www.yso.fi/onto/yso/p10616>	numerot	0.02809605999748142
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.026944378329141722
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.026414210278816193
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.02428451469545754
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0024090423010845624

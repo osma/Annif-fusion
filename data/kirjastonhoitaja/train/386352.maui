@@ -1,30 +1,29 @@
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.6740031897926635
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8776>	sidosryhmät	0.2963030444303172
-<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10185>	Internet-osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5295>	taloustieto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19968>	liiketalous	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6656>	marjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4674>	reitit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6105>	toimintaympäristö	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.04372423975345706
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p23894>	johtajat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.015429864862007283
-<http://www.yso.fi/onto/yso/p554>	johtaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8776>	sidosryhmät	0.577212327901983
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.5114205399410741
+<http://www.yso.fi/onto/yso/p6105>	toimintaympäristö	0.41358496427461944
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.21105339263275594
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1866004265720551
+<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.16499443100887143
+<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.07205782609366918
+<http://www.yso.fi/onto/yso/p19968>	liiketalous	0.06770527470518237
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.06104258809156411
+<http://www.yso.fi/onto/yso/p10184>	yliopistokirjastot	0.05513486238649527
+<http://www.yso.fi/onto/yso/p10564>	ammattikorkeakoulut	0.05423375083924302
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.03973808077753539
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.038066233951319514
+<http://www.yso.fi/onto/yso/p1030>	korkeakoulut	0.033688630679592595
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02993270460940573
+<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.027646434116985447
+<http://www.yso.fi/onto/yso/p5295>	taloustieto	0.027566556489484285
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.026121121743941007
+<http://www.yso.fi/onto/yso/p4674>	reitit	0.023790103224025964
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p23894>	johtajat	0.01737749302379358
+<http://www.yso.fi/onto/yso/p10185>	Internet-osoitteet	0.015330319521691296
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.012501778188803889
+<http://www.yso.fi/onto/yso/p18417>	teknilliset korkeakoulut	0.012323528589069429
+<http://www.yso.fi/onto/yso/p554>	johtaminen	0.008821926792945722
+<http://www.yso.fi/onto/yso/p6656>	marjat	0.008821926792945722
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0032143653651324315

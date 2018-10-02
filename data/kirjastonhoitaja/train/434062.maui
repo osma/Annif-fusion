@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.2580717834717835
-<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.13208292111928477
-<http://www.yso.fi/onto/yso/p29547>	etsivätoimistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27895>	lukudiplomit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5086>	salapoliisikirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5087>	jännityskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17774>	jännityselokuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11041>	korvet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1040>	sankarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19780>	juoni	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12459>	syvyys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9344>	koodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7637>	suositukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.10884338841005506
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.08817829223255524
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.020674481861071816
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.020674481861071816
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.01468041649685237
+<http://www.yso.fi/onto/yso/p7637>	suositukset	0.8356472624820046
+<http://www.yso.fi/onto/yso/p5087>	jännityskirjallisuus	0.45203920546853454
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.34537268746840477
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.23245694304623427
+<http://www.yso.fi/onto/yso/p9344>	koodit	0.22567513394446737
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.21737997526460937
+<http://www.yso.fi/onto/yso/p29547>	etsivätoimistot	0.18504796456039543
+<http://www.yso.fi/onto/yso/p5086>	salapoliisikirjallisuus	0.17105129998525337
+<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.1237595249837091
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.1110113510817082
+<http://www.yso.fi/onto/yso/p17774>	jännityselokuvat	0.10907025335747796
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.0931638785927142
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.08588163710186932
+<http://www.yso.fi/onto/yso/p19780>	juoni	0.06820607481333137
+<http://www.yso.fi/onto/yso/p27895>	lukudiplomit	0.0651192947085337
+<http://www.yso.fi/onto/yso/p12459>	syvyys	0.0651192947085337
+<http://www.yso.fi/onto/yso/p11041>	korvet	0.0651192947085337
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05737307647361058
+<http://www.yso.fi/onto/yso/p1040>	sankarit	0.029078553244512566
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.02693773014806567
+<http://www.yso.fi/onto/yso/p556>	kielet	0.02693773014806567
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.016525630284566075
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.013598929221280878
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0032143653651324315

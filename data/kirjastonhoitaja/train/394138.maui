@@ -1,40 +1,40 @@
-<http://www.yso.fi/onto/yso/p1650>	varhaiskasvatus	0.45742828282828285
-<http://www.yso.fi/onto/yso/p566>	ilmaisutaito	0.43286411547737264
-<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.3296363777636505
-<http://www.yso.fi/onto/yso/p7642>	kerhot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p6640>	videolaitteet	0.15628927032563394
-<http://www.yso.fi/onto/yso/p8368>	video	0.15628927032563394
-<http://www.yso.fi/onto/yso/p5696>	kuvanauhurit	0.15628927032563394
-<http://www.yso.fi/onto/yso/p12886>	luovuuskasvatus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11844>	ilmaisukasvatus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p561>	suullinen ilmaisu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14154>	loppusointu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20272>	esiopetus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17229>	näytelmäkirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13335>	harjoitukset	0.10867438452205902
-<http://www.yso.fi/onto/yso/p4064>	vapaus	0.09859943763580127
-<http://www.yso.fi/onto/yso/p18474>	vapauden aika	0.09859943763580127
-<http://www.yso.fi/onto/yso/p5000>	näytelmät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26661>	sirkat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2420>	ilo	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.056783130619117585
-<http://www.yso.fi/onto/yso/p9749>	lahdet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p5223>	suu	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2851>	taide	0.04760000435676974
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.031932770969134605
-<http://www.yso.fi/onto/yso/p10737>	rohkeus	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5270>	avaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4008>	vartalo	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4005>	ruumis	0.02558663760656089
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12705>	ohjaajat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p5798>	taidot	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020068421255011213
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
+<http://www.yso.fi/onto/yso/p11844>	ilmaisukasvatus	0.8979469193974442
+<http://www.yso.fi/onto/yso/p566>	ilmaisutaito	0.7525419982316535
+<http://www.yso.fi/onto/yso/p5457>	taidekasvatus	0.3069341968878662
+<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.29252704659681406
+<http://www.yso.fi/onto/yso/p12886>	luovuuskasvatus	0.2757370699475962
+<http://www.yso.fi/onto/yso/p13335>	harjoitukset	0.23181533275366
+<http://www.yso.fi/onto/yso/p561>	suullinen ilmaisu	0.23030020703933748
+<http://www.yso.fi/onto/yso/p4005>	ruumis	0.14623427632869562
+<http://www.yso.fi/onto/yso/p20272>	esiopetus	0.1411459354887751
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.1230336547969014
+<http://www.yso.fi/onto/yso/p1650>	varhaiskasvatus	0.11498638069596581
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.11012147669756948
+<http://www.yso.fi/onto/yso/p2420>	ilo	0.09525447944423382
+<http://www.yso.fi/onto/yso/p17229>	näytelmäkirjallisuus	0.06595102027792762
+<http://www.yso.fi/onto/yso/p4008>	vartalo	0.06446489121007015
+<http://www.yso.fi/onto/yso/p10737>	rohkeus	0.05149710922347234
+<http://www.yso.fi/onto/yso/p4064>	vapaus	0.04439615313855905
+<http://www.yso.fi/onto/yso/p18474>	vapauden aika	0.04439615313855905
+<http://www.yso.fi/onto/yso/p12705>	ohjaajat	0.04382941981739003
+<http://www.yso.fi/onto/yso/p7642>	kerhot	0.04088360833569167
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.036508473666439355
+<http://www.yso.fi/onto/yso/p5000>	näytelmät	0.03621354059561318
+<http://www.yso.fi/onto/yso/p8368>	video	0.033688630679592595
+<http://www.yso.fi/onto/yso/p6640>	videolaitteet	0.03242038315413507
+<http://www.yso.fi/onto/yso/p5696>	kuvanauhurit	0.03242038315413507
+<http://www.yso.fi/onto/yso/p14154>	loppusointu	0.027566556489484285
+<http://www.yso.fi/onto/yso/p2851>	taide	0.025357612209131027
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.025357612209131027
+<http://www.yso.fi/onto/yso/p5223>	suu	0.024872649038549882
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.023759610027220237
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.021840989103965362
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021138811997436724
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p5270>	avaimet	0.01522810620396374
+<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.01522810620396374
+<http://www.yso.fi/onto/yso/p26661>	sirkat	0.01279675502789418
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.00758153446175701
+<http://www.yso.fi/onto/yso/p9749>	lahdet	0.007286557622666718
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344

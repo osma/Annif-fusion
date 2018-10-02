@@ -1,31 +1,31 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p27976>	aikuiset lapset	0.1459471117947863
-<http://www.yso.fi/onto/yso/p18920>	yksityiskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1329>	tähdet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.022919205163615976
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020900544995290878
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.015256256150081023
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.5386928991406603
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.49811752658052466
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.2393600499844101
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23621677728287546
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.1769133831336153
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1333333333333333
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.06724473944104764
+<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.058894276531904446
+<http://www.yso.fi/onto/yso/p18920>	yksityiskirjastot	0.040971068444362616
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.0383640030305124
+<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.03621354059561318
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.029269006405411413
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.023970825337160037
+<http://www.yso.fi/onto/yso/p556>	kielet	0.023844094573973
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p27976>	aikuiset lapset	0.020557015532233786
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.00850547109674319
+<http://www.yso.fi/onto/yso/p1329>	tähdet	0.00758153446175701
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

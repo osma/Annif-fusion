@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.4260459336591908
-<http://www.yso.fi/onto/yso/p24644>	runot	0.22963637776365053
-<http://www.yso.fi/onto/yso/p24168>	pitkospuut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14803>	elämänfilosofia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15630>	aforismit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3167>	elämäntaito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13026>	syntymä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4692>	hiljaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18305>	sitaatit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19621>	varjot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3706>	kävely	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13757>	jalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p626>	kuolema	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12380>	intialaiset	0.10867438452205902
-<http://www.yso.fi/onto/yso/p3490>	runoilijat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p17808>	menetys	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9658>	toivo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p9993>	nostaminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p13197>	syvänteet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.018368327789349364
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.018368327789349364
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.016171337988124073
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016171337988124073
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.013609942855237487
+<http://www.yso.fi/onto/yso/p24644>	runot	0.625
+<http://www.yso.fi/onto/yso/p626>	kuolema	0.5105483368849706
+<http://www.yso.fi/onto/yso/p13026>	syntymä	0.5020375809546317
+<http://www.yso.fi/onto/yso/p18305>	sitaatit	0.4897673599731573
+<http://www.yso.fi/onto/yso/p3167>	elämäntaito	0.3570865497546959
+<http://www.yso.fi/onto/yso/p3706>	kävely	0.330370914287965
+<http://www.yso.fi/onto/yso/p15630>	aforismit	0.2563023455816844
+<http://www.yso.fi/onto/yso/p9993>	nostaminen	0.23181533275366
+<http://www.yso.fi/onto/yso/p3490>	runoilijat	0.22566993473859576
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.17518853639421586
+<http://www.yso.fi/onto/yso/p14803>	elämänfilosofia	0.1712931493950646
+<http://www.yso.fi/onto/yso/p4692>	hiljaisuus	0.1473172578206308
+<http://www.yso.fi/onto/yso/p19621>	varjot	0.13670432552434175
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.107130887242827
+<http://www.yso.fi/onto/yso/p12380>	intialaiset	0.10523930910724215
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.07288519437157634
+<http://www.yso.fi/onto/yso/p13757>	jalat	0.065406373075546
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.06389882193723594
+<http://www.yso.fi/onto/yso/p24168>	pitkospuut	0.061119739441047635
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04046422057616032
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p17808>	menetys	0.017560939270734814
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.016915386541612187
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016915386541612187
+<http://www.yso.fi/onto/yso/p13197>	syvänteet	0.012904923937906636
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p1382>	laskeminen	0.00758153446175701
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.00693952370428542
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344

@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p10695>	tatuointi	0.4510459336591908
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p25282>	kirjoitusmerkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17318>	kiinan kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5449>	fraasit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16349>	käännökset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11099>	riskit	0.09424283744586774
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.025713305353549494
-<http://www.yso.fi/onto/yso/p556>	kielet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p148>	virheet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02503108205100534
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.020900544995290878
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.020900544995290878
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p810>	kädet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016171337988124073
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p10695>	tatuointi	0.7694963633110184
+<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.7669625799037563
+<http://www.yso.fi/onto/yso/p16349>	käännökset	0.4781555417611977
+<http://www.yso.fi/onto/yso/p5449>	fraasit	0.4391594222307629
+<http://www.yso.fi/onto/yso/p17318>	kiinan kieli	0.41415942223076285
+<http://www.yso.fi/onto/yso/p556>	kielet	0.237962962962963
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.19224953976900586
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.19224953976900586
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.1193609743644904
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.11046422057616032
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.061119739441047635
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.05849490218113418
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.03618386379965921
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p25282>	kirjoitusmerkit	0.022287050609925484
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.020167936687516128
+<http://www.yso.fi/onto/yso/p11099>	riskit	0.017671761362131014
+<http://www.yso.fi/onto/yso/p148>	virheet	0.017671761362131014
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.015295891026549718
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.012971785380352591
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.00758153446175701
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.0023568307697949364

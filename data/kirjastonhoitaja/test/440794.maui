@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.22963637776365053
-<http://www.yso.fi/onto/yso/p27987>	keräilykortit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5613>	vähittäiskauppiaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p28348>	paahtaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1555>	kauppakoulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14365>	paahtimot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4277>	kahvi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p10910>	yksityiselämä	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10580>	työnantajat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1393>	järjestöt	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p9214>	väheneminen	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.015429864862007283
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.015256256150081023
-<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.013867364862007283
-<http://www.yso.fi/onto/yso/p17691>	tuli	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p1149>	kuvat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1424>	määrä	0.00984824300156032
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p4277>	kahvi	0.602145172834828
+<http://www.yso.fi/onto/yso/p14365>	paahtimot	0.5392857142857143
+<http://www.yso.fi/onto/yso/p28348>	paahtaminen	0.3325600205502993
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3277553578890365
+<http://www.yso.fi/onto/yso/p1780>	historia	0.1322175852002694
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.12724936990222202
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1555>	kauppakoulut	0.09144481467562181
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.069097648327023
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.04973254364867807
+<http://www.yso.fi/onto/yso/p27987>	keräilykortit	0.048216686214935224
+<http://www.yso.fi/onto/yso/p5613>	vähittäiskauppiaat	0.048216686214935224
+<http://www.yso.fi/onto/yso/p10580>	työnantajat	0.047841562437842974
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04111357122551097
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.0389427067342161
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.031135886539651686
+<http://www.yso.fi/onto/yso/p1393>	järjestöt	0.024181727804547068
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02383695492417378
+<http://www.yso.fi/onto/yso/p1810>	työ	0.023610097100620644
+<http://www.yso.fi/onto/yso/p10910>	yksityiselämä	0.022287050609925484
+<http://www.yso.fi/onto/yso/p9214>	väheneminen	0.022287050609925484
+<http://www.yso.fi/onto/yso/p1149>	kuvat	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.016138011629698818
+<http://www.yso.fi/onto/yso/p261>	tieto	0.013760307108205378
+<http://www.yso.fi/onto/yso/p21558>	jatkaminen	0.008450291946008338
+<http://www.yso.fi/onto/yso/p1424>	määrä	0.00803154202897386
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.004753907863392784
+<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p17691>	tuli	0.0033700073884787344

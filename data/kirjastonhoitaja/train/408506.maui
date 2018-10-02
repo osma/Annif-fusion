@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.22963637776365053
-<http://www.yso.fi/onto/yso/p13053>	nimikirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15747>	etunimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1333>	sukunimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18426>	alkuperä	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10730>	ainut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p21856>	nimeäminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p23303>	edut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.016931513882039787
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2871>	synty	0.016931513882039787
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.010846134817405319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
+<http://www.yso.fi/onto/yso/p1333>	sukunimet	0.7361014760823383
+<http://www.yso.fi/onto/yso/p15747>	etunimet	0.7274740251019461
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.1983159211420139
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.1559481688924445
+<http://www.yso.fi/onto/yso/p18426>	alkuperä	0.10962339705583983
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p13053>	nimikirjat	0.07109720096641413
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p1780>	historia	0.03026664724933146
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02418559971194599
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.021762145515279756
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p23303>	edut	0.020098299935903514
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.00939385499440685
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p10730>	ainut	0.004178634428269678
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21856>	nimeäminen	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0025128844610014882

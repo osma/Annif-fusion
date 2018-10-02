@@ -1,47 +1,47 @@
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.36652564745196325
-<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.29814835953520163
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.29076161616161617
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p3574>	raha	0.1446042801831977
-<http://www.yso.fi/onto/yso/p10074>	rahat	0.1446042801831977
-<http://www.yso.fi/onto/yso/p14420>	kirjastolautakunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13375>	kulttuurilautakunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10089>	kaupunginhallitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11251>	asukkaat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.09424283744586774
-<http://www.yso.fi/onto/yso/p3100>	lautakunnat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4679>	helsinkiläiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2685>	verot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p15009>	virastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8743>	päätöksenteko	0.027576170779201083
-<http://www.yso.fi/onto/yso/p1313>	maksut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6784>	talvi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26009>	laadinta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2555>	talous	0.020674481861071816
-<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.020674481861071816
-<http://www.yso.fi/onto/yso/p12225>	keskiarvot	0.020674481861071816
-<http://www.yso.fi/onto/yso/p10616>	numerot	0.020674481861071816
-<http://www.yso.fi/onto/yso/p17453>	kevät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.016931513882039787
-<http://www.yso.fi/onto/yso/p941>	tulot	0.016542457256587376
-<http://www.yso.fi/onto/yso/p15328>	toiveet	0.016171337988124073
-<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.014979957256587375
-<http://www.yso.fi/onto/yso/p4549>	käsittely	0.013609942855237487
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.01021860044962966
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009885311013486497
-<http://www.yso.fi/onto/yso/p6881>	lisäys	0.009885311013486497
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009885311013486497
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.6268009768009768
+<http://www.yso.fi/onto/yso/p3574>	raha	0.574329597343296
+<http://www.yso.fi/onto/yso/p10074>	rahat	0.574329597343296
+<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.22862992787291922
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.18717391413741133
+<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.1495953912451073
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.12598039215686274
+<http://www.yso.fi/onto/yso/p10089>	kaupunginhallitukset	0.04388776439796282
+<http://www.yso.fi/onto/yso/p13375>	kulttuurilautakunnat	0.04388776439796282
+<http://www.yso.fi/onto/yso/p14420>	kirjastolautakunnat	0.04388776439796282
+<http://www.yso.fi/onto/yso/p15009>	virastot	0.04127167879362608
+<http://www.yso.fi/onto/yso/p3100>	lautakunnat	0.031656177777664087
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02972248144219483
+<http://www.yso.fi/onto/yso/p1313>	maksut	0.025357612209131027
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.024832949035427078
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.024181727804547068
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2685>	verot	0.020295233602675242
+<http://www.yso.fi/onto/yso/p12225>	keskiarvot	0.02015056670854839
+<http://www.yso.fi/onto/yso/p8743>	päätöksenteko	0.02015056670854839
+<http://www.yso.fi/onto/yso/p4679>	helsinkiläiset	0.019534785706249457
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p2555>	talous	0.017686663991057963
+<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.017686663991057963
+<http://www.yso.fi/onto/yso/p11251>	asukkaat	0.017378268161780144
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01732313604208111
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01732313604208111
+<http://www.yso.fi/onto/yso/p10616>	numerot	0.01614528748856063
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.013098663637288534
+<http://www.yso.fi/onto/yso/p15328>	toiveet	0.012870409171982348
+<http://www.yso.fi/onto/yso/p6784>	talvi	0.011960437751189625
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.011485208033270102
+<http://www.yso.fi/onto/yso/p17453>	kevät	0.011438099084399644
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.008661113120089494
+<http://www.yso.fi/onto/yso/p941>	tulot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p6881>	lisäys	0.00693952370428542
+<http://www.yso.fi/onto/yso/p4549>	käsittely	0.006734605671498535
+<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.006623068008082889
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.5568222222222221
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.43189835928712633
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.43189835928712633
-<http://www.yso.fi/onto/yso/p1308>	laitoshoito	0.32903031715758985
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.25822193362193363
-<http://www.yso.fi/onto/yso/p10886>	päihteet	0.1546363777636505
-<http://www.yso.fi/onto/yso/p11867>	selviytyminen	0.12473845013845013
-<http://www.yso.fi/onto/yso/p16587>	lastenkodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24851>	itsenäinen selviytyminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3284>	jälkihuolto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14132>	koulukodit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2291>	huostaanotto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26222>	siivet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16230>	lentäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23014>	polut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.09424283744586774
-<http://www.yso.fi/onto/yso/p3101>	toimistot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.03029400569400569
-<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10888>	jäljet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p27027>	toteutuminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010837656613212683
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.7564568333964886
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.5691222259114505
+<http://www.yso.fi/onto/yso/p14132>	koulukodit	0.49992507492507493
+<http://www.yso.fi/onto/yso/p1308>	laitoshoito	0.4065027003357174
+<http://www.yso.fi/onto/yso/p3284>	jälkihuolto	0.22668474661739318
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.20387147669756947
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.15308834718844533
+<http://www.yso.fi/onto/yso/p2291>	huostaanotto	0.14212648272839795
+<http://www.yso.fi/onto/yso/p16587>	lastenkodit	0.10692638376144674
+<http://www.yso.fi/onto/yso/p16230>	lentäminen	0.10010097749887428
+<http://www.yso.fi/onto/yso/p23014>	polut	0.07840517323416644
+<http://www.yso.fi/onto/yso/p11867>	selviytyminen	0.05405387719808903
+<http://www.yso.fi/onto/yso/p24851>	itsenäinen selviytyminen	0.0532786942541591
+<http://www.yso.fi/onto/yso/p10886>	päihteet	0.04088360833569167
+<http://www.yso.fi/onto/yso/p10888>	jäljet	0.03519303298609705
+<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.029269006405411413
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.026663700090801684
+<http://www.yso.fi/onto/yso/p261>	tieto	0.026070033416934018
+<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.02298520420354646
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.017671761362131014
+<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.014022084635272608
+<http://www.yso.fi/onto/yso/p27027>	toteutuminen	0.011363662527052445
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.011363662527052445
+<http://www.yso.fi/onto/yso/p3101>	toimistot	0.010662220404880522
+<http://www.yso.fi/onto/yso/p26222>	siivet	0.010662220404880522
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010343238979732609
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.00758153446175701
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0032143653651324315

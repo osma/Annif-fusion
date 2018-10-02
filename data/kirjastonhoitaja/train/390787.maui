@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17078>	noitavainot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2088>	noidat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11834>	paholainen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1500>	oikeuslaitos	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9063>	oikeudenkäynti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5414>	synti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2576>	pöytäkirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5069>	murha	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7275>	helvetti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2008>	palkat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p626>	kuolema	0.05771181767713922
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.04760000435676974
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.03029400569400569
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.03029400569400569
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.016931513882039787
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.01468041649685237
+<http://www.yso.fi/onto/yso/p9063>	oikeudenkäynti	0.8421245421245421
+<http://www.yso.fi/onto/yso/p17078>	noitavainot	0.6752571733821734
+<http://www.yso.fi/onto/yso/p2088>	noidat	0.3197537156519112
+<http://www.yso.fi/onto/yso/p2008>	palkat	0.27987096632576564
+<http://www.yso.fi/onto/yso/p2576>	pöytäkirjat	0.2008425101944776
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.11469368918964822
+<http://www.yso.fi/onto/yso/p626>	kuolema	0.08980253405489906
+<http://www.yso.fi/onto/yso/p1500>	oikeuslaitos	0.06825782284706182
+<http://www.yso.fi/onto/yso/p11834>	paholainen	0.0651192947085337
+<http://www.yso.fi/onto/yso/p7275>	helvetti	0.0651192947085337
+<http://www.yso.fi/onto/yso/p5414>	synti	0.0651192947085337
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.050998567077603155
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.04281080988801531
+<http://www.yso.fi/onto/yso/p5069>	murha	0.03657816233055672
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.034369392349277605
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.032669380642913574
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.02481462359935813
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01271261123809091
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.003220167974595556
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0032143653651324315

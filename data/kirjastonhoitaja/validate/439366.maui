@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p544>	häiriöt	0.22295593699230065
-<http://www.yso.fi/onto/yso/p8527>	diktatuuri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9359>	naisnäkökulma	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19429>	klassikot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15786>	vallankumoukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24506>	harhat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1210>	tiet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p22292>	sijoittuminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.01468041649685237
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.013562839699326045
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7887>	pää	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.011003195540315773
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p18849>	ihminen	0.00984824300156032
-<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.00984824300156032
+<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.5058396178984415
+<http://www.yso.fi/onto/yso/p9359>	naisnäkökulma	0.40212469133521767
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3508666373214366
+<http://www.yso.fi/onto/yso/p5977>	matkakertomukset	0.2091934425916381
+<http://www.yso.fi/onto/yso/p8527>	diktatuuri	0.1771321934714873
+<http://www.yso.fi/onto/yso/p19429>	klassikot	0.1426436506145984
+<http://www.yso.fi/onto/yso/p8111>	muistelmat	0.0755983490229818
+<http://www.yso.fi/onto/yso/p544>	häiriöt	0.07263269202437757
+<http://www.yso.fi/onto/yso/p15786>	vallankumoukset	0.07047808820765081
+<http://www.yso.fi/onto/yso/p24506>	harhat	0.06825782284706182
+<http://www.yso.fi/onto/yso/p1210>	tiet	0.04913569337296369
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p18849>	ihminen	0.02544428742092007
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.02544428742092007
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.021651129979441946
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.00939385499440685
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p22292>	sijoittuminen	0.006095906735033247
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.005740728519481565
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.003220167974595556
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846

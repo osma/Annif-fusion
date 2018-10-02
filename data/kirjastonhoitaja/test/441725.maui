@@ -1,22 +1,22 @@
-<http://www.yso.fi/onto/yso/p7641>	kerhotoiminta	0.3296363777636505
-<http://www.yso.fi/onto/yso/p1232>	mainonta	0.22130304443031718
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.20867438452205903
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.12619323133007346
-<http://www.yso.fi/onto/yso/p18070>	sello	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11518>	happi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.1091598441062576
-<http://www.yso.fi/onto/yso/p1236>	palaute	0.09859943763580127
-<http://www.yso.fi/onto/yso/p13936>	ilta	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6062>	pelit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p15328>	toiveet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p13419>	sitoutuminen	0.031932770969134605
-<http://www.yso.fi/onto/yso/p9391>	periaatteet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p562>	esittäminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p434>	muu rooli	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011410743001560319
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.49879911487742035
+<http://www.yso.fi/onto/yso/p7641>	kerhotoiminta	0.26086603395532515
+<http://www.yso.fi/onto/yso/p11518>	happi	0.15359846076808287
+<http://www.yso.fi/onto/yso/p6062>	pelit	0.1426436506145984
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.09442067669651488
+<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.08331221587119762
+<http://www.yso.fi/onto/yso/p1232>	mainonta	0.07458356875165187
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.07419181265536752
+<http://www.yso.fi/onto/yso/p13419>	sitoutuminen	0.0651192947085337
+<http://www.yso.fi/onto/yso/p562>	esittäminen	0.062220381710403075
+<http://www.yso.fi/onto/yso/p15328>	toiveet	0.06079641920623948
+<http://www.yso.fi/onto/yso/p18070>	sello	0.05588424008007764
+<http://www.yso.fi/onto/yso/p434>	muu rooli	0.051120553347633706
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04239014650208626
+<http://www.yso.fi/onto/yso/p1236>	palaute	0.026691159069421173
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p13936>	ilta	0.00939385499440685
+<http://www.yso.fi/onto/yso/p9391>	periaatteet	0.005689402669992597
+<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.004178634428269678
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0025128844610014882

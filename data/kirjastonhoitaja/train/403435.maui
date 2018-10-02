@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.22130304443031718
-<http://www.yso.fi/onto/yso/p17963>	suru	0.12670869524759923
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.12582651077292428
-<http://www.yso.fi/onto/yso/p15047>	kätkytkuolema	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1994>	perhoset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18664>	enkelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p339>	toipuminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.10867438452205902
-<http://www.yso.fi/onto/yso/p12279>	äidit	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.09859943763580127
-<http://www.yso.fi/onto/yso/p12790>	kaipaus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16175>	laaksot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p200>	vainajat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p17808>	menetys	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p626>	kuolema	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2606>	unohtaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.014566734116091506
-<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.013117916496852369
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.011397064632636261
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p17963>	suru	0.6385178581099777
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.4699049666200713
+<http://www.yso.fi/onto/yso/p626>	kuolema	0.27346087335306674
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23621677728287546
+<http://www.yso.fi/onto/yso/p15047>	kätkytkuolema	0.17144478215908476
+<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.07563643266069248
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.06716108776824133
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.06206369360220583
+<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.056226432909409804
+<http://www.yso.fi/onto/yso/p16175>	laaksot	0.048617972154211764
+<http://www.yso.fi/onto/yso/p1994>	perhoset	0.04246485394719604
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.03766888879803672
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.03170010443173127
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p339>	toipuminen	0.027566556489484285
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.025603709478054383
+<http://www.yso.fi/onto/yso/p12279>	äidit	0.024181727804547068
+<http://www.yso.fi/onto/yso/p17808>	menetys	0.023009002793664645
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.022351943743884044
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p12790>	kaipaus	0.017671761362131014
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p18664>	enkelit	0.01557433527124088
+<http://www.yso.fi/onto/yso/p2606>	unohtaminen	0.013708279088536479
+<http://www.yso.fi/onto/yso/p200>	vainajat	0.012850696391257414
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.006806061443309639
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344

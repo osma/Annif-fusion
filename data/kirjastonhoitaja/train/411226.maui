@@ -1,38 +1,38 @@
-<http://www.yso.fi/onto/yso/p3286>	sosiaalityö	0.45742828282828285
-<http://www.yso.fi/onto/yso/p297>	työnohjaus	0.2963030444303172
-<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.2963030444303172
-<http://www.yso.fi/onto/yso/p135>	jaksaminen	0.2963030444303172
-<http://www.yso.fi/onto/yso/p16262>	työelämä	0.25884338841005505
-<http://www.yso.fi/onto/yso/p29480>	koniini	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5198>	frankit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27888>	terveydenhuollon sosiaalityö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.108351758070098
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.09249317743959094
-<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.056783130619117585
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10561>	tulostimet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p24607>	tulostus	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.010846134817405319
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5396>	tulokset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009807509804004308
+<http://www.yso.fi/onto/yso/p3286>	sosiaalityö	0.7432051282051282
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.5479709291869002
+<http://www.yso.fi/onto/yso/p27888>	terveydenhuollon sosiaalityö	0.44424852699700573
+<http://www.yso.fi/onto/yso/p135>	jaksaminen	0.4200928656352249
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.4128330450172129
+<http://www.yso.fi/onto/yso/p297>	työnohjaus	0.355955334987593
+<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.2795964044885979
+<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.1699922531899276
+<http://www.yso.fi/onto/yso/p1810>	työ	0.16109667665485322
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.13382633177444497
+<http://www.yso.fi/onto/yso/p3580>	haku	0.07964210598024463
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.07398899106818786
+<http://www.yso.fi/onto/yso/p16262>	työelämä	0.051645505567101624
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.04711465553948197
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.04688093792039253
+<http://www.yso.fi/onto/yso/p29480>	koniini	0.04391079575170591
+<http://www.yso.fi/onto/yso/p5198>	frankit	0.03333972208146156
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.030526031655179586
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.026414210278816193
+<http://www.yso.fi/onto/yso/p8450>	tietopalvelu	0.02588960286682617
+<http://www.yso.fi/onto/yso/p11614>	väitöskirjat	0.024557299004267775
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.0217819870376838
+<http://www.yso.fi/onto/yso/p7114>	maakuntakirjastot	0.021022745991044207
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10561>	tulostimet	0.01578654018484179
+<http://www.yso.fi/onto/yso/p24607>	tulostus	0.006734605671498535
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.005207597783700791
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.005207597783700791
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5396>	tulokset	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0011111111111111111

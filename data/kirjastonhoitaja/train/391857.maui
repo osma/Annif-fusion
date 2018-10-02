@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p357>	kaupunginosat	0.39630304443031716
-<http://www.yso.fi/onto/yso/p8063>	Suomenlinna	0.20867438452205903
-<http://www.yso.fi/onto/yso/p28892>	merilinnoitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26642>	sotamuseot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7337>	varuskunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12234>	videokasetit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18932>	rakennusala	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16596>	matkailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7125>	tuuli	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6784>	talvi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19141>	seurat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.037488326524690155
-<http://www.yso.fi/onto/yso/p1780>	historia	0.037488326524690155
-<http://www.yso.fi/onto/yso/p7886>	kasvot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p8195>	kesä	0.02558663760656089
-<http://www.yso.fi/onto/yso/p261>	tieto	0.014116173637996826
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8063>	Suomenlinna	0.7841538461538462
+<http://www.yso.fi/onto/yso/p357>	kaupunginosat	0.4256503595220469
+<http://www.yso.fi/onto/yso/p12234>	videokasetit	0.24530621046359807
+<http://www.yso.fi/onto/yso/p9575>	ensimmäinen maailmansota	0.19986221212236255
+<http://www.yso.fi/onto/yso/p8900>	toinen maailmansota	0.19986221212236255
+<http://www.yso.fi/onto/yso/p1780>	historia	0.1853354874401627
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.11993846844987906
+<http://www.yso.fi/onto/yso/p7337>	varuskunnat	0.06724473944104764
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.0472659257609597
+<http://www.yso.fi/onto/yso/p28892>	merilinnoitukset	0.0456659887752839
+<http://www.yso.fi/onto/yso/p18932>	rakennusala	0.04088360833569167
+<http://www.yso.fi/onto/yso/p16596>	matkailijat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p7125>	tuuli	0.028843373381154745
+<http://www.yso.fi/onto/yso/p261>	tieto	0.026070033416934018
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.024181727804547068
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.023610097100620644
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.0226344402261431
+<http://www.yso.fi/onto/yso/p6784>	talvi	0.018362621147940267
+<http://www.yso.fi/onto/yso/p26642>	sotamuseot	0.017671761362131014
+<http://www.yso.fi/onto/yso/p8195>	kesä	0.014022084635272608
+<http://www.yso.fi/onto/yso/p7886>	kasvot	0.013708279088536479
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19141>	seurat	0.0030029582837016546

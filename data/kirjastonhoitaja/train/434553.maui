@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p28138>	liikkuvat palvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27170>	diplomityöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3145>	lähipalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1284>	peruspalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10872>	viestintätekniikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26128>	hyvinvointipalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.1092804451281196
-<http://www.yso.fi/onto/yso/p252>	liikkuvuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p22817>	teemahaastattelut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.0241023949929837
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.014411063956561285
-<http://www.yso.fi/onto/yso/p434>	muu rooli	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.011419221205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.010846134817405319
-<http://www.yso.fi/onto/yso/p15063>	tee	0.010846134817405319
-<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00984824300156032
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00984824300156032
+<http://www.yso.fi/onto/yso/p26128>	hyvinvointipalvelut	0.8921997929606625
+<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.7063682844932845
+<http://www.yso.fi/onto/yso/p3145>	lähipalvelut	0.5137912087912089
+<http://www.yso.fi/onto/yso/p1284>	peruspalvelut	0.4280769230769231
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.2761141923181524
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.2009774255809978
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.16467124794579427
+<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.12499334946063252
+<http://www.yso.fi/onto/yso/p252>	liikkuvuus	0.10907025335747796
+<http://www.yso.fi/onto/yso/p22817>	teemahaastattelut	0.09329819323789212
+<http://www.yso.fi/onto/yso/p28138>	liikkuvat palvelut	0.0789798877750457
+<http://www.yso.fi/onto/yso/p27170>	diplomityöt	0.06779497449188729
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.06734900936846018
+<http://www.yso.fi/onto/yso/p434>	muu rooli	0.06697612634606384
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.044341286810031584
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p10872>	viestintätekniikka	0.032991466038282014
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.019748585805515338
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.004368647173026948
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p15063>	tee	0.003006254758466846

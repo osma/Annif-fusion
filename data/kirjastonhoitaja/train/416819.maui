@@ -1,34 +1,34 @@
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.25884338841005505
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.12117522014561392
-<http://www.yso.fi/onto/yso/p19220>	arkkitehtuurikilpailut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11004>	britit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8025>	arkkitehtuuri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p17044>	professorit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p25710>	luokat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.015429864862007283
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.014411063956561285
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6083286240440846
+<http://www.yso.fi/onto/yso/p8025>	arkkitehtuuri	0.49143475147940585
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.30554936450201453
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.2199702590612357
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.12483172299301867
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.07711889856259871
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.06666666666666667
+<http://www.yso.fi/onto/yso/p19220>	arkkitehtuurikilpailut	0.0511787052145483
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.04540041762478891
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.04325556474194673
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.03973808077753539
+<http://www.yso.fi/onto/yso/p11004>	britit	0.029127088883985942
+<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020432430715381766
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.017494941302170077
+<http://www.yso.fi/onto/yso/p17044>	professorit	0.01701689306377159
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010343238979732609
+<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.009648901033661419
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p3989>	kansainvälinen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

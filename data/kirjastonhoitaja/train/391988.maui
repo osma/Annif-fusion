@@ -1,42 +1,42 @@
-<http://www.yso.fi/onto/yso/p7037>	perinne	0.1446042801831977
-<http://www.yso.fi/onto/yso/p8477>	traditio	0.1446042801831977
-<http://www.yso.fi/onto/yso/p11669>	nimipäivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5554>	joulukuuset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3289>	merkkipäivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3245>	sortovuodet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3676>	itsenäisyyspäivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4797>	kuninkaalliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20057>	merkkihenkilöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9668>	keisarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3191>	poltto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17133>	ikkunat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3572>	kynttilät	0.10867438452205902
-<http://www.yso.fi/onto/yso/p3001>	hallitsijat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p23152>	viholliset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3236>	peitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1974>	palaminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9649>	lukijat	0.037488326524690155
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.03652015502415643
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.031932770969134605
-<http://www.yso.fi/onto/yso/p2871>	synty	0.030890487504586655
-<http://www.yso.fi/onto/yso/p8173>	miehet	0.026097303765757474
-<http://www.yso.fi/onto/yso/p10280>	sattuma	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21206>	uhat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11543>	hyvä tapa	0.020674481861071816
-<http://www.yso.fi/onto/yso/p23819>	tappaminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02049329833111794
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.013609942855237487
-<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.011419221205752953
-<http://www.yso.fi/onto/yso/p19450>	päivä	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3572>	kynttilät	0.8079882209293974
+<http://www.yso.fi/onto/yso/p7037>	perinne	0.6359841954859851
+<http://www.yso.fi/onto/yso/p17133>	ikkunat	0.5480409165838325
+<http://www.yso.fi/onto/yso/p8477>	traditio	0.4608645782611047
+<http://www.yso.fi/onto/yso/p3191>	poltto	0.42555713608345186
+<http://www.yso.fi/onto/yso/p3289>	merkkipäivät	0.2630803043496542
+<http://www.yso.fi/onto/yso/p11669>	nimipäivät	0.2614490526372651
+<http://www.yso.fi/onto/yso/p9668>	keisarit	0.20952093878370173
+<http://www.yso.fi/onto/yso/p20057>	merkkihenkilöt	0.1766027208899455
+<http://www.yso.fi/onto/yso/p3245>	sortovuodet	0.1360087429250176
+<http://www.yso.fi/onto/yso/p3001>	hallitsijat	0.13357810131669753
+<http://www.yso.fi/onto/yso/p3676>	itsenäisyyspäivät	0.11577223434892503
+<http://www.yso.fi/onto/yso/p11543>	hyvä tapa	0.09031230827731705
+<http://www.yso.fi/onto/yso/p23819>	tappaminen	0.09031230827731705
+<http://www.yso.fi/onto/yso/p1974>	palaminen	0.06533272720174516
+<http://www.yso.fi/onto/yso/p4797>	kuninkaalliset	0.05070313513762677
+<http://www.yso.fi/onto/yso/p3236>	peitteet	0.046837576038600025
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.041336327666599525
+<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.03743327937291771
+<http://www.yso.fi/onto/yso/p5554>	joulukuuset	0.03505540835597136
+<http://www.yso.fi/onto/yso/p261>	tieto	0.02621317364744895
+<http://www.yso.fi/onto/yso/p8173>	miehet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.023610097100620644
+<http://www.yso.fi/onto/yso/p21206>	uhat	0.022652930634656634
+<http://www.yso.fi/onto/yso/p10280>	sattuma	0.022652930634656634
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.022444581101619687
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.022336211750302173
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p23152>	viholliset	0.018047437603590517
+<http://www.yso.fi/onto/yso/p9649>	lukijat	0.014956060020489917
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.01458609544649215
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01420384765338491
+<http://www.yso.fi/onto/yso/p19450>	päivä	0.008661113120089494
+<http://www.yso.fi/onto/yso/p27456>	tapaamiset	0.00693952370428542
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p2871>	synty	0.003006254758466846
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.002850612735120543

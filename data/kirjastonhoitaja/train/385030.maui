@@ -1,31 +1,31 @@
-<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.38242828282828284
-<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.2824282828282828
-<http://www.yso.fi/onto/yso/p8917>	syrjäytyminen	0.2240949494949495
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.1248886002886003
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.1248886002886003
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.1248886002886003
-<http://www.yso.fi/onto/yso/p12614>	yhteisöteatteri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18951>	asennekasvatus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8914>	syrjäytyneet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3203>	teatterit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2625>	teatteri	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17229>	näytelmäkirjallisuus	0.10867438452205902
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.09140511680511679
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5000>	näytelmät	0.05710575707107861
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2851>	taide	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20797>	etelä	0.04760000435676974
-<http://www.yso.fi/onto/yso/p793>	ehkäisy	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020900544995290878
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016931513882039787
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010846134817405319
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8917>	syrjäytyminen	0.4151882651882651
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.3062686567164179
+<http://www.yso.fi/onto/yso/p3203>	teatterit	0.289649325481102
+<http://www.yso.fi/onto/yso/p2625>	teatteri	0.289649325481102
+<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.19840606224463697
+<http://www.yso.fi/onto/yso/p17229>	näytelmäkirjallisuus	0.18660984971700487
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.18202741349605508
+<http://www.yso.fi/onto/yso/p261>	tieto	0.12621317364744894
+<http://www.yso.fi/onto/yso/p8914>	syrjäytyneet	0.11027515151612989
+<http://www.yso.fi/onto/yso/p793>	ehkäisy	0.10648658315306034
+<http://www.yso.fi/onto/yso/p5000>	näytelmät	0.10205445630763584
+<http://www.yso.fi/onto/yso/p12614>	yhteisöteatteri	0.0896747667298013
+<http://www.yso.fi/onto/yso/p18951>	asennekasvatus	0.08666334409221044
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.08493768231238398
+<http://www.yso.fi/onto/yso/p2851>	taide	0.07179293782846062
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.07179293782846062
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.05636698813023475
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.05636698813023475
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.05516675010268169
+<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.047158118139613237
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04046422057616032
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.03542522276980476
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.026246362290486207
+<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.01808574165584
+<http://www.yso.fi/onto/yso/p4985>	nimekkeet	0.009232727796320058
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p20797>	etelä	0.006623068008082889
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344

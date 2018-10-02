@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p4490>	järki	0.14591661596057878
-<http://www.yso.fi/onto/yso/p8440>	selaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13641>	säätö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5479>	tietoturva	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9987>	asennus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3283>	huolto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26682>	kiltit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3585>	vakaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25514>	tähtäimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14591>	päätteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2005>	koneet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3348>	säätimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21294>	toiminnot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9658>	toivo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.022236981861071817
-<http://www.yso.fi/onto/yso/p556>	kielet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.022236981861071817
-<http://www.yso.fi/onto/yso/p7383>	kunto	0.020674481861071816
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3482>	erot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p14591>	päätteet	0.5112660519557071
+<http://www.yso.fi/onto/yso/p9987>	asennus	0.4341236385700869
+<http://www.yso.fi/onto/yso/p5479>	tietoturva	0.3284997373236425
+<http://www.yso.fi/onto/yso/p3283>	huolto	0.14887376898527363
+<http://www.yso.fi/onto/yso/p8440>	selaimet	0.13487425477972925
+<http://www.yso.fi/onto/yso/p2005>	koneet	0.12867627126261336
+<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.09718990369258691
+<http://www.yso.fi/onto/yso/p3585>	vakaus	0.08331221587119762
+<http://www.yso.fi/onto/yso/p3482>	erot	0.06872686792403668
+<http://www.yso.fi/onto/yso/p13641>	säätö	0.06779497449188729
+<http://www.yso.fi/onto/yso/p25514>	tähtäimet	0.06039701094018281
+<http://www.yso.fi/onto/yso/p21294>	toiminnot	0.04288626116563528
+<http://www.yso.fi/onto/yso/p4490>	järki	0.03537982860395167
+<http://www.yso.fi/onto/yso/p26682>	kiltit	0.03537982860395167
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.030526031655179586
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.01847277999235943
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.01792378539273046
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017898201866368025
+<http://www.yso.fi/onto/yso/p556>	kielet	0.017898201866368025
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p7383>	kunto	0.014112058016568063
+<http://www.yso.fi/onto/yso/p3348>	säätimet	0.009622109459713039
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.005921587103951945
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0050013133853260856
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

@@ -1,18 +1,17 @@
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.3574282828282828
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.3574282828282828
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.3574282828282828
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20319>	albumiinit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3453>	tietokonepelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21067>	sääli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6256>	kysyntä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6062>	pelit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p20319>	albumiinit	0.6175966246116185
+<http://www.yso.fi/onto/yso/p3453>	tietokonepelit	0.5797934012724656
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.5705645336037583
+<http://www.yso.fi/onto/yso/p6062>	pelit	0.3146087462504893
+<http://www.yso.fi/onto/yso/p6256>	kysyntä	0.2001988785301052
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.1860134409353124
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.15550817532345784
+<http://www.yso.fi/onto/yso/p21067>	sääli	0.1382071245523534
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.08370096349526505
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.08370096349526505
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.06176346465355361
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.06176346465355361
+<http://www.yso.fi/onto/yso/p12128>	lomakkeet	0.04493862842505009
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.04142757848913464
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0025128844610014882

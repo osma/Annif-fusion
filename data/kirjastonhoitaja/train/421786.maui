@@ -1,37 +1,37 @@
-<http://www.yso.fi/onto/yso/p13735>	lapsuus	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p5398>	nuortenkirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14840>	fantasiakirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6089>	magia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7777>	noituus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4622>	esihistoria	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2088>	noidat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7776>	taiat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2086>	tietäjät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8041>	ihailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7779>	pimeys	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5511>	vangit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7196>	tytöt	0.09859943763580127
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p19429>	klassikot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1569>	veljet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3792>	vesi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16550>	käyttäjät	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.021192667585202166
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.015256256150081023
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6295713141025641
+<http://www.yso.fi/onto/yso/p7777>	noituus	0.5428048496005153
+<http://www.yso.fi/onto/yso/p6089>	magia	0.5330769230769231
+<http://www.yso.fi/onto/yso/p14840>	fantasiakirjallisuus	0.38848177075559087
+<http://www.yso.fi/onto/yso/p2088>	noidat	0.35684654217701406
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.2692666534498658
+<http://www.yso.fi/onto/yso/p5398>	nuortenkirjallisuus	0.24848838711894924
+<http://www.yso.fi/onto/yso/p14049>	seikkailu	0.07500618582833747
+<http://www.yso.fi/onto/yso/p2086>	tietäjät	0.06816219685020927
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05080937867342224
+<http://www.yso.fi/onto/yso/p7776>	taiat	0.0504898660225799
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04111357122551097
+<http://www.yso.fi/onto/yso/p13735>	lapsuus	0.03964332649484531
+<http://www.yso.fi/onto/yso/p4622>	esihistoria	0.03614601395334188
+<http://www.yso.fi/onto/yso/p8041>	ihailijat	0.031159189317233278
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p19429>	klassikot	0.023350528383865386
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p7779>	pimeys	0.020101493903293344
+<http://www.yso.fi/onto/yso/p16550>	käyttäjät	0.018649872068703742
+<http://www.yso.fi/onto/yso/p5511>	vangit	0.018544781466935254
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0173017602844445
+<http://www.yso.fi/onto/yso/p1569>	veljet	0.016198736237821074
+<http://www.yso.fi/onto/yso/p3792>	vesi	0.011438099084399644
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0030750305493884417

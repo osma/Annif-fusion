@@ -1,29 +1,29 @@
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.2240949494949495
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.20867438452205903
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.14591661596057878
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.12670869524759923
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21516>	kirjastojärjestelmät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p301>	henkilöstöhallinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19457>	helmet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22460>	varautuminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.031932770969134605
-<http://www.yso.fi/onto/yso/p19016>	kulta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p23894>	johtajat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.016931513882039787
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7887>	pää	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p7258>	hyvä	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009815988008196946
+<http://www.yso.fi/onto/yso/p3252>	hakemukset	0.3001879802699253
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.24692887894922994
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.15625
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.14503132220614862
+<http://www.yso.fi/onto/yso/p301>	henkilöstöhallinto	0.0988491179934656
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.09283644580662678
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.09031993339612462
+<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.07213381582893212
+<http://www.yso.fi/onto/yso/p19016>	kulta	0.055748637681899825
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.044341286810031584
+<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.03644604908990711
+<http://www.yso.fi/onto/yso/p22460>	varautuminen	0.032991466038282014
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p19457>	helmet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p21516>	kirjastojärjestelmät	0.020098299935903514
+<http://www.yso.fi/onto/yso/p23894>	johtajat	0.017467466405089033
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.015605198813757364
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.015605198813757364
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.006338131011080142
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

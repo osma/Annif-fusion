@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p6652>	tieteellinen kirjoittaminen	0.39630304443031716
-<http://www.yso.fi/onto/yso/p10480>	tieteellinen julkaisutoiminta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17836>	informaatiotutkimus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7836>	tieteellinen ajattelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3016>	tieteenfilosofia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7837>	tieteellinen tieto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.09424283744586774
-<http://www.yso.fi/onto/yso/p261>	tieto	0.08400531698794642
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p25893>	kaitselmus	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1210>	tiet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p710>	materiaalit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p22059>	määrittely	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1346>	terminologia	0.022236981861071817
-<http://www.yso.fi/onto/yso/p7066>	tiedostaminen	0.022236981861071817
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01577079092724847
-<http://www.yso.fi/onto/yso/p7392>	keskittyminen	0.013117916496852369
-<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.011752510641896115
+<http://www.yso.fi/onto/yso/p7837>	tieteellinen tieto	0.6274007009100492
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3908269200172024
+<http://www.yso.fi/onto/yso/p17836>	informaatiotutkimus	0.28494696801830866
+<http://www.yso.fi/onto/yso/p10480>	tieteellinen julkaisutoiminta	0.25504901960784315
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.24293147855583866
+<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.21147259717027161
+<http://www.yso.fi/onto/yso/p6652>	tieteellinen kirjoittaminen	0.1240100585688821
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.08331221587119762
+<http://www.yso.fi/onto/yso/p3016>	tieteenfilosofia	0.08331221587119762
+<http://www.yso.fi/onto/yso/p7836>	tieteellinen ajattelu	0.08254901960784312
+<http://www.yso.fi/onto/yso/p25893>	kaitselmus	0.07500618582833747
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.06176272921481253
+<http://www.yso.fi/onto/yso/p1346>	terminologia	0.058814413085229986
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p261>	tieto	0.03667491222470475
+<http://www.yso.fi/onto/yso/p22059>	määrittely	0.03644604908990711
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.028436247352381778
+<http://www.yso.fi/onto/yso/p2911>	ehdotukset	0.024899386831661863
+<http://www.yso.fi/onto/yso/p1210>	tiet	0.023628739752273354
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.01989954926878964
+<http://www.yso.fi/onto/yso/p710>	materiaalit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p7066>	tiedostaminen	0.013708279088536479
+<http://www.yso.fi/onto/yso/p7392>	keskittyminen	0.009852570590737124
+<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.005039247615350622
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344

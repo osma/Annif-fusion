@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.15884338841005508
-<http://www.yso.fi/onto/yso/p1701>	digitaalinen painatus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11433>	kirjansidonta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2044>	omakustanteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14395>	luova kirjoittaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7240>	julkaisijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2045>	kustannustoiminta	0.108351758070098
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.108351758070098
-<http://www.yso.fi/onto/yso/p2149>	opastus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15269>	myynti	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20797>	etelä	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1393>	järjestöt	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.022236981861071817
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p810>	kädet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.01524265093010243
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.010360553103558302
-<http://www.yso.fi/onto/yso/p15063>	tee	0.010360553103558302
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6984602029914531
+<http://www.yso.fi/onto/yso/p2045>	kustannustoiminta	0.5537296037296038
+<http://www.yso.fi/onto/yso/p2044>	omakustanteet	0.34012007948633877
+<http://www.yso.fi/onto/yso/p11433>	kirjansidonta	0.33779735200787836
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.3161138411138411
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.21186952768528794
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.18545777878476608
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.16192058699290285
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.13238514090727937
+<http://www.yso.fi/onto/yso/p14395>	luova kirjoittaminen	0.11437199373875029
+<http://www.yso.fi/onto/yso/p15269>	myynti	0.09936625149203084
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.09920401909621249
+<http://www.yso.fi/onto/yso/p1701>	digitaalinen painatus	0.07055140833668219
+<http://www.yso.fi/onto/yso/p7240>	julkaisijat	0.02836892155948927
+<http://www.yso.fi/onto/yso/p1393>	järjestöt	0.024181727804547068
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.016915386541612187
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.016822135262090067
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p2149>	opastus	0.016138011629698818
+<http://www.yso.fi/onto/yso/p1377>	suunnittelu	0.011027282053329444
+<http://www.yso.fi/onto/yso/p20797>	etelä	0.00693952370428542
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.002919388526042139
+<http://www.yso.fi/onto/yso/p15063>	tee	0.002919388526042139
+<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.002486174956410666

@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p8245>	pienyritykset	0.39630304443031716
-<http://www.yso.fi/onto/yso/p2439>	liiketoiminta	0.22130304443031718
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.16302127842127842
-<http://www.yso.fi/onto/yso/p7621>	laskentatoimi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p23923>	reskontrat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7042>	kaislat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2408>	atk	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4327>	taloushallinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6999>	hakuohjelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22952>	Google	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2692>	kirjanpito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p261>	tieto	0.059063912660093185
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11291>	ohjelmistot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p2555>	talous	0.02558663760656089
-<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p8455>	soveltaminen	0.016171337988124073
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016171337988124073
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p5396>	tulokset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2692>	kirjanpito	0.6474736842105263
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.6020298183664521
+<http://www.yso.fi/onto/yso/p2408>	atk	0.41291148422233614
+<http://www.yso.fi/onto/yso/p23923>	reskontrat	0.34650816319952005
+<http://www.yso.fi/onto/yso/p4327>	taloushallinto	0.3344997116838795
+<http://www.yso.fi/onto/yso/p8245>	pienyritykset	0.2277353437269034
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.12091670156746481
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.06291550644326468
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.061119739441047635
+<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.05750722354274632
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.055464220576160336
+<http://www.yso.fi/onto/yso/p2439>	liiketoiminta	0.047158118139613237
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.047158118139613237
+<http://www.yso.fi/onto/yso/p6999>	hakuohjelmat	0.044470543864755706
+<http://www.yso.fi/onto/yso/p7042>	kaislat	0.04003868191765611
+<http://www.yso.fi/onto/yso/p7621>	laskentatoimi	0.04003868191765611
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.02544428742092007
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.021651129979441946
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p11291>	ohjelmistot	0.019613630059003656
+<http://www.yso.fi/onto/yso/p8455>	soveltaminen	0.01701689306377159
+<http://www.yso.fi/onto/yso/p2555>	talous	0.01475082019747359
+<http://www.yso.fi/onto/yso/p11471>	uusi talous	0.01475082019747359
+<http://www.yso.fi/onto/yso/p261>	tieto	0.011196204544102814
+<http://www.yso.fi/onto/yso/p22952>	Google	0.00849138712788076
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p5396>	tulokset	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0032143653651324315

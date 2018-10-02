@@ -1,26 +1,25 @@
-<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.2963030444303172
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2240949494949495
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2240949494949495
-<http://www.yso.fi/onto/yso/p13050>	lapsiperheet	0.22130304443031718
-<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.22130304443031718
-<http://www.yso.fi/onto/yso/p7401>	lukio	0.22130304443031718
-<http://www.yso.fi/onto/yso/p2630>	opetus	0.15884338841005508
-<http://www.yso.fi/onto/yso/p5291>	sukupuoli	0.15884338841005508
-<http://www.yso.fi/onto/yso/p1117>	opettajat	0.15807178347178347
-<http://www.yso.fi/onto/yso/p5473>	koti	0.14909494949494947
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18777>	tuntiopettajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10872>	viestintätekniikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11850>	työlliset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10139>	ammattiryhmät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4192>	työvoima	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3156>	tilastot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20099>	yleistäminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1229>	ikä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.016542457256587376
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.20333963463086907
+<http://www.yso.fi/onto/yso/p18777>	tuntiopettajat	0.18504796456039543
+<http://www.yso.fi/onto/yso/p11850>	työlliset	0.1505330614697485
+<http://www.yso.fi/onto/yso/p3156>	tilastot	0.1250937479144793
+<http://www.yso.fi/onto/yso/p4192>	työvoima	0.11149583549190709
+<http://www.yso.fi/onto/yso/p1229>	ikä	0.08999395498720424
+<http://www.yso.fi/onto/yso/p5291>	sukupuoli	0.08458885794356172
+<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.08253452229354459
+<http://www.yso.fi/onto/yso/p7401>	lukio	0.08253452229354459
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.07868755337544582
+<http://www.yso.fi/onto/yso/p1117>	opettajat	0.07771386129364932
+<http://www.yso.fi/onto/yso/p2630>	opetus	0.07684346277462194
+<http://www.yso.fi/onto/yso/p13050>	lapsiperheet	0.0725470949787789
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.07119837563976476
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.06634632384041049
+<http://www.yso.fi/onto/yso/p20099>	yleistäminen	0.06309905078518686
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.04774104286034794
+<http://www.yso.fi/onto/yso/p10872>	viestintätekniikka	0.032991466038282014
+<http://www.yso.fi/onto/yso/p10139>	ammattiryhmät	0.032991466038282014
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.019386092897743505
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p5473>	koti	0.010800799738422365
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.008661113120089494
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0032143653651324315

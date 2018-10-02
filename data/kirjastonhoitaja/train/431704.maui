@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p727>	juutalaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5489>	kantakieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5159>	apostolit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11248>	pyhät kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2324>	testamentti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12379>	evankeliumit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12378>	evankeliumi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3416>	optiot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6125>	äänteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6991>	kristityt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1356>	puhekieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8954>	koulukunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14387>	Raamattu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5131>	rakkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8646>	kirjeet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16349>	käännökset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9106>	kuunteleminen	0.027576170779201083
-<http://www.yso.fi/onto/yso/p20514>	eteeni	0.02558663760656089
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19190>	väittämät	0.02503108205100534
-<http://www.yso.fi/onto/yso/p9658>	toivo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.02503108205100534
-<http://www.yso.fi/onto/yso/p556>	kielet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.019971857937269237
-<http://www.yso.fi/onto/yso/p1726>	usko	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.8180363115145723
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.44868720254169175
+<http://www.yso.fi/onto/yso/p2324>	testamentti	0.3742883836557677
+<http://www.yso.fi/onto/yso/p14387>	Raamattu	0.29231336774788425
+<http://www.yso.fi/onto/yso/p16349>	käännökset	0.1436033296476849
+<http://www.yso.fi/onto/yso/p5489>	kantakieli	0.13450033713796505
+<http://www.yso.fi/onto/yso/p1356>	puhekieli	0.11497789039963417
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.1085139318885449
+<http://www.yso.fi/onto/yso/p5131>	rakkaus	0.0922303261803711
+<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.060081732486802264
+<http://www.yso.fi/onto/yso/p11248>	pyhät kirjat	0.05935897435897436
+<http://www.yso.fi/onto/yso/p12379>	evankeliumit	0.04899932210861723
+<http://www.yso.fi/onto/yso/p12378>	evankeliumi	0.04899932210861723
+<http://www.yso.fi/onto/yso/p727>	juutalaisuus	0.03996903421079901
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.03268938625310047
+<http://www.yso.fi/onto/yso/p20514>	eteeni	0.03218184573727876
+<http://www.yso.fi/onto/yso/p6125>	äänteet	0.03218184573727876
+<http://www.yso.fi/onto/yso/p5159>	apostolit	0.03218184573727876
+<http://www.yso.fi/onto/yso/p8954>	koulukunnat	0.031159189317233278
+<http://www.yso.fi/onto/yso/p8646>	kirjeet	0.031135886539651686
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.02820518395021706
+<http://www.yso.fi/onto/yso/p6991>	kristityt	0.027566556489484285
+<http://www.yso.fi/onto/yso/p19190>	väittämät	0.017671761362131014
+<http://www.yso.fi/onto/yso/p3416>	optiot	0.016239924658156733
+<http://www.yso.fi/onto/yso/p9106>	kuunteleminen	0.01522810620396374
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.013751941622683067
+<http://www.yso.fi/onto/yso/p556>	kielet	0.013233673978707092
+<http://www.yso.fi/onto/yso/p1726>	usko	0.010816097829098687
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.00693952370428542
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0030750305493884417

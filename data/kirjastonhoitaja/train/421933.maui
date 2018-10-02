@@ -1,39 +1,39 @@
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.29076161616161617
-<http://www.yso.fi/onto/yso/p3466>	liikenne	0.22130304443031718
-<http://www.yso.fi/onto/yso/p2551>	valta	0.19217672174338843
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19140511680511677
-<http://www.yso.fi/onto/yso/p6299>	historialliset kartat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4424>	karsinat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10668>	tiekartat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18451>	kirjahistoria	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25682>	kyläyhdistykset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6817>	läänit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12991>	pitäjät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4987>	kartat	0.108351758070098
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10998>	kylät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4623>	aikakaudet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1210>	tiet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p2123>	kehitys	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00984824300156032
+<http://www.yso.fi/onto/yso/p1780>	historia	0.2984126984126984
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.2514192573000145
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23621677728287546
+<http://www.yso.fi/onto/yso/p4987>	kartat	0.20988344988344987
+<http://www.yso.fi/onto/yso/p18451>	kirjahistoria	0.156285307009946
+<http://www.yso.fi/onto/yso/p10668>	tiekartat	0.14837916984975807
+<http://www.yso.fi/onto/yso/p12991>	pitäjät	0.1402640062458524
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1210>	tiet	0.09980666665831292
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.07733948248246043
+<http://www.yso.fi/onto/yso/p25682>	kyläyhdistykset	0.06724473944104764
+<http://www.yso.fi/onto/yso/p4424>	karsinat	0.06724473944104764
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.06445030144251482
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.06069912708130566
+<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.044340078270515226
+<http://www.yso.fi/onto/yso/p3466>	liikenne	0.04246485394719604
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.0389427067342161
+<http://www.yso.fi/onto/yso/p10998>	kylät	0.030535865858647933
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p6299>	historialliset kartat	0.026847826086956524
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.017789918141260373
+<http://www.yso.fi/onto/yso/p4623>	aikakaudet	0.01714846981808648
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.01614528748856063
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.015786770806410715
+<http://www.yso.fi/onto/yso/p6817>	läänit	0.011363662527052445
+<http://www.yso.fi/onto/yso/p2551>	valta	0.009092302703479927
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.00849138712788076
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.00849138712788076
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.00849138712788076
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344

@@ -1,43 +1,43 @@
-<http://www.yso.fi/onto/yso/p2015>	symbolit	0.22963637776365053
-<http://www.yso.fi/onto/yso/p419>	joulu	0.19142100192549108
-<http://www.yso.fi/onto/yso/p28281>	apoteoosi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22293>	kuolemansynnit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6454>	teollinen muotoilu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p727>	juutalaisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6344>	saarnaajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2324>	testamentti	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3572>	kynttilät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5769>	piispat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15215>	jumalanpalvelus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6991>	kristityt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4510>	symboliikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1762>	lahjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7943>	jumalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13849>	Jumala	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3029>	seurakunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3551>	rukoileminen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11362>	viisaus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6455>	muotoilu	0.02503108205100534
-<http://www.yso.fi/onto/yso/p15331>	totuus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p17133>	ikkunat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020900544995290878
-<http://www.yso.fi/onto/yso/p27521>	ajan henki	0.020674481861071816
-<http://www.yso.fi/onto/yso/p5039>	voima	0.020674481861071816
-<http://www.yso.fi/onto/yso/p10848>	pelko	0.020674481861071816
-<http://www.yso.fi/onto/yso/p941>	tulot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p5798>	taidot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1726>	usko	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.015256256150081023
-<http://www.yso.fi/onto/yso/p556>	kielet	0.015256256150081023
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.015256256150081023
-<http://www.yso.fi/onto/yso/p22794>	itse	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p7887>	pää	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1149>	kuvat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009807509804004308
+<http://www.yso.fi/onto/yso/p3572>	kynttilät	0.7465896172792724
+<http://www.yso.fi/onto/yso/p4510>	symboliikka	0.5428048496005153
+<http://www.yso.fi/onto/yso/p2015>	symbolit	0.49747051816819254
+<http://www.yso.fi/onto/yso/p13849>	Jumala	0.33087866284216005
+<http://www.yso.fi/onto/yso/p7943>	jumalat	0.2941649048625793
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.2600134224051655
+<http://www.yso.fi/onto/yso/p419>	joulu	0.2335337914184485
+<http://www.yso.fi/onto/yso/p1762>	lahjat	0.1838140788155217
+<http://www.yso.fi/onto/yso/p15215>	jumalanpalvelus	0.1511787052145483
+<http://www.yso.fi/onto/yso/p28281>	apoteoosi	0.1384452790216188
+<http://www.yso.fi/onto/yso/p6454>	teollinen muotoilu	0.1210643266406664
+<http://www.yso.fi/onto/yso/p3029>	seurakunnat	0.10828538164390936
+<http://www.yso.fi/onto/yso/p6344>	saarnaajat	0.08414271200675556
+<http://www.yso.fi/onto/yso/p727>	juutalaisuus	0.0733023675441323
+<http://www.yso.fi/onto/yso/p22293>	kuolemansynnit	0.06449252265056658
+<http://www.yso.fi/onto/yso/p3551>	rukoileminen	0.0557695914027536
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04111357122551097
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p2324>	testamentti	0.03292467339945953
+<http://www.yso.fi/onto/yso/p17133>	ikkunat	0.030466886487546287
+<http://www.yso.fi/onto/yso/p6991>	kristityt	0.029996289030646616
+<http://www.yso.fi/onto/yso/p10848>	pelko	0.02996346483088108
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.024832949035427078
+<http://www.yso.fi/onto/yso/p5769>	piispat	0.02471678315108782
+<http://www.yso.fi/onto/yso/p6455>	muotoilu	0.0238955299040206
+<http://www.yso.fi/onto/yso/p1149>	kuvat	0.019297239092890005
+<http://www.yso.fi/onto/yso/p11362>	viisaus	0.018689448361062108
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.01847277999235943
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017898201866368025
+<http://www.yso.fi/onto/yso/p556>	kielet	0.017898201866368025
+<http://www.yso.fi/onto/yso/p15331>	totuus	0.015456360669269928
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p5039>	voima	0.012154744270422593
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.00849138712788076
+<http://www.yso.fi/onto/yso/p27521>	ajan henki	0.008450291946008338
+<http://www.yso.fi/onto/yso/p1726>	usko	0.00693952370428542
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p941>	tulot	0.006328091168992595
+<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344

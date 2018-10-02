@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p7227>	yhteistoiminta	0.22130304443031718
-<http://www.yso.fi/onto/yso/p12279>	äidit	0.13208292111928477
-<http://www.yso.fi/onto/yso/p21387>	miehitetyt alueet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15795>	välirauha	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16759>	sotavangit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8219>	panttivangit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p450>	kommunismi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5943>	jatkosota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8904>	talvisota	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8438>	siirtoväki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15137>	seisominen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5412>	kääntymys	0.02558663760656089
-<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p18324>	silmät	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.020674481861071816
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.015429864862007283
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.01468041649685237
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.010846134817405319
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.010193463357172503
-<http://www.yso.fi/onto/yso/p9978>	alueet	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8904>	talvisota	0.9167106086315645
+<http://www.yso.fi/onto/yso/p15795>	välirauha	0.7473809523809524
+<http://www.yso.fi/onto/yso/p5943>	jatkosota	0.2684010267612097
+<http://www.yso.fi/onto/yso/p21387>	miehitetyt alueet	0.17475892990221747
+<http://www.yso.fi/onto/yso/p450>	kommunismi	0.1600327006219918
+<http://www.yso.fi/onto/yso/p8438>	siirtoväki	0.1600327006219918
+<http://www.yso.fi/onto/yso/p16759>	sotavangit	0.13245694304623426
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.12621317364744894
+<http://www.yso.fi/onto/yso/p12279>	äidit	0.0918858673882324
+<http://www.yso.fi/onto/yso/p7227>	yhteistoiminta	0.08814495610797461
+<http://www.yso.fi/onto/yso/p1208>	venäläiset	0.0858071396968104
+<http://www.yso.fi/onto/yso/p8219>	panttivangit	0.08331221587119762
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04990866502060477
+<http://www.yso.fi/onto/yso/p13187>	kuukaudet	0.04908321892847563
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.04341589401772087
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.04281080988801531
+<http://www.yso.fi/onto/yso/p15137>	seisominen	0.04001268434164702
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.030950949966060952
+<http://www.yso.fi/onto/yso/p18324>	silmät	0.030462988618285003
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p9978>	alueet	0.017339299278823776
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.008196410288790465
+<http://www.yso.fi/onto/yso/p5412>	kääntymys	0.004178634428269678
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0032143653651324315

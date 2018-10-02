@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p27250>	data	0.20867438452205903
-<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.16529606103032285
-<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9827>	euroalue	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12456>	arvopaperimarkkinat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1099>	pankit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11924>	pörssit	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10616>	numerot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p8689>	identifiointi	0.02558663760656089
-<http://www.yso.fi/onto/yso/p22310>	vaihtoehdot	0.022236981861071817
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.022236981861071817
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.022236981861071817
-<http://www.yso.fi/onto/yso/p26466>	kiinnostus	0.020900544995290878
-<http://www.yso.fi/onto/yso/p19450>	päivä	0.016931513882039787
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.010846134817405319
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.010846134817405319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p2123>	kehitys	0.009856721205752953
+<http://www.yso.fi/onto/yso/p11924>	pörssit	0.9588664596273292
+<http://www.yso.fi/onto/yso/p12456>	arvopaperimarkkinat	0.6241526633631896
+<http://www.yso.fi/onto/yso/p3415>	arvopaperit	0.2827011324379745
+<http://www.yso.fi/onto/yso/p4035>	ajanjaksot	0.23450873081347537
+<http://www.yso.fi/onto/yso/p821>	muut ajanjaksot	0.23450873081347537
+<http://www.yso.fi/onto/yso/p1780>	historia	0.20193573364305073
+<http://www.yso.fi/onto/yso/p27250>	data	0.16675013983535864
+<http://www.yso.fi/onto/yso/p9827>	euroalue	0.13045579552615266
+<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.10907025335747796
+<http://www.yso.fi/onto/yso/p28301>	historiallinen aika	0.10475989893846376
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.09694525415826201
+<http://www.yso.fi/onto/yso/p1099>	pankit	0.07183480497161461
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.059240296390623025
+<http://www.yso.fi/onto/yso/p26466>	kiinnostus	0.03541800461205451
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.03431229450387608
+<http://www.yso.fi/onto/yso/p8689>	identifiointi	0.02494181413586404
+<http://www.yso.fi/onto/yso/p10616>	numerot	0.01550613245251479
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p19450>	päivä	0.014835417291246137
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.00850547109674319
+<http://www.yso.fi/onto/yso/p22310>	vaihtoehdot	0.004178634428269678
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.004085387635966482
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.002919388526042139

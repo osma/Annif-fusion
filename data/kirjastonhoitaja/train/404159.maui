@@ -1,42 +1,41 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p6165>	maahanmuuttajat	0.3907616161616162
-<http://www.yso.fi/onto/yso/p13735>	lapsuus	0.2580717834717835
-<http://www.yso.fi/onto/yso/p29267>	vietnaminkielinen kirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2190>	kulttuurierot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12066>	maanosat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1680>	afrikkalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24244>	luu	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16349>	käännökset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2564>	kotimaa	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26676>	vuodat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10730>	ainut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16306>	valikoituminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.02503108205100534
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020431639617679742
-<http://www.yso.fi/onto/yso/p25710>	luokat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016542457256587376
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.013609942855237487
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.011419221205752953
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.48368623206858496
+<http://www.yso.fi/onto/yso/p2190>	kulttuurierot	0.28911917697430567
+<http://www.yso.fi/onto/yso/p12066>	maanosat	0.2576694308535987
+<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.2140525039446973
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.20826106364946395
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.20826106364946395
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.15140882808842598
+<http://www.yso.fi/onto/yso/p3580>	haku	0.14550440602296447
+<http://www.yso.fi/onto/yso/p6165>	maahanmuuttajat	0.12862820737483552
+<http://www.yso.fi/onto/yso/p16349>	käännökset	0.12215798876188491
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.11882734990000196
+<http://www.yso.fi/onto/yso/p29267>	vietnaminkielinen kirjallisuus	0.11844527902161879
+<http://www.yso.fi/onto/yso/p11597>	elämäkerrat	0.06582867388393329
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.05118207519827426
+<http://www.yso.fi/onto/yso/p16306>	valikoituminen	0.05080937867342224
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.05065278631020639
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.04642714107649195
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04625640742120002
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.043071445540190316
+<http://www.yso.fi/onto/yso/p13735>	lapsuus	0.04294675141006637
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.03469155287688712
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.033292404084121
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.029492901183780874
+<http://www.yso.fi/onto/yso/p24244>	luu	0.02798154164840446
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p1680>	afrikkalaiset	0.018544781466935254
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.016822135262090067
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p2564>	kotimaa	0.01458609544649215
+<http://www.yso.fi/onto/yso/p26676>	vuodat	0.012154744270422593
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p10730>	ainut	0.00693952370428542
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.003220167974595556

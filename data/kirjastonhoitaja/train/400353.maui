@@ -1,29 +1,28 @@
-<http://www.yso.fi/onto/yso/p7708>	työttömät	0.22963637776365053
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13016>	talviaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11849>	työllistetyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11242>	vuorotyö	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13751>	hoitoala	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13290>	työvoimatoimistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5128>	hakijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8195>	kesä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10686>	pätevöitymiskoulutus	0.10867438452205902
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.10867438452205902
-<http://www.yso.fi/onto/yso/p1130>	työaika	0.05771181767713922
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.027576170779201083
-<http://www.yso.fi/onto/yso/p13644>	järjestäminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.016931513882039787
-<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.015429864862007283
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p261>	tieto	0.013468844487262219
-<http://www.yso.fi/onto/yso/p1810>	työ	0.011959606501770035
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011410743001560319
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1424>	määrä	0.00984824300156032
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.6309567119276764
+<http://www.yso.fi/onto/yso/p11242>	vuorotyö	0.5352516309412862
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.3406845138100555
+<http://www.yso.fi/onto/yso/p1810>	työ	0.30415193611543334
+<http://www.yso.fi/onto/yso/p1130>	työaika	0.2532765163836715
+<http://www.yso.fi/onto/yso/p13751>	hoitoala	0.2204821688211685
+<http://www.yso.fi/onto/yso/p261>	tieto	0.17604468939258766
+<http://www.yso.fi/onto/yso/p8195>	kesä	0.10890164384675823
+<http://www.yso.fi/onto/yso/p10686>	pätevöitymiskoulutus	0.07856365561869019
+<http://www.yso.fi/onto/yso/p13016>	talviaika	0.06202505636789598
+<http://www.yso.fi/onto/yso/p7708>	työttömät	0.05040777281284259
+<http://www.yso.fi/onto/yso/p11849>	työllistetyt	0.0456659887752839
+<http://www.yso.fi/onto/yso/p13290>	työvoimatoimistot	0.027566556489484285
+<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.026949185733059735
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02042543357904477
+<http://www.yso.fi/onto/yso/p1272>	henkilöt	0.019297239092890005
+<http://www.yso.fi/onto/yso/p5128>	hakijat	0.017671761362131014
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.01729545711223509
+<http://www.yso.fi/onto/yso/p1424>	määrä	0.013581184924458067
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.010343238979732609
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p13644>	järjestäminen	0.00850547109674319
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344

@@ -1,66 +1,66 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p7672>	tietoisuus	0.25884338841005505
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.24021185159869368
-<http://www.yso.fi/onto/yso/p577>	seidat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11598>	kronikat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25657>	goottilaiset romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3>	viihdekirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15527>	tieteiskirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24918>	veljeskunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5405>	mystiikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4467>	kivi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12824>	romantiikka	0.10867438452205902
-<http://www.yso.fi/onto/yso/p7196>	tytöt	0.09424283744586774
-<http://www.yso.fi/onto/yso/p4989>	legendat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9668>	keisarit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1016>	kultit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p13955>	sakset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5449>	fraasit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p8512>	fantasia	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4750>	viinit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p22526>	salaisuudet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p4440>	kauhu	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1728>	portit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p7487>	rannat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p9403>	varaukset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2851>	taide	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p24828>	punainen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p18114>	listat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p13207>	etsintä	0.02503108205100534
-<http://www.yso.fi/onto/yso/p28352>	viisi elementtiä	0.020900544995290878
-<http://www.yso.fi/onto/yso/p27493>	neljä elementtiä	0.020900544995290878
-<http://www.yso.fi/onto/yso/p15071>	rakennuselementit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p8522>	paperi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p5228>	istuimet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p7607>	kriteerit	0.016931513882039787
-<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2108>	tapahtumat	0.016542457256587376
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.016171337988124073
-<http://www.yso.fi/onto/yso/p23818>	ideat	0.015369013882039786
-<http://www.yso.fi/onto/yso/p1967>	liikkeet	0.015369013882039786
-<http://www.yso.fi/onto/yso/p706>	liike	0.015369013882039786
-<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.013609942855237487
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.011447811013486497
-<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.011447811013486497
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.011447811013486497
-<http://www.yso.fi/onto/yso/p2871>	synty	0.01143933280929386
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01143933280929386
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.01143933280929386
-<http://www.yso.fi/onto/yso/p17691>	tuli	0.009885311013486497
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.009885311013486497
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009885311013486497
+<http://www.yso.fi/onto/yso/p5405>	mystiikka	0.484124826772499
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.3459358963676286
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.3230804525059207
+<http://www.yso.fi/onto/yso/p3>	viihdekirjallisuus	0.31944633544825296
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.3159292504442557
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.30688884644766995
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.23018828836488034
+<http://www.yso.fi/onto/yso/p12824>	romantiikka	0.22961350369979291
+<http://www.yso.fi/onto/yso/p25657>	goottilaiset romaanit	0.16323867478025694
+<http://www.yso.fi/onto/yso/p2108>	tapahtumat	0.05229884273241275
+<http://www.yso.fi/onto/yso/p24918>	veljeskunnat	0.04388776439796282
+<http://www.yso.fi/onto/yso/p13955>	sakset	0.04388776439796282
+<http://www.yso.fi/onto/yso/p15527>	tieteiskirjallisuus	0.0394660771484685
+<http://www.yso.fi/onto/yso/p4989>	legendat	0.03654420907628203
+<http://www.yso.fi/onto/yso/p8512>	fantasia	0.03617647839162057
+<http://www.yso.fi/onto/yso/p4440>	kauhu	0.03571776279529031
+<http://www.yso.fi/onto/yso/p5449>	fraasit	0.03527837239133717
+<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.03177001958668825
+<http://www.yso.fi/onto/yso/p577>	seidat	0.031656177777664087
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.031206589959724203
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.026170215505436904
+<http://www.yso.fi/onto/yso/p2851>	taide	0.025357612209131027
+<http://www.yso.fi/onto/yso/p1016>	kultit	0.02386898930414384
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.023610097100620644
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.023610097100620644
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.022351943743884044
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p28352>	viisi elementtiä	0.020295233602675242
+<http://www.yso.fi/onto/yso/p27493>	neljä elementtiä	0.020295233602675242
+<http://www.yso.fi/onto/yso/p15071>	rakennuselementit	0.020295233602675242
+<http://www.yso.fi/onto/yso/p11598>	kronikat	0.020295233602675242
+<http://www.yso.fi/onto/yso/p7672>	tietoisuus	0.020295233602675242
+<http://www.yso.fi/onto/yso/p4750>	viinit	0.019534785706249457
+<http://www.yso.fi/onto/yso/p18114>	listat	0.019297239092890005
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.01804783166248724
+<http://www.yso.fi/onto/yso/p13207>	etsintä	0.017789918141260373
+<http://www.yso.fi/onto/yso/p5228>	istuimet	0.016331751329080713
+<http://www.yso.fi/onto/yso/p7607>	kriteerit	0.016187084434953862
+<http://www.yso.fi/onto/yso/p1728>	portit	0.015171593610578512
+<http://www.yso.fi/onto/yso/p9668>	keisarit	0.0146591960317902
+<http://www.yso.fi/onto/yso/p8522>	paperi	0.0146591960317902
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014156103257012779
+<http://www.yso.fi/onto/yso/p22526>	salaisuudet	0.013098663637288534
+<http://www.yso.fi/onto/yso/p7487>	rannat	0.012870409171982348
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.012870409171982348
+<http://www.yso.fi/onto/yso/p4467>	kivi	0.011485208033270102
+<http://www.yso.fi/onto/yso/p23818>	ideat	0.010439057995912788
+<http://www.yso.fi/onto/yso/p2871>	synty	0.00849138712788076
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p3986>	ulkomainen apu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p1967>	liikkeet	0.00693952370428542
+<http://www.yso.fi/onto/yso/p706>	liike	0.00693952370428542
+<http://www.yso.fi/onto/yso/p24828>	punainen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p6038>	esiintyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p17691>	tuli	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

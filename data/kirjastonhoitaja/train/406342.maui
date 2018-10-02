@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p12736>	lukiolaiset	0.45742828282828285
-<http://www.yso.fi/onto/yso/p24061>	kielen oppiminen	0.1459471117947863
-<http://www.yso.fi/onto/yso/p30184>	vieraat kielet	0.1459471117947863
-<http://www.yso.fi/onto/yso/p17689>	lääkärikeskukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5301>	lukihäiriöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5797>	kielitaito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9675>	koulutusohjelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p469>	lääketiede	0.05771181767713922
-<http://www.yso.fi/onto/yso/p556>	kielet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.037488326524690155
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p4780>	opinnot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1179>	ammatit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p5902>	päättely	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.021192667585202166
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.019745794803050176
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.015429864862007283
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009815988008196946
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.5509426129426129
+<http://www.yso.fi/onto/yso/p1179>	ammatit	0.30620915032679735
+<http://www.yso.fi/onto/yso/p5301>	lukihäiriöt	0.23959109349656788
+<http://www.yso.fi/onto/yso/p5797>	kielitaito	0.22792706889561706
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.17224752403672378
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.16297519934743118
+<http://www.yso.fi/onto/yso/p556>	kielet	0.14978473494098493
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.11571807363087865
+<http://www.yso.fi/onto/yso/p469>	lääketiede	0.10570866151189343
+<http://www.yso.fi/onto/yso/p24061>	kielen oppiminen	0.10265198881442579
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.08034744810256744
+<http://www.yso.fi/onto/yso/p30184>	vieraat kielet	0.05327597386207108
+<http://www.yso.fi/onto/yso/p17689>	lääkärikeskukset	0.05080937867342224
+<http://www.yso.fi/onto/yso/p1810>	työ	0.04325556474194673
+<http://www.yso.fi/onto/yso/p4780>	opinnot	0.038760463942493543
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.03446618230155121
+<http://www.yso.fi/onto/yso/p12736>	lukiolaiset	0.029996289030646616
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.02818848166901892
+<http://www.yso.fi/onto/yso/p16678>	tiedekunnat	0.02684538437774083
+<http://www.yso.fi/onto/yso/p9675>	koulutusohjelmat	0.025888139862925225
+<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.024918525289177852
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017799515634884546
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.017494941302170077
+<http://www.yso.fi/onto/yso/p5902>	päättely	0.012154744270422593
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344

@@ -1,34 +1,34 @@
-<http://www.yso.fi/onto/yso/p2015>	symbolit	0.22963637776365053
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.19874958778595145
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.19249317743959093
-<http://www.yso.fi/onto/yso/p2444>	viestimet	0.19217672174338843
-<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.19140511680511677
-<http://www.yso.fi/onto/yso/p13454>	hippiliike	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17503>	ydinaseet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9544>	hakuteokset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22469>	mediaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4510>	symboliikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11484>	Word for Windows	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1581>	merkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.10415499319135683
-<http://www.yso.fi/onto/yso/p2445>	media	0.09140511680511679
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.02558663760656089
-<http://www.yso.fi/onto/yso/p13656>	viestit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1346>	terminologia	0.022236981861071817
-<http://www.yso.fi/onto/yso/p23159>	liitteet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.016542457256587376
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.014411063956561285
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7887>	pää	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7258>	hyvä	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2015>	symbolit	0.7882558139534884
+<http://www.yso.fi/onto/yso/p1581>	merkit	0.48258547008547004
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3391594222307629
+<http://www.yso.fi/onto/yso/p4510>	symboliikka	0.3195950087286721
+<http://www.yso.fi/onto/yso/p2444>	viestimet	0.1502435375270596
+<http://www.yso.fi/onto/yso/p9544>	hakuteokset	0.11398986638776316
+<http://www.yso.fi/onto/yso/p17503>	ydinaseet	0.09383948248246043
+<http://www.yso.fi/onto/yso/p22469>	mediaanit	0.08840238233671034
+<http://www.yso.fi/onto/yso/p13454>	hippiliike	0.0821945896155211
+<http://www.yso.fi/onto/yso/p2445>	media	0.06663516174256516
+<http://www.yso.fi/onto/yso/p1346>	terminologia	0.058814413085229986
+<http://www.yso.fi/onto/yso/p11484>	Word for Windows	0.043731699959185265
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04088360833569167
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.034494076916154894
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.02258553725066855
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.02258553725066855
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p23159>	liitteet	0.020098299935903514
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.016652409635093846
+<http://www.yso.fi/onto/yso/p20997>	kaiken teoria	0.012095274123763239
+<http://www.yso.fi/onto/yso/p5575>	uusmedia	0.01176447208739274
+<http://www.yso.fi/onto/yso/p13656>	viestit	0.010203504808550248
+<http://www.yso.fi/onto/yso/p7887>	pää	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0032143653651324315

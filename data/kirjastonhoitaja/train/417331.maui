@@ -1,38 +1,38 @@
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.4745122807017544
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.3402118515986937
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p25066>	katakana	0.1092804451281196
-<http://www.yso.fi/onto/yso/p25282>	kirjoitusmerkit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17318>	kiinan kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6127>	vokaalit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2106>	kirjaimistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16527>	näppäimistöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9536>	automaatit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19668>	kiinalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2336>	arkistot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1581>	merkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p556>	kielet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2880>	kieli	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2106>	kirjaimistot	0.6369224966593388
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.6160891644433665
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.3240659323373513
+<http://www.yso.fi/onto/yso/p25282>	kirjoitusmerkit	0.32258186033033903
+<http://www.yso.fi/onto/yso/p10450>	heprean kieli	0.3016796321218645
+<http://www.yso.fi/onto/yso/p25066>	katakana	0.2743194420094252
+<http://www.yso.fi/onto/yso/p1581>	merkit	0.2077101317944071
+<http://www.yso.fi/onto/yso/p17318>	kiinan kieli	0.1777674850413052
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.14973474016831018
+<http://www.yso.fi/onto/yso/p556>	kielet	0.14397890411676728
+<http://www.yso.fi/onto/yso/p20945>	aakkoset	0.08418930889305319
+<http://www.yso.fi/onto/yso/p9536>	automaatit	0.0557695914027536
+<http://www.yso.fi/onto/yso/p6127>	vokaalit	0.05080937867342224
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04990866502060477
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04251751473493891
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04111357122551097
+<http://www.yso.fi/onto/yso/p16527>	näppäimistöt	0.03369083488685353
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.033292404084121
+<http://www.yso.fi/onto/yso/p19668>	kiinalaiset	0.033292404084121
+<http://www.yso.fi/onto/yso/p6787>	tietokoneet	0.025357612209131027
+<http://www.yso.fi/onto/yso/p2336>	arkistot	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3246>	kirjastonhoitajat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.023573136042081107
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.0220947406453786
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p2880>	kieli	0.01847277999235943
+<http://www.yso.fi/onto/yso/p17005>	toinen kieli	0.017898201866368025
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.006449589558958728
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

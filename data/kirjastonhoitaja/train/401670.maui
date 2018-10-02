@@ -1,37 +1,37 @@
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.47714048582995955
-<http://www.yso.fi/onto/yso/p19242>	halloween	0.4510459336591908
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.4123517534355933
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.4123517534355933
-<http://www.yso.fi/onto/yso/p5329>	viihdetaiteilijat	0.39630304443031716
-<http://www.yso.fi/onto/yso/p4572>	äänet	0.35030691290227073
-<http://www.yso.fi/onto/yso/p4573>	ääni	0.35030691290227073
-<http://www.yso.fi/onto/yso/p7966>	kauhuelokuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14137>	eläinten äänet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6217>	kasetit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18457>	äänitehosteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p535>	ukkonen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7345>	leijona	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7362>	myrskyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4440>	kauhu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13827>	levyt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2023>	eläimet	0.10415499319135683
-<http://www.yso.fi/onto/yso/p18458>	tehosteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16400>	susi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3463>	aseet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1999>	tallenteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2371>	laulut	0.04760000435676974
-<http://www.yso.fi/onto/yso/p16991>	naiset	0.0332001847706392
-<http://www.yso.fi/onto/yso/p7110>	soittimet	0.031932770969134605
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12036>	ovet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.020900544995290878
-<http://www.yso.fi/onto/yso/p28779>	askeleet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.019743849965963026
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
+<http://www.yso.fi/onto/yso/p18457>	äänitehosteet	0.9512820512820512
+<http://www.yso.fi/onto/yso/p19242>	halloween	0.7583430744092509
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.5719015390068021
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.5719015390068021
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.4775546145939301
+<http://www.yso.fi/onto/yso/p4572>	äänet	0.4185402663432039
+<http://www.yso.fi/onto/yso/p4440>	kauhu	0.3456317797593366
+<http://www.yso.fi/onto/yso/p4573>	ääni	0.2432467910497286
+<http://www.yso.fi/onto/yso/p2371>	laulut	0.19549197814274138
+<http://www.yso.fi/onto/yso/p18458>	tehosteet	0.16533272720174516
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.14623112279395278
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.11685918501341301
+<http://www.yso.fi/onto/yso/p14137>	eläinten äänet	0.11195782382448616
+<http://www.yso.fi/onto/yso/p5329>	viihdetaiteilijat	0.0684282888269052
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.06572939296008892
+<http://www.yso.fi/onto/yso/p1999>	tallenteet	0.061258292724331385
+<http://www.yso.fi/onto/yso/p7966>	kauhuelokuvat	0.04145044069343208
+<http://www.yso.fi/onto/yso/p13827>	levyt	0.03916531185379986
+<http://www.yso.fi/onto/yso/p3463>	aseet	0.033929759087130376
+<http://www.yso.fi/onto/yso/p16991>	naiset	0.033721409216881694
+<http://www.yso.fi/onto/yso/p535>	ukkonen	0.03333972208146156
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02972248144219483
+<http://www.yso.fi/onto/yso/p6217>	kasetit	0.02701485448214604
+<http://www.yso.fi/onto/yso/p7345>	leijona	0.026942193113656865
+<http://www.yso.fi/onto/yso/p11615>	kummitukset	0.026942193113656865
+<http://www.yso.fi/onto/yso/p12036>	ovet	0.026574462428995405
+<http://www.yso.fi/onto/yso/p16400>	susi	0.026574462428995405
+<http://www.yso.fi/onto/yso/p2023>	eläimet	0.025357612209131027
+<http://www.yso.fi/onto/yso/p1515>	sävellykset	0.021840989103965362
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02012468818917141
+<http://www.yso.fi/onto/yso/p28779>	askeleet	0.016331751329080713
+<http://www.yso.fi/onto/yso/p7362>	myrskyt	0.016331751329080713
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p7110>	soittimet	0.011027282053329444
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

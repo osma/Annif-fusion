@@ -1,21 +1,21 @@
-<http://www.yso.fi/onto/yso/p3315>	urheilijat	0.45742828282828285
-<http://www.yso.fi/onto/yso/p1934>	urheilukilpailut	0.39630304443031716
-<http://www.yso.fi/onto/yso/p15717>	jalkapalloilijat	0.3328641154773727
-<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.2963030444303172
-<http://www.yso.fi/onto/yso/p965>	urheilu	0.21576161616161618
-<http://www.yso.fi/onto/yso/p916>	liikunta	0.19155526695526695
-<http://www.yso.fi/onto/yso/p3706>	kävely	0.15710575707107866
-<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.12582651077292428
-<http://www.yso.fi/onto/yso/p2110>	avajaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1250>	juhlamenot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15742>	ottelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1963>	liikuntatapahtumat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09859943763580127
-<http://www.yso.fi/onto/yso/p5124>	voitot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4280>	yleisö	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11543>	hyvä tapa	0.04760000435676974
-<http://www.yso.fi/onto/yso/p23819>	tappaminen	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p810>	kädet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.014566734116091506
+<http://www.yso.fi/onto/yso/p1963>	liikuntatapahtumat	0.835
+<http://www.yso.fi/onto/yso/p1934>	urheilukilpailut	0.6454578754578755
+<http://www.yso.fi/onto/yso/p965>	urheilu	0.479157256825403
+<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.35640344539909813
+<http://www.yso.fi/onto/yso/p3315>	urheilijat	0.34564882994449564
+<http://www.yso.fi/onto/yso/p3706>	kävely	0.3427450980392157
+<http://www.yso.fi/onto/yso/p2110>	avajaiset	0.31818180648699496
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.31313014507561965
+<http://www.yso.fi/onto/yso/p15717>	jalkapalloilijat	0.27916561161921893
+<http://www.yso.fi/onto/yso/p15742>	ottelut	0.23126375216561668
+<http://www.yso.fi/onto/yso/p1250>	juhlamenot	0.1979882630586202
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.13802433870474912
+<http://www.yso.fi/onto/yso/p916>	liikunta	0.11678292310704204
+<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.11298561224159002
+<http://www.yso.fi/onto/yso/p11543>	hyvä tapa	0.0472659257609597
+<http://www.yso.fi/onto/yso/p23819>	tappaminen	0.0472659257609597
+<http://www.yso.fi/onto/yso/p5124>	voitot	0.032991466038282014
+<http://www.yso.fi/onto/yso/p1780>	historia	0.03026664724933146
+<http://www.yso.fi/onto/yso/p810>	kädet	0.011997112468458504
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.011997112468458504
+<http://www.yso.fi/onto/yso/p4280>	yleisö	0.009622109459713039

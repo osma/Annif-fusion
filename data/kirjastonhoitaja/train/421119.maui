@@ -1,36 +1,36 @@
-<http://www.yso.fi/onto/yso/p9484>	oikeinkirjoitus	0.39630304443031716
-<http://www.yso.fi/onto/yso/p2551>	valta	0.2580717834717835
-<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.22963637776365053
-<http://www.yso.fi/onto/yso/p3128>	yritykset	0.12551005507672172
-<http://www.yso.fi/onto/yso/p24559>	nimikilvet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20179>	paalut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15728>	julkisivut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12272>	rakennusluvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16295>	pajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2107>	kirjasinlajit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8317>	kadut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1780>	historia	0.09424283744586774
-<http://www.yso.fi/onto/yso/p4253>	korkeus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.04760000435676974
-<http://www.yso.fi/onto/yso/p972>	omistajat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8066>	seinät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1433>	aine	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10888>	jäljet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2072>	luvat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p4247>	kosket	0.02503108205100534
-<http://www.yso.fi/onto/yso/p16697>	tekstit	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p21034>	aika	0.013609942855237487
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011410743001560319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011410743001560319
-<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01137211804984151
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1786>	rakennukset	0.48999881551266267
+<http://www.yso.fi/onto/yso/p2107>	kirjasinlajit	0.39175777620000857
+<http://www.yso.fi/onto/yso/p8317>	kadut	0.20497132996088338
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.16848379857951595
+<http://www.yso.fi/onto/yso/p3244>	autonomian aika	0.1624978146480777
+<http://www.yso.fi/onto/yso/p15728>	julkisivut	0.14878690836596511
+<http://www.yso.fi/onto/yso/p9484>	oikeinkirjoitus	0.13831270922912678
+<http://www.yso.fi/onto/yso/p12272>	rakennusluvat	0.12928393983167547
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.11812357534099953
+<http://www.yso.fi/onto/yso/p2551>	valta	0.05988635191312176
+<http://www.yso.fi/onto/yso/p24559>	nimikilvet	0.05968887127384507
+<http://www.yso.fi/onto/yso/p1780>	historia	0.049822202804887014
+<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.04810167758928831
+<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.03689722654801525
+<http://www.yso.fi/onto/yso/p15359>	Ruotsin vallan aika	0.035460585670092394
+<http://www.yso.fi/onto/yso/p10888>	jäljet	0.03292467339945953
+<http://www.yso.fi/onto/yso/p20179>	paalut	0.031159189317233278
+<http://www.yso.fi/onto/yso/p16295>	pajat	0.031159189317233278
+<http://www.yso.fi/onto/yso/p2072>	luvat	0.029492901183780874
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.029492901183780874
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.024181727804547068
+<http://www.yso.fi/onto/yso/p3128>	yritykset	0.024181727804547068
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p8066>	seinät	0.020203406931751267
+<http://www.yso.fi/onto/yso/p4253>	korkeus	0.019258103232888596
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p972>	omistajat	0.01762702605950972
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.015295891026549718
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p10724>	vastaukset	0.01420384765338491
+<http://www.yso.fi/onto/yso/p1433>	aine	0.009092302703479927
+<http://www.yso.fi/onto/yso/p4247>	kosket	0.00693952370428542
+<http://www.yso.fi/onto/yso/p21034>	aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p16697>	tekstit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

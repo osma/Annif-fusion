@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.35682222222222226
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.163627339027339
-<http://www.yso.fi/onto/yso/p4610>	yleishyödylliset yhteisöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9773>	lähetystöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26461>	opintotoimistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2096>	työharjoittelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5436>	apurahat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p271>	säätiöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1761>	avustukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1028>	oppilaitokset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5124>	voitot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18114>	listat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3206>	vaihto	0.02558663760656089
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.020900544995290878
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p8090>	toiminta	0.009856721205752953
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p5436>	apurahat	0.8156992027580262
+<http://www.yso.fi/onto/yso/p4781>	opiskelu	0.5541256988648684
+<http://www.yso.fi/onto/yso/p2096>	työharjoittelu	0.39902702520214045
+<http://www.yso.fi/onto/yso/p1761>	avustukset	0.2324023249243809
+<http://www.yso.fi/onto/yso/p9773>	lähetystöt	0.1006225168784467
+<http://www.yso.fi/onto/yso/p26461>	opintotoimistot	0.0988491179934656
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.09207728832053759
+<http://www.yso.fi/onto/yso/p1028>	oppilaitokset	0.09035259424226495
+<http://www.yso.fi/onto/yso/p4610>	yleishyödylliset yhteisöt	0.08331221587119762
+<http://www.yso.fi/onto/yso/p271>	säätiöt	0.07047808820765081
+<http://www.yso.fi/onto/yso/p5124>	voitot	0.0651192947085337
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05972367959967556
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.03450255752219601
+<http://www.yso.fi/onto/yso/p3206>	vaihto	0.032648067674173595
+<http://www.yso.fi/onto/yso/p18114>	listat	0.03202245471094272
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.014720950289126128
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.008661113120089494
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.00850547109674319
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.002919388526042139
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0025128844610014882

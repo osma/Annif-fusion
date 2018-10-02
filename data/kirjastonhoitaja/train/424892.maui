@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p824>	hoito	0.2963030444303172
-<http://www.yso.fi/onto/yso/p8173>	miehet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p11274>	keittokirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1948>	mielenrauha	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12379>	evankeliumit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12378>	evankeliumi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9626>	keittäminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3790>	ruokavaliot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8304>	diabetes	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3671>	ravinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14193>	kipu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p108>	selkä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1467>	sijainti	0.04760000435676974
-<http://www.yso.fi/onto/yso/p4005>	ruumis	0.04760000435676974
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1210>	tiet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10848>	pelko	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2762>	terveys	0.02503108205100534
-<http://www.yso.fi/onto/yso/p7258>	hyvä	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.009856721205752953
+<http://www.yso.fi/onto/yso/p3790>	ruokavaliot	0.6459716527673184
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3738056434214577
+<http://www.yso.fi/onto/yso/p11274>	keittokirjat	0.35723159971692053
+<http://www.yso.fi/onto/yso/p3671>	ravinto	0.33161771254704153
+<http://www.yso.fi/onto/yso/p6182>	lääkärit	0.19518011198660848
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.19444444444444445
+<http://www.yso.fi/onto/yso/p12379>	evankeliumit	0.18504796456039543
+<http://www.yso.fi/onto/yso/p12378>	evankeliumi	0.18504796456039543
+<http://www.yso.fi/onto/yso/p1948>	mielenrauha	0.16779497449188727
+<http://www.yso.fi/onto/yso/p2762>	terveys	0.15247380636347704
+<http://www.yso.fi/onto/yso/p824>	hoito	0.11071936156326309
+<http://www.yso.fi/onto/yso/p9626>	keittäminen	0.10907025335747796
+<http://www.yso.fi/onto/yso/p14193>	kipu	0.10907025335747796
+<http://www.yso.fi/onto/yso/p4005>	ruumis	0.0901135144562909
+<http://www.yso.fi/onto/yso/p10848>	pelko	0.06873328494513159
+<http://www.yso.fi/onto/yso/p8304>	diabetes	0.0651192947085337
+<http://www.yso.fi/onto/yso/p1210>	tiet	0.04913569337296369
+<http://www.yso.fi/onto/yso/p5918>	ongelmalähtöinen oppiminen	0.03700159468878526
+<http://www.yso.fi/onto/yso/p108>	selkä	0.029027983764687487
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.028625733839946953
+<http://www.yso.fi/onto/yso/p8173>	miehet	0.028625733839946953
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.025782992713114284
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02048826016496129
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.0182125654845604
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p22354>	digitaaliset kirjastot	0.011906702756184336
+<http://www.yso.fi/onto/yso/p1467>	sijainti	0.00939385499440685

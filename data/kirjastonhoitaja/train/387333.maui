@@ -1,33 +1,33 @@
-<http://www.yso.fi/onto/yso/p11819>	siitake	0.4510459336591908
-<http://www.yso.fi/onto/yso/p944>	tuotanto	0.22295593699230065
-<http://www.yso.fi/onto/yso/p13777>	maaseutu	0.22130304443031718
-<http://www.yso.fi/onto/yso/p20896>	sientenviljely	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15800>	koivunkantosieni	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22068>	viljellyt sienet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17678>	herkkusienet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7954>	osterivinokas	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6998>	hakupalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14465>	tuotantokustannukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5098>	viljely	0.1092804451281196
-<http://www.yso.fi/onto/yso/p90>	sienet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8296>	koulutuskeskukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.020900544995290878
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4549>	käsittely	0.016931513882039787
-<http://www.yso.fi/onto/yso/p8691>	ominaisuudet	0.016542457256587376
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3485>	tunteet	0.009815988008196946
+<http://www.yso.fi/onto/yso/p90>	sienet	0.7627068333964886
+<http://www.yso.fi/onto/yso/p7954>	osterivinokas	0.7203552125978596
+<http://www.yso.fi/onto/yso/p11819>	siitake	0.6863682844932845
+<http://www.yso.fi/onto/yso/p17678>	herkkusienet	0.6700079903756374
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.2724927555640962
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.18426525279058367
+<http://www.yso.fi/onto/yso/p5098>	viljely	0.11223167325526033
+<http://www.yso.fi/onto/yso/p22068>	viljellyt sienet	0.10840130389821519
+<http://www.yso.fi/onto/yso/p6998>	hakupalvelut	0.10185926787448692
+<http://www.yso.fi/onto/yso/p15800>	koivunkantosieni	0.06724473944104764
+<http://www.yso.fi/onto/yso/p14465>	tuotantokustannukset	0.06724473944104764
+<http://www.yso.fi/onto/yso/p13777>	maaseutu	0.057675708271728646
+<http://www.yso.fi/onto/yso/p20896>	sientenviljely	0.0532786942541591
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.04200030908725351
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.04046422057616032
+<http://www.yso.fi/onto/yso/p8691>	ominaisuudet	0.03848935964684265
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.023610097100620644
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.0193141873884096
+<http://www.yso.fi/onto/yso/p8296>	koulutuskeskukset	0.017671761362131014
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p944>	tuotanto	0.009232727796320058
+<http://www.yso.fi/onto/yso/p4549>	käsittely	0.009092302703479927
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.006623093681917211
+<http://www.yso.fi/onto/yso/p9543>	käsikirjat	0.0038888766676297135
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0007407407407407408

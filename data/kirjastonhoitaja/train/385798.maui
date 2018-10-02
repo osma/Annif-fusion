@@ -1,25 +1,25 @@
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.25823732780399444
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p469>	lääketiede	0.1092804451281196
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.1092804451281196
-<http://www.yso.fi/onto/yso/p456>	logiikka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p469>	lääketiede	0.5745331360464991
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.530299143561942
+<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.4564895144331004
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.27495216255964927
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.23116798367068095
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.20399258879962154
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.16704014922358842
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.11091566572269851
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.11091566572269851
+<http://www.yso.fi/onto/yso/p456>	logiikka	0.08694633444548056
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.05436300446948
+<http://www.yso.fi/onto/yso/p3580>	haku	0.051270947035819504
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.050998567077603155
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.04990866502060477
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.035081211602811684
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02993270460940573
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.028625733839946953
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.02481462359935813
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.015911668894353106
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344

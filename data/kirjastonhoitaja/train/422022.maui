@@ -1,27 +1,27 @@
-<http://www.yso.fi/onto/yso/p24644>	runot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p7196>	tytöt	0.2963030444303172
-<http://www.yso.fi/onto/yso/p12207>	lorut	0.24536064672390392
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.19192785003108634
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.12473845013845013
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.12473845013845013
-<http://www.yso.fi/onto/yso/p6824>	perikunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9817>	tekijänoikeuslaki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26352>	lippaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11532>	englantilaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2346>	tekijänoikeus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p200>	vainajat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p20653>	taiteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2760>	sovitukset	0.02558663760656089
-<http://www.yso.fi/onto/yso/p19392>	Teko	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.014767294278946935
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2346>	tekijänoikeus	0.7905530692195932
+<http://www.yso.fi/onto/yso/p12207>	lorut	0.7658201632366872
+<http://www.yso.fi/onto/yso/p9817>	tekijänoikeuslaki	0.5067302533478335
+<http://www.yso.fi/onto/yso/p24644>	runot	0.2919537663107599
+<http://www.yso.fi/onto/yso/p2760>	sovitukset	0.18242316273328002
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.09283644580662678
+<http://www.yso.fi/onto/yso/p11532>	englantilaiset	0.0916545045048689
+<http://www.yso.fi/onto/yso/p26352>	lippaat	0.06958366640119833
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.06041109430693958
+<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.04991117404394226
+<http://www.yso.fi/onto/yso/p6824>	perikunnat	0.04453819942520522
+<http://www.yso.fi/onto/yso/p20653>	taiteet	0.03964332649484531
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.030526031655179586
+<http://www.yso.fi/onto/yso/p7239>	kustantajat	0.024181727804547068
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p200>	vainajat	0.011027282053329444
+<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19392>	Teko	0.0025128844610014882

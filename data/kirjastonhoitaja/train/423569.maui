@@ -1,18 +1,18 @@
-<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p7401>	lukio	0.2963030444303172
-<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.2963030444303172
-<http://www.yso.fi/onto/yso/p84>	koulutus	0.231289270325634
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.19155526695526695
-<http://www.yso.fi/onto/yso/p5780>	ammatilliset oppilaitokset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8365>	indikaattorit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1028>	oppilaitokset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.09696067236067234
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p19016>	kulta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.020674481861071816
-<http://www.yso.fi/onto/yso/p13579>	taulukot	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1424>	määrä	0.00984824300156032
+<http://www.yso.fi/onto/yso/p8365>	indikaattorit	0.5890808846264043
+<http://www.yso.fi/onto/yso/p7427>	erikoislukiot	0.5814981684981685
+<http://www.yso.fi/onto/yso/p7401>	lukio	0.5814981684981685
+<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.513566982207863
+<http://www.yso.fi/onto/yso/p84>	koulutus	0.37353535353535355
+<http://www.yso.fi/onto/yso/p5780>	ammatilliset oppilaitokset	0.20972434428316783
+<http://www.yso.fi/onto/yso/p1028>	oppilaitokset	0.06823041427254915
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.050998567077603155
+<http://www.yso.fi/onto/yso/p19016>	kulta	0.04873350210591214
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.03856356506268813
+<http://www.yso.fi/onto/yso/p13579>	taulukot	0.028783261200972205
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.028417921916312837
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.02031748147412766
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p1424>	määrä	0.00803154202897386
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

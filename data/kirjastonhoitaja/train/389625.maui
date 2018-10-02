@@ -1,32 +1,32 @@
-<http://www.yso.fi/onto/yso/p10647>	monikulttuurisuus	0.45742828282828285
-<http://www.yso.fi/onto/yso/p6165>	maahanmuuttajat	0.3907616161616162
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.2824282828282828
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.2824282828282828
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.2824282828282828
-<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.15807178347178347
-<http://www.yso.fi/onto/yso/p23105>	vinkkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10785>	musiikkikirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20073>	kirjavinkkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24961>	ulkomaalaiset opiskelijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16850>	intervallit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6164>	paluumuuttajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5739>	etniset vähemmistöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6458>	pakolaiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12283>	verhot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p6456>	ulkomaalaiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6656>	marjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5740>	vähemmistöt	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9749>	lahdet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p16550>	käyttäjät	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p15328>	toiveet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.010846134817405319
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p6165>	maahanmuuttajat	0.8092524146516314
+<http://www.yso.fi/onto/yso/p8432>	kirjastopalvelut	0.7380402793951306
+<http://www.yso.fi/onto/yso/p6458>	pakolaiset	0.5716666666666667
+<http://www.yso.fi/onto/yso/p20073>	kirjavinkkaus	0.4707353596058651
+<http://www.yso.fi/onto/yso/p10647>	monikulttuurisuus	0.3945076128069678
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.3642857142857143
+<http://www.yso.fi/onto/yso/p6456>	ulkomaalaiset	0.2673117126531979
+<http://www.yso.fi/onto/yso/p10785>	musiikkikirjastot	0.24195157461016045
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.23970032146356807
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.23970032146356807
+<http://www.yso.fi/onto/yso/p23105>	vinkkaus	0.20840130389821518
+<http://www.yso.fi/onto/yso/p6164>	paluumuuttajat	0.19255779823891278
+<http://www.yso.fi/onto/yso/p5739>	etniset vähemmistöt	0.19058813616447592
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.13505180757394608
+<http://www.yso.fi/onto/yso/p5740>	vähemmistöt	0.09719153482916273
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.08116977913996011
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.07257508928466569
+<http://www.yso.fi/onto/yso/p16850>	intervallit	0.06724473944104764
+<http://www.yso.fi/onto/yso/p24961>	ulkomaalaiset opiskelijat	0.0532786942541591
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.033688630679592595
+<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.03202245471094272
+<http://www.yso.fi/onto/yso/p16550>	käyttäjät	0.02856752550128047
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.02066268888379371
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.019297239092890005
+<http://www.yso.fi/onto/yso/p12283>	verhot	0.01888909680646984
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p15328>	toiveet	0.012095274123763239
+<http://www.yso.fi/onto/yso/p6656>	marjat	0.008821926792945722
+<http://www.yso.fi/onto/yso/p9749>	lahdet	0.00758153446175701
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

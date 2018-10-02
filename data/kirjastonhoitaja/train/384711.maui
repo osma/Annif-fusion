@@ -1,24 +1,24 @@
-<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.2963030444303172
-<http://www.yso.fi/onto/yso/p965>	urheilu	0.2824282828282828
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.25746572286572283
-<http://www.yso.fi/onto/yso/p8850>	käsikirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20550>	uimarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15717>	jalkapalloilijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10268>	putoaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6062>	pelit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8571>	aloitus	0.09317719357292001
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6192>	viitteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2765>	lajit	0.02503108205100534
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016171337988124073
-<http://www.yso.fi/onto/yso/p6752>	syyt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.010846134817405319
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.010846134817405319
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010734622125090082
-<http://www.yso.fi/onto/yso/p277>	muutos	0.009856721205752953
-<http://www.yso.fi/onto/yso/p183>	tutkimus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p6062>	pelit	0.5476583127436349
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.4705645336037582
+<http://www.yso.fi/onto/yso/p10268>	putoaminen	0.4229639626324859
+<http://www.yso.fi/onto/yso/p965>	urheilu	0.37249275556409617
+<http://www.yso.fi/onto/yso/p5437>	lopettaminen	0.24645370758273982
+<http://www.yso.fi/onto/yso/p15717>	jalkapalloilijat	0.16680507184418605
+<http://www.yso.fi/onto/yso/p6752>	syyt	0.13735290559836627
+<http://www.yso.fi/onto/yso/p6409>	jalkapallo	0.13334414003985767
+<http://www.yso.fi/onto/yso/p20550>	uimarit	0.1039392844589783
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.06176346465355361
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.05937076824762587
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.052245342049497455
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02993270460940573
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.02904921708471995
+<http://www.yso.fi/onto/yso/p261>	tieto	0.026070033416934018
+<http://www.yso.fi/onto/yso/p6192>	viitteet	0.021651129979441946
+<http://www.yso.fi/onto/yso/p2765>	lajit	0.020837225270873064
+<http://www.yso.fi/onto/yso/p277>	muutos	0.01986886979681643
+<http://www.yso.fi/onto/yso/p8850>	käsikirjastot	0.012197487441490795
+<http://www.yso.fi/onto/yso/p8571>	aloitus	0.011831370195302247
+<http://www.yso.fi/onto/yso/p26985>	asiasanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.003006254758466846
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.003006254758466846
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.0018518518518518517

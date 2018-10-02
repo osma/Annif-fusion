@@ -1,34 +1,34 @@
-<http://www.yso.fi/onto/yso/p24644>	runot	0.2963030444303172
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.15884338841005508
-<http://www.yso.fi/onto/yso/p27925>	spekulatiivinen fiktio	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14395>	luova kirjoittaminen	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14677>	banaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9756>	matkaoppaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3490>	runoilijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14600>	fiktio	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2045>	kustannustoiminta	0.05771181767713922
-<http://www.yso.fi/onto/yso/p19429>	klassikot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p159>	oppikirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.03029400569400569
-<http://www.yso.fi/onto/yso/p10861>	sarat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p22545>	saranat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5270>	avaimet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p18114>	listat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26771>	painokset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.016931513882039787
-<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.016542457256587376
-<http://www.yso.fi/onto/yso/p7319>	maailma	0.016542457256587376
-<http://www.yso.fi/onto/yso/p14004>	keskustelu	0.016542457256587376
-<http://www.yso.fi/onto/yso/p9610>	luominen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.6956422137332579
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.57734375
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.47255092504057916
+<http://www.yso.fi/onto/yso/p8970>	kirjailijat	0.35402097902097907
+<http://www.yso.fi/onto/yso/p24644>	runot	0.22593645029344386
+<http://www.yso.fi/onto/yso/p14395>	luova kirjoittaminen	0.21705937514292484
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.20805555555555558
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.17074991084562818
+<http://www.yso.fi/onto/yso/p2045>	kustannustoiminta	0.11334370817134098
+<http://www.yso.fi/onto/yso/p26771>	painokset	0.1043533948734231
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.0894528031579355
+<http://www.yso.fi/onto/yso/p159>	oppikirjat	0.08599679465850395
+<http://www.yso.fi/onto/yso/p3490>	runoilijat	0.08599679465850395
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.0511787052145483
+<http://www.yso.fi/onto/yso/p14600>	fiktio	0.0499703445352812
+<http://www.yso.fi/onto/yso/p27925>	spekulatiivinen fiktio	0.04702172638007042
+<http://www.yso.fi/onto/yso/p9756>	matkaoppaat	0.03503553607249458
+<http://www.yso.fi/onto/yso/p1148>	sarjakuvat	0.03292467339945953
+<http://www.yso.fi/onto/yso/p14677>	banaani	0.03260588465306599
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.024832949035427078
+<http://www.yso.fi/onto/yso/p5035>	kirjakaupat	0.024557299004267775
+<http://www.yso.fi/onto/yso/p19429>	klassikot	0.023350528383865386
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10861>	sarat	0.020101493903293344
+<http://www.yso.fi/onto/yso/p22545>	saranat	0.020101493903293344
+<http://www.yso.fi/onto/yso/p18114>	listat	0.01932931414585211
+<http://www.yso.fi/onto/yso/p9610>	luominen	0.0163748823063
+<http://www.yso.fi/onto/yso/p5270>	avaimet	0.01458609544649215
+<http://www.yso.fi/onto/yso/p7319>	maailma	0.008661113120089494
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.008661113120089494
+<http://www.yso.fi/onto/yso/p14004>	keskustelu	0.00693952370428542
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0030750305493884417

@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.38242828282828284
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.3574282828282828
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.3574282828282828
-<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7926>	riista	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7019>	kuvaajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4400>	alaikäiset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.03785933425186883
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2072>	luvat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p13854>	lainsäädäntö	0.02503108205100534
-<http://www.yso.fi/onto/yso/p26266>	haastattelijat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p12530>	joukot	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020674481861071816
-<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.020431639617679742
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.016931513882039787
-<http://www.yso.fi/onto/yso/p26700>	noudattaminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2856>	rajat	0.015429864862007283
-<http://www.yso.fi/onto/yso/p4511>	tulkinta	0.013117916496852369
-<http://www.yso.fi/onto/yso/p6121>	muutto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1149>	kuvat	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p18849>	ihminen	0.00984824300156032
-<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.00984824300156032
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00984824300156032
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.5383791035353535
+<http://www.yso.fi/onto/yso/p9583>	ohjeet	0.36956099456099456
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.28896187541667473
+<http://www.yso.fi/onto/yso/p11290>	lupiinit	0.2749253374938182
+<http://www.yso.fi/onto/yso/p1149>	kuvat	0.2551636833961246
+<http://www.yso.fi/onto/yso/p13854>	lainsäädäntö	0.1762472549938831
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.12882531147607473
+<http://www.yso.fi/onto/yso/p1021>	toimittajat	0.11617912187679628
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.08116328899025847
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.07650320127096023
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.07328976034858388
+<http://www.yso.fi/onto/yso/p4400>	alaikäiset	0.06648728765208026
+<http://www.yso.fi/onto/yso/p2072>	luvat	0.05475722455717891
+<http://www.yso.fi/onto/yso/p7019>	kuvaajat	0.04235664970526477
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04046422057616032
+<http://www.yso.fi/onto/yso/p2289>	lastensuojelu	0.03743327937291771
+<http://www.yso.fi/onto/yso/p26266>	haastattelijat	0.03720337968972091
+<http://www.yso.fi/onto/yso/p7926>	riista	0.027268219882451115
+<http://www.yso.fi/onto/yso/p4074>	vanhemmat	0.023610097100620644
+<http://www.yso.fi/onto/yso/p18849>	ihminen	0.021840989103965362
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.021840989103965362
+<http://www.yso.fi/onto/yso/p6121>	muutto	0.01990318856223533
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.018750610442148406
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.01804783166248724
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p4511>	tulkinta	0.016198736237821074
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p26700>	noudattaminen	0.01481434991179834
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p2856>	rajat	0.008450291946008338
+<http://www.yso.fi/onto/yso/p12530>	joukot	0.00693952370428542
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0030750305493884417

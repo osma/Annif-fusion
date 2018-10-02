@@ -1,16 +1,16 @@
-<http://www.yso.fi/onto/yso/p10083>	kunnat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p1691>	julkisyhteisöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p719>	kuntayhtymät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6920>	toimipaikat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p212>	virkamiehet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1187>	vuosikirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10144>	lukumäärä	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.02503108205100534
-<http://www.yso.fi/onto/yso/p13579>	taulukot	0.02503108205100534
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.015429864862007283
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.01468041649685237
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p719>	kuntayhtymät	0.8296666666666667
+<http://www.yso.fi/onto/yso/p1691>	julkisyhteisöt	0.5757602339181287
+<http://www.yso.fi/onto/yso/p1187>	vuosikirjat	0.5367326026226955
+<http://www.yso.fi/onto/yso/p10083>	kunnat	0.4797534349708263
+<http://www.yso.fi/onto/yso/p212>	virkamiehet	0.362069385912123
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.33728699551174646
+<http://www.yso.fi/onto/yso/p6920>	toimipaikat	0.24547121388507823
+<http://www.yso.fi/onto/yso/p10144>	lukumäärä	0.22032621761146412
+<http://www.yso.fi/onto/yso/p6819>	maakunnat	0.0982603825682277
+<http://www.yso.fi/onto/yso/p13579>	taulukot	0.0972639766345014
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.055148241613106275
+<http://www.yso.fi/onto/yso/p1548>	julkaisut	0.04142757848913464
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.025603709478054383
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.025603709478054383
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0032143653651324315

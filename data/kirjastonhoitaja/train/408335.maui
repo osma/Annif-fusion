@@ -1,35 +1,35 @@
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.19217672174338843
-<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.10985672120575295
-<http://www.yso.fi/onto/yso/p6190>	selkokirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10123>	antologiat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15356>	selkokieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1896>	romaanit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5797>	kielitaito	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4990>	tarinat	0.09859943763580127
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.09696067236067234
-<http://www.yso.fi/onto/yso/p22841>	valikoimat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7407>	sanastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2281>	luettelot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p7125>	tuuli	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04372423975345706
-<http://www.yso.fi/onto/yso/p20889>	enemmistöt	0.02558663760656089
-<http://www.yso.fi/onto/yso/p556>	kielet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2760>	sovitukset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020900544995290878
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p13197>	syvänteet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p20879>	ystävät	0.020674481861071816
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p810>	kädet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.016931513882039787
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.33448341357206995
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.23621677728287546
+<http://www.yso.fi/onto/yso/p15356>	selkokieli	0.16752516344158097
+<http://www.yso.fi/onto/yso/p5797>	kielitaito	0.1491997130382878
+<http://www.yso.fi/onto/yso/p6190>	selkokirjat	0.14212648272839795
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.09107722097875255
+<http://www.yso.fi/onto/yso/p7407>	sanastot	0.07179293782846062
+<http://www.yso.fi/onto/yso/p556>	kielet	0.055947235359368096
+<http://www.yso.fi/onto/yso/p10123>	antologiat	0.05416316346886126
+<http://www.yso.fi/onto/yso/p22538>	uusi romaani	0.04917530477920094
+<http://www.yso.fi/onto/yso/p1896>	romaanit	0.04917530477920094
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.04814538788916911
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04239014650208626
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04046422057616032
+<http://www.yso.fi/onto/yso/p2281>	luettelot	0.0389427067342161
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.031206589959724203
+<http://www.yso.fi/onto/yso/p7125>	tuuli	0.030991352313828147
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.025834095012657078
+<http://www.yso.fi/onto/yso/p4990>	tarinat	0.02544428742092007
+<http://www.yso.fi/onto/yso/p2760>	sovitukset	0.024643089910903658
+<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.01986886979681643
+<http://www.yso.fi/onto/yso/p18075>	suomenkieliset	0.019297239092890005
+<http://www.yso.fi/onto/yso/p20889>	enemmistöt	0.017671761362131014
+<http://www.yso.fi/onto/yso/p13197>	syvänteet	0.012904923937906636
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.008661113120089494
+<http://www.yso.fi/onto/yso/p6581>	toimivalta	0.00758153446175701
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.006623093681917211
+<http://www.yso.fi/onto/yso/p22841>	valikoimat	0.006623068008082889
+<http://www.yso.fi/onto/yso/p20879>	ystävät	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.002919388526042139

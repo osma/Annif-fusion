@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.4739550968757788
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.438743829270145
-<http://www.yso.fi/onto/yso/p5473>	koti	0.3574282828282828
-<http://www.yso.fi/onto/yso/p4604>	katovuodet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15812>	vuohi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6957>	orvot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10760>	nälkä	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6784>	talvi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1571>	sisarukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12279>	äidit	0.09859943763580127
-<http://www.yso.fi/onto/yso/p12270>	pako	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04372423975345706
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.03428973913371511
-<http://www.yso.fi/onto/yso/p3594>	vaatteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p5368>	esittely	0.02503108205100534
-<http://www.yso.fi/onto/yso/p7051>	esittelyt	0.02503108205100534
-<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.020900544995290878
-<http://www.yso.fi/onto/yso/p26771>	painokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.0173376586920422
-<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.016931513882039787
-<http://www.yso.fi/onto/yso/p2871>	synty	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.01577079092724847
-<http://www.yso.fi/onto/yso/p13685>	käyminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1571>	sisarukset	0.6887383557230555
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6394397351551957
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.39491334536110656
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.25828355998634633
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.2534983498349835
+<http://www.yso.fi/onto/yso/p6957>	orvot	0.2117481412130604
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.1476298335293208
+<http://www.yso.fi/onto/yso/p6784>	talvi	0.14115970836288722
+<http://www.yso.fi/onto/yso/p3594>	vaatteet	0.05481901872714132
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.0511787052145483
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04239014650208626
+<http://www.yso.fi/onto/yso/p20846>	muistaminen	0.0383640030305124
+<http://www.yso.fi/onto/yso/p4604>	katovuodet	0.031159189317233278
+<http://www.yso.fi/onto/yso/p5473>	koti	0.027378231072246084
+<http://www.yso.fi/onto/yso/p12279>	äidit	0.024181727804547068
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.023759610027220237
+<http://www.yso.fi/onto/yso/p10760>	nälkä	0.022852579080064377
+<http://www.yso.fi/onto/yso/p15812>	vuohi	0.022287050609925484
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p12270>	pako	0.01808574165584
+<http://www.yso.fi/onto/yso/p5368>	esittely	0.009092302703479927
+<http://www.yso.fi/onto/yso/p7051>	esittelyt	0.009092302703479927
+<http://www.yso.fi/onto/yso/p15594>	ruotsalaiset	0.008797325864389634
+<http://www.yso.fi/onto/yso/p25293>	uuden ajan alku	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p26771>	painokset	0.0035308210613349627
+<http://www.yso.fi/onto/yso/p2871>	synty	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p13685>	käyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0030750305493884417
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.003006254758466846

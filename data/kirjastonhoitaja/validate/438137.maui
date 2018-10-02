@@ -1,26 +1,26 @@
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1947074656337814
-<http://www.yso.fi/onto/yso/p18070>	sello	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6188>	helppolukuiset kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3580>	haku	0.05771181767713922
-<http://www.yso.fi/onto/yso/p9403>	varaukset	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15564>	sadut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18114>	listat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p556>	kielet	0.022236981861071817
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.020900544995290878
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.011003195540315773
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1149>	kuvat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p11808>	kuvakirjat	0.5367131887720122
+<http://www.yso.fi/onto/yso/p6188>	helppolukuiset kirjat	0.4869072571557359
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.4738694894286999
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.27888888888888885
+<http://www.yso.fi/onto/yso/p15564>	sadut	0.2732307767276234
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.1494233990936509
+<http://www.yso.fi/onto/yso/p2738>	kuvitus	0.09043914175008204
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.050506160719410685
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.04379755390949366
+<http://www.yso.fi/onto/yso/p1149>	kuvat	0.0389427067342161
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.03582853696219653
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.02418559971194599
+<http://www.yso.fi/onto/yso/p3157>	mukaelmat	0.023628739752273354
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.02258553725066855
+<http://www.yso.fi/onto/yso/p556>	kielet	0.022570209223654533
+<http://www.yso.fi/onto/yso/p18070>	sello	0.021848845075162444
+<http://www.yso.fi/onto/yso/p3580>	haku	0.02139857353948988
+<http://www.yso.fi/onto/yso/p18114>	listat	0.019297239092890005
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.008661113120089494
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.008661113120089494
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0032143653651324315
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.003006254758466846

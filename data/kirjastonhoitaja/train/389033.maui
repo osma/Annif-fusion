@@ -1,23 +1,23 @@
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.163627339027339
-<http://www.yso.fi/onto/yso/p16254>	ammattikorkeakoulukirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7747>	erikoiskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p1130>	työaika	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p10582>	WWW	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18114>	listat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p8522>	paperi	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.016931513882039787
-<http://www.yso.fi/onto/yso/p261>	tieto	0.013468844487262219
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.5905025868440503
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.30105943017422415
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.29381985359689133
+<http://www.yso.fi/onto/yso/p7747>	erikoiskirjastot	0.2058693156760773
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.19601144031539675
+<http://www.yso.fi/onto/yso/p16254>	ammattikorkeakoulukirjastot	0.1600327006219918
+<http://www.yso.fi/onto/yso/p1130>	työaika	0.09577061332314663
+<http://www.yso.fi/onto/yso/p8441>	tiedostot	0.04871167590293459
+<http://www.yso.fi/onto/yso/p4050>	WWW-sivut	0.04761673658569932
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.03332672094251636
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.03170010443173127
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p18114>	listat	0.02031748147412766
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.018827349900001962
+<http://www.yso.fi/onto/yso/p261>	tieto	0.012357820705718977
+<http://www.yso.fi/onto/yso/p8522>	paperi	0.011372654598971972
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p10582>	WWW	0.0031873957634987703

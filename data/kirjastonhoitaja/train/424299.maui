@@ -1,20 +1,20 @@
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.2234888888888889
-<http://www.yso.fi/onto/yso/p11259>	kauppalat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7518>	kunnallishallinto	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p5256>	valtuustot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9378>	torit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8646>	kirjeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8317>	kadut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12048>	itsenäisyyden aika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p24639>	kertomukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.09424283744586774
-<http://www.yso.fi/onto/yso/p21856>	nimeäminen	0.046993943750709144
-<http://www.yso.fi/onto/yso/p1780>	historia	0.031932770969134605
-<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.02558663760656089
-<http://www.yso.fi/onto/yso/p15923>	toimenpiteet	0.02558663760656089
-<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.02558663760656089
-<http://www.yso.fi/onto/yso/p562>	esittäminen	0.016931513882039787
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.016931513882039787
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
+<http://www.yso.fi/onto/yso/p8317>	kadut	0.658598137973138
+<http://www.yso.fi/onto/yso/p5256>	valtuustot	0.4271246913352177
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.34266973334832584
+<http://www.yso.fi/onto/yso/p13862>	kaupunginvaltuustot	0.28450564371617
+<http://www.yso.fi/onto/yso/p12048>	itsenäisyyden aika	0.27303550613250005
+<http://www.yso.fi/onto/yso/p7518>	kunnallishallinto	0.10907025335747796
+<http://www.yso.fi/onto/yso/p11228>	talousarviot	0.10907025335747796
+<http://www.yso.fi/onto/yso/p8646>	kirjeet	0.10886526756007155
+<http://www.yso.fi/onto/yso/p12187>	pienet valtiot	0.09434798860035362
+<http://www.yso.fi/onto/yso/p11259>	kauppalat	0.08331221587119762
+<http://www.yso.fi/onto/yso/p24639>	kertomukset	0.06904091451166039
+<http://www.yso.fi/onto/yso/p9378>	torit	0.0651192947085337
+<http://www.yso.fi/onto/yso/p15923>	toimenpiteet	0.0651192947085337
+<http://www.yso.fi/onto/yso/p1780>	historia	0.058567661658638304
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.05436300446948
+<http://www.yso.fi/onto/yso/p2700>	julkaisutoiminta	0.052838589696433846
+<http://www.yso.fi/onto/yso/p21856>	nimeäminen	0.04867733017046518
+<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.02494181413586404
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p562>	esittäminen	0.003410180719352827

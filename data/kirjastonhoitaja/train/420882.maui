@@ -1,32 +1,31 @@
-<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.15807178347178347
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p21853>	MP3	0.1092804451281196
-<http://www.yso.fi/onto/yso/p830>	opiskelijajärjestöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20573>	kasvatustieteilijät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p7238>	studiot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2949>	tallennus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2701>	vuokrat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p95>	nauhurit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.09478667950556495
-<http://www.yso.fi/onto/yso/p4362>	matkapuhelimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p838>	palvelut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.04760000435676974
-<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.04760000435676974
-<http://www.yso.fi/onto/yso/p7110>	soittimet	0.037488326524690155
-<http://www.yso.fi/onto/yso/p10366>	ostaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3291>	sanat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p17058>	yhdistäminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p20691>	itsensä toteuttaminen	0.011419221205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.011003195540315773
-<http://www.yso.fi/onto/yso/p15063>	tee	0.011003195540315773
-<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.010201941561365137
-<http://www.yso.fi/onto/yso/p23615>	toteutus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.00984824300156032
+<http://www.yso.fi/onto/yso/p95>	nauhurit	0.8581599242261007
+<http://www.yso.fi/onto/yso/p2949>	tallennus	0.45323688604924584
+<http://www.yso.fi/onto/yso/p17111>	haastattelut	0.19637576439922072
+<http://www.yso.fi/onto/yso/p2701>	vuokrat	0.15612652084676126
+<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.14127013865793742
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.11938609289774352
+<http://www.yso.fi/onto/yso/p10366>	ostaminen	0.11733929927882378
+<http://www.yso.fi/onto/yso/p27010>	pro gradu -tutkielmat	0.10355789624871461
+<http://www.yso.fi/onto/yso/p830>	opiskelijajärjestöt	0.07965924783466795
+<http://www.yso.fi/onto/yso/p7238>	studiot	0.06946356508079501
+<http://www.yso.fi/onto/yso/p20573>	kasvatustieteilijät	0.05968887127384507
+<http://www.yso.fi/onto/yso/p3291>	sanat	0.058692043256040015
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.05393415551280426
+<http://www.yso.fi/onto/yso/p4362>	matkapuhelimet	0.0513867035369666
+<http://www.yso.fi/onto/yso/p12927>	haikalat	0.04522259941955077
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.034101914740965966
+<http://www.yso.fi/onto/yso/p21853>	MP3	0.020203406931751267
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.01804783166248724
+<http://www.yso.fi/onto/yso/p20691>	itsensä toteuttaminen	0.015456360669269928
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p23615>	toteutus	0.01522810620396374
+<http://www.yso.fi/onto/yso/p16486>	opiskelijat	0.011438099084399644
+<http://www.yso.fi/onto/yso/p7110>	soittimet	0.011027282053329444
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.00849138712788076
+<http://www.yso.fi/onto/yso/p17058>	yhdistäminen	0.00693952370428542
+<http://www.yso.fi/onto/yso/p5541>	mahdollisuus	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.003006254758466846
+<http://www.yso.fi/onto/yso/p15063>	tee	0.003006254758466846

@@ -1,29 +1,28 @@
-<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.3296363777636505
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.2580717834717835
-<http://www.yso.fi/onto/yso/p1780>	historia	0.231289270325634
-<http://www.yso.fi/onto/yso/p1117>	opettajat	0.15807178347178347
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p20073>	kirjavinkkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p157>	oppimateriaali	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.09217672174338841
-<http://www.yso.fi/onto/yso/p9239>	huumori	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18114>	listat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p3613>	suosio	0.04760000435676974
-<http://www.yso.fi/onto/yso/p9649>	lukijat	0.037488326524690155
-<http://www.yso.fi/onto/yso/p3574>	raha	0.02558663760656089
-<http://www.yso.fi/onto/yso/p10074>	rahat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p26009>	laadinta	0.02503108205100534
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1726>	usko	0.02029448438923027
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.016542457256587376
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.015369013882039786
-<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.013117916496852369
-<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4>	kaunokirjallisuus	0.7498721708399129
+<http://www.yso.fi/onto/yso/p20073>	kirjavinkkaus	0.5585113514658352
+<http://www.yso.fi/onto/yso/p12202>	tietokirjallisuus	0.4958236208236208
+<http://www.yso.fi/onto/yso/p9239>	huumori	0.3844593603878439
+<http://www.yso.fi/onto/yso/p1780>	historia	0.3632285433242607
+<http://www.yso.fi/onto/yso/p3574>	raha	0.19891213584471984
+<http://www.yso.fi/onto/yso/p10074>	rahat	0.19891213584471984
+<http://www.yso.fi/onto/yso/p157>	oppimateriaali	0.18494696801830868
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.16610112702933172
+<http://www.yso.fi/onto/yso/p1117>	opettajat	0.07590312658353698
+<http://www.yso.fi/onto/yso/p3613>	suosio	0.032991466038282014
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.025603709478054383
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.02031748147412766
+<http://www.yso.fi/onto/yso/p18114>	listat	0.02031748147412766
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p8113>	kirjallisuus	0.018827349900001962
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.01538017825118658
+<http://www.yso.fi/onto/yso/p9649>	lukijat	0.014956060020489917
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.00939385499440685
+<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.008595444478038644
+<http://www.yso.fi/onto/yso/p10081>	selvänäkö	0.005879415414749867
+<http://www.yso.fi/onto/yso/p1726>	usko	0.004775151238067598
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344

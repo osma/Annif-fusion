@@ -1,28 +1,28 @@
-<http://www.yso.fi/onto/yso/p8173>	miehet	0.25884338841005505
-<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.2580717834717835
-<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.163627339027339
-<http://www.yso.fi/onto/yso/p17308>	alkuperäiskielet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p286>	erisnimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9588>	kääntäjät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14780>	latinan kieli	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11616>	teini-ikäiset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1040>	sankarit	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p15514>	murrosikä	0.05771181767713922
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.04760000435676974
-<http://www.yso.fi/onto/yso/p11617>	nuoret	0.04372423975345706
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.02558663760656089
-<http://www.yso.fi/onto/yso/p8689>	identifiointi	0.02503108205100534
-<http://www.yso.fi/onto/yso/p556>	kielet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p3168>	elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.016542457256587376
-<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.016542457256587376
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1568>	luvut	0.011419221205752953
-<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1060>	oleva	0.009856721205752953
-<http://www.yso.fi/onto/yso/p4389>	oleminen	0.009856721205752953
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.6984602029914531
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.5868553833530967
+<http://www.yso.fi/onto/yso/p11616>	teini-ikäiset	0.4646645021645022
+<http://www.yso.fi/onto/yso/p9588>	kääntäjät	0.31749358668386907
+<http://www.yso.fi/onto/yso/p17308>	alkuperäiskielet	0.2030024242434026
+<http://www.yso.fi/onto/yso/p14780>	latinan kieli	0.1685259345411536
+<http://www.yso.fi/onto/yso/p15514>	murrosikä	0.16628375508785181
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.14518110282163219
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.12817596082672406
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p1045>	hyvä elämä	0.1225172464477962
+<http://www.yso.fi/onto/yso/p2717>	päiväkirjat	0.08840266797720903
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.07733948248246043
+<http://www.yso.fi/onto/yso/p1040>	sankarit	0.061672102000051444
+<http://www.yso.fi/onto/yso/p286>	erisnimet	0.06011463492707643
+<http://www.yso.fi/onto/yso/p28978>	aiemmat elämät	0.0389427067342161
+<http://www.yso.fi/onto/yso/p8173>	miehet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p1688>	kaupungit	0.019297239092890005
+<http://www.yso.fi/onto/yso/p556>	kielet	0.017898201866368025
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p8689>	identifiointi	0.012323528589069429
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.008661113120089494
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.006829539339224706
+<http://www.yso.fi/onto/yso/p1060>	oleva	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1568>	luvut	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p4389>	oleminen	0.0033700073884787344

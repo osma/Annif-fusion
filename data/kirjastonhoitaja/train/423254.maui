@@ -1,17 +1,17 @@
-<http://www.yso.fi/onto/yso/p824>	hoito	0.29795593699230066
-<http://www.yso.fi/onto/yso/p1958>	fibromyalgia	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9707>	sumu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10516>	fysiatria	0.1092804451281196
-<http://www.yso.fi/onto/yso/p4705>	lainat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8357>	potilaat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9403>	varaukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.05771181767713922
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1638>	nimet	0.020900544995290878
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.020674481861071816
-<http://www.yso.fi/onto/yso/p9979>	paikka	0.020674481861071816
-<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.016931513882039787
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011419221205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p4705>	lainat	0.4307106210682182
+<http://www.yso.fi/onto/yso/p1958>	fibromyalgia	0.35867799150481666
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.30312243594926114
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.26067483762540933
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.16561380037824083
+<http://www.yso.fi/onto/yso/p10516>	fysiatria	0.15380454721841155
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.14742889581729612
+<http://www.yso.fi/onto/yso/p8357>	potilaat	0.09050263744016669
+<http://www.yso.fi/onto/yso/p1638>	nimet	0.08154301276324497
+<http://www.yso.fi/onto/yso/p9707>	sumu	0.0796229314811346
+<http://www.yso.fi/onto/yso/p9979>	paikka	0.06527663430879967
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.04102348352828776
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.03778516576784997
+<http://www.yso.fi/onto/yso/p824>	hoito	0.035815011011830745
+<http://www.yso.fi/onto/yso/p261>	tieto	0.016275214730997432
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0019503267047542862

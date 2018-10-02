@@ -1,30 +1,30 @@
-<http://www.yso.fi/onto/yso/p4997>	ekosysteemit	0.39630304443031716
-<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p23548>	OpenDocument	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1756>	kasvillisuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13>	ympäristönsuojelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3327>	levät	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3938>	ravinteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1157>	vesistöt	0.1092804451281196
-<http://www.yso.fi/onto/yso/p22952>	Google	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3792>	vesi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11509>	rehevöityminen	0.10867438452205902
-<http://www.yso.fi/onto/yso/p7758>	tasapaino	0.10415499319135683
-<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5454>	metsät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p24015>	linkit	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.0270575730867904
-<http://www.yso.fi/onto/yso/p156>	kirjat	0.02503108205100534
-<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.020674481861071816
-<http://www.yso.fi/onto/yso/p11861>	maapallo	0.020674481861071816
-<http://www.yso.fi/onto/yso/p817>	tulevaisuus	0.016931513882039787
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.016931513882039787
-<http://www.yso.fi/onto/yso/p27940>	itsensä johtaminen	0.014979957256587375
-<http://www.yso.fi/onto/yso/p189>	johtimet	0.014979957256587375
-<http://www.yso.fi/onto/yso/p6033>	ympäristö	0.013867364862007283
-<http://www.yso.fi/onto/yso/p554>	johtaminen	0.012801460800649837
-<http://www.yso.fi/onto/yso/p5789>	kasvu	0.011410743001560319
-<http://www.yso.fi/onto/yso/p277>	muutos	0.00984824300156032
+<http://www.yso.fi/onto/yso/p11509>	rehevöityminen	0.779496920563097
+<http://www.yso.fi/onto/yso/p27940>	itsensä johtaminen	0.37670461315700454
+<http://www.yso.fi/onto/yso/p1157>	vesistöt	0.3615405798399348
+<http://www.yso.fi/onto/yso/p2104>	kirjaimet	0.3391594222307629
+<http://www.yso.fi/onto/yso/p13>	ympäristönsuojelu	0.19840606224463697
+<http://www.yso.fi/onto/yso/p554>	johtaminen	0.19389805790519382
+<http://www.yso.fi/onto/yso/p3938>	ravinteet	0.13613236092243236
+<http://www.yso.fi/onto/yso/p3792>	vesi	0.11229380394351998
+<http://www.yso.fi/onto/yso/p189>	johtimet	0.0884137972115842
+<http://www.yso.fi/onto/yso/p16417>	kirjoittimet	0.07229979448816784
+<http://www.yso.fi/onto/yso/p4997>	ekosysteemit	0.07229979448816784
+<http://www.yso.fi/onto/yso/p3327>	levät	0.06565096516413918
+<http://www.yso.fi/onto/yso/p5454>	metsät	0.05327469982752721
+<http://www.yso.fi/onto/yso/p7758>	tasapaino	0.044517547827949755
+<http://www.yso.fi/onto/yso/p1756>	kasvillisuus	0.0410613383377016
+<http://www.yso.fi/onto/yso/p6033>	ympäristö	0.03514519598410031
+<http://www.yso.fi/onto/yso/p156>	kirjat	0.028340721323405538
+<http://www.yso.fi/onto/yso/p817>	tulevaisuus	0.028147424860526692
+<http://www.yso.fi/onto/yso/p23548>	OpenDocument	0.02655125396255385
+<http://www.yso.fi/onto/yso/p277>	muutos	0.024643089910903658
+<http://www.yso.fi/onto/yso/p27206>	esineiden internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.022923785392730458
+<http://www.yso.fi/onto/yso/p2512>	kirjoittaminen	0.02139857353948988
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p5789>	kasvu	0.008978674464207023
+<http://www.yso.fi/onto/yso/p11861>	maapallo	0.00429519226706251
+<http://www.yso.fi/onto/yso/p22952>	Google	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27357>	hakusanat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p24015>	linkit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21755>	kolmannet maat	0.0019503267047542862

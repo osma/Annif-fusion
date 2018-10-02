@@ -1,24 +1,24 @@
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.2956969838242566
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.2956969838242566
-<http://www.yso.fi/onto/yso/p20405>	Internet	0.2580717834717835
-<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14833>	kopiot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6230>	paikannus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.10867438452205902
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.108351758070098
-<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04760000435676974
-<http://www.yso.fi/onto/yso/p2563>	ulkomaat	0.04760000435676974
-<http://www.yso.fi/onto/yso/p5412>	kääntymys	0.02503108205100534
-<http://www.yso.fi/onto/yso/p6546>	aineistot	0.011419221205752953
-<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009856721205752953
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.7493206212660958
+<http://www.yso.fi/onto/yso/p8430>	kaukopalvelu	0.669121689300438
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.3290206000606441
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.24165615227360351
+<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.2166666666666667
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.12541734571725666
+<http://www.yso.fi/onto/yso/p20405>	Internet	0.12436097436449041
+<http://www.yso.fi/onto/yso/p14833>	kopiot	0.06268256632086444
+<http://www.yso.fi/onto/yso/p19136>	tieteelliset kirjastot	0.04924642849759094
+<http://www.yso.fi/onto/yso/p18011>	yksityisetsivät	0.04773988693554522
+<http://www.yso.fi/onto/yso/p9275>	keskuskirjastot	0.04500236740743718
+<http://www.yso.fi/onto/yso/p21890>	rikosetsivät	0.027851156045699505
+<http://www.yso.fi/onto/yso/p6230>	paikannus	0.02655125396255385
+<http://www.yso.fi/onto/yso/p6546>	aineistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p10895>	yliopistot	0.020588072738728067
+<http://www.yso.fi/onto/yso/p11141>	yhteystiedot	0.019297239092890005
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.008661113120089494
+<http://www.yso.fi/onto/yso/p2563>	ulkomaat	0.008390821799348986
+<http://www.yso.fi/onto/yso/p5412>	kääntymys	0.00758153446175701
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6007>	ajattelu	0.0032143653651324315

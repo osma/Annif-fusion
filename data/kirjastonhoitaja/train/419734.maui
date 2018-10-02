@@ -1,29 +1,29 @@
-<http://www.yso.fi/onto/yso/p12751>	sähköasentajat	0.4510459336591908
-<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.29795593699230066
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p9165>	autonomia	0.2181347977787606
-<http://www.yso.fi/onto/yso/p2008>	palkat	0.156177070013057
-<http://www.yso.fi/onto/yso/p17860>	automaatioasentajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15879>	palkankorotus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p15719>	korjaajat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13554>	aikapalkka	0.1092804451281196
-<http://www.yso.fi/onto/yso/p2245>	työehtosopimukset	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18317>	kehityskeskustelut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11520>	yksityinen sektori	0.1092804451281196
-<http://www.yso.fi/onto/yso/p14537>	vaativuus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p13098>	palkkaus	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1130>	työaika	0.1092804451281196
-<http://www.yso.fi/onto/yso/p6901>	kolmas sektori	0.05771181767713922
-<http://www.yso.fi/onto/yso/p22867>	käytävät	0.05771181767713922
-<http://www.yso.fi/onto/yso/p14651>	euro	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12225>	keskiarvot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p11264>	maksa	0.02558663760656089
-<http://www.yso.fi/onto/yso/p6567>	sijoitus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.020900544995290878
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.011419221205752953
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.011410743001560319
-<http://www.yso.fi/onto/yso/p14935>	lähteet	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p1810>	työ	0.009815988008196946
+<http://www.yso.fi/onto/yso/p13098>	palkkaus	0.7063186813186813
+<http://www.yso.fi/onto/yso/p17860>	automaatioasentajat	0.6644932844932845
+<http://www.yso.fi/onto/yso/p12751>	sähköasentajat	0.46277773024157903
+<http://www.yso.fi/onto/yso/p12225>	keskiarvot	0.40068709998645496
+<http://www.yso.fi/onto/yso/p9165>	autonomia	0.323724799206656
+<http://www.yso.fi/onto/yso/p1130>	työaika	0.3158190049718978
+<http://www.yso.fi/onto/yso/p2008>	palkat	0.2512358378695012
+<http://www.yso.fi/onto/yso/p2245>	työehtosopimukset	0.2506995484283786
+<http://www.yso.fi/onto/yso/p6901>	kolmas sektori	0.22026400624585238
+<http://www.yso.fi/onto/yso/p15879>	palkankorotus	0.21719420291147587
+<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.1399883760622796
+<http://www.yso.fi/onto/yso/p14537>	vaativuus	0.09691265106921743
+<http://www.yso.fi/onto/yso/p18317>	kehityskeskustelut	0.08331221587119762
+<http://www.yso.fi/onto/yso/p11520>	yksityinen sektori	0.07732105809897465
+<http://www.yso.fi/onto/yso/p22867>	käytävät	0.07140943232321259
+<http://www.yso.fi/onto/yso/p15719>	korjaajat	0.07140943232321259
+<http://www.yso.fi/onto/yso/p14651>	euro	0.06607308919668142
+<http://www.yso.fi/onto/yso/p13554>	aikapalkka	0.06395967544034091
+<http://www.yso.fi/onto/yso/p1810>	työ	0.0572252465638499
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03535297115779807
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.01977085282338606
+<http://www.yso.fi/onto/yso/p14935>	lähteet	0.016275214730997432
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015295891026549718
+<http://www.yso.fi/onto/yso/p6567>	sijoitus	0.009583867739164118
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.006880053557626067
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11264>	maksa	0.0032143653651324315

@@ -1,74 +1,73 @@
-<http://www.yso.fi/onto/yso/p8500>	hengellinen musiikki	0.3296363777636505
-<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.2963030444303172
-<http://www.yso.fi/onto/yso/p4934>	museot	0.19913395674721396
-<http://www.yso.fi/onto/yso/p5473>	koti	0.19217672174338843
-<http://www.yso.fi/onto/yso/p19521>	ääniarkistot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p3176>	laulukirjat	0.1092804451281196
-<http://www.yso.fi/onto/yso/p8488>	maakuntalaulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p11105>	tekninen toimi	0.1092804451281196
-<http://www.yso.fi/onto/yso/p28417>	lapsikuorot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18718>	lastenmusiikki	0.1092804451281196
-<http://www.yso.fi/onto/yso/p1715>	äänimaisema	0.1092804451281196
-<http://www.yso.fi/onto/yso/p18715>	lastenlaulut	0.1092804451281196
-<http://www.yso.fi/onto/yso/p10802>	musiikkiliikkeet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p419>	joulu	0.1092804451281196
-<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.1092804451281196
-<http://www.yso.fi/onto/yso/p26641>	koulumuseot	0.10867438452205902
-<http://www.yso.fi/onto/yso/p2428>	laulaminen	0.10415499319135683
-<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.09424283744586774
-<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.09424283744586774
-<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.09424283744586774
-<http://www.yso.fi/onto/yso/p1808>	musiikki	0.09217672174338841
-<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.09217672174338841
-<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.09217672174338841
-<http://www.yso.fi/onto/yso/p1780>	historia	0.08817829223255524
-<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.07806737452424171
-<http://www.yso.fi/onto/yso/p15344>	jakelutiet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p18434>	taidemusiikki	0.05771181767713922
-<http://www.yso.fi/onto/yso/p6600>	levitys	0.05771181767713922
-<http://www.yso.fi/onto/yso/p638>	palvelimet	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2966>	nuottijulkaisut	0.05771181767713922
-<http://www.yso.fi/onto/yso/p5121>	näyttelyt	0.05771181767713922
-<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2787>	kirjastot	0.05771181767713922
-<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.04760000435676974
-<http://www.yso.fi/onto/yso/p6388>	avanteet	0.04057727763599402
-<http://www.yso.fi/onto/yso/p27610>	ISBN	0.02558663760656089
-<http://www.yso.fi/onto/yso/p2371>	laulut	0.02558663760656089
-<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02558663760656089
-<http://www.yso.fi/onto/yso/p3580>	haku	0.02503108205100534
-<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.02503108205100534
-<http://www.yso.fi/onto/yso/p405>	sukulaiset	0.02503108205100534
-<http://www.yso.fi/onto/yso/p859>	saatavuus	0.02503108205100534
-<http://www.yso.fi/onto/yso/p25394>	laajuus	0.022236981861071817
-<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.022236981861071817
-<http://www.yso.fi/onto/yso/p8195>	kesä	0.020674481861071816
-<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.020674481861071816
-<http://www.yso.fi/onto/yso/p20503>	lehti	0.020674481861071816
-<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.01577079092724847
-<http://www.yso.fi/onto/yso/p2762>	terveys	0.015256256150081023
-<http://www.yso.fi/onto/yso/p2344>	teokset	0.01468041649685237
-<http://www.yso.fi/onto/yso/p12471>	käsineet	0.011447811013486497
-<http://www.yso.fi/onto/yso/p810>	kädet	0.011447811013486497
-<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.011447811013486497
-<http://www.yso.fi/onto/yso/p3403>	aiheet	0.011419221205752953
-<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.011419221205752953
-<http://www.yso.fi/onto/yso/p1736>	käyttö	0.011419221205752953
-<http://www.yso.fi/onto/yso/p261>	tieto	0.010190010641896115
-<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.009885311013486497
-<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.009885311013486497
-<http://www.yso.fi/onto/yso/p6895>	kerronta	0.009885311013486497
-<http://www.yso.fi/onto/yso/p1202>	vuosi	0.009885311013486497
-<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.009885311013486497
-<http://www.yso.fi/onto/yso/p13991>	toimet	0.009885311013486497
-<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.009885311013486497
-<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.009885311013486497
-<http://www.yso.fi/onto/yso/p5197>	osat	0.009885311013486497
-<http://www.yso.fi/onto/yso/p11370>	osingot	0.009885311013486497
-<http://www.yso.fi/onto/yso/p15063>	tee	0.009885311013486497
-<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00987683280929386
-<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.009856721205752953
-<http://www.yso.fi/onto/yso/p22018>	saappaat	0.009856721205752953
-<http://www.yso.fi/onto/yso/p9461>	saatavat	0.009856721205752953
+<http://www.yso.fi/onto/yso/p18718>	lastenmusiikki	0.42770149310946276
+<http://www.yso.fi/onto/yso/p18715>	lastenlaulut	0.38208654975469586
+<http://www.yso.fi/onto/yso/p12687>	äänitteet	0.34554338466096474
+<http://www.yso.fi/onto/yso/p419>	joulu	0.3369214806650128
+<http://www.yso.fi/onto/yso/p4934>	museot	0.2529213439797661
+<http://www.yso.fi/onto/yso/p3176>	laulukirjat	0.21944633544825298
+<http://www.yso.fi/onto/yso/p2371>	laulut	0.19429049723861042
+<http://www.yso.fi/onto/yso/p1808>	musiikki	0.17012383057194377
+<http://www.yso.fi/onto/yso/p1780>	historia	0.1322175852002694
+<http://www.yso.fi/onto/yso/p26641>	koulumuseot	0.11484013582540833
+<http://www.yso.fi/onto/yso/p28417>	lapsikuorot	0.060509673350554495
+<http://www.yso.fi/onto/yso/p2964>	tiedonhaku	0.058260151290823604
+<http://www.yso.fi/onto/yso/p2966>	nuottijulkaisut	0.05486266175107464
+<http://www.yso.fi/onto/yso/p8500>	hengellinen musiikki	0.05440420313010945
+<http://www.yso.fi/onto/yso/p8488>	maakuntalaulut	0.05024569517833607
+<http://www.yso.fi/onto/yso/p638>	palvelimet	0.04676323025291947
+<http://www.yso.fi/onto/yso/p11105>	tekninen toimi	0.043171962029649215
+<http://www.yso.fi/onto/yso/p10802>	musiikkiliikkeet	0.040461711948399454
+<http://www.yso.fi/onto/yso/p3929>	tehtävät	0.0383640030305124
+<http://www.yso.fi/onto/yso/p19521>	ääniarkistot	0.03807127211728673
+<http://www.yso.fi/onto/yso/p1715>	äänimaisema	0.03807127211728673
+<http://www.yso.fi/onto/yso/p15344>	jakelutiet	0.03807127211728673
+<http://www.yso.fi/onto/yso/p2356>	ainoa lapsi	0.03802488621022045
+<http://www.yso.fi/onto/yso/p5121>	näyttelyt	0.03617647839162057
+<http://www.yso.fi/onto/yso/p18434>	taidemusiikki	0.034869353498802894
+<http://www.yso.fi/onto/yso/p602>	Musiikin aika	0.033721409216881694
+<http://www.yso.fi/onto/yso/p1255>	aikakauslehdet	0.033721409216881694
+<http://www.yso.fi/onto/yso/p3056>	tietokannat	0.03174967284084336
+<http://www.yso.fi/onto/yso/p12257>	nykymusiikki	0.030832395301340364
+<http://www.yso.fi/onto/yso/p12676>	kokoelmat	0.03078299271311428
+<http://www.yso.fi/onto/yso/p11600>	perustaminen	0.026173852261105753
+<http://www.yso.fi/onto/yso/p2421>	sanomalehdet	0.026121121743941007
+<http://www.yso.fi/onto/yso/p6600>	levitys	0.02386898930414384
+<http://www.yso.fi/onto/yso/p859>	saatavuus	0.023610097100620644
+<http://www.yso.fi/onto/yso/p3180>	suomalaiset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.021762145515279756
+<http://www.yso.fi/onto/yso/p1689>	pääkaupunkiseutu	0.02139857353948988
+<http://www.yso.fi/onto/yso/p2762>	terveys	0.02104475420140039
+<http://www.yso.fi/onto/yso/p1202>	vuosi	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3403>	aiheet	0.020588072738728067
+<http://www.yso.fi/onto/yso/p3580>	haku	0.01989954926878964
+<http://www.yso.fi/onto/yso/p405>	sukulaiset	0.019534785706249457
+<http://www.yso.fi/onto/yso/p20503>	lehti	0.019297239092890005
+<http://www.yso.fi/onto/yso/p2422>	lehdistö	0.019297239092890005
+<http://www.yso.fi/onto/yso/p10187>	osoitteet	0.019089048468027836
+<http://www.yso.fi/onto/yso/p1736>	käyttö	0.01708571553175924
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.016275214730997432
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.01614528748856063
+<http://www.yso.fi/onto/yso/p25394>	laajuus	0.015171593610578512
+<http://www.yso.fi/onto/yso/p261>	tieto	0.015034192458523846
+<http://www.yso.fi/onto/yso/p16658>	yleiset kirjastot	0.014931297055462391
+<http://www.yso.fi/onto/yso/p8195>	kesä	0.011438099084399644
+<http://www.yso.fi/onto/yso/p2428>	laulaminen	0.011242464661296334
+<http://www.yso.fi/onto/yso/p5473>	koti	0.011027282053329444
+<http://www.yso.fi/onto/yso/p6388>	avanteet	0.009987104135004556
+<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.009232743824015916
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.008661113120089494
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.008661113120089494
+<http://www.yso.fi/onto/yso/p3843>	avustustoiminta	0.00849138712788076
+<http://www.yso.fi/onto/yso/p13991>	toimet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p810>	kädet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p12471>	käsineet	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p27610>	ISBN	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p23364>	liittyminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p19859>	vanha aika	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p5197>	osat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p11370>	osingot	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p21199>	tekeminen	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p15063>	tee	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p22018>	saappaat	0.0033700073884787344
+<http://www.yso.fi/onto/yso/p9461>	saatavat	0.0033700073884787344
