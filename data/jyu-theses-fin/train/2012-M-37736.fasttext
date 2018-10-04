@@ -1,0 +1,1000 @@
+<http://www.yso.fi/onto/yso/p338>	kuntoutuminen	0.00781464949038557
+<http://www.yso.fi/onto/yso/p3320>	kuntoutus	0.0075426002632329155
+<http://www.yso.fi/onto/yso/p23131>	kuntoutujat	0.007079315626337616
+<http://www.yso.fi/onto/yso/p21615>	sosiaalinen toimintakyky	0.006098208593638529
+<http://www.yso.fi/onto/yso/p10213>	toimintakyky	0.005977589886804874
+<http://www.yso.fi/onto/yso/p10759>	elämänlaatu	0.0058900059465403585
+<http://www.yso.fi/onto/yso/p22039>	arki	0.004717062769023786
+<http://www.yso.fi/onto/yso/p3319>	ammatillinen kuntoutus	0.004595084545541216
+<http://www.yso.fi/onto/yso/p9050>	palveluasunnot	0.004552900060397489
+<http://www.yso.fi/onto/yso/p9053>	palvelukodit	0.004092310115811415
+<http://www.yso.fi/onto/yso/p24516>	voimaantuminen	0.003966827782675285
+<http://www.yso.fi/onto/yso/p12297>	mielenterveyskuntoutujat	0.003935523401014507
+<http://www.yso.fi/onto/yso/p8540>	kuntoutuslaitokset	0.0038303859785876492
+<http://www.yso.fi/onto/yso/p10716>	ryhmäkuntoutus	0.0037696683763484046
+<http://www.yso.fi/onto/yso/p16282>	kuntoutuspalvelut	0.0032396984694059937
+<http://www.yso.fi/onto/yso/p21689>	mielenterveyskuntoutus	0.003200605957747691
+<http://www.yso.fi/onto/yso/p7086>	avopalvelut	0.003199307277364741
+<http://www.yso.fi/onto/yso/p8180>	kuntoutusohjaajat	0.0030727772163862193
+<http://www.yso.fi/onto/yso/p5107>	sosiaalinen kuntoutus	0.0030171795301033523
+<http://www.yso.fi/onto/yso/p17316>	hoitokodit	0.0030052475877296687
+<http://www.yso.fi/onto/yso/p10515>	fysioterapia	0.00282987300676971
+<http://www.yso.fi/onto/yso/p9051>	palvelutalot	0.002801057507696731
+<http://www.yso.fi/onto/yso/p4633>	palveluketjut	0.0027430238604376263
+<http://www.yso.fi/onto/yso/p16612>	perhekuntoutus	0.002735486362838525
+<http://www.yso.fi/onto/yso/p6653>	ICF	0.002734310236568986
+<http://www.yso.fi/onto/yso/p2433>	ikääntyneet	0.002657983487006277
+<http://www.yso.fi/onto/yso/p4980>	toimintaterapia	0.0026061489260014656
+<http://www.yso.fi/onto/yso/p19352>	resurssit	0.002577210048912093
+<http://www.yso.fi/onto/yso/p6472>	asumispalvelut	0.0024207444970009173
+<http://www.yso.fi/onto/yso/p20240>	fenomenografia	0.0023631480199665846
+<http://www.yso.fi/onto/yso/p10626>	psyyke	0.0022731741033071144
+<http://www.yso.fi/onto/yso/p10270>	suoriutuminen	0.0022473042510682715
+<http://www.yso.fi/onto/yso/p6032>	hoitoyhteisöt	0.002210995745686391
+<http://www.yso.fi/onto/yso/p6448>	vanhustyö	0.002135957706063478
+<http://www.yso.fi/onto/yso/p5046>	työryhmät	0.002130911859355613
+<http://www.yso.fi/onto/yso/p16117>	kuntoutustuki	0.002099446981975978
+<http://www.yso.fi/onto/yso/p6378>	ryhmäterapia	0.002095482738117095
+<http://www.yso.fi/onto/yso/p13922>	kokonaisvaltaisuus	0.0020518889200916005
+<http://www.yso.fi/onto/yso/p14059>	psykososiaalinen kuntoutus	0.0020026771351695062
+<http://www.yso.fi/onto/yso/p2335>	toimijuus	0.0019256525572431697
+<http://www.yso.fi/onto/yso/p14491>	palveluohjaus	0.00192276569432579
+<http://www.yso.fi/onto/yso/p27172>	fyysinen toimintakyky	0.001911868044143458
+<http://www.yso.fi/onto/yso/p17502>	virikkeet	0.0018697661143960431
+<http://www.yso.fi/onto/yso/p12945>	kuntoutustutkimus	0.0018397236645052379
+<http://www.yso.fi/onto/yso/p10214>	työkyky	0.0018363247114889833
+<http://www.yso.fi/onto/yso/p7470>	terveystutkimus	0.001786071562144736
+<http://www.yso.fi/onto/yso/p8289>	vanhainkodit	0.0017688272404484452
+<http://www.yso.fi/onto/yso/p3578>	terveystieteet	0.0017284069953761487
+<http://www.yso.fi/onto/yso/p14745>	tukityö	0.0017208463652588597
+<http://www.yso.fi/onto/yso/p5513>	kotihoito	0.0017070102031787181
+<http://www.yso.fi/onto/yso/p9164>	itsemäärääminen	0.0017039346355225214
+<http://www.yso.fi/onto/yso/p2434>	vanhukset	0.00167816643925934
+<http://www.yso.fi/onto/yso/p7179>	vammaiset	0.0016749648062448779
+<http://www.yso.fi/onto/yso/p7374>	arkielämä	0.001665847926315936
+<http://www.yso.fi/onto/yso/p23886>	päihdekuntoutujat	0.001615329185998152
+<http://www.yso.fi/onto/yso/p17354>	erityisryhmät	0.0015909449239684776
+<http://www.yso.fi/onto/yso/p4357>	elämänhallinta	0.0015855726169485768
+<http://www.yso.fi/onto/yso/p20475>	lääkinnällinen kuntoutus	0.0015535229586847972
+<http://www.yso.fi/onto/yso/p7320>	yksilöllisyys	0.0015136058376149528
+<http://www.yso.fi/onto/yso/p7727>	avohoito	0.0014785243772414767
+<http://www.yso.fi/onto/yso/p18056>	työtoiminta	0.001455847835644487
+<http://www.yso.fi/onto/yso/p6034>	hoitolaitokset	0.0014306296896062453
+<http://www.yso.fi/onto/yso/p9052>	ryhmäkodit	0.0014294059071372348
+<http://www.yso.fi/onto/yso/p13703>	psykiatrinen kuntoutus	0.001417015971541828
+<http://www.yso.fi/onto/yso/p17647>	taideterapia	0.0014072070213098247
+<http://www.yso.fi/onto/yso/p392>	hoitomenetelmät	0.0014059324743522501
+<http://www.yso.fi/onto/yso/p22136>	eläinavusteinen terapia	0.0014046973693025806
+<http://www.yso.fi/onto/yso/p25290>	tuettu asuminen	0.001400999934412539
+<http://www.yso.fi/onto/yso/p408>	sosiaaliset verkostot	0.0013814823307753117
+<http://www.yso.fi/onto/yso/p2366>	terveydenhuoltohenkilöstö	0.0013781466976400803
+<http://www.yso.fi/onto/yso/p14978>	edistäminen	0.0013633742034223609
+<http://www.yso.fi/onto/yso/p5594>	työikäiset	0.0013257005347192964
+<http://www.yso.fi/onto/yso/p4652>	palvelukeskukset	0.0013251763167896901
+<http://www.yso.fi/onto/yso/p17230>	hoitosuhde	0.001293550326689993
+<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.001292009500585581
+<http://www.yso.fi/onto/yso/p1949>	mielenterveys	0.0012858158453706314
+<http://www.yso.fi/onto/yso/p20871>	kokemuksellisuus	0.0012854542056712406
+<http://www.yso.fi/onto/yso/p10592>	yhteistyökyky	0.0012554755265062505
+<http://www.yso.fi/onto/yso/p27121>	muistisairaat	0.0012250221778892657
+<http://www.yso.fi/onto/yso/p21257>	päihdekuntoutus	0.0012213401755699041
+<http://www.yso.fi/onto/yso/p6901>	kolmas sektori	0.00121736882138066
+<http://www.yso.fi/onto/yso/p22882>	luovat menetelmät	0.0012034250284407542
+<http://www.yso.fi/onto/yso/p1307>	sosiaalipalvelut	0.0011961792241146957
+<http://www.yso.fi/onto/yso/p4176>	tarpeet	0.0011866078468632292
+<http://www.yso.fi/onto/yso/p5108>	sopeutumisvalmennus	0.0011851874804547564
+<http://www.yso.fi/onto/yso/p23022>	haastattelumenetelmät	0.001184137689944526
+<http://www.yso.fi/onto/yso/p19526>	interventiohoito	0.0011826270283729007
+<http://www.yso.fi/onto/yso/p2469>	fysioterapeutit	0.0011824588807278567
+<http://www.yso.fi/onto/yso/p8998>	sosiaalinen pääoma	0.0011554516177222302
+<http://www.yso.fi/onto/yso/p22817>	teemahaastattelut	0.0011517981491951188
+<http://www.yso.fi/onto/yso/p11867>	selviytyminen	0.00114796744230923
+<http://www.yso.fi/onto/yso/p800>	työkeskukset	0.0011440335180271757
+<http://www.yso.fi/onto/yso/p6206>	päihdetyö	0.0011287431105632673
+<http://www.yso.fi/onto/yso/p8917>	syrjäytyminen	0.0011276447073958645
+<http://www.yso.fi/onto/yso/p3321>	kuntouttava työtoiminta	0.001118963907356374
+<http://www.yso.fi/onto/yso/p7772>	viihtyvyys	0.0011137969106626274
+<http://www.yso.fi/onto/yso/p7094>	terveysneuvonta	0.0011120879734252496
+<http://www.yso.fi/onto/yso/p2608>	muistihäiriöt	0.0011094264760190113
+<http://www.yso.fi/onto/yso/p14880>	keskuslaitokset	0.0011093083253151483
+<http://www.yso.fi/onto/yso/p19179>	geriatria	0.001109012578010813
+<http://www.yso.fi/onto/yso/p25147>	vanhuspalvelut	0.0011079864663770423
+<http://www.yso.fi/onto/yso/p10060>	kehitysvammaiset	0.0011066150936213407
+<http://www.yso.fi/onto/yso/p20098>	toiminnalliset menetelmät	0.0010997136546806855
+<http://www.yso.fi/onto/yso/p943>	moniammatillisuus	0.0010862577404953879
+<http://www.yso.fi/onto/yso/p10824>	dialogisuus	0.0010846437145532533
+<http://www.yso.fi/onto/yso/p26365>	terveyskäsitykset	0.0010837712819920854
+<http://www.yso.fi/onto/yso/p9722>	hoitoonohjaus	0.0010826859919523652
+<http://www.yso.fi/onto/yso/p5889>	psykiatriset potilaat	0.001061474038975906
+<http://www.yso.fi/onto/yso/p14869>	mielekkyys	0.0010603814846201038
+<http://www.yso.fi/onto/yso/p16647>	ensikodit	0.001059971996900541
+<http://www.yso.fi/onto/yso/p41>	interventio	0.00105969100788405
+<http://www.yso.fi/onto/yso/p12954>	psykososiaalinen tuki	0.001058463659666648
+<http://www.yso.fi/onto/yso/p28408>	asumisterveys	0.0010573050507280807
+<http://www.yso.fi/onto/yso/p11646>	terveydentila	0.0010513535941506483
+<http://www.yso.fi/onto/yso/p12878>	vertaistuki	0.0010499587137019263
+<http://www.yso.fi/onto/yso/p1964>	kosketus	0.0010488066306358881
+<http://www.yso.fi/onto/yso/p10139>	ammattiryhmät	0.0010454461555293
+<http://www.yso.fi/onto/yso/p21189>	palvelujärjestelmät	0.0010438556462759152
+<http://www.yso.fi/onto/yso/p28977>	kotikuntoutus	0.0010420236442851918
+<http://www.yso.fi/onto/yso/p8354>	mieliala	0.0010419395508837294
+<http://www.yso.fi/onto/yso/p2863>	vanhustentaudit	0.001037559664374302
+<http://www.yso.fi/onto/yso/p8911>	perhetyö	0.001031366969321177
+<http://www.yso.fi/onto/yso/p13858>	muistelu	0.0010296250640583987
+<http://www.yso.fi/onto/yso/p7913>	mielenterveystyö	0.0010240328892409294
+<http://www.yso.fi/onto/yso/p6972>	yhteisökasvatus	0.0010142306400335987
+<http://www.yso.fi/onto/yso/p2762>	terveys	0.0010136439525839788
+<http://www.yso.fi/onto/yso/p18210>	psyykkinen toimintakyky	0.0010132068133150989
+<http://www.yso.fi/onto/yso/p26949>	avokuntoutus	0.0010101037732304328
+<http://www.yso.fi/onto/yso/p22129>	toimintaryhmät	0.001008376045501791
+<http://www.yso.fi/onto/yso/p20694>	työvalmennus	0.0010031401314666833
+<http://www.yso.fi/onto/yso/p407>	läheiset	0.0009960127202000215
+<http://www.yso.fi/onto/yso/p21627>	kotona asuminen	0.0009944800406546247
+<http://www.yso.fi/onto/yso/p27499>	vertaistoiminta	0.0009871382427677005
+<http://www.yso.fi/onto/yso/p820>	odotukset	0.0009678748809330335
+<http://www.yso.fi/onto/yso/p5619>	asenteet	0.0009539792650188742
+<http://www.yso.fi/onto/yso/p5888>	sairaat	0.0009515365209980783
+<http://www.yso.fi/onto/yso/p4012>	ikäkaudet	0.000948351866629144
+<http://www.yso.fi/onto/yso/p26740>	ryhmäohjaus	0.0009459407669386233
+<http://www.yso.fi/onto/yso/p7613>	asiakaslähtöisyys	0.0009438094868197698
+<http://www.yso.fi/onto/yso/p6446>	vanhuspolitiikka	0.0009387761732796207
+<http://www.yso.fi/onto/yso/p18037>	sosiaaligerontologia	0.0009309892672304572
+<http://www.yso.fi/onto/yso/p10590>	sosiaalinen vuorovaikutus	0.0009169877546479587
+<http://www.yso.fi/onto/yso/p7914>	mielenterveyspalvelut	0.0009111946020063691
+<http://www.yso.fi/onto/yso/p4161>	työvoimapalvelut	0.0009070934894473546
+<http://www.yso.fi/onto/yso/p8997>	sosiaalinen tuki	0.0009056295339674265
+<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.0009052802678938448
+<http://www.yso.fi/onto/yso/p22621>	TYKY-toiminta	0.0008998506361174143
+<http://www.yso.fi/onto/yso/p1306>	laitoshuolto	0.000895627327951264
+<http://www.yso.fi/onto/yso/p10215>	työrajoitteiset	0.0008941260465441949
+<http://www.yso.fi/onto/yso/p10061>	kehitysvammaisuus	0.0008920585744569755
+<http://www.yso.fi/onto/yso/p20748>	ryhmätoiminta	0.0008876074946866455
+<http://www.yso.fi/onto/yso/p4763>	kehittämisprojektit	0.0008848012088988485
+<http://www.yso.fi/onto/yso/p15993>	päivätoiminta	0.0008807195810897445
+<http://www.yso.fi/onto/yso/p7708>	työttömät	0.0008768692247527228
+<http://www.yso.fi/onto/yso/p182>	toimintatutkimus	0.0008762855667472732
+<http://www.yso.fi/onto/yso/p8914>	syrjäytyneet	0.0008755295108792118
+<http://www.yso.fi/onto/yso/p8625>	empatia	0.0008699878230055963
+<http://www.yso.fi/onto/yso/p7759>	kaatuminen	0.0008606204056625508
+<http://www.yso.fi/onto/yso/p4637>	ikääntyvät työntekijät	0.0008594389742938802
+<http://www.yso.fi/onto/yso/p5164>	osallisuus	0.0008558210922108793
+<http://www.yso.fi/onto/yso/p7915>	psykiatrinen hoito	0.0008507262654761276
+<http://www.yso.fi/onto/yso/p8291>	päihdeongelmat	0.0008449505869066343
+<http://www.yso.fi/onto/yso/p8542>	työtoveruus	0.0008248208910861815
+<http://www.yso.fi/onto/yso/p9414>	riippuvuus	0.0008161879794153555
+<http://www.yso.fi/onto/yso/p1308>	laitoshoito	0.0008121805715332316
+<http://www.yso.fi/onto/yso/p22220>	narratiivinen tutkimus	0.0008078812222017652
+<http://www.yso.fi/onto/yso/p22037>	muistisairaudet	0.0008074346273629503
+<http://www.yso.fi/onto/yso/p5056>	ikääntyminen	0.0008053234021645039
+<http://www.yso.fi/onto/yso/p4478>	alkoholistit	0.0008014079752187668
+<http://www.yso.fi/onto/yso/p16070>	yhteisvaikutukset	0.0008009566774655303
+<http://www.yso.fi/onto/yso/p411>	sosiaaliset suhteet	0.0007992204664994709
+<http://www.yso.fi/onto/yso/p15652>	kroonikot	0.0007942048248051751
+<http://www.yso.fi/onto/yso/p21294>	toiminnot	0.0007897638255433941
+<http://www.yso.fi/onto/yso/p3167>	elämäntaito	0.0007894442951179702
+<http://www.yso.fi/onto/yso/p9044>	apuvälineet	0.0007785032990134575
+<http://www.yso.fi/onto/yso/p13126>	elämäntilanne	0.0007769602311203594
+<http://www.yso.fi/onto/yso/p16243>	verenkierto	0.0007663891584591263
+<http://www.yso.fi/onto/yso/p804>	työterapia	0.0007663027375449681
+<http://www.yso.fi/onto/yso/p3210>	kokeminen	0.0007627604542490603
+<http://www.yso.fi/onto/yso/p6295>	perhekeskeisyys	0.0007610659509241073
+<http://www.yso.fi/onto/yso/p3646>	vanhuuden psykologia	0.0007598316939865155
+<http://www.yso.fi/onto/yso/p19198>	sosiaalipedagogiikka	0.0007594717026222497
+<http://www.yso.fi/onto/yso/p7709>	pitkäaikaistyöttömät	0.0007553230478978631
+<http://www.yso.fi/onto/yso/p135>	jaksaminen	0.0007542464612263509
+<http://www.yso.fi/onto/yso/p11402>	hoitotiede	0.0007498365112538026
+<http://www.yso.fi/onto/yso/p2414>	oireet	0.0007480822373922406
+<http://www.yso.fi/onto/yso/p1657>	vaikuttaminen	0.0007404257625404914
+<http://www.yso.fi/onto/yso/p9794>	traumat	0.0007378558863737536
+<http://www.yso.fi/onto/yso/p649>	liikkuminen	0.0007228181456660174
+<http://www.yso.fi/onto/yso/p6031>	hoitoympäristö	0.0007227983614112335
+<http://www.yso.fi/onto/yso/p3835>	yhteisöt	0.0007220113612923094
+<http://www.yso.fi/onto/yso/p11782>	kvalitatiivinen tutkimus	0.0007218531630562873
+<http://www.yso.fi/onto/yso/p24976>	perhehoitajat	0.0007132177653891796
+<http://www.yso.fi/onto/yso/p16262>	työelämä	0.0007112107586263763
+<http://www.yso.fi/onto/yso/p18306>	ikäjohtaminen	0.0007107907125662843
+<http://www.yso.fi/onto/yso/p8340>	yhteissuunnittelu	0.0007079147876621309
+<http://www.yso.fi/onto/yso/p7384>	fyysinen kunto	0.0007064515925859186
+<http://www.yso.fi/onto/yso/p26693>	vammaistutkimus	0.0007014895225769248
+<http://www.yso.fi/onto/yso/p1959>	lihassairaudet	0.0007008394408992238
+<http://www.yso.fi/onto/yso/p6490>	vanhuus	0.0006994864199606871
+<http://www.yso.fi/onto/yso/p7139>	sosiaalinen käyttäytyminen	0.0006939820371123708
+<http://www.yso.fi/onto/yso/p16731>	sydän	0.0006935324297625233
+<http://www.yso.fi/onto/yso/p9002>	sosiaalisuus	0.000692813001329672
+<http://www.yso.fi/onto/yso/p1711>	dementia	0.0006852218547878279
+<http://www.yso.fi/onto/yso/p4400>	alaikäiset	0.0006804507625268095
+<http://www.yso.fi/onto/yso/p17274>	hoitotarve	0.0006774211049725471
+<http://www.yso.fi/onto/yso/p9270>	kurssit	0.0006769292008936067
+<http://www.yso.fi/onto/yso/p3286>	sosiaalityö	0.0006723061443401755
+<http://www.yso.fi/onto/yso/p20297>	erityiskoulut	0.0006707167771475559
+<http://www.yso.fi/onto/yso/p12227>	lähihoitajat	0.0006691761742166075
+<http://www.yso.fi/onto/yso/p128>	väsymys	0.0006678577935831113
+<http://www.yso.fi/onto/yso/p1946>	henkinen hyvinvointi	0.00066608065337112
+<http://www.yso.fi/onto/yso/p1831>	työtyytyväisyys	0.0006618662898703902
+<http://www.yso.fi/onto/yso/p8498>	konstruktivismi	0.0006604553181783889
+<http://www.yso.fi/onto/yso/p7422>	hoivatyö	0.0006590600175761872
+<http://www.yso.fi/onto/yso/p6354>	aivohalvaus	0.0006548310886666348
+<http://www.yso.fi/onto/yso/p3294>	asiakkaat	0.0006529769513607872
+<http://www.yso.fi/onto/yso/p470>	vanheneminen	0.00064724163279276
+<http://www.yso.fi/onto/yso/p13726>	fyysinen ympäristö	0.0006438238567418673
+<http://www.yso.fi/onto/yso/p5522>	yhteisöllisyys	0.0006434865096128884
+<http://www.yso.fi/onto/yso/p15890>	toimintaterapeutit	0.0006425921495644037
+<http://www.yso.fi/onto/yso/p12883>	teemapäivät	0.0006417065461970527
+<http://www.yso.fi/onto/yso/p26772>	itsereflektio	0.0006409949657443741
+<http://www.yso.fi/onto/yso/p14664>	neuropsykologia	0.0006364527460060675
+<http://www.yso.fi/onto/yso/p17226>	kuormitus	0.000632915534184907
+<http://www.yso.fi/onto/yso/p4242>	subjektiivisuus	0.0006328249101484702
+<http://www.yso.fi/onto/yso/p18254>	sairaalahoito	0.0006317728245366281
+<http://www.yso.fi/onto/yso/p16241>	esteettömyys	0.0006296302075497806
+<http://www.yso.fi/onto/yso/p8114>	terapeutit	0.0006240345688473264
+<http://www.yso.fi/onto/yso/p8090>	toiminta	0.0006226342840818689
+<http://www.yso.fi/onto/yso/p21753>	kouluttautuminen	0.0006219528649870137
+<http://www.yso.fi/onto/yso/p19629>	sosiaaliohjaajat	0.0006217369018651714
+<http://www.yso.fi/onto/yso/p25103>	palvelutarpeet	0.0006201212074798108
+<http://www.yso.fi/onto/yso/p12069>	palveluntuottajat	0.0006184856690445238
+<http://www.yso.fi/onto/yso/p4734>	motivaatio	0.0006184571115723388
+<http://www.yso.fi/onto/yso/p266>	itsetunto	0.0006179591942451556
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.0006178719790610062
+<http://www.yso.fi/onto/yso/p6137>	sopeutuminen	0.0006136074457158843
+<http://www.yso.fi/onto/yso/p4082>	turvallisuuspalvelut	0.0006079588693947616
+<http://www.yso.fi/onto/yso/p11993>	työpsykologia	0.0006064073664178563
+<http://www.yso.fi/onto/yso/p16380>	musiikkiterapia	0.0006059560347983444
+<http://www.yso.fi/onto/yso/p4736>	motivointi	0.0006055687136143784
+<http://www.yso.fi/onto/yso/p2261>	kotiympäristö	0.0006054892186181281
+<http://www.yso.fi/onto/yso/p468>	gerontologia	0.0006043967801484873
+<http://www.yso.fi/onto/yso/p1236>	palaute	0.0006027263296842152
+<http://www.yso.fi/onto/yso/p10212>	työkyvyttömyys	0.0006013808880445801
+<http://www.yso.fi/onto/yso/p15704>	aktiivisuus	0.0005983477296963842
+<http://www.yso.fi/onto/yso/p6844>	kunnan työntekijät	0.0005979172350965778
+<http://www.yso.fi/onto/yso/p23085>	eettisyys	0.0005936650868865068
+<http://www.yso.fi/onto/yso/p5192>	kontrolli	0.0005935717643958262
+<http://www.yso.fi/onto/yso/p2785>	tuki- ja liikuntaelimet	0.0005926893153545362
+<http://www.yso.fi/onto/yso/p5118>	tukipalvelut	0.000591307972420261
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.0005905188852921128
+<http://www.yso.fi/onto/yso/p27969>	potilaslähtöisyys	0.0005904337388611483
+<http://www.yso.fi/onto/yso/p9361>	näkökulma	0.0005828253422144123
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.0005799519890305502
+<http://www.yso.fi/onto/yso/p18556>	työkasvatus	0.0005791992467658764
+<http://www.yso.fi/onto/yso/p13183>	työssäkäynti	0.0005786761760563505
+<http://www.yso.fi/onto/yso/p24898>	pitkäaikaishoito	0.0005778343600633724
+<http://www.yso.fi/onto/yso/p10344>	työkierto	0.00057651862999509
+<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.0005759642081102356
+<http://www.yso.fi/onto/yso/p6133>	eläytymismenetelmä	0.0005737313304879618
+<http://www.yso.fi/onto/yso/p18871>	toimenkuvat	0.0005720123889411546
+<http://www.yso.fi/onto/yso/p4457>	asiakastyö	0.0005708005173470487
+<http://www.yso.fi/onto/yso/p9116>	työntutkimus	0.0005696911273513582
+<http://www.yso.fi/onto/yso/p1947>	hyvinvointi (taloudellinen)	0.0005694981299298392
+<http://www.yso.fi/onto/yso/p990>	mielenterveyshäiriöt	0.000569099024340341
+<http://www.yso.fi/onto/yso/p129>	työn kuormittavuus	0.0005687623157758604
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.0005660953992363912
+<http://www.yso.fi/onto/yso/p267>	minäkuva	0.0005620137428526174
+<http://www.yso.fi/onto/yso/p5720>	päihdehuolto	0.0005604785110335797
+<http://www.yso.fi/onto/yso/p19584>	omaishoito	0.000560056640163318
+<http://www.yso.fi/onto/yso/p5530>	elintavat	0.000559278534704142
+<http://www.yso.fi/onto/yso/p20629>	mielenterveysongelmat	0.0005588571937881749
+<http://www.yso.fi/onto/yso/p7666>	hoivapalvelut	0.0005587172152114693
+<http://www.yso.fi/onto/yso/p916>	liikunta	0.0005581288484708322
+<http://www.yso.fi/onto/yso/p28138>	liikkuvat palvelut	0.0005574907058458352
+<http://www.yso.fi/onto/yso/p1855>	sanaton viestintä	0.0005533973665230653
+<http://www.yso.fi/onto/yso/p6984>	erityisopetus	0.000552655995124951
+<http://www.yso.fi/onto/yso/p298>	mentorointi	0.0005525297327866693
+<http://www.yso.fi/onto/yso/p22608>	vuoroasuminen	0.000551662327250762
+<http://www.yso.fi/onto/yso/p1810>	työ	0.0005508088172064163
+<http://www.yso.fi/onto/yso/p4476>	päihdeongelmaiset	0.0005499114605217156
+<http://www.yso.fi/onto/yso/p4081>	tiimityö	0.0005492823336019435
+<http://www.yso.fi/onto/yso/p7075>	persoonallisuus	0.0005461346492996778
+<http://www.yso.fi/onto/yso/p1710>	aivoverenkiertohäiriöt	0.0005447034419789402
+<http://www.yso.fi/onto/yso/p284>	perhekodit	0.0005430544723904776
+<http://www.yso.fi/onto/yso/p6140>	sosialisaatio	0.0005423633445223624
+<http://www.yso.fi/onto/yso/p10249>	nuoret työntekijät	0.0005414002254838124
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.0005347522205821323
+<http://www.yso.fi/onto/yso/p18970>	varhaiskuntoutus	0.0005334093806926499
+<http://www.yso.fi/onto/yso/p4250>	sairaalaosastot	0.0005325780849406411
+<http://www.yso.fi/onto/yso/p14967>	sosionomit	0.0005307342327961868
+<http://www.yso.fi/onto/yso/p24888>	työyhteisötaidot	0.0005270462321773679
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.0005265663981183686
+<http://www.yso.fi/onto/yso/p12478>	aivovammat	0.0005223606329474768
+<http://www.yso.fi/onto/yso/p18190>	autismi	0.0005222728065828878
+<http://www.yso.fi/onto/yso/p15140>	arvostus	0.0005221703894097697
+<http://www.yso.fi/onto/yso/p22794>	itse	0.0005204493338665502
+<http://www.yso.fi/onto/yso/p10982>	tapaustutkimus	0.000520237973912365
+<http://www.yso.fi/onto/yso/p20755>	vanhustentalot	0.000519278440201147
+<http://www.yso.fi/onto/yso/p7010>	merkitys (filosofia)	0.0005191853333433921
+<http://www.yso.fi/onto/yso/p8213>	yhteisöasuminen	0.0005174364950190383
+<http://www.yso.fi/onto/yso/p21210>	mittarit (mittaus)	0.000516493293848312
+<http://www.yso.fi/onto/yso/p4095>	dynamiikka	0.0005161376945166425
+<http://www.yso.fi/onto/yso/p9640>	käytäntö	0.0005161350775531239
+<http://www.yso.fi/onto/yso/p10211>	vajaakuntoiset	0.0005148856903278184
+<http://www.yso.fi/onto/yso/p17237>	sosiaalipsykiatria	0.0005148078513395211
+<http://www.yso.fi/onto/yso/p3762>	nuorten asema	0.0005142701657446609
+<http://www.yso.fi/onto/yso/p6353>	aivovauriot	0.0005141824565891346
+<http://www.yso.fi/onto/yso/p642>	kognitio	0.0005139107953503051
+<http://www.yso.fi/onto/yso/p3322>	työkokeilu	0.0005128298632123253
+<http://www.yso.fi/onto/yso/p21169>	ammatillinen erityisopetus	0.0005110240591668778
+<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.0005083821882594335
+<http://www.yso.fi/onto/yso/p23890>	rasitus	0.0005081825172634457
+<http://www.yso.fi/onto/yso/p19721>	sähköhoito	0.0005080474667589772
+<http://www.yso.fi/onto/yso/p2364>	suuhygienistit	0.0005075476022532464
+<http://www.yso.fi/onto/yso/p15870>	omatoimisuus	0.0005073182631432163
+<http://www.yso.fi/onto/yso/p7726>	avohuolto	0.0005036936477567492
+<http://www.yso.fi/onto/yso/p6374>	tiimit	0.0005018119070551951
+<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.0004987795392728665
+<http://www.yso.fi/onto/yso/p26366>	terveysosaaminen	0.0004984514409443364
+<http://www.yso.fi/onto/yso/p2977>	fenomenologia	0.0004947617599761791
+<http://www.yso.fi/onto/yso/p15768>	arviointimenetelmät	0.0004943571127527817
+<http://www.yso.fi/onto/yso/p4226>	MS-tauti	0.0004940889990063046
+<http://www.yso.fi/onto/yso/p18446>	tukit	0.0004927029854364016
+<http://www.yso.fi/onto/yso/p13746>	palvelurakenne	0.0004908767772245814
+<http://www.yso.fi/onto/yso/p14765>	ryhmädynamiikka	0.0004882375615786507
+<http://www.yso.fi/onto/yso/p2416>	onnellisuus	0.00048814870718739587
+<http://www.yso.fi/onto/yso/p16752>	tutkimusaineisto	0.00048813278818587687
+<http://www.yso.fi/onto/yso/p9260>	yksilö	0.0004832402792420577
+<http://www.yso.fi/onto/yso/p14073>	perusterveydenhuolto	0.0004832311289977621
+<http://www.yso.fi/onto/yso/p1809>	työpalvelu	0.00048122194500386037
+<http://www.yso.fi/onto/yso/p26423>	ryhmähaastattelut	0.0004790338748452169
+<http://www.yso.fi/onto/yso/p4475>	narkomaanit	0.0004779449230144647
+<http://www.yso.fi/onto/yso/p2851>	taide	0.0004779290722746571
+<http://www.yso.fi/onto/yso/p6903>	vammaistyö	0.0004734982389808548
+<http://www.yso.fi/onto/yso/p2209>	sukupolvet	0.00047038543006320567
+<http://www.yso.fi/onto/yso/p18203>	hoitopaikat	0.00046793358024760064
+<http://www.yso.fi/onto/yso/p2747>	tavoitteet	0.00046719061382728715
+<http://www.yso.fi/onto/yso/p14560>	dialogi	0.0004613390594551509
+<http://www.yso.fi/onto/yso/p860>	työmoraali	0.0004599719945955175
+<http://www.yso.fi/onto/yso/p6253>	itsearviointi	0.000459682136318985
+<http://www.yso.fi/onto/yso/p20454>	ammatilliset erityisoppilaitokset	0.00045944619632791727
+<http://www.yso.fi/onto/yso/p22622>	liikuntakyky	0.0004586400096410547
+<http://www.yso.fi/onto/yso/p24514>	terveysviestintä	0.0004569125705694949
+<http://www.yso.fi/onto/yso/p108>	selkä	0.00045461565684738823
+<http://www.yso.fi/onto/yso/p22036>	hyvinvointi (terveydellinen)	0.00045295961555728517
+<http://www.yso.fi/onto/yso/p1093>	terveydenhuoltolaitokset	0.0004522950150368904
+<http://www.yso.fi/onto/yso/p17924>	elämyspedagogiikka	0.00045006485227283766
+<http://www.yso.fi/onto/yso/p4735>	kannustus	0.0004500084421703253
+<http://www.yso.fi/onto/yso/p10632>	haastattelututkimus	0.00044884889952796086
+<http://www.yso.fi/onto/yso/p12705>	ohjaajat	0.0004458060022443533
+<http://www.yso.fi/onto/yso/p8802>	havainnointi	0.00044367661281615833
+<http://www.yso.fi/onto/yso/p8014>	työllistäminen	0.00044324282128152184
+<http://www.yso.fi/onto/yso/p21363>	oireyhtymät	0.0004421895690029487
+<http://www.yso.fi/onto/yso/p15924>	sosiaalitutkimus	0.00044102591822262516
+<http://www.yso.fi/onto/yso/p10684>	hoitotyö	0.0004407293422528627
+<http://www.yso.fi/onto/yso/p10140>	professionalismi	0.0004399988530415364
+<http://www.yso.fi/onto/yso/p15052>	ehkäisevä sosiaalityö	0.00043855454079510473
+<http://www.yso.fi/onto/yso/p24920>	kognitiiviset taidot	0.00043837530115111307
+<http://www.yso.fi/onto/yso/p14193>	kipu	0.000438166101759469
+<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.0004376027336217124
+<http://www.yso.fi/onto/yso/p4391>	psykososiaaliset tekijät	0.00043670271909584035
+<http://www.yso.fi/onto/yso/p4356>	elämänmuutokset	0.0004363506521754475
+<http://www.yso.fi/onto/yso/p19104>	omaishoitajat	0.00043251605953132223
+<http://www.yso.fi/onto/yso/p21453>	työnkuva	0.0004311190865171904
+<http://www.yso.fi/onto/yso/p13916>	sosiaaliala	0.00043111456140071494
+<http://www.yso.fi/onto/yso/p19406>	käsiteanalyysi	0.00043060956813860684
+<http://www.yso.fi/onto/yso/p8012>	työllisyyspolitiikka	0.0004306019254727289
+<http://www.yso.fi/onto/yso/p15095>	terveysliikunta	0.00042941107822116467
+<http://www.yso.fi/onto/yso/p13430>	toimintamuodot	0.00042525275282307784
+<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.0004240217430792241
+<http://www.yso.fi/onto/yso/p297>	työnohjaus	0.0004239436672915789
+<http://www.yso.fi/onto/yso/p16704>	ympäristötuki	0.00042243184077299454
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.00042122550128789786
+<http://www.yso.fi/onto/yso/p2892>	työlääketiede	0.00041955042847389865
+<http://www.yso.fi/onto/yso/p5577>	kotitarve	0.0004179965352787721
+<http://www.yso.fi/onto/yso/p10573>	käyttäytymishäiriöt	0.0004166277345079421
+<http://www.yso.fi/onto/yso/p21939>	hoitoprosessit	0.0004156215013195337
+<http://www.yso.fi/onto/yso/p15492>	kehitysvammaisten hoitajat	0.0004140447327782485
+<http://www.yso.fi/onto/yso/p3166>	etiikka	0.00041360781072977593
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.00041357350974894047
+<http://www.yso.fi/onto/yso/p9315>	luova toiminta	0.00041343894130973656
+<http://www.yso.fi/onto/yso/p4011>	työikä	0.00040692272648977284
+<http://www.yso.fi/onto/yso/p3048>	kehitysvammatyö	0.00040657942260044033
+<http://www.yso.fi/onto/yso/p13492>	afasia	0.00040642953985794023
+<http://www.yso.fi/onto/yso/p19420>	sitouttaminen	0.0004059376451715996
+<http://www.yso.fi/onto/yso/p2036>	toimintakulttuuri	0.000404151005204767
+<http://www.yso.fi/onto/yso/p1229>	ikä	0.0004028117191575637
+<http://www.yso.fi/onto/yso/p9659>	skitsofrenia	0.0003999635772991248
+<http://www.yso.fi/onto/yso/p25130>	kehontuntemus	0.0003995318333512511
+<http://www.yso.fi/onto/yso/p3307>	terveyspalvelut	0.00039929286444517363
+<http://www.yso.fi/onto/yso/p26268>	kuntouttava sosiaalityö	0.0003989227777558633
+<http://www.yso.fi/onto/yso/p1655>	vaikuttavuus	0.00039734763797076247
+<http://www.yso.fi/onto/yso/p496>	motoriikka	0.00039167573717846114
+<http://www.yso.fi/onto/yso/p862>	ammattietiikka	0.00039145004239716483
+<http://www.yso.fi/onto/yso/p2292>	lastenhuolto	0.0003912485684850253
+<http://www.yso.fi/onto/yso/p14557>	vammaisjärjestöt	0.0003912401375022124
+<http://www.yso.fi/onto/yso/p9143>	alkoholiongelmat	0.00039028754902326247
+<http://www.yso.fi/onto/yso/p1943>	kuulovammat	0.00038951063152952966
+<http://www.yso.fi/onto/yso/p4281>	tottumukset	0.00038748642334460534
+<http://www.yso.fi/onto/yso/p281>	vanhustenhuoltolaitokset	0.0003869093668816442
+<http://www.yso.fi/onto/yso/p3542>	työllistyminen	0.0003867487798825922
+<http://www.yso.fi/onto/yso/p5472>	sijaishuolto	0.00038634834133765916
+<http://www.yso.fi/onto/yso/p27083>	vammaisten asema	0.00038586340299595823
+<http://www.yso.fi/onto/yso/p13022>	istuminen	0.00038570780545176767
+<http://www.yso.fi/onto/yso/p48>	kehitysvammat	0.00038481442924504254
+<http://www.yso.fi/onto/yso/p22070>	tutkimushaastattelut	0.0003821266748921268
+<http://www.yso.fi/onto/yso/p29369>	tavat (toimintatavat)	0.0003802411575717005
+<http://www.yso.fi/onto/yso/p1797>	asuminen	0.0003797458318083293
+<http://www.yso.fi/onto/yso/p6935>	yksinäisyys	0.0003782248473726213
+<http://www.yso.fi/onto/yso/p6423>	ulkonäkö	0.0003777198131005703
+<http://www.yso.fi/onto/yso/p733>	valmiudet	0.0003748267455111173
+<http://www.yso.fi/onto/yso/p49>	kehityshäiriöt	0.0003741458807119422
+<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.00037353399503362283
+<http://www.yso.fi/onto/yso/p14490>	hoivayritykset	0.000372760238612748
+<http://www.yso.fi/onto/yso/p20121>	sensitiivisyys	0.0003716022450879047
+<http://www.yso.fi/onto/yso/p6334>	yhteistyö	0.00037113938147244465
+<http://www.yso.fi/onto/yso/p14969>	kotiutus	0.0003710996936371719
+<http://www.yso.fi/onto/yso/p283>	huoltolaitokset	0.000370468014576049
+<http://www.yso.fi/onto/yso/p6056>	ilmapiiri	0.000368408181715164
+<http://www.yso.fi/onto/yso/p5293>	havaitseminen	0.00036743949855339123
+<http://www.yso.fi/onto/yso/p5511>	vangit	0.0003661075397923758
+<http://www.yso.fi/onto/yso/p2125>	lasten kehitys	0.0003655219268032604
+<http://www.yso.fi/onto/yso/p16042>	hoitohenkilöstö	0.00036517134073867715
+<http://www.yso.fi/onto/yso/p19265>	itsehoito	0.0003642336042089896
+<http://www.yso.fi/onto/yso/p14129>	laitoskasvatus	0.00036340657388791444
+<http://www.yso.fi/onto/yso/p8630>	kädentaidot	0.0003632783447921445
+<http://www.yso.fi/onto/yso/p7085>	kotipalvelut	0.00036251197796611286
+<http://www.yso.fi/onto/yso/p10223>	arviointitutkimus	0.00036104874531950126
+<http://www.yso.fi/onto/yso/p24019>	vanhustyöntekijät	0.0003597228218991817
+<http://www.yso.fi/onto/yso/p16193>	sosiaalinen oppiminen	0.0003594469485423443
+<http://www.yso.fi/onto/yso/p10823>	interaktiivisuus	0.00035919529274741017
+<http://www.yso.fi/onto/yso/p19552>	ennaltaehkäisy	0.00035906591431491755
+<http://www.yso.fi/onto/yso/p1833>	työn sisältö	0.00035785866890695285
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.00035699633458121256
+<http://www.yso.fi/onto/yso/p16232>	hoitokunnat	0.0003561800163218074
+<http://www.yso.fi/onto/yso/p2148>	konsultointi	0.000355495983438397
+<http://www.yso.fi/onto/yso/p6236>	suvaitsevaisuus	0.00035519277867437763
+<http://www.yso.fi/onto/yso/p6279>	ympäristöterveys	0.0003542070159297013
+<http://www.yso.fi/onto/yso/p16660>	hoitotasapaino	0.000353645978611894
+<http://www.yso.fi/onto/yso/p17400>	medikalisaatio	0.00035275400573895737
+<http://www.yso.fi/onto/yso/p20311>	päivätyöt	0.00035171894494190136
+<http://www.yso.fi/onto/yso/p9280>	terveystarkastukset	0.00035003726211884484
+<http://www.yso.fi/onto/yso/p130>	uupumus	0.00034918097874403676
+<http://www.yso.fi/onto/yso/p7484>	luovuusterapia	0.00034895791349382225
+<http://www.yso.fi/onto/yso/p6444>	sosiaaliset taidot	0.00034700912259392103
+<http://www.yso.fi/onto/yso/p10477>	proteesit	0.00034699658810330387
+<http://www.yso.fi/onto/yso/p2806>	erikoissairaanhoito	0.0003469536562492563
+<http://www.yso.fi/onto/yso/p7547>	työterveyshoitajat	0.0003468696393114938
+<http://www.yso.fi/onto/yso/p10227>	käytännön opetus	0.00034680947931271724
+<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.00034627146034670823
+<http://www.yso.fi/onto/yso/p21130>	siirtymävaihe	0.0003461804571667347
+<http://www.yso.fi/onto/yso/p19256>	pitkäaikaistyöttömyys	0.0003454882640984248
+<http://www.yso.fi/onto/yso/p10909>	yksityisyys	0.0003441563489931551
+<http://www.yso.fi/onto/yso/p2136>	ammattiasema	0.0003441328317752447
+<http://www.yso.fi/onto/yso/p11100>	terveyskäyttäytyminen	0.0003430656908841973
+<http://www.yso.fi/onto/yso/p5864>	tuloksellisuus	0.0003428830333921889
+<http://www.yso.fi/onto/yso/p16881>	hoitoketjut	0.0003416392785518176
+<http://www.yso.fi/onto/yso/p7077>	temperamentti	0.00034082004620524295
+<http://www.yso.fi/onto/yso/p12837>	työnarviointi	0.00034030365985183216
+<http://www.yso.fi/onto/yso/p24491>	työhaastattelut	0.00033901436677710576
+<http://www.yso.fi/onto/yso/p5887>	psyykkisesti sairaat	0.0003383605153596198
+<http://www.yso.fi/onto/yso/p3541>	tuettu työllistyminen	0.0003382485103264282
+<http://www.yso.fi/onto/yso/p25379>	perhetutkimus	0.00033742772806859153
+<http://www.yso.fi/onto/yso/p26126>	terveysala	0.0003372214213331145
+<http://www.yso.fi/onto/yso/p23893>	työn imu	0.00033704214676452633
+<http://www.yso.fi/onto/yso/p2585>	verkostotyö	0.00033613776851614766
+<http://www.yso.fi/onto/yso/p6417>	vammautuminen	0.00033527516775806856
+<http://www.yso.fi/onto/yso/p21870>	sosiokulttuuriset tekijät	0.00033508564202665265
+<http://www.yso.fi/onto/yso/p10225>	työssäoppiminen	0.00033433475738010285
+<http://www.yso.fi/onto/yso/p15515>	aikuisuus	0.00033390549043278125
+<http://www.yso.fi/onto/yso/p23563>	reflektio	0.0003330022705168548
+<http://www.yso.fi/onto/yso/p3920>	säätely	0.0003328905438221144
+<http://www.yso.fi/onto/yso/p7078>	kotikäynnit	0.00033191473366142333
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.0003317827872127633
+<http://www.yso.fi/onto/yso/p9105>	tarkkaavaisuus	0.00033089104426008734
+<http://www.yso.fi/onto/yso/p678>	syöpätaudit	0.00033069073926361107
+<http://www.yso.fi/onto/yso/p15892>	sädehoito	0.0003306710306787863
+<http://www.yso.fi/onto/yso/p24827>	ihmiset	0.0003302979425908151
+<http://www.yso.fi/onto/yso/p21190>	palvelumuotoilu	0.00032823243765795434
+<http://www.yso.fi/onto/yso/p9142>	alkoholismi	0.00032770632057112047
+<http://www.yso.fi/onto/yso/p12441>	virkistystoiminta	0.0003276466963474046
+<http://www.yso.fi/onto/yso/p6497>	käyttäytymistieteet	0.00032655752650250424
+<http://www.yso.fi/onto/yso/p16744>	pahoinvointi	0.000326271713393825
+<http://www.yso.fi/onto/yso/p2794>	perhe (ilmiöt)	0.00032533430547284134
+<http://www.yso.fi/onto/yso/p838>	palvelut	0.00032461649680044503
+<http://www.yso.fi/onto/yso/p23174>	toimintahäiriöt	0.000324249533216723
+<http://www.yso.fi/onto/yso/p1075>	työntekijät	0.0003235136206388812
+<http://www.yso.fi/onto/yso/p15382>	organisaatiokulttuuri	0.00032329041476424953
+<http://www.yso.fi/onto/yso/p24142>	sairauspoissaolot	0.00032291160605382176
+<http://www.yso.fi/onto/yso/p7811>	liikuntahoito	0.00032273224417374215
+<http://www.yso.fi/onto/yso/p11996>	toimivuus	0.00032267332029401916
+<http://www.yso.fi/onto/yso/p17337>	ensitieto	0.0003223343093519692
+<http://www.yso.fi/onto/yso/p7758>	tasapaino	0.00032178034889511763
+<http://www.yso.fi/onto/yso/p15600>	viittomakieliset	0.00032163889025634327
+<http://www.yso.fi/onto/yso/p12732>	terveyden edistäminen	0.00032081354650224307
+<http://www.yso.fi/onto/yso/p20651>	sosiokulttuurinen innostaminen	0.00032070432154631073
+<http://www.yso.fi/onto/yso/p2492>	puhe (ilmiöt)	0.0003205328843746842
+<http://www.yso.fi/onto/yso/p7040>	aivot	0.00031977375805250963
+<http://www.yso.fi/onto/yso/p546>	työtilat	0.00031870809642979027
+<http://www.yso.fi/onto/yso/p4190>	henkilöstö	0.0003169976246268065
+<http://www.yso.fi/onto/yso/p3168>	elämä	0.0003169957580129531
+<http://www.yso.fi/onto/yso/p27562>	järjestötyö	0.00031683365073563024
+<http://www.yso.fi/onto/yso/p20813>	vaikeudet	0.00031648492070168933
+<http://www.yso.fi/onto/yso/p1836>	työviihtyvyys	0.0003162261080102656
+<http://www.yso.fi/onto/yso/p12928>	työhönsijoittuminen	0.00031592159079578283
+<http://www.yso.fi/onto/yso/p5302>	oppimisvaikeudet	0.0003158037645996294
+<http://www.yso.fi/onto/yso/p8504>	kuntosalit	0.0003149827804670415
+<http://www.yso.fi/onto/yso/p17157>	hoitotuki	0.0003147481456504796
+<http://www.yso.fi/onto/yso/p2776>	tiedonsaanti	0.00031399689958727157
+<http://www.yso.fi/onto/yso/p8330>	portfoliot	0.0003133624998471615
+<http://www.yso.fi/onto/yso/p4156>	Aspergerin oireyhtymä	0.0003132985150759024
+<http://www.yso.fi/onto/yso/p24585>	aikuissosiaalityö	0.0003131042657928033
+<http://www.yso.fi/onto/yso/p20515>	hoitomyöntyvyys	0.0003130624287719415
+<http://www.yso.fi/onto/yso/p2190>	kulttuurierot	0.00031136751164343547
+<http://www.yso.fi/onto/yso/p7256>	home	0.00031115909726147284
+<http://www.yso.fi/onto/yso/p23562>	ravintolatyöntekijät	0.00031040832797192374
+<http://www.yso.fi/onto/yso/p20819>	kriisityö	0.00030975142038765956
+<http://www.yso.fi/onto/yso/p25469>	työteho	0.00030953870445955546
+<http://www.yso.fi/onto/yso/p2807>	sairaanhoito	0.0003094635753024539
+<http://www.yso.fi/onto/yso/p24847>	sosiaalinen vahvistaminen	0.0003090151045894758
+<http://www.yso.fi/onto/yso/p14028>	etnografia	0.00030900521722452884
+<http://www.yso.fi/onto/yso/p1091>	terveyskeskukset	0.0003085842676227912
+<http://www.yso.fi/onto/yso/p9391>	periaatteet	0.0003082890613851222
+<http://www.yso.fi/onto/yso/p10645>	kulttuurienvälisyys	0.0003079387062991207
+<http://www.yso.fi/onto/yso/p3556>	sairastavuus	0.00030680181278677825
+<http://www.yso.fi/onto/yso/p7009>	merkitykset (tieto)	0.00030677011183632367
+<http://www.yso.fi/onto/yso/p6165>	maahanmuuttajat	0.0003067655020541596
+<http://www.yso.fi/onto/yso/p8730>	sydäninfarkti	0.00030665502404603597
+<http://www.yso.fi/onto/yso/p8392>	päihdekulttuuri	0.00030501638115807013
+<http://www.yso.fi/onto/yso/p19711>	asumisvalmennus	0.000304900396572934
+<http://www.yso.fi/onto/yso/p1938>	aistit	0.0003034873384008692
+<http://www.yso.fi/onto/yso/p27762>	palvelusuunnitelmat	0.00030338308398230847
+<http://www.yso.fi/onto/yso/p4836>	sosiaalinen ympäristö	0.00030301275943532926
+<http://www.yso.fi/onto/yso/p7960>	kasvatusteoriat	0.0003024905374993316
+<http://www.yso.fi/onto/yso/p4103>	avolaitokset	0.00030236719837623905
+<http://www.yso.fi/onto/yso/p7348>	potilasturvallisuus	0.0003020640129265799
+<http://www.yso.fi/onto/yso/p13203>	ryhmäkäyttäytyminen	0.0003020226674958725
+<http://www.yso.fi/onto/yso/p24546>	jäsenet	0.00030200989144346256
+<http://www.yso.fi/onto/yso/p7595>	kirjallisuuskatsaukset	0.0003004787087609822
+<http://www.yso.fi/onto/yso/p3750>	hermosto	0.0002994666096955453
+<http://www.yso.fi/onto/yso/p12877>	vertaisryhmät	0.0002992215967176228
+<http://www.yso.fi/onto/yso/p14204>	polvet	0.0002989325786157596
+<http://www.yso.fi/onto/yso/p15201>	kognitiivinen psykologia	0.0002987079754926857
+<http://www.yso.fi/onto/yso/p14612>	sisällönanalyysi	0.0002985455360348252
+<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.00029816817087438807
+<http://www.yso.fi/onto/yso/p2658>	terveydenhuolto	0.0002979021749607372
+<http://www.yso.fi/onto/yso/p25128>	tehostettu palveluasuminen	0.0002977248260074041
+<http://www.yso.fi/onto/yso/p6471>	tukiasunnot	0.0002965727178062397
+<http://www.yso.fi/onto/yso/p9363>	pätevyys	0.0002961269929073751
+<http://www.yso.fi/onto/yso/p13762>	erityispedagogiikka	0.00029551214273934335
+<http://www.yso.fi/onto/yso/p13419>	sitoutuminen	0.0002947503999828107
+<http://www.yso.fi/onto/yso/p6985>	erityiskasvatus	0.0002946874415184456
+<http://www.yso.fi/onto/yso/p301>	henkilöstöhallinto	0.0002941652510675009
+<http://www.yso.fi/onto/yso/p9297>	liikuntasuunnittelu	0.0002939642280001532
+<http://www.yso.fi/onto/yso/p4474>	kehitysoppi	0.00029386642828202724
+<http://www.yso.fi/onto/yso/p15703>	toiminnan psykologia	0.0002938249637901952
+<http://www.yso.fi/onto/yso/p8395>	tekstiilisuunnittelu	0.00029308401995380834
+<http://www.yso.fi/onto/yso/p4079>	ryhmätyö	0.00029234072320501913
+<http://www.yso.fi/onto/yso/p294>	Parkinsonin tauti	0.0002920906363711269
+<http://www.yso.fi/onto/yso/p16215>	oppimiskokemukset	0.0002920513967348432
+<http://www.yso.fi/onto/yso/p22379>	psykokulttuuri	0.0002898730022769252
+<http://www.yso.fi/onto/yso/p3276>	vapaa-aika	0.00028901073885869913
+<http://www.yso.fi/onto/yso/p19985>	aivovammaiset	0.00028893552159636537
+<http://www.yso.fi/onto/yso/p869>	tiedonkulku	0.00028849801191509786
+<http://www.yso.fi/onto/yso/p7103>	sosiodraama	0.000288149430046112
+<http://www.yso.fi/onto/yso/p1284>	peruspalvelut	0.000288020375195298
+<http://www.yso.fi/onto/yso/p14418>	roolit (odotettu käyttäytyminen)	0.0002878494896735488
+<http://www.yso.fi/onto/yso/p2586>	perheterapia	0.00028733654630328106
+<http://www.yso.fi/onto/yso/p13394>	CP-oireyhtymä	0.00028683468911119484
+<http://www.yso.fi/onto/yso/p16148>	verenvuoto	0.0002854284878015857
+<http://www.yso.fi/onto/yso/p5719>	katkaisuhoito	0.00028448776971675793
+<http://www.yso.fi/onto/yso/p6418>	vammaisuus	0.0002844134242464365
+<http://www.yso.fi/onto/yso/p23818>	ideat	0.0002843523278980601
+<http://www.yso.fi/onto/yso/p27565>	mallit (ammatit)	0.00028404922102874314
+<http://www.yso.fi/onto/yso/p18585>	akuuttihoito	0.00028270744475197384
+<http://www.yso.fi/onto/yso/p8543>	työyhteisöt	0.00028179096671837297
+<http://www.yso.fi/onto/yso/p2211>	omaiset	0.00028116740339266305
+<http://www.yso.fi/onto/yso/p14701>	NLP	0.00028113336011301724
+<http://www.yso.fi/onto/yso/p15769>	oma-apuryhmät	0.0002809835230106149
+<http://www.yso.fi/onto/yso/p9161>	tutkimusryhmät	0.0002804883258332583
+<http://www.yso.fi/onto/yso/p818>	tulevaisuudenodotukset	0.0002804253427629274
+<http://www.yso.fi/onto/yso/p10886>	päihteet	0.00027950147182723
+<http://www.yso.fi/onto/yso/p7614>	yhteispalvelu	0.0002789259369654412
+<http://www.yso.fi/onto/yso/p11166>	ihmiskuva	0.0002775437270015986
+<http://www.yso.fi/onto/yso/p14004>	keskustelu	0.0002770697406958789
+<http://www.yso.fi/onto/yso/p8930>	vapautuminen	0.0002760495916432278
+<http://www.yso.fi/onto/yso/p2587>	psykoterapia	0.0002747720284704966
+<http://www.yso.fi/onto/yso/p10611>	nuorisotutkimus	0.00027470048384698614
+<http://www.yso.fi/onto/yso/p13158>	ammatillinen kehitys	0.00027448925009759313
+<http://www.yso.fi/onto/yso/p15661>	aistivammaiset	0.0002743548546938903
+<http://www.yso.fi/onto/yso/p9165>	autonomia	0.0002734627251894298
+<http://www.yso.fi/onto/yso/p5128>	hakijat	0.0002733263919997791
+<http://www.yso.fi/onto/yso/p24919>	tietoinen läsnäolo	0.0002723323683974079
+<http://www.yso.fi/onto/yso/p3145>	lähipalvelut	0.0002721568013922396
+<http://www.yso.fi/onto/yso/p6332>	oppimiskäsitykset	0.000272120754446157
+<http://www.yso.fi/onto/yso/p1632>	psykologia	0.00027164738593538377
+<http://www.yso.fi/onto/yso/p2672>	sosiaalipolitiikka	0.00027139729910149156
+<http://www.yso.fi/onto/yso/p15550>	osallistuva havainnointi	0.0002711818654047833
+<http://www.yso.fi/onto/yso/p7831>	kielellinen vuorovaikutus	0.0002710671804379672
+<http://www.yso.fi/onto/yso/p3049>	kehitysvammahuolto	0.00027069659051697024
+<http://www.yso.fi/onto/yso/p8131>	oppilaat	0.00027029364771971647
+<http://www.yso.fi/onto/yso/p20692>	osallistava suunnittelu	0.000270088382107629
+<http://www.yso.fi/onto/yso/p7806>	työnohjaajat	0.00027004233614372257
+<http://www.yso.fi/onto/yso/p6971>	sosiaalinen kasvatus	0.000269904126286168
+<http://www.yso.fi/onto/yso/p2901>	harrastukset	0.0002692234451057051
+<http://www.yso.fi/onto/yso/p3817>	toimintamallit	0.0002690907014766708
+<http://www.yso.fi/onto/yso/p18584>	tehohoito	0.0002690768414388665
+<http://www.yso.fi/onto/yso/p11494>	varhainen vuorovaikutus	0.00026814652916403825
+<http://www.yso.fi/onto/yso/p15482>	koulutuspalvelut	0.0002669570888180963
+<http://www.yso.fi/onto/yso/p24041>	kehonhallinta	0.0002666913115800443
+<http://www.yso.fi/onto/yso/p17894>	aktivointi	0.0002665222651557997
+<http://www.yso.fi/onto/yso/p1092>	poliklinikat	0.0002663761832412671
+<http://www.yso.fi/onto/yso/p8954>	koulukunnat	0.00026633684862066397
+<http://www.yso.fi/onto/yso/p10372>	toiminnallisuus	0.000266251692135649
+<http://www.yso.fi/onto/yso/p26128>	hyvinvointipalvelut	0.00026615250151900744
+<http://www.yso.fi/onto/yso/p21800>	kauneudenhoitoala	0.0002656284529207782
+<http://www.yso.fi/onto/yso/p17897>	perusturva	0.00026545975732998074
+<http://www.yso.fi/onto/yso/p4373>	lastenpsykiatria	0.00026497731054074726
+<http://www.yso.fi/onto/yso/p10764>	halvaus	0.00026479161804838277
+<http://www.yso.fi/onto/yso/p12787>	vanhustenhuolto	0.0002643810376122763
+<http://www.yso.fi/onto/yso/p13676>	potilasohjeet	0.0002642129550539804
+<http://www.yso.fi/onto/yso/p19390>	omaisjärjestöt	0.0002640721589242193
+<http://www.yso.fi/onto/yso/p6357>	työllisyys	0.0002639953647634353
+<http://www.yso.fi/onto/yso/p18824>	vakuutusala	0.0002627076596995308
+<http://www.yso.fi/onto/yso/p16705>	varhainen puuttuminen	0.00026253488163506105
+<http://www.yso.fi/onto/yso/p17219>	itsehallinta	0.00026241642970655285
+<http://www.yso.fi/onto/yso/p4372>	psykiatria	0.0002620352072302591
+<http://www.yso.fi/onto/yso/p1090>	sairaalat	0.0002619390121915124
+<http://www.yso.fi/onto/yso/p4813>	esteet (elottomat objektit)	0.00026136270925317974
+<http://www.yso.fi/onto/yso/p12736>	lukiolaiset	0.0002599033320703628
+<http://www.yso.fi/onto/yso/p415>	tutkimusmenetelmät	0.0002579712658189237
+<http://www.yso.fi/onto/yso/p9695>	hermeneutiikka	0.00025790915956763044
+<http://www.yso.fi/onto/yso/p23>	neuvonta	0.00025704727846790444
+<http://www.yso.fi/onto/yso/p7050>	kumppanuus	0.0002543285359438001
+<http://www.yso.fi/onto/yso/p5912>	ympäristöpsykologia	0.0002537438018903644
+<http://www.yso.fi/onto/yso/p22456>	psykiatrian sairaanhoitajat	0.0002533490235112946
+<http://www.yso.fi/onto/yso/p19189>	tutkielmat	0.0002530719202530401
+<http://www.yso.fi/onto/yso/p27100>	naistyö	0.00025275290086442095
+<http://www.yso.fi/onto/yso/p3907>	elämänpolitiikka	0.0002523431067608974
+<http://www.yso.fi/onto/yso/p8955>	ehkäisevä mielenterveystyö	0.00025220901827031575
+<http://www.yso.fi/onto/yso/p2963>	tiedontarve	0.00025190805397208105
+<http://www.yso.fi/onto/yso/p7418>	kotityö	0.0002518552028711631
+<http://www.yso.fi/onto/yso/p24761>	jalkaterapia	0.00025141791213007474
+<http://www.yso.fi/onto/yso/p10851>	lääkehoito	0.0002509514795912599
+<http://www.yso.fi/onto/yso/p24126>	ryhmäytyminen	0.00025092109519226307
+<http://www.yso.fi/onto/yso/p719>	kuntayhtymät	0.00025039023788518867
+<http://www.yso.fi/onto/yso/p10001>	palveluala	0.0002501306425653059
+<http://www.yso.fi/onto/yso/p13640>	jälkihoito (kunnossapito)	0.0002494861562313004
+<http://www.yso.fi/onto/yso/p10224>	A-klinikat	0.0002486203455853022
+<http://www.yso.fi/onto/yso/p23362>	lihasvoima	0.00024859992871907626
+<http://www.yso.fi/onto/yso/p11571>	työttömyys	0.0002481975748775188
+<http://www.yso.fi/onto/yso/p1835>	työhyvinvointi	0.0002480203899639574
+<http://www.yso.fi/onto/yso/p7129>	sosiaaliset vaikutukset	0.0002470461778681387
+<http://www.yso.fi/onto/yso/p2945>	oppiminen	0.00024682467681652105
+<http://www.yso.fi/onto/yso/p23554>	työmarkkina-asema	0.00024668029165530406
+<http://www.yso.fi/onto/yso/p9392>	oppimisterapia	0.0002457503155297176
+<http://www.yso.fi/onto/yso/p27422>	syöpähoidot	0.00024545987888069994
+<http://www.yso.fi/onto/yso/p20166>	terveydenhuollon opettajat	0.0002448772008805959
+<http://www.yso.fi/onto/yso/p23885>	perhehoitotyö	0.0002447676319703036
+<http://www.yso.fi/onto/yso/p11515>	tutkijakoulutus	0.00024450246181169697
+<http://www.yso.fi/onto/yso/p11173>	naiskuva	0.0002444741096538068
+<http://www.yso.fi/onto/yso/p10761>	elinolot	0.0002444518933771178
+<http://www.yso.fi/onto/yso/p20401>	teatteriohjaus	0.00024335149924313142
+<http://www.yso.fi/onto/yso/p5435>	opintotuki	0.00024291884460994465
+<http://www.yso.fi/onto/yso/p14808>	viittomakielentulkit	0.00024220991498706017
+<http://www.yso.fi/onto/yso/p6275>	oikeudenmukaisuus	0.00024206050782760773
+<http://www.yso.fi/onto/yso/p8353>	tunne-elämä	0.00024191435288891874
+<http://www.yso.fi/onto/yso/p24052>	sosiaalinen työllistäminen	0.00024131148953033103
+<http://www.yso.fi/onto/yso/p13050>	lapsiperheet	0.0002412684359693561
+<http://www.yso.fi/onto/yso/p12913>	muutosjohtaminen	0.0002405925852310082
+<http://www.yso.fi/onto/yso/p12228>	perushoitajat	0.00024051197635179217
+<http://www.yso.fi/onto/yso/p24851>	itsenäinen selviytyminen	0.0002404588700631972
+<http://www.yso.fi/onto/yso/p13277>	riskitekijät	0.00023989791092886165
+<http://www.yso.fi/onto/yso/p16864>	traumaperäinen stressireaktio	0.00023975148849951272
+<http://www.yso.fi/onto/yso/p21811>	vertaisoppiminen	0.00023936543174468998
+<http://www.yso.fi/onto/yso/p27888>	terveydenhuollon sosiaalityö	0.00023933838370298458
+<http://www.yso.fi/onto/yso/p5029>	laatu	0.00023842398765158246
+<http://www.yso.fi/onto/yso/p7459>	henkinen tuki	0.0002381081105506217
+<http://www.yso.fi/onto/yso/p9007>	jännittäminen	0.00023809025773185899
+<http://www.yso.fi/onto/yso/p26390>	päihderiippuvuus	0.00023806534908627245
+<http://www.yso.fi/onto/yso/p15979>	nuoret aikuiset	0.00023781287917782639
+<http://www.yso.fi/onto/yso/p227>	yhteiskuntatyö	0.00023766984258228067
+<http://www.yso.fi/onto/yso/p22168>	ajanhallinta	0.00023646992446050386
+<http://www.yso.fi/onto/yso/p24413>	etsivä nuorisotyö	0.00023633106267714703
+<http://www.yso.fi/onto/yso/p17004>	kehitysmaat	0.00023611907963640987
+<http://www.yso.fi/onto/yso/p272>	organisaatiot (järjestelmät)	0.0002359317492598414
+<http://www.yso.fi/onto/yso/p7104>	julkinen sektori	0.00023532465698239817
+<http://www.yso.fi/onto/yso/p7862>	hieronta	0.00023516395039306108
+<http://www.yso.fi/onto/yso/p4600>	unihäiriöt	0.00023496839514171536
+<http://www.yso.fi/onto/yso/p24064>	kompetenssi	0.00023451340014368972
+<http://www.yso.fi/onto/yso/p252>	liikkuvuus	0.0002343593152049421
+<http://www.yso.fi/onto/yso/p7672>	tietoisuus	0.00023430727517486296
+<http://www.yso.fi/onto/yso/p4707>	suoliston taudit	0.00023397922923322766
+<http://www.yso.fi/onto/yso/p5045>	neuvottelukunnat	0.00023355277212844654
+<http://www.yso.fi/onto/yso/p9523>	kriisikeskukset	0.0002335121275708926
+<http://www.yso.fi/onto/yso/p11376>	keuhkosairaudet	0.00023299124269132417
+<http://www.yso.fi/onto/yso/p19677>	esiintymispelko	0.00023273953411262482
+<http://www.yso.fi/onto/yso/p17754>	CP-vammaiset	0.00023259031612807038
+<http://www.yso.fi/onto/yso/p3757>	työtavat	0.0002313168584474955
+<http://www.yso.fi/onto/yso/p1713>	aivoinfarkti	0.00023103309821718458
+<http://www.yso.fi/onto/yso/p11344>	rytmi	0.00023084967794023792
+<http://www.yso.fi/onto/yso/p23537>	monivammaisuus	0.00023080653018868444
+<http://www.yso.fi/onto/yso/p6895>	kerronta	0.00023054675019176847
+<http://www.yso.fi/onto/yso/p18767>	psykosomatiikka	0.00023009984910128298
+<http://www.yso.fi/onto/yso/p5980>	laitokset	0.00022991156861694022
+<http://www.yso.fi/onto/yso/p17923>	sosiaalinen konstruktivismi	0.0002298399819251658
+<http://www.yso.fi/onto/yso/p7227>	yhteistoiminta	0.0002297494086881422
+<http://www.yso.fi/onto/yso/p8415>	ihmissuhdetyö	0.00022908787941560148
+<http://www.yso.fi/onto/yso/p17752>	saattohoito	0.0002289813840020956
+<http://www.yso.fi/onto/yso/p23420>	kansantaudit	0.00022877799585165287
+<http://www.yso.fi/onto/yso/p17049>	yhteisöterapia	0.00022839385280597278
+<http://www.yso.fi/onto/yso/p544>	häiriöt	0.00022815521383150056
+<http://www.yso.fi/onto/yso/p20563>	segregaatio	0.00022754584391474386
+<http://www.yso.fi/onto/yso/p467>	tarkastus	0.00022722901988097213
+<http://www.yso.fi/onto/yso/p13604>	sisätaudit	0.00022700555035209453
+<http://www.yso.fi/onto/yso/p21066>	tukipolitiikka	0.0002269064864694056
+<http://www.yso.fi/onto/yso/p4527>	perustarpeet	0.00022679043468087912
+<http://www.yso.fi/onto/yso/p18733>	seikkailukasvatus	0.00022650324628392066
+<http://www.yso.fi/onto/yso/p2420>	ilo	0.00022630800323730166
+<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.00022594811889575794
+<http://www.yso.fi/onto/yso/p2234>	kielelliset häiriöt	0.00022586942650377751
+<http://www.yso.fi/onto/yso/p2293>	tukiperheet	0.000225821992022578
+<http://www.yso.fi/onto/yso/p2449>	perhevapaat	0.00022555266596927223
+<http://www.yso.fi/onto/yso/p11946>	nivelreuma	0.0002254385006381199
+<http://www.yso.fi/onto/yso/p1227>	elinikä	0.00022505928857505998
+<http://www.yso.fi/onto/yso/p3706>	kävely	0.0002249738331143321
+<http://www.yso.fi/onto/yso/p12893>	ammattikuva	0.0002248439448356459
+<http://www.yso.fi/onto/yso/p9045>	liikuntavammaiset	0.00022484029495072635
+<http://www.yso.fi/onto/yso/p13385>	kuurosokeus	0.00022480308676180852
+<http://www.yso.fi/onto/yso/p2494>	puheviestintä	0.00022437277578071438
+<http://www.yso.fi/onto/yso/p7458>	kannustimet	0.0002241466144120998
+<http://www.yso.fi/onto/yso/p7828>	keskustelunanalyysi	0.00022411405119452288
+<http://www.yso.fi/onto/yso/p1725>	luottamus	0.0002237327664095739
+<http://www.yso.fi/onto/yso/p2316>	neurofysiologia	0.00022339322868819263
+<http://www.yso.fi/onto/yso/p4204>	avotyö	0.00022326691912233153
+<http://www.yso.fi/onto/yso/p810>	kädet	0.00022298486543480647
+<http://www.yso.fi/onto/yso/p16821>	laatupiirit	0.000222853389674459
+<http://www.yso.fi/onto/yso/p22648>	kuraattorit	0.00022282624850049614
+<http://www.yso.fi/onto/yso/p2133>	sosiaalinen asema	0.00022270293662917209
+<http://www.yso.fi/onto/yso/p2096>	työharjoittelu	0.00022268403660167347
+<http://www.yso.fi/onto/yso/p11379>	työorientaatio	0.00022258751427712428
+<http://www.yso.fi/onto/yso/p19875>	etiologia	0.00022249605787113646
+<http://www.yso.fi/onto/yso/p19328>	tieteensosiologia	0.00022191075973255052
+<http://www.yso.fi/onto/yso/p8544>	työympäristö	0.0002218034097247503
+<http://www.yso.fi/onto/yso/p3211>	elämys	0.00022157240415584633
+<http://www.yso.fi/onto/yso/p12104>	asiantuntijat	0.0002201006774240258
+<http://www.yso.fi/onto/yso/p21778>	kivunhoito	0.0002191995029782199
+<http://www.yso.fi/onto/yso/p5581>	perustutkimus	0.00021857506944797934
+<http://www.yso.fi/onto/yso/p4964>	pakolaishuolto	0.00021852476585825737
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.00021822473711588167
+<http://www.yso.fi/onto/yso/p14150>	korkeakoulupedagogiikka	0.00021805203657343308
+<http://www.yso.fi/onto/yso/p19127>	palliatiivinen hoito	0.0002173386022067544
+<http://www.yso.fi/onto/yso/p4835>	oppimisympäristö	0.0002171424894847653
+<http://www.yso.fi/onto/yso/p25373>	omahoitajat	0.00021684220859738575
+<http://www.yso.fi/onto/yso/p23894>	johtajat	0.00021598941397810864
+<http://www.yso.fi/onto/yso/p5389>	lähisuhdeväkivalta	0.0002159187302988192
+<http://www.yso.fi/onto/yso/p21954>	varhainen tuki	0.0002153435645265166
+<http://www.yso.fi/onto/yso/p18795>	sydämen vajaatoiminta	0.00021523637591268528
+<http://www.yso.fi/onto/yso/p13526>	yksilöllistyminen	0.0002139132972595028
+<http://www.yso.fi/onto/yso/p19973>	maaseutuympäristö	0.00021390772387597034
+<http://www.yso.fi/onto/yso/p802>	suojatyö	0.000213761595395309
+<http://www.yso.fi/onto/yso/p15620>	priorisointi	0.0002136156259273941
+<http://www.yso.fi/onto/yso/p3765>	nuorisopolitiikka	0.00021352065801197155
+<http://www.yso.fi/onto/yso/p1738>	farmakologia	0.00021190857726403257
+<http://www.yso.fi/onto/yso/p12590>	laitostuminen	0.00021187072932000526
+<http://www.yso.fi/onto/yso/p12871>	henkilöstöjohtaminen	0.00021137873171193694
+<http://www.yso.fi/onto/yso/p15354>	viihtyisyys	0.00021137679763011296
+<http://www.yso.fi/onto/yso/p2267>	käsitteet	0.00021130945110185579
+<http://www.yso.fi/onto/yso/p7995>	masennus	0.00021111384822606024
+<http://www.yso.fi/onto/yso/p2499>	selkäsairaudet	0.000210957304013639
+<http://www.yso.fi/onto/yso/p5527>	ruokatottumukset	0.00021077495952009817
+<http://www.yso.fi/onto/yso/p10274>	visuaalinen kulttuuri	0.00021054248764729974
+<http://www.yso.fi/onto/yso/p6375>	pienryhmät	0.00020996648077429696
+<http://www.yso.fi/onto/yso/p8558>	kouluyhteisö	0.00020968269726092165
+<http://www.yso.fi/onto/yso/p24182>	esimiestyö	0.00020819202446463434
+<http://www.yso.fi/onto/yso/p24478>	motoriset taidot	0.00020816517909142104
+<http://www.yso.fi/onto/yso/p7456>	tarvearviot	0.00020812233031558043
+<http://www.yso.fi/onto/yso/p16698>	perhekasvatus	0.00020741681139704518
+<http://www.yso.fi/onto/yso/p13751>	hoitoala	0.00020736671232787722
+<http://www.yso.fi/onto/yso/p7540>	suun terveydenhuolto	0.00020698423216923732
+<http://www.yso.fi/onto/yso/p11868>	kotisairaanhoito	0.000206975094624795
+<http://www.yso.fi/onto/yso/p16332>	mielisairaanhoito	0.00020681877027858386
+<http://www.yso.fi/onto/yso/p819>	elämänodotukset	0.0002062876192874021
+<http://www.yso.fi/onto/yso/p15573>	asuinympäristö	0.00020617588148029014
+<http://www.yso.fi/onto/yso/p2736>	kansalaisuus	0.00020612609514500946
+<http://www.yso.fi/onto/yso/p25973>	lapsilähtöisyys	0.00020589558936824853
+<http://www.yso.fi/onto/yso/p15899>	urasuunnittelu	0.00020538103258745238
+<http://www.yso.fi/onto/yso/p8749>	raskaus	0.0002051935457116501
+<http://www.yso.fi/onto/yso/p8516>	perhesuunnittelu	0.0002049540002851493
+<http://www.yso.fi/onto/yso/p19284>	näyttöön perustuva lääketiede	0.00020316476875450462
+<http://www.yso.fi/onto/yso/p22296>	lihashuolto	0.00020255633994979277
+<http://www.yso.fi/onto/yso/p3671>	ravinto	0.00020240944722900168
+<http://www.yso.fi/onto/yso/p21377>	koettu terveys	0.0002023807623614134
+<http://www.yso.fi/onto/yso/p3908>	yhteiskuntapolitiikka	0.00020189137774815952
+<http://www.yso.fi/onto/yso/p20874>	avuntarve	0.0002015556251122193
+<http://www.yso.fi/onto/yso/p9061>	huoltosuhde	0.00020014502965337173
+<http://www.yso.fi/onto/yso/p12156>	koulutustausta	0.000200132216559723
+<http://www.yso.fi/onto/yso/p8517>	ehkäisyneuvonta	0.0001998722264860672
+<http://www.yso.fi/onto/yso/p6731>	tunneäly	0.000199641420410692
+<http://www.yso.fi/onto/yso/p14593>	erityisopettajat	0.00019963838435201482
+<http://www.yso.fi/onto/yso/p7615>	itsepalvelu	0.00019962335169442338
+<http://www.yso.fi/onto/yso/p13335>	harjoitukset	0.00019801575399469584
+<http://www.yso.fi/onto/yso/p16485>	koululaiset	0.00019732118843504313
+<http://www.yso.fi/onto/yso/p6540>	faktorianalyysi	0.0001970897190569138
+<http://www.yso.fi/onto/yso/p24960>	vanhuspsykiatria	0.00019684265822764825
+<http://www.yso.fi/onto/yso/p9266>	läsnäolo	0.00019671188969038088
+<http://www.yso.fi/onto/yso/p50>	vammat	0.0001956234961240129
+<http://www.yso.fi/onto/yso/p4283>	lisääntymisterveys	0.00019535100952700965
+<http://www.yso.fi/onto/yso/p6589>	ravitsemusterapia	0.0001949436626587571
+<http://www.yso.fi/onto/yso/p15623>	opetusala	0.00019470804651394824
+<http://www.yso.fi/onto/yso/p14804>	stressinhallinta	0.0001945600381904197
+<http://www.yso.fi/onto/yso/p560>	viestintätaidot	0.00019454830431972036
+<http://www.yso.fi/onto/yso/p295>	hermoston taudit	0.00019422362092882394
+<http://www.yso.fi/onto/yso/p19984>	ehkäisevä sosiaalipolitiikka	0.0001938319669782438
+<http://www.yso.fi/onto/yso/p5570>	verkostot	0.00019358866424723105
+<http://www.yso.fi/onto/yso/p11260>	työkulttuuri	0.00019328659770756284
+<http://www.yso.fi/onto/yso/p3077>	käyttötutkimus	0.00019313072896858847
+<http://www.yso.fi/onto/yso/p12292>	vuodeosastot	0.00019252190355804156
+<http://www.yso.fi/onto/yso/p20671>	työura	0.00019237320944243534
+<http://www.yso.fi/onto/yso/p989>	syömishäiriöt	0.0001922964446500621
+<http://www.yso.fi/onto/yso/p6428>	perheleirit	0.0001922586308368905
+<http://www.yso.fi/onto/yso/p14348>	naisvaltaisuus	0.0001921463498464701
+<http://www.yso.fi/onto/yso/p23207>	lääkkeetön hoito	0.00019212985802865163
+<http://www.yso.fi/onto/yso/p20575>	taideharrastukset	0.00019211930497972803
+<http://www.yso.fi/onto/yso/p3472>	toimintarajoitteet	0.00019210483984683047
+<http://www.yso.fi/onto/yso/p8357>	potilaat	0.0001920592531942847
+<http://www.yso.fi/onto/yso/p2629>	tukiopetus	0.00019189612040380863
+<http://www.yso.fi/onto/yso/p5750>	ravitsemushäiriöt	0.0001916863090379841
+<http://www.yso.fi/onto/yso/p2357>	lapset (perheenjäsenet)	0.00019165970205160026
+<http://www.yso.fi/onto/yso/p19217>	tekonivelet	0.0001915096067188477
+<http://www.yso.fi/onto/yso/p18950>	asennemuutos	0.00019087648860559883
+<http://www.yso.fi/onto/yso/p991>	ruokahalu	0.00019086401086745107
+<http://www.yso.fi/onto/yso/p9355>	kehittävä työntutkimus	0.00019059524942845613
+<http://www.yso.fi/onto/yso/p2122>	fyysinen kehitys	0.0001905492647148838
+<http://www.yso.fi/onto/yso/p8343>	osaaminen	0.00018964876865290781
+<http://www.yso.fi/onto/yso/p7977>	psyykenlääkkeet	0.00018886515278030525
+<http://www.yso.fi/onto/yso/p5397>	päämäärät	0.00018884290739978578
+<http://www.yso.fi/onto/yso/p20279>	tutkimustyö	0.0001885991953630847
+<http://www.yso.fi/onto/yso/p4268>	työnjako	0.00018799606517528775
+<http://www.yso.fi/onto/yso/p4641>	oppaat (teokset)	0.00018787365353835578
+<http://www.yso.fi/onto/yso/p21208>	aikuisopistot	0.00018718307467431507
+<http://www.yso.fi/onto/yso/p3532>	kuvantaminen	0.00018712811394255946
+<http://www.yso.fi/onto/yso/p10574>	ongelmanuoret	0.00018647807115815918
+<http://www.yso.fi/onto/yso/p10647>	monikulttuurisuus	0.00018627440863796933
+<http://www.yso.fi/onto/yso/p9806>	takuu	0.00018611419019924307
+<http://www.yso.fi/onto/yso/p453>	terveyspolitiikka	0.00018557780898514797
+<http://www.yso.fi/onto/yso/p6046>	työterveyshuolto	0.00018556706834880804
+<http://www.yso.fi/onto/yso/p7815>	organisaatioteoriat	0.00018423978630876676
+<http://www.yso.fi/onto/yso/p1722>	epävarmuus	0.00018421250199687414
+<http://www.yso.fi/onto/yso/p4621>	ahdistus	0.0001841409610774876
+<http://www.yso.fi/onto/yso/p13504>	työprosessit	0.00018401071812894026
+<http://www.yso.fi/onto/yso/p9166>	yksilönvapaus	0.0001839630893135274
+<http://www.yso.fi/onto/yso/p17305>	neurologia	0.00018388445817188107
+<http://www.yso.fi/onto/yso/p3125>	huolenpito	0.00018375581738920037
+<http://www.yso.fi/onto/yso/p26400>	green care	0.0001833321481667967
+<http://www.yso.fi/onto/yso/p16848>	osallistava tutkimus	0.00018317769387398255
+<http://www.yso.fi/onto/yso/p277>	muutos	0.00018302930984646082
+<http://www.yso.fi/onto/yso/p7137>	sosiaalinen kontrolli	0.0001828032016584819
+<http://www.yso.fi/onto/yso/p19049>	erityisluokat	0.00018234346921830862
+<http://www.yso.fi/onto/yso/p2579>	sisältö	0.00018186953040474855
+<http://www.yso.fi/onto/yso/p13463>	työpaikat	0.00018159189573700794
+<http://www.yso.fi/onto/yso/p3708>	kuntoliikunta	0.00018155297624285926
+<http://www.yso.fi/onto/yso/p823>	lihavuus	0.00018141797203993933
+<http://www.yso.fi/onto/yso/p1251>	rituaalit	0.0001814006116050719
+<http://www.yso.fi/onto/yso/p8912>	perheneuvonta	0.00018101789147212085
+<http://www.yso.fi/onto/yso/p13202>	psykodynamiikka	0.00018096273177599704
+<http://www.yso.fi/onto/yso/p3755>	työmenetelmät	0.00018094607459550555
+<http://www.yso.fi/onto/yso/p15994>	tietoteoria	0.00017981244388713756
+<http://www.yso.fi/onto/yso/p4085>	turvapalvelut	0.00017954737598880786
+<http://www.yso.fi/onto/yso/p569>	opetustilanne	0.00017923387085002932
+<http://www.yso.fi/onto/yso/p17654>	kesäteatterit	0.00017862952134402638
+<http://www.yso.fi/onto/yso/p9728>	oppiva organisaatio	0.00017850341682787985
+<http://www.yso.fi/onto/yso/p5473>	koti	0.0001781663542549888
+<http://www.yso.fi/onto/yso/p20423>	turva-ala	0.00017784315079387108
+<http://www.yso.fi/onto/yso/p25321>	ylläpitohoito	0.0001774287734985013
+<http://www.yso.fi/onto/yso/p6138>	sosiaalinen kehitys	0.00017725318559149111
+<http://www.yso.fi/onto/yso/p10728>	osallistaminen	0.0001772416710578413
+<http://www.yso.fi/onto/yso/p12568>	vammaishuolto	0.00017721647163853048
+<http://www.yso.fi/onto/yso/p17682>	ammattikoulutus	0.00017648768129716204
+<http://www.yso.fi/onto/yso/p1534>	sosiaalioikeus	0.00017645859492900357
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.00017627182691781358
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.00017616735501426527
+<http://www.yso.fi/onto/yso/p2251>	kansalaistoiminta	0.00017600170606535604
+<http://www.yso.fi/onto/yso/p6533>	fysikaalinen hoito	0.00017594594312620094
+<http://www.yso.fi/onto/yso/p14610>	pitkittäistutkimus	0.00017555387008046225
+<http://www.yso.fi/onto/yso/p5287>	sijaiskasvatus	0.00017538708661132577
+<http://www.yso.fi/onto/yso/p17068>	ammattitaudit	0.0001750767138384452
+<http://www.yso.fi/onto/yso/p11991>	organisaatiopsykologia	0.00017501360562164337
+<http://www.yso.fi/onto/yso/p10631>	kyselytutkimus	0.00017458102004390888
+<http://www.yso.fi/onto/yso/p22769>	yhteenkuuluvuus	0.00017425653826318342
+<http://www.yso.fi/onto/yso/p23091>	opiskeluterveydenhuolto	0.00017417353943032635
+<http://www.yso.fi/onto/yso/p13969>	työsuoritus	0.00017411304367917843
+<http://www.yso.fi/onto/yso/p17252>	sosiaalitoimi	0.0001731840425319123
+<http://www.yso.fi/onto/yso/p10754>	aikuiskasvatus	0.00017283168166283178
+<http://www.yso.fi/onto/yso/p3018>	paradigmat	0.00017270513344556094
+<http://www.yso.fi/onto/yso/p9042>	henkilösuhteet	0.00017252829116345806
+<http://www.yso.fi/onto/yso/p4651>	päiväkeskukset	0.00017238534373146568
+<http://www.yso.fi/onto/yso/p11844>	ilmaisukasvatus	0.00017202603207393125
+<http://www.yso.fi/onto/yso/p13610>	esitteet	0.0001712503956778991
+<http://www.yso.fi/onto/yso/p21989>	työelämävalmiudet	0.00017097566080999306
+<http://www.yso.fi/onto/yso/p399>	produktiot	0.00017074029125400226
+<http://www.yso.fi/onto/yso/p24894>	taidepsykoterapia	0.0001706266556125642
+<http://www.yso.fi/onto/yso/p4837>	opiskeluympäristö	0.0001702473408923569
+<http://www.yso.fi/onto/yso/p24215>	päihteettömyys	0.00017022766246968372
+<http://www.yso.fi/onto/yso/p21574>	henkinen pahoinvointi	0.00017003884607799013
+<http://www.yso.fi/onto/yso/p6982>	osa-aikatyö	0.00016919118219944226
+<http://www.yso.fi/onto/yso/p7482>	kokemusoppiminen	0.00016878976867618886
+<http://www.yso.fi/onto/yso/p20576>	nuorisotoimi	0.00016877800252669575
+<http://www.yso.fi/onto/yso/p11251>	asukkaat	0.00016876724654469978
+<http://www.yso.fi/onto/yso/p8452>	sairaanhoitajat	0.00016849533130880445
+<http://www.yso.fi/onto/yso/p6548>	ammatinvalinta	0.00016844066796528007
+<http://www.yso.fi/onto/yso/p15449>	terveysvaikutukset	0.00016793112815569408
+<http://www.yso.fi/onto/yso/p3802>	kirjaaminen	0.00016759909604760733
+<http://www.yso.fi/onto/yso/p18072>	hengityslaitteet	0.00016712836566677486
+<http://www.yso.fi/onto/yso/p17765>	FOLLOW	0.00016696267094547774
+<http://www.yso.fi/onto/yso/p7232>	lonkka	0.00016692160702818496
+<http://www.yso.fi/onto/yso/p4737>	palkitseminen	0.00016679993581915782
+<http://www.yso.fi/onto/yso/p5103>	oppimisprosessi	0.0001667117070279677
+<http://www.yso.fi/onto/yso/p851>	preoperatiivinen hoito	0.00016661728176669302
+<http://www.yso.fi/onto/yso/p848>	postoperatiivinen hoito	0.00016654490397989072
+<http://www.yso.fi/onto/yso/p11648>	sairaus	0.0001664988394953649
+<http://www.yso.fi/onto/yso/p929>	naiseus	0.00016638845977881415
+<http://www.yso.fi/onto/yso/p12733>	terveyskasvatus	0.0001663121405396272
+<http://www.yso.fi/onto/yso/p8743>	päätöksenteko	0.00016596800573593514
+<http://www.yso.fi/onto/yso/p9725>	henkilöstösuunnittelu	0.0001659457725261084
+<http://www.yso.fi/onto/yso/p12031>	positiivisuus	0.0001659405280158601
+<http://www.yso.fi/onto/yso/p9486>	kouluympäristö	0.00016573707239744676
+<http://www.yso.fi/onto/yso/p11765>	vuorovaikutusterapia	0.0001654598925432021
+<http://www.yso.fi/onto/yso/p4494>	sosiaalinen järjestelmä	0.00016512266685657034
+<http://www.yso.fi/onto/yso/p8310>	innovatiivisuus	0.00016469100453171201
+<http://www.yso.fi/onto/yso/p656>	esteet (ilmiöt)	0.00016437838176815685
+<http://www.yso.fi/onto/yso/p7413>	arviointi	0.00016409477367150513
+<http://www.yso.fi/onto/yso/p2641>	terveydenhoito	0.0001639694152717394
+<http://www.yso.fi/onto/yso/p339>	toipuminen	0.00016391730406956577
+<http://www.yso.fi/onto/yso/p6267>	ammatillinen tieto	0.0001639135023155673
+<http://www.yso.fi/onto/yso/p8228>	itsenäistyminen (psykologia)	0.00016380168301773003
+<http://www.yso.fi/onto/yso/p8740>	huolestuneisuus	0.00016327637660486455
+<http://www.yso.fi/onto/yso/p6033>	ympäristö	0.00016294897597452456
+<http://www.yso.fi/onto/yso/p11098>	terveysriskit	0.0001629399879179387
+<http://www.yso.fi/onto/yso/p23734>	taidekäsitykset	0.00016286458994727582
+<http://www.yso.fi/onto/yso/p219>	maailmankuva	0.0001626205934867771
+<http://www.yso.fi/onto/yso/p9734>	mind and body	0.00016241398698184638
+<http://www.yso.fi/onto/yso/p24239>	henkilökohtainen apu	0.00016174720843661238
+<http://www.yso.fi/onto/yso/p26748>	miestyö	0.00016125779445494778
+<http://www.yso.fi/onto/yso/p2631>	lastentaudit	0.00016117944932458075
+<http://www.yso.fi/onto/yso/p21534>	erilaiset oppijat	0.00016065092482180757
+<http://www.yso.fi/onto/yso/p2124>	psyykkinen kehitys	0.00016064586525317283
+<http://www.yso.fi/onto/yso/p842>	leikkaushoito	0.0001604111275148832
+<http://www.yso.fi/onto/yso/p20341>	liikuntaneuvonta	0.0001603601995157078
+<http://www.yso.fi/onto/yso/p13677>	potilasneuvonta	0.0001603442574957047
+<http://www.yso.fi/onto/yso/p4442>	toimintateoria	0.0001602818145660091
+<http://www.yso.fi/onto/yso/p17790>	nuorisotilat	0.00016021767964544283
+<http://www.yso.fi/onto/yso/p7513>	yksityiset palvelut	0.0001597196834733371
+<http://www.yso.fi/onto/yso/p979>	korvaushoito	0.0001592337839114903
+<http://www.yso.fi/onto/yso/p9658>	toivo	0.00015916934168093246
+<http://www.yso.fi/onto/yso/p9364>	soveltuvuus	0.00015915663812351836
+<http://www.yso.fi/onto/yso/p27006>	tutkimustieto	0.00015891437360551208
+<http://www.yso.fi/onto/yso/p4064>	vapaus	0.0001588975150794299
+<http://www.yso.fi/onto/yso/p4963>	vastaanottokeskukset	0.00015872412583452057
+<http://www.yso.fi/onto/yso/p8368>	video	0.00015857146724804558
+<http://www.yso.fi/onto/yso/p9964>	delfoimenetelmä	0.00015839960172095083
+<http://www.yso.fi/onto/yso/p3014>	tasapainotettu mittaristo	0.00015811298217158765
+<http://www.yso.fi/onto/yso/p20390>	vapaaehtoiset	0.00015804839706768026
+<http://www.yso.fi/onto/yso/p12901>	geroteknologia	0.000157850193367763
+<http://www.yso.fi/onto/yso/p1838>	kokonaisvaltainen lääketiede	0.00015780095683029768
+<http://www.yso.fi/onto/yso/p7258>	hyvä	0.00015779465532184323
+<http://www.yso.fi/onto/yso/p20759>	työllisyysaste	0.00015779315700373527
+<http://www.yso.fi/onto/yso/p6445>	viestintäkasvatus	0.000156921432194808
+<http://www.yso.fi/onto/yso/p8647>	keskushermosto	0.00015690682154275814
+<http://www.yso.fi/onto/yso/p23381>	lääkeneuvonta	0.00015680791243953123
+<http://www.yso.fi/onto/yso/p25337>	käyttäjäkokemus	0.00015666905806442215
+<http://www.yso.fi/onto/yso/p9700>	ammatillinen koulutus	0.0001566612894583324
+<http://www.yso.fi/onto/yso/p21065>	feministinen tutkimus	0.00015649266265840693
+<http://www.yso.fi/onto/yso/p1584>	pedagogiikka	0.00015643876659768549
+<http://www.yso.fi/onto/yso/p1832>	tyytyväisyys	0.00015615474734328349
+<http://www.yso.fi/onto/yso/p11903>	opiskelutaito	0.0001561226000459018
+<http://www.yso.fi/onto/yso/p2584>	verkostoterapia	0.00015610090419861743
+<http://www.yso.fi/onto/yso/p2777>	organisaatioviestintä	0.00015607804896055976
+<http://www.yso.fi/onto/yso/p14505>	asiantuntijaorganisaatiot	0.00015606219927907328
+<http://www.yso.fi/onto/yso/p8880>	hyöty	0.00015605354962066156
+<http://www.yso.fi/onto/yso/p8832>	työvoimapula	0.00015587905892805958
+<http://www.yso.fi/onto/yso/p16458>	psykiatrit	0.00015586931073233824
+<http://www.yso.fi/onto/yso/p9675>	koulutusohjelmat	0.00015578488713469018
+<http://www.yso.fi/onto/yso/p17658>	suunnitteluohjeet	0.00015547093750104647
+<http://www.yso.fi/onto/yso/p2750>	opetusryhmät	0.00015537682179869576
+<http://www.yso.fi/onto/yso/p16289>	hyötyliikunta	0.00015532814670057797
+<http://www.yso.fi/onto/yso/p23727>	pariterapia	0.00015494563585062595
+<http://www.yso.fi/onto/yso/p8020>	kehitysohjelmat	0.00015454192577056926
+<http://www.yso.fi/onto/yso/p4145>	psykoosit	0.00015438685500570996
+<http://www.yso.fi/onto/yso/p12360>	keskusjärjestöt	0.00015434395939916033
+<http://www.yso.fi/onto/yso/p27971>	huumevieroitus	0.0001542303258743645
+<http://www.yso.fi/onto/yso/p19035>	sosiaalipsykologia	0.00015421354897129772
+<http://www.yso.fi/onto/yso/p26823>	kehittämistutkimus	0.00015415927178268743
+<http://www.yso.fi/onto/yso/p3476>	köyhyys	0.0001540011588738046
+<http://www.yso.fi/onto/yso/p15923>	toimenpiteet	0.00015352902046288363
+<http://www.yso.fi/onto/yso/p6173>	kriisit	0.00015278055904094468
+<http://www.yso.fi/onto/yso/p13174>	kipulääkkeet	0.00015267222254558213

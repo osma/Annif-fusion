@@ -1,0 +1,1000 @@
+<http://www.yso.fi/onto/yso/p13035>	liikuntaharrastus	0.37538189007329603
+<http://www.yso.fi/onto/yso/p916>	liikunta	0.35526490015605366
+<http://www.yso.fi/onto/yso/p24012>	liikkumattomuus	0.351440369448908
+<http://www.yso.fi/onto/yso/p15704>	aktiivisuus	0.3140341068277207
+<http://www.yso.fi/onto/yso/p23102>	fyysinen aktiivisuus	0.3123613720775606
+<http://www.yso.fi/onto/yso/p15765>	koululiikunta	0.31224999366278056
+<http://www.yso.fi/onto/yso/p8131>	oppilaat	0.305220202269008
+<http://www.yso.fi/onto/yso/p16289>	hyötyliikunta	0.29700553567187676
+<http://www.yso.fi/onto/yso/p7384>	fyysinen kunto	0.27825449962866305
+<http://www.yso.fi/onto/yso/p7383>	kunto	0.2709866391451684
+<http://www.yso.fi/onto/yso/p24598>	liikuntataidot	0.2706201015074437
+<http://www.yso.fi/onto/yso/p25168>	terveyshyödyt	0.26153986424915504
+<http://www.yso.fi/onto/yso/p15764>	liikuntakasvatus	0.2533417905614458
+<http://www.yso.fi/onto/yso/p17246>	kuntotestit	0.2515070666702843
+<http://www.yso.fi/onto/yso/p23332>	liikunta-ala	0.246523203039765
+<http://www.yso.fi/onto/yso/p25542>	liikuntaluokat	0.23906373210082973
+<http://www.yso.fi/onto/yso/p15095>	terveysliikunta	0.23635629164868527
+<http://www.yso.fi/onto/yso/p2122>	fyysinen kehitys	0.23466773242001965
+<http://www.yso.fi/onto/yso/p17018>	liikuntaleikit	0.2298034804075206
+<http://www.yso.fi/onto/yso/p3093>	erityisliikunta	0.2234564276356725
+<http://www.yso.fi/onto/yso/p3276>	vapaa-aika	0.22159624604365627
+<http://www.yso.fi/onto/yso/p1050>	opettaja-oppilassuhde	0.21222362054439645
+<http://www.yso.fi/onto/yso/p7196>	tytöt	0.21011941850285884
+<http://www.yso.fi/onto/yso/p11604>	pojat (perheenjäsenet)	0.20872184857705878
+<http://www.yso.fi/onto/yso/p8174>	pojat (ikäryhmät)	0.20864033017623185
+<http://www.yso.fi/onto/yso/p16485>	koululaiset	0.20580045377148845
+<http://www.yso.fi/onto/yso/p6914>	kouluikäiset	0.20517153462668
+<http://www.yso.fi/onto/yso/p12214>	liikuntafysiologia	0.2048749086390717
+<http://www.yso.fi/onto/yso/p7692>	välitunnit	0.20451975468588246
+<http://www.yso.fi/onto/yso/p19247>	liikuntasosiologia	0.20088527027434663
+<http://www.yso.fi/onto/yso/p3092>	vammaisliikunta	0.1991041238579184
+<http://www.yso.fi/onto/yso/p8557>	luokkayhteisö	0.1991014938489908
+<http://www.yso.fi/onto/yso/p2043>	liikuntaseurat	0.19833511730255218
+<http://www.yso.fi/onto/yso/p10573>	käyttäytymishäiriöt	0.1973686182798809
+<http://www.yso.fi/onto/yso/p7811>	liikuntahoito	0.1968176100978147
+<http://www.yso.fi/onto/yso/p8586>	opintomenestys	0.19573842730504004
+<http://www.yso.fi/onto/yso/p9297>	liikuntasuunnittelu	0.19462627486456535
+<http://www.yso.fi/onto/yso/p567>	oppitunnit	0.19352784166490142
+<http://www.yso.fi/onto/yso/p15514>	murrosikä	0.1931945852458302
+<http://www.yso.fi/onto/yso/p23129>	kouluviihtyvyys	0.1931152049130698
+<http://www.yso.fi/onto/yso/p23196>	tyttötutkimus	0.18585498630405375
+<http://www.yso.fi/onto/yso/p7111>	oppilasarviointi	0.18546896160052018
+<http://www.yso.fi/onto/yso/p11616>	murrosikäiset	0.18131691070407616
+<http://www.yso.fi/onto/yso/p3924>	liikuntakulttuuri	0.18112895465052814
+<http://www.yso.fi/onto/yso/p25543>	liikuntajärjestöt	0.1806501405800028
+<http://www.yso.fi/onto/yso/p25738>	taidepedagogiikka	0.17825939015154554
+<http://www.yso.fi/onto/yso/p3708>	kuntoliikunta	0.17641422503857204
+<http://www.yso.fi/onto/yso/p12623>	erityisoppilaat	0.17618778815085429
+<http://www.yso.fi/onto/yso/p9486>	kouluympäristö	0.17251358515940599
+<http://www.yso.fi/onto/yso/p7772>	viihtyvyys	0.17227366088612106
+<http://www.yso.fi/onto/yso/p13726>	fyysinen ympäristö	0.17201265826536882
+<http://www.yso.fi/onto/yso/p5290>	sukupuolierot	0.17156853962572988
+<http://www.yso.fi/onto/yso/p20341>	liikuntaneuvonta	0.17130622975506823
+<http://www.yso.fi/onto/yso/p12733>	terveyskasvatus	0.17079700779506518
+<http://www.yso.fi/onto/yso/p24478>	motoriset taidot	0.1705313227977546
+<http://www.yso.fi/onto/yso/p24767>	aerobinen harjoittelu	0.17008163561920023
+<http://www.yso.fi/onto/yso/p22622>	liikuntakyky	0.16976940871977975
+<http://www.yso.fi/onto/yso/p4012>	ikäkaudet	0.169505504149098
+<http://www.yso.fi/onto/yso/p649>	liikkuminen	0.16932156190170927
+<http://www.yso.fi/onto/yso/p7094>	terveysneuvonta	0.1672987035860374
+<http://www.yso.fi/onto/yso/p2901>	harrastukset	0.16687397217123945
+<http://www.yso.fi/onto/yso/p25455>	hapenotto	0.16679912114245293
+<http://www.yso.fi/onto/yso/p18951>	asennekasvatus	0.16636996618733862
+<http://www.yso.fi/onto/yso/p8799>	perhetausta	0.16614189092102113
+<http://www.yso.fi/onto/yso/p6056>	ilmapiiri	0.16524822719601479
+<http://www.yso.fi/onto/yso/p20297>	erityiskoulut	0.165053571457447
+<http://www.yso.fi/onto/yso/p9824>	liikuntapalvelut	0.16498158058742526
+<http://www.yso.fi/onto/yso/p496>	motoriikka	0.16472825096357618
+<http://www.yso.fi/onto/yso/p25276>	tyttökulttuuri	0.16376259420973407
+<http://www.yso.fi/onto/yso/p16427>	urheiluhallinto	0.16291324625977485
+<http://www.yso.fi/onto/yso/p22446>	tyttötyö	0.16130891132684
+<http://www.yso.fi/onto/yso/p11733>	koulutyö	0.1598294677872173
+<http://www.yso.fi/onto/yso/p6939>	vapaa-ajantoiminnat	0.15892823318292534
+<http://www.yso.fi/onto/yso/p10865>	tietämys	0.1587331417249315
+<http://www.yso.fi/onto/yso/p15532>	kognitiivinen kehitys	0.15784335671676636
+<http://www.yso.fi/onto/yso/p10624>	koulunkäynti	0.1575950881033957
+<http://www.yso.fi/onto/yso/p28128>	tanssianalyysi	0.15747048314416578
+<http://www.yso.fi/onto/yso/p19049>	erityisluokat	0.15654417111803998
+<http://www.yso.fi/onto/yso/p21292>	yläkoulu	0.15581183967509366
+<http://www.yso.fi/onto/yso/p11216>	koulu (ilmiöt)	0.15522687785754702
+<http://www.yso.fi/onto/yso/p9401>	psyykkiset vaikutukset	0.15467006412142575
+<http://www.yso.fi/onto/yso/p20121>	sensitiivisyys	0.15400529434038598
+<http://www.yso.fi/onto/yso/p267>	minäkuva	0.15399971222055572
+<http://www.yso.fi/onto/yso/p11617>	nuoret	0.15364524224546183
+<http://www.yso.fi/onto/yso/p21333>	sukupuolisensitiivisyys	0.1535718774956888
+<http://www.yso.fi/onto/yso/p24766>	anaerobinen harjoittelu	0.15311364432739205
+<http://www.yso.fi/onto/yso/p568>	luokkatyöskentely	0.15301887641304565
+<http://www.yso.fi/onto/yso/p20748>	ryhmätoiminta	0.15146176897183608
+<http://www.yso.fi/onto/yso/p19682>	liikuntapolitiikka	0.15100827376900877
+<http://www.yso.fi/onto/yso/p24017>	liikuntafilosofia	0.1507816818491882
+<http://www.yso.fi/onto/yso/p6500>	työpaikkaliikunta	0.15022035660104294
+<http://www.yso.fi/onto/yso/p5036>	seksuaalinen kehitys	0.14961523730912324
+<http://www.yso.fi/onto/yso/p2357>	lapset (perheenjäsenet)	0.14830576215895702
+<http://www.yso.fi/onto/yso/p4354>	lapset (ikäryhmät)	0.1477535165860838
+<http://www.yso.fi/onto/yso/p12025>	liikunnanopettajat	0.147665876522312
+<http://www.yso.fi/onto/yso/p5798>	taidot	0.14737325266160703
+<http://www.yso.fi/onto/yso/p3298>	lapsipuolet	0.1471769325916875
+<http://www.yso.fi/onto/yso/p16770>	motorinen kehitys	0.1467192958651618
+<http://www.yso.fi/onto/yso/p26335>	vertaissuhteet	0.14669004537137925
+<http://www.yso.fi/onto/yso/p411>	sosiaaliset suhteet	0.14635439698257738
+<http://www.yso.fi/onto/yso/p29034>	motorinen oppiminen	0.14634260710770344
+<http://www.yso.fi/onto/yso/p265>	itseluottamus	0.14617291003566724
+<http://www.yso.fi/onto/yso/p266>	itsetunto	0.14608459380146907
+<http://www.yso.fi/onto/yso/p14978>	edistäminen	0.14605307885690982
+<http://www.yso.fi/onto/yso/p21784>	vapaa-ajan asunnot	0.14557589506828733
+<http://www.yso.fi/onto/yso/p12886>	luovuuskasvatus	0.1455712026128537
+<http://www.yso.fi/onto/yso/p12118>	liikuntalehdet	0.14544827555349557
+<http://www.yso.fi/onto/yso/p8558>	kouluyhteisö	0.14504012237957087
+<http://www.yso.fi/onto/yso/p27172>	fyysinen toimintakyky	0.1442171721747893
+<http://www.yso.fi/onto/yso/p10119>	kestävyys	0.14300957771817072
+<http://www.yso.fi/onto/yso/p21851>	maahanmuuttajatausta	0.14265507343162342
+<http://www.yso.fi/onto/yso/p26989>	kehonkoostumus	0.1425210973435289
+<http://www.yso.fi/onto/yso/p9045>	liikuntavammaiset	0.14226033195340204
+<http://www.yso.fi/onto/yso/p2041>	urheiluseurat	0.1422517396105573
+<http://www.yso.fi/onto/yso/p5201>	perheliikunta	0.14120670378712766
+<http://www.yso.fi/onto/yso/p25853>	musiikkipedagogiikka	0.14086561502495598
+<http://www.yso.fi/onto/yso/p1277>	akrobatia	0.1405422974541123
+<http://www.yso.fi/onto/yso/p24041>	kehonhallinta	0.14028219087990265
+<http://www.yso.fi/onto/yso/p8626>	persoonallisuuden kehitys	0.14026901882367962
+<http://www.yso.fi/onto/yso/p16193>	sosiaalinen oppiminen	0.13987197081221725
+<http://www.yso.fi/onto/yso/p10590>	sosiaalinen vuorovaikutus	0.13976194369872022
+<http://www.yso.fi/onto/yso/p7214>	peruskoulun yläaste	0.13975493572381403
+<http://www.yso.fi/onto/yso/p28749>	vavat	0.13973757564365244
+<http://www.yso.fi/onto/yso/p24971>	ylikunto	0.13952651723649967
+<http://www.yso.fi/onto/yso/p4734>	motivaatio	0.13918489068336382
+<http://www.yso.fi/onto/yso/p5296>	oppiaineet	0.13915683124948927
+<http://www.yso.fi/onto/yso/p11734>	arvosanat	0.13894355546365425
+<http://www.yso.fi/onto/yso/p21142>	painoindeksi	0.13889599307675268
+<http://www.yso.fi/onto/yso/p4836>	sosiaalinen ympäristö	0.13877669007422538
+<http://www.yso.fi/onto/yso/p5164>	osallisuus	0.13820248325498558
+<http://www.yso.fi/onto/yso/p6444>	sosiaaliset taidot	0.1380869852814035
+<http://www.yso.fi/onto/yso/p24837>	tunnekasvatus	0.13790389535643255
+<http://www.yso.fi/onto/yso/p15327>	nuoruus	0.13788002109394742
+<http://www.yso.fi/onto/yso/p23975>	tunnetaidot	0.13737996951664705
+<http://www.yso.fi/onto/yso/p24946>	aerobinen suorituskyky	0.13718387577800573
+<http://www.yso.fi/onto/yso/p3807>	liikuntapsykologia	0.13712308528338563
+<http://www.yso.fi/onto/yso/p6207>	nuoret perheet	0.1371028631922576
+<http://www.yso.fi/onto/yso/p3186>	hengityselimet	0.13681700821533985
+<http://www.yso.fi/onto/yso/p24016>	liikuntateknologia	0.1366363242139681
+<http://www.yso.fi/onto/yso/p11388>	koulupelko	0.13649288631040665
+<http://www.yso.fi/onto/yso/p49>	kehityshäiriöt	0.1364610520883276
+<http://www.yso.fi/onto/yso/p3275>	vapaa-ajan tilat	0.13643023565289322
+<http://www.yso.fi/onto/yso/p7637>	suositukset	0.13628006082204244
+<http://www.yso.fi/onto/yso/p25130>	kehontuntemus	0.13615911463203534
+<http://www.yso.fi/onto/yso/p4281>	tottumukset	0.13559174589152315
+<http://www.yso.fi/onto/yso/p17431>	lapsipsykologia	0.13528828809010743
+<http://www.yso.fi/onto/yso/p8584>	koulusaavutukset	0.13521121516940332
+<http://www.yso.fi/onto/yso/p25080>	nopeuskestävyys	0.13509806188820503
+<http://www.yso.fi/onto/yso/p15979>	nuoret aikuiset	0.13505587590303372
+<http://www.yso.fi/onto/yso/p6971>	sosiaalinen kasvatus	0.1345843708977655
+<http://www.yso.fi/onto/yso/p17466>	urheiluohjaajat	0.13425183130628787
+<http://www.yso.fi/onto/yso/p2125>	lasten kehitys	0.13418877793922648
+<http://www.yso.fi/onto/yso/p6761>	kehityspsykologia	0.13388826027996145
+<http://www.yso.fi/onto/yso/p5291>	sukupuoli	0.13381140401399794
+<http://www.yso.fi/onto/yso/p2629>	tukiopetus	0.13347078757137948
+<http://www.yso.fi/onto/yso/p21828>	alakoulu	0.13298583510605266
+<http://www.yso.fi/onto/yso/p4903>	turvallisuuskasvatus	0.1327987735386812
+<http://www.yso.fi/onto/yso/p2762>	terveys	0.13266326092944877
+<http://www.yso.fi/onto/yso/p26619>	ulkoliikunta	0.13255071069359559
+<http://www.yso.fi/onto/yso/p8674>	tanssikasvatus	0.13247808660974233
+<http://www.yso.fi/onto/yso/p9793>	tunne-elämän häiriöt	0.1323231776367321
+<http://www.yso.fi/onto/yso/p10716>	ryhmäkuntoutus	0.13231719064061237
+<http://www.yso.fi/onto/yso/p2750>	opetusryhmät	0.13211507182068866
+<http://www.yso.fi/onto/yso/p2133>	sosiaalinen asema	0.13135259051677728
+<http://www.yso.fi/onto/yso/p9266>	läsnäolo	0.13125212126317232
+<http://www.yso.fi/onto/yso/p24952>	liikeanalyysi	0.13101717608482402
+<http://www.yso.fi/onto/yso/p2124>	psyykkinen kehitys	0.13089135273828512
+<http://www.yso.fi/onto/yso/p26740>	ryhmäohjaus	0.13085909191110795
+<http://www.yso.fi/onto/yso/p4641>	oppaat (teokset)	0.13060402890864617
+<http://www.yso.fi/onto/yso/p4735>	kannustus	0.1305835777623522
+<http://www.yso.fi/onto/yso/p28565>	erityislapset	0.13055411106384604
+<http://www.yso.fi/onto/yso/p894>	urheilulajit	0.1304572869876633
+<http://www.yso.fi/onto/yso/p1127>	ryhmät	0.13044575642832526
+<http://www.yso.fi/onto/yso/p18292>	UKK-kävelytesti	0.13018735351561725
+<http://www.yso.fi/onto/yso/p4974>	poikakoulut	0.12979350273048734
+<http://www.yso.fi/onto/yso/p25129>	terveyshaitat	0.12971249924118483
+<http://www.yso.fi/onto/yso/p10372>	toiminnallisuus	0.1295494154153283
+<http://www.yso.fi/onto/yso/p24455>	tavoiteorientaatio	0.1285877903846489
+<http://www.yso.fi/onto/yso/p18834>	kvantitatiivinen tutkimus	0.12849141339048806
+<http://www.yso.fi/onto/yso/p17354>	erityisryhmät	0.12843263760345758
+<http://www.yso.fi/onto/yso/p3755>	työmenetelmät	0.12830058954094542
+<http://www.yso.fi/onto/yso/p24969>	harjoitteet	0.12825679536195245
+<http://www.yso.fi/onto/yso/p18822>	kohderyhmät	0.1282200146697946
+<http://www.yso.fi/onto/yso/p2183>	peruskoulun ala-aste	0.12817766689770965
+<http://www.yso.fi/onto/yso/p2518>	peruskoulu	0.1277791305344887
+<http://www.yso.fi/onto/yso/p6138>	sosiaalinen kehitys	0.127684715535389
+<http://www.yso.fi/onto/yso/p13022>	istuminen	0.12767465394248453
+<http://www.yso.fi/onto/yso/p6757>	laboratoriotutkimus	0.12756852287799741
+<http://www.yso.fi/onto/yso/p10824>	dialogisuus	0.12749035014194246
+<http://www.yso.fi/onto/yso/p6858>	liikuntamatkailu	0.12745118629909205
+<http://www.yso.fi/onto/yso/p8354>	mieliala	0.1274107590095615
+<http://www.yso.fi/onto/yso/p10575>	ongelmalapset	0.1273740923881489
+<http://www.yso.fi/onto/yso/p7676>	kestävyysharjoittelu	0.12735802668924456
+<http://www.yso.fi/onto/yso/p13203>	ryhmäkäyttäytyminen	0.12714707777019968
+<http://www.yso.fi/onto/yso/p27403>	liikuntatottumukset	0.12712656773545614
+<http://www.yso.fi/onto/yso/p136>	fyysinen kuormittavuus	0.12707184356090542
+<http://www.yso.fi/onto/yso/p7221>	tietokoneavusteinen oppiminen	0.12703771111728207
+<http://www.yso.fi/onto/yso/p24920>	kognitiiviset taidot	0.12673953226729046
+<http://www.yso.fi/onto/yso/p10482>	moraalikehitys	0.12645508495448016
+<http://www.yso.fi/onto/yso/p7974>	yleisopetus	0.12610945008078395
+<http://www.yso.fi/onto/yso/p8298>	lepo	0.12604490952056555
+<http://www.yso.fi/onto/yso/p3751>	syke	0.12601133983708143
+<http://www.yso.fi/onto/yso/p6720>	monikielisyys	0.1258703305895837
+<http://www.yso.fi/onto/yso/p17690>	omaehtoisuus	0.12581860203047904
+<http://www.yso.fi/onto/yso/p12883>	teemapäivät	0.12578144444458395
+<http://www.yso.fi/onto/yso/p21845>	koulukulttuuri	0.12546853748473288
+<http://www.yso.fi/onto/yso/p22092>	ammattikoululaiset	0.12546254697835318
+<http://www.yso.fi/onto/yso/p25117>	taiteilijuus	0.12540555879542753
+<http://www.yso.fi/onto/yso/p3304>	itsekasvatus	0.12533789712831975
+<http://www.yso.fi/onto/yso/p1400>	fyysiset ominaisuudet	0.12525757474741123
+<http://www.yso.fi/onto/yso/p13335>	harjoitukset	0.1252422964724842
+<http://www.yso.fi/onto/yso/p4285>	seksuaaliterveys	0.125182989937887
+<http://www.yso.fi/onto/yso/p24319>	motivaatioilmasto	0.12517957593953286
+<http://www.yso.fi/onto/yso/p16668>	äitiysvoimistelu	0.12503336189515835
+<http://www.yso.fi/onto/yso/p5593>	ikäryhmät	0.12502601626429144
+<http://www.yso.fi/onto/yso/p4736>	motivointi	0.1248530592418497
+<http://www.yso.fi/onto/yso/p22308>	tasa-arvokasvatus	0.12472520025140209
+<http://www.yso.fi/onto/yso/p13229>	liikuntalääketiede	0.1245972770022855
+<http://www.yso.fi/onto/yso/p25840>	luokkaopetus	0.12459420068953525
+<http://www.yso.fi/onto/yso/p7139>	sosiaalinen käyttäytyminen	0.1242678831291432
+<http://www.yso.fi/onto/yso/p793>	ehkäisy	0.12395244356064684
+<http://www.yso.fi/onto/yso/p8353>	tunne-elämä	0.12388151024343629
+<http://www.yso.fi/onto/yso/p11782>	kvalitatiivinen tutkimus	0.12377497956929272
+<http://www.yso.fi/onto/yso/p12732>	terveyden edistäminen	0.12366098342289654
+<http://www.yso.fi/onto/yso/p27976>	aikuiset lapset	0.1235179853255348
+<http://www.yso.fi/onto/yso/p14718>	tapakasvatus	0.12350536606202701
+<http://www.yso.fi/onto/yso/p8798>	kasvuympäristö	0.12332682075725784
+<http://www.yso.fi/onto/yso/p21034>	aika	0.12324250170410439
+<http://www.yso.fi/onto/yso/p8458>	seksuaalikasvatus	0.12302724367588118
+<http://www.yso.fi/onto/yso/p2168>	opetustilat	0.12251741814590794
+<http://www.yso.fi/onto/yso/p11195>	ryhti	0.1220558652755608
+<http://www.yso.fi/onto/yso/p5160>	opetuslapset	0.12181932289269763
+<http://www.yso.fi/onto/yso/p12611>	näytteenotto	0.12180374325015268
+<http://www.yso.fi/onto/yso/p25786>	liikkuva työ	0.12157521295527668
+<http://www.yso.fi/onto/yso/p16121>	erolapset	0.12127613896627748
+<http://www.yso.fi/onto/yso/p4080>	sosiometria	0.12126665326021788
+<http://www.yso.fi/onto/yso/p10361>	hyväksyminen	0.12113123647452854
+<http://www.yso.fi/onto/yso/p3762>	nuorten asema	0.1210670059458971
+<http://www.yso.fi/onto/yso/p6333>	käsitykset	0.12102894749785603
+<http://www.yso.fi/onto/yso/p9002>	sosiaalisuus	0.12099811035632439
+<http://www.yso.fi/onto/yso/p12577>	kasvatusoppaat	0.12085264067217963
+<http://www.yso.fi/onto/yso/p548>	henkilöstötilat	0.12074228461844169
+<http://www.yso.fi/onto/yso/p20973>	perustaidot	0.1207153370434671
+<http://www.yso.fi/onto/yso/p22307>	ystävyyskoulut	0.12052568695361103
+<http://www.yso.fi/onto/yso/p27342>	taidekokemukset	0.1200872094159257
+<http://www.yso.fi/onto/yso/p23890>	rasitus	0.11986415135759831
+<http://www.yso.fi/onto/yso/p9131>	tukeminen	0.11980906116194975
+<http://www.yso.fi/onto/yso/p2661>	poikkeava käyttäytyminen	0.1192075871556108
+<http://www.yso.fi/onto/yso/p7606>	valintakriteerit	0.11917036473730618
+<http://www.yso.fi/onto/yso/p2785>	tuki- ja liikuntaelimet	0.11911312614055584
+<http://www.yso.fi/onto/yso/p12114>	tunne-elämän kehitys	0.11876989840139413
+<http://www.yso.fi/onto/yso/p5364>	miellekartat	0.11871303020329264
+<http://www.yso.fi/onto/yso/p1381>	oppilastyöt	0.11866859680967118
+<http://www.yso.fi/onto/yso/p5619>	asenteet	0.11864049331791088
+<http://www.yso.fi/onto/yso/p27499>	vertaistoiminta	0.1186346120663416
+<http://www.yso.fi/onto/yso/p28372>	työrauha (työyhteisöt)	0.11862964928088311
+<http://www.yso.fi/onto/yso/p12677>	stereotypiat	0.11858393110353516
+<http://www.yso.fi/onto/yso/p17275>	työyksiköt	0.11857196380742348
+<http://www.yso.fi/onto/yso/p18355>	inkluusio	0.117948568438597
+<http://www.yso.fi/onto/yso/p25973>	lapsilähtöisyys	0.11764464249014779
+<http://www.yso.fi/onto/yso/p128>	väsymys	0.11749211923560672
+<http://www.yso.fi/onto/yso/p4980>	toimintaterapia	0.1174597300852468
+<http://www.yso.fi/onto/yso/p7382>	lihaskunto	0.11737386960495241
+<http://www.yso.fi/onto/yso/p86>	liikuntatilat	0.11733787908989592
+<http://www.yso.fi/onto/yso/p24761>	jalkaterapia	0.1172830513068079
+<http://www.yso.fi/onto/yso/p21260>	päihdekasvatus	0.11723389132410954
+<http://www.yso.fi/onto/yso/p1949>	mielenterveys	0.11713611762409323
+<http://www.yso.fi/onto/yso/p5530>	elintavat	0.11710850091323274
+<http://www.yso.fi/onto/yso/p10728>	osallistaminen	0.11710005763065659
+<http://www.yso.fi/onto/yso/p7426>	liikuntalukiot	0.11658755725583911
+<http://www.yso.fi/onto/yso/p10948>	lapsitutkimus	0.11657795271650581
+<http://www.yso.fi/onto/yso/p25710>	luokat	0.11657665922561043
+<http://www.yso.fi/onto/yso/p8459>	seksuaalineuvonta	0.11644977315251197
+<http://www.yso.fi/onto/yso/p14310>	teatterikasvatus	0.11636012979800618
+<http://www.yso.fi/onto/yso/p14132>	koulukodit	0.11629440315803946
+<http://www.yso.fi/onto/yso/p7179>	vammaiset	0.11623307224927755
+<http://www.yso.fi/onto/yso/p24876>	Nuori Kulttuuri	0.11590081008788111
+<http://www.yso.fi/onto/yso/p10270>	suoriutuminen	0.11583095026970217
+<http://www.yso.fi/onto/yso/p12891>	draamapedagogiikka	0.11569274032150302
+<http://www.yso.fi/onto/yso/p10213>	toimintakyky	0.1153955802123489
+<http://www.yso.fi/onto/yso/p6653>	ICF	0.11525442850775554
+<http://www.yso.fi/onto/yso/p10778>	tuotevalikoimat	0.11504294963618161
+<http://www.yso.fi/onto/yso/p4568>	verenkiertoelimet	0.11503332164607441
+<http://www.yso.fi/onto/yso/p4608>	pelot (spesifiset)	0.1147814856070136
+<http://www.yso.fi/onto/yso/p28331>	päiväunet	0.11475312904080927
+<http://www.yso.fi/onto/yso/p16544>	koulumatkat	0.11468490132717883
+<http://www.yso.fi/onto/yso/p16215>	oppimiskokemukset	0.11442508697181221
+<http://www.yso.fi/onto/yso/p20098>	toiminnalliset menetelmät	0.11434869244890246
+<http://www.yso.fi/onto/yso/p12678>	ennakkoluulot	0.11424338049404525
+<http://www.yso.fi/onto/yso/p5871>	liikuntapaikat	0.1141803834963147
+<http://www.yso.fi/onto/yso/p20871>	kokemuksellisuus	0.11414062812866978
+<http://www.yso.fi/onto/yso/p25148>	vammaisurheilu	0.11413564421100737
+<http://www.yso.fi/onto/yso/p18003>	kulttuuriharrastukset	0.1139992577509116
+<http://www.yso.fi/onto/yso/p8951>	joukkoruokailu	0.11394328693172112
+<http://www.yso.fi/onto/yso/p3625>	käyttäytyminen	0.11374062234896735
+<http://www.yso.fi/onto/yso/p23067>	opetushenkilöstö	0.11365963433145698
+<http://www.yso.fi/onto/yso/p8587>	oppimistulokset	0.11356990756775474
+<http://www.yso.fi/onto/yso/p27081>	esitystaide	0.11340409900938593
+<http://www.yso.fi/onto/yso/p24151>	medioituminen	0.11310792567561759
+<http://www.yso.fi/onto/yso/p19552>	ennaltaehkäisy	0.11303472028228675
+<http://www.yso.fi/onto/yso/p6332>	oppimiskäsitykset	0.11291781298582497
+<http://www.yso.fi/onto/yso/p25989>	sosiaalinen sukupuoli	0.11289335573829049
+<http://www.yso.fi/onto/yso/p6133>	eläytymismenetelmä	0.11289071258158627
+<http://www.yso.fi/onto/yso/p17367>	valinnaisaineet	0.11280680288270277
+<http://www.yso.fi/onto/yso/p17680>	passiivisuus	0.11279505784488289
+<http://www.yso.fi/onto/yso/p2776>	tiedonsaanti	0.11276702493282442
+<http://www.yso.fi/onto/yso/p17622>	henkilöstöravintolat	0.11270550449710019
+<http://www.yso.fi/onto/yso/p3485>	tunteet	0.1126711209926084
+<http://www.yso.fi/onto/yso/p14839>	koulukasvatus	0.11260927022012301
+<http://www.yso.fi/onto/yso/p15449>	terveysvaikutukset	0.11255969491821688
+<http://www.yso.fi/onto/yso/p9636>	liikuntakeskukset	0.11240426840145237
+<http://www.yso.fi/onto/yso/p17219>	itsehallinta	0.11240000613842024
+<http://www.yso.fi/onto/yso/p21130>	siirtymävaihe	0.11235788474120946
+<http://www.yso.fi/onto/yso/p18007>	hyvät käytännöt	0.11227766993048906
+<http://www.yso.fi/onto/yso/p11100>	terveyskäyttäytyminen	0.11184846392273774
+<http://www.yso.fi/onto/yso/p2138>	sosiaalinen tausta	0.11169892225086528
+<http://www.yso.fi/onto/yso/p15326>	aikuistuminen	0.11164532934610137
+<http://www.yso.fi/onto/yso/p70>	koulukiusaaminen	0.11151057273254009
+<http://www.yso.fi/onto/yso/p5920>	elimensiirto	0.11135959452853239
+<http://www.yso.fi/onto/yso/p23563>	reflektio	0.11130271478679439
+<http://www.yso.fi/onto/yso/p21059>	laboratoriotyöt	0.11124749734891604
+<http://www.yso.fi/onto/yso/p3402>	motiivit	0.1110925963719039
+<http://www.yso.fi/onto/yso/p14765>	ryhmädynamiikka	0.11101873534657168
+<http://www.yso.fi/onto/yso/p17442>	liikuntaleikkikoulut	0.11080242508508886
+<http://www.yso.fi/onto/yso/p24266>	perusopetuslaki	0.1107143855006372
+<http://www.yso.fi/onto/yso/p14492>	kasvatusneuvonta	0.11055167751559722
+<http://www.yso.fi/onto/yso/p823>	lihavuus	0.11027180276914306
+<http://www.yso.fi/onto/yso/p7532>	terveystieto	0.1101498864306109
+<http://www.yso.fi/onto/yso/p10574>	ongelmanuoret	0.11014283720163398
+<http://www.yso.fi/onto/yso/p12638>	reaktiot	0.11012480938031201
+<http://www.yso.fi/onto/yso/p11168>	ruumiinkuva	0.1100013159730841
+<http://www.yso.fi/onto/yso/p11745>	siirtymäaika	0.10997947526339963
+<http://www.yso.fi/onto/yso/p4474>	kehitysoppi	0.1099746590531167
+<http://www.yso.fi/onto/yso/p28643>	lasten oikeudet	0.10997012142187479
+<http://www.yso.fi/onto/yso/p21615>	sosiaalinen toimintakyky	0.10989581113803813
+<http://www.yso.fi/onto/yso/p386>	koulut (oppilaitokset)	0.10986256494200024
+<http://www.yso.fi/onto/yso/p8749>	raskaus	0.10982534497450684
+<http://www.yso.fi/onto/yso/p22168>	ajanhallinta	0.10981737802859112
+<http://www.yso.fi/onto/yso/p17497>	seuranta	0.10961920654590805
+<http://www.yso.fi/onto/yso/p7320>	yksilöllisyys	0.10961539781241368
+<http://www.yso.fi/onto/yso/p2344>	teokset	0.10949346621186455
+<http://www.yso.fi/onto/yso/p9052>	ryhmäkodit	0.1094377459781251
+<http://www.yso.fi/onto/yso/p3482>	erot	0.10941124192125883
+<http://www.yso.fi/onto/yso/p2747>	tavoitteet	0.10939407573457326
+<http://www.yso.fi/onto/yso/p27411>	vapaa-ajan asukkaat	0.1090982910966333
+<http://www.yso.fi/onto/yso/p6731>	tunneäly	0.1090966877991789
+<http://www.yso.fi/onto/yso/p26442>	opiskelijaravintolat	0.10907937206368108
+<http://www.yso.fi/onto/yso/p6423>	ulkonäkö	0.10903635084632987
+<http://www.yso.fi/onto/yso/p10249>	nuoret työntekijät	0.10883318921352025
+<http://www.yso.fi/onto/yso/p8880>	hyöty	0.10878465577388285
+<http://www.yso.fi/onto/yso/p23420>	kansantaudit	0.10872393846927829
+<http://www.yso.fi/onto/yso/p1660>	verisuonitaudit	0.10855664268640243
+<http://www.yso.fi/onto/yso/p9270>	kurssit	0.10855101175233885
+<http://www.yso.fi/onto/yso/p17218>	itsetuntemus	0.10852814912922067
+<http://www.yso.fi/onto/yso/p965>	urheilu	0.10852024537025792
+<http://www.yso.fi/onto/yso/p6438>	yhdenmukaistaminen	0.10840611260909683
+<http://www.yso.fi/onto/yso/p10628>	näkyvyys	0.10834129547700783
+<http://www.yso.fi/onto/yso/p11770>	kouluterveydenhuolto	0.10831128275319225
+<http://www.yso.fi/onto/yso/p14300>	sadutus	0.10808722719382181
+<http://www.yso.fi/onto/yso/p1451>	näkö	0.10804239965636168
+<http://www.yso.fi/onto/yso/p7095>	ravitsemussuositukset	0.10803202044274504
+<http://www.yso.fi/onto/yso/p11788>	asennot	0.10799695015958202
+<http://www.yso.fi/onto/yso/p24514>	terveysviestintä	0.1079307237989313
+<http://www.yso.fi/onto/yso/p963>	voimistelu	0.10787661961326692
+<http://www.yso.fi/onto/yso/p15335>	tavoitettavuus	0.10784690374326085
+<http://www.yso.fi/onto/yso/p24955>	sosioemotionaaliset taidot	0.1076459430445004
+<http://www.yso.fi/onto/yso/p24516>	voimaantuminen	0.10764005671563369
+<http://www.yso.fi/onto/yso/p16363>	nopeus	0.10759808330093457
+<http://www.yso.fi/onto/yso/p495>	psykomotoriikka	0.10758304824890062
+<http://www.yso.fi/onto/yso/p4457>	asiakastyö	0.10751514297651128
+<http://www.yso.fi/onto/yso/p3210>	kokeminen	0.10728021115777474
+<http://www.yso.fi/onto/yso/p19420>	sitouttaminen	0.10725558194057835
+<http://www.yso.fi/onto/yso/p14348>	naisvaltaisuus	0.10721316788782834
+<http://www.yso.fi/onto/yso/p23309>	infrarakentaminen	0.10714176823686895
+<http://www.yso.fi/onto/yso/p24563>	tarvekartoitus	0.1070792970035635
+<http://www.yso.fi/onto/yso/p15768>	arviointimenetelmät	0.10706669128338134
+<http://www.yso.fi/onto/yso/p9161>	tutkimusryhmät	0.10701616067261649
+<http://www.yso.fi/onto/yso/p10591>	vuorovaikutus	0.1069469280821092
+<http://www.yso.fi/onto/yso/p11646>	terveydentila	0.10690666047896819
+<http://www.yso.fi/onto/yso/p27708>	liikuntarajoitteet	0.10679146679036237
+<http://www.yso.fi/onto/yso/p15870>	omatoimisuus	0.10670439229917081
+<http://www.yso.fi/onto/yso/p6378>	ryhmäterapia	0.10670428177368639
+<http://www.yso.fi/onto/yso/p2433>	ikääntyneet	0.10665257967272115
+<http://www.yso.fi/onto/yso/p2784>	lihakset	0.106556081263585
+<http://www.yso.fi/onto/yso/p11101>	riskikäyttäytyminen	0.10633814296007169
+<http://www.yso.fi/onto/yso/p27766>	intervalliharjoittelu	0.10625592190592421
+<http://www.yso.fi/onto/yso/p25454>	maksimaalinen hapenotto	0.10612844588922549
+<http://www.yso.fi/onto/yso/p7132>	vapaakaupungit	0.10604377068927144
+<http://www.yso.fi/onto/yso/p14041>	suorituskyky	0.10589222986364964
+<http://www.yso.fi/onto/yso/p11710>	rahankäyttö	0.10571179754867772
+<http://www.yso.fi/onto/yso/p15344>	jakelutiet	0.105599415971288
+<http://www.yso.fi/onto/yso/p11722>	seurustelu	0.105562668081026
+<http://www.yso.fi/onto/yso/p25361>	bioanalytiikka	0.10500711367314008
+<http://www.yso.fi/onto/yso/p20957>	yksiköt (organisaatiot)	0.10492369492786413
+<http://www.yso.fi/onto/yso/p17567>	yhdenvertaisuus	0.10491923575655407
+<http://www.yso.fi/onto/yso/p6874>	oppilashuolto	0.10491256218014716
+<http://www.yso.fi/onto/yso/p13867>	koulukuri	0.10479957080040943
+<http://www.yso.fi/onto/yso/p9106>	kuunteleminen	0.10477257742584567
+<http://www.yso.fi/onto/yso/p2261>	kotiympäristö	0.10462810231854576
+<http://www.yso.fi/onto/yso/p22039>	arki	0.10461678384232037
+<http://www.yso.fi/onto/yso/p569>	opetustilanne	0.1046144883677834
+<http://www.yso.fi/onto/yso/p18777>	tuntiopettajat	0.1045844463959045
+<http://www.yso.fi/onto/yso/p8912>	perheneuvonta	0.10434990504520052
+<http://www.yso.fi/onto/yso/p20651>	sosiokulttuurinen innostaminen	0.10434009959954339
+<http://www.yso.fi/onto/yso/p11961>	opetustavoitteet	0.10433543670262263
+<http://www.yso.fi/onto/yso/p14610>	pitkittäistutkimus	0.10432436856550646
+<http://www.yso.fi/onto/yso/p25177>	muutosvalmius	0.10428338775866418
+<http://www.yso.fi/onto/yso/p14977>	liikuntatiede	0.10422712531593059
+<http://www.yso.fi/onto/yso/p9706>	oppimisvalmiudet	0.10419088310347624
+<http://www.yso.fi/onto/yso/p22882>	luovat menetelmät	0.10410695786019397
+<http://www.yso.fi/onto/yso/p12668>	luokitus (toiminta)	0.10408300190845952
+<http://www.yso.fi/onto/yso/p24107>	tyttöys	0.1039452661647998
+<http://www.yso.fi/onto/yso/p19594>	laboratoriotekniikka	0.10391567348113999
+<http://www.yso.fi/onto/yso/p5594>	työikäiset	0.1038540002803954
+<http://www.yso.fi/onto/yso/p2622>	survey-tutkimus	0.10385127984243277
+<http://www.yso.fi/onto/yso/p6137>	sopeutuminen	0.10384994383449979
+<http://www.yso.fi/onto/yso/p6984>	erityisopetus	0.10375470680912853
+<http://www.yso.fi/onto/yso/p1850>	maksuhäiriöt	0.10352973260960628
+<http://www.yso.fi/onto/yso/p12067>	koulurakennukset	0.10352926879511565
+<http://www.yso.fi/onto/yso/p16586>	kasvatuspsykologia	0.10351925951700013
+<http://www.yso.fi/onto/yso/p18555>	työkoulu	0.1035177534954448
+<http://www.yso.fi/onto/yso/p22931>	tehostaminen	0.10341877949773555
+<http://www.yso.fi/onto/yso/p6141>	sopeutumattomuus	0.10339997903510056
+<http://www.yso.fi/onto/yso/p21662>	hengitystiet	0.10339027899948625
+<http://www.yso.fi/onto/yso/p6915>	leikki-ikäiset	0.10337357272744067
+<http://www.yso.fi/onto/yso/p21210>	mittarit (mittaus)	0.10324405756223046
+<http://www.yso.fi/onto/yso/p22280>	kunto-ohjaajat	0.10310254500831863
+<http://www.yso.fi/onto/yso/p11231>	yhteisötaide	0.10301559342543243
+<http://www.yso.fi/onto/yso/p10335>	antropometria	0.10293699204711072
+<http://www.yso.fi/onto/yso/p22459>	valmistautuminen	0.10289653847574601
+<http://www.yso.fi/onto/yso/p9826>	munuaistaudit	0.10275972282240048
+<http://www.yso.fi/onto/yso/p27028>	toimintaohjeet	0.10274516980381497
+<http://www.yso.fi/onto/yso/p7077>	temperamentti	0.10274330265341292
+<http://www.yso.fi/onto/yso/p22769>	yhteenkuuluvuus	0.10274155367247838
+<http://www.yso.fi/onto/yso/p3392>	ongelmat	0.10270774036219507
+<http://www.yso.fi/onto/yso/p3066>	aineenvaihdunta	0.10264419221965317
+<http://www.yso.fi/onto/yso/p13700>	erityisalueet	0.10263830272342901
+<http://www.yso.fi/onto/yso/p19327>	perusopetus	0.1025877850172709
+<http://www.yso.fi/onto/yso/p13922>	kokonaisvaltaisuus	0.10252729455567645
+<http://www.yso.fi/onto/yso/p11065>	arvokasvatus	0.10245916316378433
+<http://www.yso.fi/onto/yso/p10727>	osallistuminen	0.1023373387893514
+<http://www.yso.fi/onto/yso/p10632>	haastattelututkimus	0.10228966162538271
+<http://www.yso.fi/onto/yso/p13762>	erityispedagogiikka	0.10223231575423619
+<http://www.yso.fi/onto/yso/p21985>	taiteen perusopetus	0.10215508412752891
+<http://www.yso.fi/onto/yso/p26864>	puheeksiotto	0.10210802436400992
+<http://www.yso.fi/onto/yso/p28138>	liikkuvat palvelut	0.10199280239969936
+<http://www.yso.fi/onto/yso/p9991>	henkilökohtainen hygienia	0.10192143801124834
+<http://www.yso.fi/onto/yso/p25528>	rasvaprosentti	0.10178260464939215
+<http://www.yso.fi/onto/yso/p4283>	lisääntymisterveys	0.10176827116767773
+<http://www.yso.fi/onto/yso/p14446>	koulukokeilu	0.1017342906614116
+<http://www.yso.fi/onto/yso/p3440>	sukupuoli-identiteetti	0.10171998891871764
+<http://www.yso.fi/onto/yso/p6902>	lapsityö	0.1017099814321084
+<http://www.yso.fi/onto/yso/p18202>	työnmittaus	0.10166559674033315
+<http://www.yso.fi/onto/yso/p560>	viestintätaidot	0.10161408452900575
+<http://www.yso.fi/onto/yso/p10121>	pandemiat	0.10155735479506454
+<http://www.yso.fi/onto/yso/p3209>	kokemukset	0.10152774899215672
+<http://www.yso.fi/onto/yso/p8517>	ehkäisyneuvonta	0.10147368601622717
+<http://www.yso.fi/onto/yso/p14129>	laitoskasvatus	0.10146591703758477
+<http://www.yso.fi/onto/yso/p23174>	toimintahäiriöt	0.10142215847709798
+<http://www.yso.fi/onto/yso/p928>	sukupuoliroolit	0.10124400539197495
+<http://www.yso.fi/onto/yso/p4806>	nuorisokulttuuri	0.10123278646741389
+<http://www.yso.fi/onto/yso/p6564>	haasteet (haastavat tilanteet)	0.10122934474111364
+<http://www.yso.fi/onto/yso/p2123>	kehitys	0.10120271182171364
+<http://www.yso.fi/onto/yso/p1259>	laulunopettajat	0.10116222191183706
+<http://www.yso.fi/onto/yso/p23889>	fyysinen rasitus	0.101156286997945
+<http://www.yso.fi/onto/yso/p24458>	muutoksenhallinta	0.10115331927266254
+<http://www.yso.fi/onto/yso/p14275>	kotiopetus	0.1011358339549839
+<http://www.yso.fi/onto/yso/p23911>	ostosmatkailu	0.1011173971978519
+<http://www.yso.fi/onto/yso/p23190>	urheilusuoritukset	0.10107828869080453
+<http://www.yso.fi/onto/yso/p3021>	elimistö	0.10106086333532417
+<http://www.yso.fi/onto/yso/p1743>	soittaminen	0.10103145714076696
+<http://www.yso.fi/onto/yso/p6752>	syyt	0.10100526964222031
+<http://www.yso.fi/onto/yso/p11787>	istumatyö	0.10095351971665756
+<http://www.yso.fi/onto/yso/p12550>	terveyspsykologia	0.1009279987549795
+<http://www.yso.fi/onto/yso/p22817>	teemahaastattelut	0.10091591898853952
+<http://www.yso.fi/onto/yso/p23562>	ravintolatyöntekijät	0.10088411751310342
+<http://www.yso.fi/onto/yso/p318>	leikit (tuotokset)	0.10086591289286377
+<http://www.yso.fi/onto/yso/p23404>	askelmittarit	0.10082575424931844
+<http://www.yso.fi/onto/yso/p23203>	fitness-urheilu	0.1007861316908037
+<http://www.yso.fi/onto/yso/p13735>	lapsuus	0.10077743507743162
+<http://www.yso.fi/onto/yso/p5>	viihde	0.10074360193598568
+<http://www.yso.fi/onto/yso/p16339>	lounaat	0.10070631730158379
+<http://www.yso.fi/onto/yso/p8760>	elämäntapa	0.10059348761481599
+<http://www.yso.fi/onto/yso/p2072>	luvat	0.10040478996996957
+<http://www.yso.fi/onto/yso/p21988>	unitutkimus	0.10039317877624147
+<http://www.yso.fi/onto/yso/p5301>	lukihäiriöt	0.10038232791951739
+<http://www.yso.fi/onto/yso/p24126>	ryhmäytyminen	0.10030523535446191
+<http://www.yso.fi/onto/yso/p2237>	raskauden ehkäisy	0.10029263663386119
+<http://www.yso.fi/onto/yso/p25099>	organisaatiomuutokset	0.10025144313097069
+<http://www.yso.fi/onto/yso/p1345>	ammattikieli	0.10024772774370042
+<http://www.yso.fi/onto/yso/p5142>	valmennusmenetelmät	0.10020583130283535
+<http://www.yso.fi/onto/yso/p17673>	kaupunkimatkailu	0.10017874393166523
+<http://www.yso.fi/onto/yso/p14372>	syöminen	0.10014567161417974
+<http://www.yso.fi/onto/yso/p22702>	krooniset taudit	0.10012701542115975
+<http://www.yso.fi/onto/yso/p23153>	vaikutusaika	0.10009250925612319
+<http://www.yso.fi/onto/yso/p27321>	poikakulttuuri	0.10008833380464816
+<http://www.yso.fi/onto/yso/p6140>	sosialisaatio	0.09996733115846218
+<http://www.yso.fi/onto/yso/p23131>	kuntoutujat	0.09993693470895763
+<http://www.yso.fi/onto/yso/p23885>	perhehoitotyö	0.0999331787999557
+<http://www.yso.fi/onto/yso/p4893>	valosuunnittelu	0.09989517708881566
+<http://www.yso.fi/onto/yso/p589>	puhelinmyynti	0.09987635672134104
+<http://www.yso.fi/onto/yso/p28737>	erityinen tuki	0.09979917970764396
+<http://www.yso.fi/onto/yso/p20417>	laivamatkailu	0.09975991854541909
+<http://www.yso.fi/onto/yso/p9734>	mind and body	0.09975949227172917
+<http://www.yso.fi/onto/yso/p6671>	liikunnanohjaajat	0.09975761297273646
+<http://www.yso.fi/onto/yso/p4973>	yhteiskoulut	0.099587877814179
+<http://www.yso.fi/onto/yso/p6033>	ympäristö	0.09958404500731745
+<http://www.yso.fi/onto/yso/p5990>	terveysmatkat	0.09958062857192919
+<http://www.yso.fi/onto/yso/p7641>	kerhotoiminta	0.09946009450912197
+<http://www.yso.fi/onto/yso/p12878>	vertaistuki	0.09942236297875973
+<http://www.yso.fi/onto/yso/p23921>	pilotointi	0.09933287082306602
+<http://www.yso.fi/onto/yso/p13643>	muutosvastarinta	0.09932907171088484
+<http://www.yso.fi/onto/yso/p11294>	koostumus	0.0993127027816675
+<http://www.yso.fi/onto/yso/p12949>	nuortenhuolto	0.09929746008364675
+<http://www.yso.fi/onto/yso/p25345>	psykofyysinen fysioterapia	0.09928486433775315
+<http://www.yso.fi/onto/yso/p26908>	liikuntatapaturmat	0.09908605577163355
+<http://www.yso.fi/onto/yso/p22621>	TYKY-toiminta	0.0990410748306246
+<http://www.yso.fi/onto/yso/p41>	interventio	0.09901680768450863
+<http://www.yso.fi/onto/yso/p22879>	luuntiheys	0.09900516584781459
+<http://www.yso.fi/onto/yso/p13390>	yksikkö (kielelliset objektit)	0.09900388392840387
+<http://www.yso.fi/onto/yso/p452>	kansanterveys	0.0989531544185258
+<http://www.yso.fi/onto/yso/p7458>	kannustimet	0.09892203580803816
+<http://www.yso.fi/onto/yso/p24945>	anaerobinen suorituskyky	0.09891956307691674
+<http://www.yso.fi/onto/yso/p5123>	leikkiterapia	0.09887506714792665
+<http://www.yso.fi/onto/yso/p6729>	lahjakkuus	0.0988221329895206
+<http://www.yso.fi/onto/yso/p18619>	nuorisososiologia	0.09873027789932362
+<http://www.yso.fi/onto/yso/p24799>	ikänäkö	0.09868022516647694
+<http://www.yso.fi/onto/yso/p1236>	palaute	0.09864362265095598
+<http://www.yso.fi/onto/yso/p17623>	työpaikkaruokailu	0.09864228857343821
+<http://www.yso.fi/onto/yso/p23312>	huoltajat	0.09863978126129522
+<http://www.yso.fi/onto/yso/p4674>	reitit	0.09862309630928098
+<http://www.yso.fi/onto/yso/p6279>	ympäristöterveys	0.09858926316278267
+<http://www.yso.fi/onto/yso/p18280>	hammashuolto	0.09852578593130665
+<http://www.yso.fi/onto/yso/p8457>	seksuaalioppaat	0.09848569052830881
+<http://www.yso.fi/onto/yso/p9915>	indeksit	0.0984062109797777
+<http://www.yso.fi/onto/yso/p2483>	mallioppiminen	0.09838706993141333
+<http://www.yso.fi/onto/yso/p14418>	roolit (odotettu käyttäytyminen)	0.09832572431781511
+<http://www.yso.fi/onto/yso/p1424>	määrä	0.09822768616557218
+<http://www.yso.fi/onto/yso/p1753>	laskelmat	0.0981734272721386
+<http://www.yso.fi/onto/yso/p22794>	itse	0.09802161984561847
+<http://www.yso.fi/onto/yso/p7272>	kysymykset	0.09800016830450986
+<http://www.yso.fi/onto/yso/p16612>	perhekuntoutus	0.09799705837780909
+<http://www.yso.fi/onto/yso/p21453>	työnkuva	0.09799362868262303
+<http://www.yso.fi/onto/yso/p25658>	asiakassegmentointi	0.09799103324756094
+<http://www.yso.fi/onto/yso/p15328>	toiveet	0.09795707668000919
+<http://www.yso.fi/onto/yso/p18379>	esimerkit	0.09794792120740442
+<http://www.yso.fi/onto/yso/p2137>	sosioekonominen asema	0.09787090751751755
+<http://www.yso.fi/onto/yso/p15623>	opetusala	0.09786823007051267
+<http://www.yso.fi/onto/yso/p11406>	lukeminen (toiminta)	0.09774528600196215
+<http://www.yso.fi/onto/yso/p8503>	kiintymyssuhdeteoria	0.09769996802519854
+<http://www.yso.fi/onto/yso/p8342>	kulttuuriosaaminen	0.09764597197657113
+<http://www.yso.fi/onto/yso/p1946>	henkinen hyvinvointi	0.09763178928730709
+<http://www.yso.fi/onto/yso/p12911>	erilaisuus	0.09757655607523322
+<http://www.yso.fi/onto/yso/p820>	odotukset	0.09754467943445379
+<http://www.yso.fi/onto/yso/p9403>	varaukset	0.09753050181737016
+<http://www.yso.fi/onto/yso/p20813>	vaikeudet	0.09749801583215786
+<http://www.yso.fi/onto/yso/p13805>	musiikkipsykologia	0.09749706827992102
+<http://www.yso.fi/onto/yso/p826>	ylipaino	0.09742748035356728
+<http://www.yso.fi/onto/yso/p13430>	toimintamuodot	0.0973081464061623
+<http://www.yso.fi/onto/yso/p24822>	integrointi	0.09730334199022332
+<http://www.yso.fi/onto/yso/p26931>	kouluruoka	0.09723700353462077
+<http://www.yso.fi/onto/yso/p1281>	näytteleminen	0.09718428922732861
+<http://www.yso.fi/onto/yso/p2660>	poikkeavuus	0.09704703673853254
+<http://www.yso.fi/onto/yso/p4278>	lukutottumukset	0.09699606701594812
+<http://www.yso.fi/onto/yso/p10181>	röntgentutkimus	0.09686487563060965
+<http://www.yso.fi/onto/yso/p27006>	tutkimustieto	0.09681413987600528
+<http://www.yso.fi/onto/yso/p17230>	hoitosuhde	0.09678312171058157
+<http://www.yso.fi/onto/yso/p12069>	palveluntuottajat	0.09677360052816678
+<http://www.yso.fi/onto/yso/p8504>	kuntosalit	0.09675527266617501
+<http://www.yso.fi/onto/yso/p2134>	sosioekonomiset tekijät	0.09674752051657287
+<http://www.yso.fi/onto/yso/p2962>	saanti	0.0967395011345007
+<http://www.yso.fi/onto/yso/p23664>	lastensuojelulaki	0.09671752422240187
+<http://www.yso.fi/onto/yso/p6715>	päivitys	0.09663676455086456
+<http://www.yso.fi/onto/yso/p20138>	prosessitaide	0.09652136770414371
+<http://www.yso.fi/onto/yso/p20827>	heteronormatiivisuus	0.09648273945814562
+<http://www.yso.fi/onto/yso/p2482>	roolimallit	0.09643610327138279
+<http://www.yso.fi/onto/yso/p2094>	nuorisovaihto	0.09643163877495303
+<http://www.yso.fi/onto/yso/p9886>	sydän- ja verisuonitaudit	0.09633018937949424
+<http://www.yso.fi/onto/yso/p17168>	kyvykkyys	0.09625819766772167
+<http://www.yso.fi/onto/yso/p10781>	osteoporoosi	0.09624622970482918
+<http://www.yso.fi/onto/yso/p14130>	kotikasvatus	0.09618243419195079
+<http://www.yso.fi/onto/yso/p14506>	veri	0.09615291509189905
+<http://www.yso.fi/onto/yso/p9061>	huoltosuhde	0.09614283041596183
+<http://www.yso.fi/onto/yso/p334>	kuvailu	0.09610854209921439
+<http://www.yso.fi/onto/yso/p2414>	oireet	0.09604914527152449
+<http://www.yso.fi/onto/yso/p26597>	verkkoympäristö	0.09603505700682695
+<http://www.yso.fi/onto/yso/p10592>	yhteistyökyky	0.09601039325820224
+<http://www.yso.fi/onto/yso/p25809>	vireys	0.09597628631390905
+<http://www.yso.fi/onto/yso/p18210>	psyykkinen toimintakyky	0.09591334211071005
+<http://www.yso.fi/onto/yso/p8571>	aloitus	0.09584005695532805
+<http://www.yso.fi/onto/yso/p19878>	metakognitio	0.09577598155792198
+<http://www.yso.fi/onto/yso/p17631>	toiminnanohjaus (organisaatiot)	0.09575823642690096
+<http://www.yso.fi/onto/yso/p20970>	perintätoimistot	0.09571740950938523
+<http://www.yso.fi/onto/yso/p12031>	positiivisuus	0.09571151615333362
+<http://www.yso.fi/onto/yso/p26041>	taitokasvatus	0.09570163006638921
+<http://www.yso.fi/onto/yso/p4417>	opetusvälineet	0.0956880755626795
+<http://www.yso.fi/onto/yso/p12736>	lukiolaiset	0.09568753953032254
+<http://www.yso.fi/onto/yso/p21393>	kasvatusala	0.09568325716158421
+<http://www.yso.fi/onto/yso/p3206>	vaihto	0.09560817289180439
+<http://www.yso.fi/onto/yso/p9020>	integroitu opetus	0.09559873294041485
+<http://www.yso.fi/onto/yso/p1947>	hyvinvointi (taloudellinen)	0.09558541723751053
+<http://www.yso.fi/onto/yso/p23470>	riittävyys	0.09556426415125799
+<http://www.yso.fi/onto/yso/p2260>	vanhempi-lapsisuhde	0.09555762486417048
+<http://www.yso.fi/onto/yso/p15152>	verkkomainonta	0.09551351448626377
+<http://www.yso.fi/onto/yso/p19163>	opiskelumotivaatio	0.09549827027401811
+<http://www.yso.fi/onto/yso/p20632>	moniosaaminen	0.09537769848659482
+<http://www.yso.fi/onto/yso/p16209>	piilo-opetussuunnitelmat	0.09534040345753016
+<http://www.yso.fi/onto/yso/p13277>	riskitekijät	0.09533082934883318
+<http://www.yso.fi/onto/yso/p7349>	turvallisuus	0.09529222994404167
+<http://www.yso.fi/onto/yso/p21939>	hoitoprosessit	0.09529016894067258
+<http://www.yso.fi/onto/yso/p22612>	työpaikkaväkivalta	0.09524758727951527
+<http://www.yso.fi/onto/yso/p8802>	havainnointi	0.09521263743242221
+<http://www.yso.fi/onto/yso/p24125>	elokuvakoulut	0.09517353552485697
+<http://www.yso.fi/onto/yso/p10725>	vetovoimaisuus	0.095125992210722
+<http://www.yso.fi/onto/yso/p26366>	terveysosaaminen	0.09511931464867028
+<http://www.yso.fi/onto/yso/p733>	valmiudet	0.09510360532372454
+<http://www.yso.fi/onto/yso/p22036>	hyvinvointi (terveydellinen)	0.09510038411259314
+<http://www.yso.fi/onto/yso/p4363>	perheet (ryhmät)	0.09508164904075897
+<http://www.yso.fi/onto/yso/p27414>	mobiilisovellukset	0.09505589306454411
+<http://www.yso.fi/onto/yso/p2190>	kulttuurierot	0.09503921712774349
+<http://www.yso.fi/onto/yso/p6485>	tanssiryhmät	0.09503787625226089
+<http://www.yso.fi/onto/yso/p23022>	haastattelumenetelmät	0.09497144966213548
+<http://www.yso.fi/onto/yso/p3663>	liikuntavälineet	0.09493017299561378
+<http://www.yso.fi/onto/yso/p6792>	rahti	0.09492622531689568
+<http://www.yso.fi/onto/yso/p22409>	verkkojournalismi	0.09477947013145044
+<http://www.yso.fi/onto/yso/p25158>	vammaispalvelut	0.094683369590626
+<http://www.yso.fi/onto/yso/p24153>	matkanjärjestäjät	0.09466439345398411
+<http://www.yso.fi/onto/yso/p10645>	kulttuurienvälisyys	0.09461912623619692
+<http://www.yso.fi/onto/yso/p14972>	seulontatutkimus	0.0946067556376214
+<http://www.yso.fi/onto/yso/p22136>	eläinavusteinen terapia	0.09456645897357267
+<http://www.yso.fi/onto/yso/p2036>	toimintakulttuuri	0.09453169312048021
+<http://www.yso.fi/onto/yso/p7579>	rakennusohjeet	0.09449181661970464
+<http://www.yso.fi/onto/yso/p18440>	verkkojulkaiseminen	0.09446122604812511
+<http://www.yso.fi/onto/yso/p1966>	kontaktit	0.09445828708941827
+<http://www.yso.fi/onto/yso/p23958>	kirkkoon kuulumattomat	0.0944276307701924
+<http://www.yso.fi/onto/yso/p5528>	ravitsemuskäyttäytyminen	0.09435068306565175
+<http://www.yso.fi/onto/yso/p4671>	ympärileikkaus	0.09426088484416284
+<http://www.yso.fi/onto/yso/p7514>	vähentäminen	0.09423088567714838
+<http://www.yso.fi/onto/yso/p22722>	stressireaktiot	0.0942286954597989
+<http://www.yso.fi/onto/yso/p27940>	itsensä johtaminen	0.09421164914982907
+<http://www.yso.fi/onto/yso/p5263>	aikaerot	0.09419548731597582
+<http://www.yso.fi/onto/yso/p183>	tutkimus	0.09415059310935074
+<http://www.yso.fi/onto/yso/p10611>	nuorisotutkimus	0.09411264004266218
+<http://www.yso.fi/onto/yso/p1229>	ikä	0.09408043425380475
+<http://www.yso.fi/onto/yso/p7672>	tietoisuus	0.09404115837683248
+<http://www.yso.fi/onto/yso/p10175>	kvalitatiivinen analyysi	0.09402873284718784
+<http://www.yso.fi/onto/yso/p25039>	kiintymyssuhde	0.09400281255776716
+<http://www.yso.fi/onto/yso/p9649>	lukijat	0.09395930206458046
+<http://www.yso.fi/onto/yso/p24888>	työyhteisötaidot	0.09394745576919061
+<http://www.yso.fi/onto/yso/p14294>	suhdetoiminta	0.0939166228457827
+<http://www.yso.fi/onto/yso/p20640>	pikaruokapaikat	0.09384456003234332
+<http://www.yso.fi/onto/yso/p22838>	verkko-ohjelmointi	0.0938312961690902
+<http://www.yso.fi/onto/yso/p1009>	palveluammatit	0.09375995203648049
+<http://www.yso.fi/onto/yso/p21189>	palvelujärjestelmät	0.09375040612045366
+<http://www.yso.fi/onto/yso/p4392>	psykologiset tekijät	0.09365649932054533
+<http://www.yso.fi/onto/yso/p7642>	kerhot	0.09364225437940801
+<http://www.yso.fi/onto/yso/p5886>	veritaudit	0.09359098307468006
+<http://www.yso.fi/onto/yso/p3613>	suosio	0.09353296624886995
+<http://www.yso.fi/onto/yso/p18846>	tavoiteoppiminen	0.09345238427677115
+<http://www.yso.fi/onto/yso/p9454>	taiteellinen työ	0.09338432823219556
+<http://www.yso.fi/onto/yso/p4567>	verisuonet	0.09335200421075983
+<http://www.yso.fi/onto/yso/p4763>	kehittämisprojektit	0.09334315785470806
+<http://www.yso.fi/onto/yso/p21377>	koettu terveys	0.09330748595349633
+<http://www.yso.fi/onto/yso/p13221>	palvelutuotanto	0.09326388827009137
+<http://www.yso.fi/onto/yso/p22059>	määrittely	0.09324116602960458
+<http://www.yso.fi/onto/yso/p14560>	dialogi	0.093235836161957
+<http://www.yso.fi/onto/yso/p26423>	ryhmähaastattelut	0.09322825010207812
+<http://www.yso.fi/onto/yso/p23091>	opiskeluterveydenhuolto	0.09321454544414058
+<http://www.yso.fi/onto/yso/p5640>	hengitys	0.09320842495183125
+<http://www.yso.fi/onto/yso/p3971>	testit	0.09320750540267307
+<http://www.yso.fi/onto/yso/p22129>	toimintaryhmät	0.09313177424836987
+<http://www.yso.fi/onto/yso/p1884>	musiikkiliikunta	0.09307820806179756
+<http://www.yso.fi/onto/yso/p1992>	kuljetuspalvelut	0.09298382535797754
+<http://www.yso.fi/onto/yso/p23085>	eettisyys	0.09292698008994466
+<http://www.yso.fi/onto/yso/p16047>	matkustajat	0.09284197337626456
+<http://www.yso.fi/onto/yso/p3532>	kuvantaminen	0.09276932793635813
+<http://www.yso.fi/onto/yso/p24591>	sauvat	0.09274426558135768
+<http://www.yso.fi/onto/yso/p18521>	laskentamallit	0.09271308929605263
+<http://www.yso.fi/onto/yso/p19898>	validiteetti	0.09267892711860658
+<http://www.yso.fi/onto/yso/p5804>	paino (fysiikka)	0.09264175602523338
+<http://www.yso.fi/onto/yso/p21294>	toiminnot	0.09263010711624595
+<http://www.yso.fi/onto/yso/p25103>	palvelutarpeet	0.0926012235283609
+<http://www.yso.fi/onto/yso/p10149>	sijoituspalvelut	0.09259582212064978
+<http://www.yso.fi/onto/yso/p19198>	sosiaalipedagogiikka	0.0925748179521549
+<http://www.yso.fi/onto/yso/p22840>	vaihtuvuus	0.09256572871254914
+<http://www.yso.fi/onto/yso/p4305>	pakokaasut	0.092557306462905
+<http://www.yso.fi/onto/yso/p945>	tuottaminen	0.0925570315643475
+<http://www.yso.fi/onto/yso/p26428>	avainsanat	0.09255043333481691
+<http://www.yso.fi/onto/yso/p5039>	voima	0.09250647645509404
+<http://www.yso.fi/onto/yso/p23542>	sähköiset palvelut	0.09247451516318263
+<http://www.yso.fi/onto/yso/p27427>	heteroosi	0.09246602809355396
+<http://www.yso.fi/onto/yso/p6045>	henkilökuntaedut	0.09245109054102077
+<http://www.yso.fi/onto/yso/p21948>	elinkierto	0.0923452370352857
+<http://www.yso.fi/onto/yso/p15923>	toimenpiteet	0.09234442289254143
+<http://www.yso.fi/onto/yso/p10139>	ammattiryhmät	0.09233038955122438
+<http://www.yso.fi/onto/yso/p392>	hoitomenetelmät	0.09226962793803667
+<http://www.yso.fi/onto/yso/p13645>	jälkihoito (terveyteen liittyen)	0.09222306909376386
+<http://www.yso.fi/onto/yso/p16214>	omaksuminen	0.09219241047124606
+<http://www.yso.fi/onto/yso/p990>	mielenterveyshäiriöt	0.09217021679110064
+<http://www.yso.fi/onto/yso/p12978>	infektiotaudit	0.09212907356388109
+<http://www.yso.fi/onto/yso/p2434>	vanhukset	0.09212390763965395
+<http://www.yso.fi/onto/yso/p14484>	pelaajat	0.09207499057610727
+<http://www.yso.fi/onto/yso/p1442>	kuluttajatutkimus	0.09205036965145658
+<http://www.yso.fi/onto/yso/p8625>	empatia	0.09199658502080434
+<http://www.yso.fi/onto/yso/p12585>	spatiaalinen havaitseminen	0.09197428557646449
+<http://www.yso.fi/onto/yso/p819>	elämänodotukset	0.09194476096369511
+<http://www.yso.fi/onto/yso/p13640>	jälkihoito (kunnossapito)	0.09193538836525174
+<http://www.yso.fi/onto/yso/p28205>	vapaapäivät	0.0919340972330424
+<http://www.yso.fi/onto/yso/p4006>	ruumiillisuus	0.09192776721477022
+<http://www.yso.fi/onto/yso/p27564>	henkilökohtainen talous	0.09192481895135782
+<http://www.yso.fi/onto/yso/p16217>	mielenterveyshoitajat	0.09188370266841704
+<http://www.yso.fi/onto/yso/p17586>	säästöt	0.09185478897193788
+<http://www.yso.fi/onto/yso/p15146>	ketjut (elottomat objektit)	0.09182715313077928
+<http://www.yso.fi/onto/yso/p15135>	ketjut (järjestelmät)	0.0917951008216476
+<http://www.yso.fi/onto/yso/p8585>	alisuoriutuminen	0.09178874134300935
+<http://www.yso.fi/onto/yso/p10647>	monikulttuurisuus	0.09176719710725359
+<http://www.yso.fi/onto/yso/p21989>	työelämävalmiudet	0.09176533210806016
+<http://www.yso.fi/onto/yso/p3671>	ravinto	0.09176094543688869
+<http://www.yso.fi/onto/yso/p9087>	juoksu	0.09171585302188272
+<http://www.yso.fi/onto/yso/p18206>	röntgenhoitajat	0.09170197744567501
+<http://www.yso.fi/onto/yso/p28257>	taustatekijät	0.09168845476963997
+<http://www.yso.fi/onto/yso/p11440>	kulttuurikasvatus	0.09168346517988757
+<http://www.yso.fi/onto/yso/p23362>	lihasvoima	0.09167879540688051
+<http://www.yso.fi/onto/yso/p425>	parantaminen (terveys)	0.09165570170714367
+<http://www.yso.fi/onto/yso/p4229>	parantaminen (paremmaksi muuttaminen)	0.09164232787291607
+<http://www.yso.fi/onto/yso/p13490>	dysfasia	0.09159062240278355
+<http://www.yso.fi/onto/yso/p13866>	ohjekirjat	0.09155688007659209
+<http://www.yso.fi/onto/yso/p22700>	kohtaaminen	0.09153198242843422
+<http://www.yso.fi/onto/yso/p10162>	kielellinen kehitys	0.09152504393498861
+<http://www.yso.fi/onto/yso/p4472>	vapaa kasvatus	0.09151566726778111
+<http://www.yso.fi/onto/yso/p10358>	toimintakeskukset	0.09143301143211567
+<http://www.yso.fi/onto/yso/p1910>	ohjauskeinot	0.09142017228754011
+<http://www.yso.fi/onto/yso/p2631>	lastentaudit	0.09128395574583936
+<http://www.yso.fi/onto/yso/p4005>	ruumis	0.09125225527414159
+<http://www.yso.fi/onto/yso/p1929>	mailapelit	0.09123356536211552
+<http://www.yso.fi/onto/yso/p3847>	auttaminen	0.0912180940982758
+<http://www.yso.fi/onto/yso/p5424>	mikrobit	0.09119047116189896
+<http://www.yso.fi/onto/yso/p1444>	kulutustutkimus	0.09111367878136642
+<http://www.yso.fi/onto/yso/p8422>	insuliini	0.09103226666028676
+<http://www.yso.fi/onto/yso/p9220>	somalit	0.09102605409125984
+<http://www.yso.fi/onto/yso/p17934>	näytteet	0.09101059244165684
+<http://www.yso.fi/onto/yso/p1387>	poraus	0.09100608843187091
+<http://www.yso.fi/onto/yso/p22581>	turvallisuussuunnittelu	0.09099260907350272
+<http://www.yso.fi/onto/yso/p20240>	fenomenografia	0.09098161429635522
+<http://www.yso.fi/onto/yso/p6253>	itsearviointi	0.09097685778583803
+<http://www.yso.fi/onto/yso/p3010>	pankkipalvelut	0.09096773698778764
+<http://www.yso.fi/onto/yso/p22294>	kävelysauvat	0.09093584799799759
+<http://www.yso.fi/onto/yso/p5527>	ruokatottumukset	0.09092898306411958
+<http://www.yso.fi/onto/yso/p16333>	sokki	0.09091693446232081
+<http://www.yso.fi/onto/yso/p13563>	odotustilat	0.09089717354341116
+<http://www.yso.fi/onto/yso/p15280>	vapaa-aikatoimi	0.0908301020719359
+<http://www.yso.fi/onto/yso/p1798>	opiskelu ulkomailla	0.090814428216294
+<http://www.yso.fi/onto/yso/p3757>	työtavat	0.0907600944196622
+<http://www.yso.fi/onto/yso/p7523>	rokotus	0.09073572058315292
+<http://www.yso.fi/onto/yso/p2794>	perhe (ilmiöt)	0.09071312640276565
+<http://www.yso.fi/onto/yso/p1758>	tukimuodot	0.09069742888020438
+<http://www.yso.fi/onto/yso/p20629>	mielenterveysongelmat	0.09068139105544949
+<http://www.yso.fi/onto/yso/p18627>	varhaislapsuus	0.09066319195102927
+<http://www.yso.fi/onto/yso/p23966>	palvelumarkkinointi	0.09065047445333266
+<http://www.yso.fi/onto/yso/p21005>	sosiaalinen kestävyys	0.09061031558056407
+<http://www.yso.fi/onto/yso/p3483>	aggressiot	0.09058379365002235
+<http://www.yso.fi/onto/yso/p13507>	mikrobiologia	0.09057036114726998
+<http://www.yso.fi/onto/yso/p4011>	työikä	0.09055759762669735
+<http://www.yso.fi/onto/yso/p18741>	tanssinopettajat	0.09055405723575023
+<http://www.yso.fi/onto/yso/p17894>	aktivointi	0.0905132784061341
+<http://www.yso.fi/onto/yso/p27592>	kouluvalinnat	0.09050570070507717
+<http://www.yso.fi/onto/yso/p4633>	palveluketjut	0.09046912026646718
+<http://www.yso.fi/onto/yso/p13046>	harjaantumisopetus	0.09043640159650158
+<http://www.yso.fi/onto/yso/p21336>	tavarantoimittajat	0.09043116246749205
+<http://www.yso.fi/onto/yso/p8030>	ainevalinnat	0.09039666491861173
+<http://www.yso.fi/onto/yso/p23191>	urheiluliikkeet	0.09032145175927925
+<http://www.yso.fi/onto/yso/p10087>	siirto (viestintä)	0.09026952729816178
+<http://www.yso.fi/onto/yso/p5700>	siirto (liikuttaminen)	0.09025930939040885
+<http://www.yso.fi/onto/yso/p26584>	opetuskokeilut	0.09023124938038905
+<http://www.yso.fi/onto/yso/p12866>	niska	0.0902259085449841
+<http://www.yso.fi/onto/yso/p11811>	seulonta	0.09017691098582477
+<http://www.yso.fi/onto/yso/p9047>	ylläpito	0.09016403877702175
+<http://www.yso.fi/onto/yso/p16936>	empiirinen tutkimus	0.09006964974440677
+<http://www.yso.fi/onto/yso/p13811>	puolihoito	0.0900617560801869
+<http://www.yso.fi/onto/yso/p3367>	ajankäyttö	0.09005228462216655
+<http://www.yso.fi/onto/yso/p3026>	penkkiurheilu	0.09000400778915674
+<http://www.yso.fi/onto/yso/p3750>	hermosto	0.0899836096116997
+<http://www.yso.fi/onto/yso/p16628>	kuvatoimistot	0.08997984994758944
+<http://www.yso.fi/onto/yso/p11284>	opetustaito	0.08997561525211012
+<http://www.yso.fi/onto/yso/p5590>	aikuiset	0.0899548173573005
+<http://www.yso.fi/onto/yso/p15467>	lentoyhtiöt	0.0899139168622625
+<http://www.yso.fi/onto/yso/p15640>	tutkimustulokset	0.08988986676986181
+<http://www.yso.fi/onto/yso/p17274>	hoitotarve	0.08988138650037249
+<http://www.yso.fi/onto/yso/p21043>	itseilmaisu	0.0898702296681656
+<http://www.yso.fi/onto/yso/p24209>	toiminnallinen harjoittelu	0.08985296168043318
+<http://www.yso.fi/onto/yso/p25469>	työteho	0.0898326690991459
+<http://www.yso.fi/onto/yso/p178>	ohjaus (neuvominen)	0.08980107133523915
+<http://www.yso.fi/onto/yso/p22298>	prososiaalisuus	0.08971905669697651
+<http://www.yso.fi/onto/yso/p818>	tulevaisuudenodotukset	0.08962654891792976
+<http://www.yso.fi/onto/yso/p5456>	kuvataidekasvatus	0.08962549185757593
+<http://www.yso.fi/onto/yso/p1911>	ohjaus (suuntaaminen)	0.08959284711057909
+<http://www.yso.fi/onto/yso/p1912>	ohjaus (taide)	0.08957195901105632
+<http://www.yso.fi/onto/yso/p4599>	univaje	0.08957056196936918
+<http://www.yso.fi/onto/yso/p25450>	ongelmaperheet	0.08952503969487473
+<http://www.yso.fi/onto/yso/p24556>	sosiaalinen identiteetti	0.08949156614199712
+<http://www.yso.fi/onto/yso/p24174>	ympäristöasenteet	0.08948821486681972
+<http://www.yso.fi/onto/yso/p21954>	varhainen tuki	0.08947890697004966
+<http://www.yso.fi/onto/yso/p13751>	hoitoala	0.08947869016281441
+<http://www.yso.fi/onto/yso/p15956>	taitolento	0.08943262626327592
+<http://www.yso.fi/onto/yso/p2850>	esittävät taiteet	0.08937166142649987
+<http://www.yso.fi/onto/yso/p10092>	SWOT-analyysi	0.08936598767923377
+<http://www.yso.fi/onto/yso/p7237>	työturvallisuuslaki	0.08924425730760933
+<http://www.yso.fi/onto/yso/p16870>	kuva-analyysi	0.08920370352782496
+<http://www.yso.fi/onto/yso/p20513>	vauvaperheet	0.08919838524435124
+<http://www.yso.fi/onto/yso/p9970>	reliabiliteetti	0.08915936017618373
+<http://www.yso.fi/onto/yso/p7615>	itsepalvelu	0.08915204310687315
+<http://www.yso.fi/onto/yso/p21841>	verkkokeskustelu	0.08915160756538944
+<http://www.yso.fi/onto/yso/p337>	palautuminen	0.08915042659983854
+<http://www.yso.fi/onto/yso/p20987>	kehityksen erityisvaikeudet	0.08913889895629687
+<http://www.yso.fi/onto/yso/p24778>	virtuaaliympäristö	0.08899753907347076
+<http://www.yso.fi/onto/yso/p9014>	laktaatit	0.08898984307212926
+<http://www.yso.fi/onto/yso/p11647>	sairastuminen	0.08892005797021524
+<http://www.yso.fi/onto/yso/p5149>	jakelu	0.08891769974915707
+<http://www.yso.fi/onto/yso/p11008>	asiointi	0.08889916986810599
+<http://www.yso.fi/onto/yso/p24064>	kompetenssi	0.08889120483102719
+<http://www.yso.fi/onto/yso/p11799>	varustamot	0.08888955623384734
+<http://www.yso.fi/onto/yso/p546>	työtilat	0.08887694167837792
+<http://www.yso.fi/onto/yso/p7010>	merkitys (filosofia)	0.08886051683527782
+<http://www.yso.fi/onto/yso/p12767>	liikuntavammat (liikunnassa syntyneet)	0.08885682752735022
+<http://www.yso.fi/onto/yso/p4621>	ahdistus	0.08885049227744966
+<http://www.yso.fi/onto/yso/p5587>	pikaruoat	0.08879535575747842
+<http://www.yso.fi/onto/yso/p28251>	ryhmäopetus	0.08876907138725357
+<http://www.yso.fi/onto/yso/p14869>	mielekkyys	0.08875090263384669
+<http://www.yso.fi/onto/yso/p11327>	hyödyntäminen	0.08874001509551863
+<http://www.yso.fi/onto/yso/p6586>	aggressiivisuus	0.0887310335996554
+<http://www.yso.fi/onto/yso/p23204>	rahoitusala	0.08869759365381374
+<http://www.yso.fi/onto/yso/p887>	louhinta	0.08867007669909459
+<http://www.yso.fi/onto/yso/p1352>	pitoisuus	0.08864957449435949
+<http://www.yso.fi/onto/yso/p2630>	opetus	0.08864889270474216
+<http://www.yso.fi/onto/yso/p29211>	monin kieli	0.0886362747830658
+<http://www.yso.fi/onto/yso/p3185>	keuhkot	0.08862760510405887
+<http://www.yso.fi/onto/yso/p26823>	kehittämistutkimus	0.08862320245926834
+<http://www.yso.fi/onto/yso/p9482>	juomatavat	0.08861217999817898
+<http://www.yso.fi/onto/yso/p21996>	ammattikeittiöt	0.0885536952005764
+<http://www.yso.fi/onto/yso/p1297>	röntgensäteily	0.08854547443628627
+<http://www.yso.fi/onto/yso/p12954>	psykososiaalinen tuki	0.0884438289416937
+<http://www.yso.fi/onto/yso/p24415>	flow-tila	0.08841009863984502
+<http://www.yso.fi/onto/yso/p66>	henkinen väkivalta	0.08840969083149908
+<http://www.yso.fi/onto/yso/p18203>	hoitopaikat	0.08837856287532732
+<http://www.yso.fi/onto/yso/p656>	esteet (ilmiöt)	0.08836898018480516
+<http://www.yso.fi/onto/yso/p26836>	rakennusautomaatio	0.08836622261910845
+<http://www.yso.fi/onto/yso/p25958>	väkivaltatyö	0.08835297966025306
+<http://www.yso.fi/onto/yso/p24272>	liiketoimintaprosessit	0.08833031985814507
+<http://www.yso.fi/onto/yso/p21007>	normatiivisuus	0.08832958636950296
+<http://www.yso.fi/onto/yso/p21931>	voimistelunopettajat	0.08831718637446526
+<http://www.yso.fi/onto/yso/p26204>	hoitokulttuuri	0.08830809225051818
+<http://www.yso.fi/onto/yso/p22296>	lihashuolto	0.0883034370032361
+<http://www.yso.fi/onto/yso/p2579>	sisältö	0.08827713501922174
+<http://www.yso.fi/onto/yso/p15354>	viihtyisyys	0.08823964232690101
+<http://www.yso.fi/onto/yso/p131>	psyykkinen kuormittavuus	0.08823676634429085
+<http://www.yso.fi/onto/yso/p21682>	osallistava teatteri	0.08822960788798369
+<http://www.yso.fi/onto/yso/p14875>	yhtenäiskoulujärjestelmä	0.08821333732611708
+<http://www.yso.fi/onto/yso/p13554>	aikapalkka	0.08820579550003786
+<http://www.yso.fi/onto/yso/p8228>	itsenäistyminen (psykologia)	0.08819033845021047
+<http://www.yso.fi/onto/yso/p7607>	kriteerit	0.08816123900722407
+<http://www.yso.fi/onto/yso/p21288>	vaikutusvalta	0.08809076059743873
+<http://www.yso.fi/onto/yso/p9987>	asennus	0.08806836044946169
+<http://www.yso.fi/onto/yso/p20652>	validointi	0.08806085442101905
+<http://www.yso.fi/onto/yso/p5521>	tiedonhallinta	0.08805815947141123
+<http://www.yso.fi/onto/yso/p18455>	turvallisuusohjeet	0.08805462294711927
+<http://www.yso.fi/onto/yso/p4661>	säilyvyys	0.08804722709954368
+<http://www.yso.fi/onto/yso/p22070>	tutkimushaastattelut	0.08789208478953088
+<http://www.yso.fi/onto/yso/p22440>	voimatasapaino	0.08786104202788834
+<http://www.yso.fi/onto/yso/p4971>	Freinet-pedagogiikka	0.08784465765598838
+<http://www.yso.fi/onto/yso/p22384>	jyvä	0.0877885312091557
+<http://www.yso.fi/onto/yso/p12342>	sykemittarit	0.08778017725468142
+<http://www.yso.fi/onto/yso/p16134>	eristys (tekniikka)	0.08775496402877125
+<http://www.yso.fi/onto/yso/p19047>	yritysasiakkaat	0.087703752673073
+<http://www.yso.fi/onto/yso/p4813>	esteet (elottomat objektit)	0.0877029191394923
+<http://www.yso.fi/onto/yso/p1584>	pedagogiikka	0.08767439173634997
+<http://www.yso.fi/onto/yso/p16909>	mediatoimistot	0.08767279288717936
+<http://www.yso.fi/onto/yso/p13969>	työsuoritus	0.08767246183508279
+<http://www.yso.fi/onto/yso/p26009>	laadinta	0.08765731021102847
+<http://www.yso.fi/onto/yso/p21322>	materiaalitutkimus	0.08762963167384974
+<http://www.yso.fi/onto/yso/p20165>	arvojohtaminen	0.0875908071601126
+<http://www.yso.fi/onto/yso/p5988>	hyvinvointimatkailu	0.0875705810272058
+<http://www.yso.fi/onto/yso/p1913>	menetelmät	0.0875580692873319
+<http://www.yso.fi/onto/yso/p28829>	ultraäänihoitajat	0.0875221700481038
+<http://www.yso.fi/onto/yso/p16698>	perhekasvatus	0.08750942370811172
+<http://www.yso.fi/onto/yso/p29457>	ryhmäkoko	0.08738991728195712
+<http://www.yso.fi/onto/yso/p11169>	julkisuuskuva	0.08735435776846308
+<http://www.yso.fi/onto/yso/p17640>	koulutulokkaat	0.08735182408595923
+<http://www.yso.fi/onto/yso/p13719>	seurantatutkimus	0.08733982273384203
+<http://www.yso.fi/onto/yso/p25850>	itsehavainnointi	0.08728632455819296
+<http://www.yso.fi/onto/yso/p7238>	studiot	0.08727365932640616
+<http://www.yso.fi/onto/yso/p11843>	ilmaisu	0.08725108730399463
+<http://www.yso.fi/onto/yso/p5848>	lukemistutkimus	0.0872328526700661
+<http://www.yso.fi/onto/yso/p18492>	solubiologia	0.08722546231050837
+<http://www.yso.fi/onto/yso/p13449>	harjoittelukoulut	0.08713790353441977
+<http://www.yso.fi/onto/yso/p23466>	kestävyyslajit	0.08712707578770072
+<http://www.yso.fi/onto/yso/p13330>	tukkuliikkeet	0.087106920044208
+<http://www.yso.fi/onto/yso/p21018>	arvoketjut	0.08708900521565088
+<http://www.yso.fi/onto/yso/p20388>	nuortenlehdet	0.08704193467176288
+<http://www.yso.fi/onto/yso/p11768>	opiskelijahuolto	0.08698034901947797
+<http://www.yso.fi/onto/yso/p20788>	valvominen	0.08695959959990618
+<http://www.yso.fi/onto/yso/p16705>	varhainen puuttuminen	0.08693384291218254
+<http://www.yso.fi/onto/yso/p4042>	negatiivisuus	0.08691799057085844
+<http://www.yso.fi/onto/yso/p23002>	matemaattiset taidot	0.08691442655068247
+<http://www.yso.fi/onto/yso/p24513>	tekninen suunnittelu	0.0869142474209074
+<http://www.yso.fi/onto/yso/p10214>	työkyky	0.08689569134574215
+<http://www.yso.fi/onto/yso/p1727>	hävikki	0.08687735995103162
+<http://www.yso.fi/onto/yso/p21750>	ihastus	0.08687082898656173
+<http://www.yso.fi/onto/yso/p20401>	teatteriohjaus	0.08683882687507975
+<http://www.yso.fi/onto/yso/p9007>	jännittäminen	0.086794734379037
+<http://www.yso.fi/onto/yso/p28058>	tanssitekniikat	0.08677659649505731
+<http://www.yso.fi/onto/yso/p5912>	ympäristöpsykologia	0.08674068217143789
+<http://www.yso.fi/onto/yso/p21867>	draamamenetelmät	0.0867305062356027
+<http://www.yso.fi/onto/yso/p10163>	kielen omaksuminen	0.08669618934946315
+<http://www.yso.fi/onto/yso/p7470>	terveystutkimus	0.08663479457865798
+<http://www.yso.fi/onto/yso/p18324>	silmät	0.08662974619255387
+<http://www.yso.fi/onto/yso/p21683>	oppimisteoriat	0.08662417465611205
+<http://www.yso.fi/onto/yso/p8405>	palomiehet	0.086621055949188
+<http://www.yso.fi/onto/yso/p5107>	sosiaalinen kuntoutus	0.08659697490065314
+<http://www.yso.fi/onto/yso/p8114>	terapeutit	0.08659396631342113
+<http://www.yso.fi/onto/yso/p8340>	yhteissuunnittelu	0.08655708225024823
+<http://www.yso.fi/onto/yso/p1356>	puhekieli	0.08650573915549595
+<http://www.yso.fi/onto/yso/p19847>	oppilaanohjaus	0.08650294531985843
+<http://www.yso.fi/onto/yso/p25874>	kulttuuritausta	0.08646265291116999
+<http://www.yso.fi/onto/yso/p12766>	urheiluvammat	0.08645797823579386
+<http://www.yso.fi/onto/yso/p3313>	elämänkaari	0.08644725134857768
+<http://www.yso.fi/onto/yso/p5549>	turvattomuus	0.08639878131492071
+<http://www.yso.fi/onto/yso/p11844>	ilmaisukasvatus	0.08633699297838784
+<http://www.yso.fi/onto/yso/p22892>	kalvot (elottomat objektit)	0.08631639267130696
+<http://www.yso.fi/onto/yso/p10956>	kaksikielisyys	0.08630149542844498
+<http://www.yso.fi/onto/yso/p7092>	ravitsemusneuvonta	0.08622344814494848
+<http://www.yso.fi/onto/yso/p5844>	rasitusvammat	0.08621079397341672
+<http://www.yso.fi/onto/yso/p16744>	pahoinvointi	0.0861989396545077
+<http://www.yso.fi/onto/yso/p27744>	taidelähtöiset menetelmät	0.08617525599554325
+<http://www.yso.fi/onto/yso/p11260>	työkulttuuri	0.08614679596867658
+<http://www.yso.fi/onto/yso/p16087>	maasait	0.08612331722843831
+<http://www.yso.fi/onto/yso/p8518>	ehkäisymenetelmät	0.08608002406751883
+<http://www.yso.fi/onto/yso/p129>	työn kuormittavuus	0.08603380943862561
+<http://www.yso.fi/onto/yso/p1041>	esikuvat	0.08600982214990573
+<http://www.yso.fi/onto/yso/p15550>	osallistuva havainnointi	0.08600830513100746
+<http://www.yso.fi/onto/yso/p4385>	kuvaus (luonti)	0.08597770409022094
+<http://www.yso.fi/onto/yso/p15268>	jälleenmyynti	0.08595761038220665
+<http://www.yso.fi/onto/yso/p13817>	laskentajärjestelmät	0.08593948809583353
+<http://www.yso.fi/onto/yso/p21087>	henkilöstöstrategiat	0.08592714665440956
+<http://www.yso.fi/onto/yso/p26004>	betonielementit	0.08592637338841164
+<http://www.yso.fi/onto/yso/p19043>	sairaalainfektiot	0.08592087773404783
+<http://www.yso.fi/onto/yso/p25686>	toimintapelit	0.085916702598617
+<http://www.yso.fi/onto/yso/p10366>	ostaminen	0.0859016467828512
+<http://www.yso.fi/onto/yso/p24014>	logistiikka-ala	0.08588842973344156
+<http://www.yso.fi/onto/yso/p29441>	ruoka-autot	0.08587083763375884
+<http://www.yso.fi/onto/yso/p9921>	tarjonta	0.08583300634976328
+<http://www.yso.fi/onto/yso/p67>	väkivalta	0.08582781510384198
+<http://www.yso.fi/onto/yso/p5128>	hakijat	0.08572529761271026
+<http://www.yso.fi/onto/yso/p23615>	toteutus	0.08567207932121722
+<http://www.yso.fi/onto/yso/p691>	piirustukset (tekniset)	0.08566596153979085
+<http://www.yso.fi/onto/yso/p11765>	vuorovaikutusterapia	0.08565376885396207
+<http://www.yso.fi/onto/yso/p13984>	kokeilu	0.08560823846081986
+<http://www.yso.fi/onto/yso/p822>	painonhallinta	0.08559047724153093
+<http://www.yso.fi/onto/yso/p21724>	sivistyspalvelut	0.08554406023752009
+<http://www.yso.fi/onto/yso/p3632>	sukupuolielimet	0.08553089925190449
+<http://www.yso.fi/onto/yso/p18824>	vakuutusala	0.08552366100172427
+<http://www.yso.fi/onto/yso/p9477>	myynninedistäminen	0.08549821893351685
+<http://www.yso.fi/onto/yso/p23194>	tutkimuskohteet	0.08548627820229474
+<http://www.yso.fi/onto/yso/p2774>	magneetit	0.08547158778423743
+<http://www.yso.fi/onto/yso/p20425>	kestävä johtaminen	0.08546713192415549
+<http://www.yso.fi/onto/yso/p7023>	ulkomaanmatkailu	0.08546577315268533
+<http://www.yso.fi/onto/yso/p4976>	tyttökoulut	0.08545745475876552
+<http://www.yso.fi/onto/yso/p4391>	psykososiaaliset tekijät	0.08544461699980609
+<http://www.yso.fi/onto/yso/p71>	kiusaaminen	0.08544255383997866
+<http://www.yso.fi/onto/yso/p26128>	hyvinvointipalvelut	0.0854343216538379
+<http://www.yso.fi/onto/yso/p695>	piirustus	0.0854292810524149
+<http://www.yso.fi/onto/yso/p13461>	persoonallisuuden psykologia	0.08542284512726182
+<http://www.yso.fi/onto/yso/p11990>	elimenluovutus	0.0853104348683989
+<http://www.yso.fi/onto/yso/p10463>	LVI-suunnittelu	0.08527145065662473
+<http://www.yso.fi/onto/yso/p9601>	stuertit	0.08526594320040157
+<http://www.yso.fi/onto/yso/p11207>	työhygienia	0.08524668395001059
+<http://www.yso.fi/onto/yso/p20152>	aliurakointi	0.08519772732674538
+<http://www.yso.fi/onto/yso/p291>	persoonallisuuden piirteet	0.08519272018621482
+<http://www.yso.fi/onto/yso/p16850>	intervallit	0.08516993579294486
+<http://www.yso.fi/onto/yso/p6418>	vammaisuus	0.0851584569682125
+<http://www.yso.fi/onto/yso/p25650>	yritysmyynti	0.08514198612883271
+<http://www.yso.fi/onto/yso/p13157>	työkokemus	0.08513386319983272
+<http://www.yso.fi/onto/yso/p21127>	tyytymättömyys	0.08512027536734089
+<http://www.yso.fi/onto/yso/p7112>	prosessiarviointi	0.08510981578828276
+<http://www.yso.fi/onto/yso/p1749>	bakteerit	0.08510974992772191
+<http://www.yso.fi/onto/yso/p22493>	sijoitustuotteet	0.08510466126736133
+<http://www.yso.fi/onto/yso/p19405>	ultraäänitutkimus	0.08509737160489239
+<http://www.yso.fi/onto/yso/p22642>	verkko-ohjaus	0.08502500899663115
+<http://www.yso.fi/onto/yso/p19050>	tuotantotekniikka	0.08502109575235738
+<http://www.yso.fi/onto/yso/p10700>	ammattilaiset	0.08500812203646517
+<http://www.yso.fi/onto/yso/p26666>	varastotyö	0.08500774967122764
+<http://www.yso.fi/onto/yso/p4743>	satuliikunta	0.08496533375155131
+<http://www.yso.fi/onto/yso/p24546>	jäsenet	0.08495529010912672
+<http://www.yso.fi/onto/yso/p18284>	seksuaalioikeudet	0.08494701444014831
+<http://www.yso.fi/onto/yso/p12648>	poissaolot	0.08494485427361108
+<http://www.yso.fi/onto/yso/p22310>	vaihtoehdot	0.08492321135819994
+<http://www.yso.fi/onto/yso/p6267>	ammatillinen tieto	0.08489069826592004
+<http://www.yso.fi/onto/yso/p6509>	äitiyshuolto	0.08483653140876865
+<http://www.yso.fi/onto/yso/p6448>	vanhustyö	0.0848350159656907
+<http://www.yso.fi/onto/yso/p16282>	kuntoutuspalvelut	0.08474323390166984
+<http://www.yso.fi/onto/yso/p10124>	kehitysteoriat	0.08471516644480757
